@@ -1,73 +1,66 @@
-
-
-### Noticias  
-
- 
-
-
-
+### Noticias
 
 ---------------------
-Pagina12
----------------------
+##### Pagina12
 
-$*$Corre con ventaja el diputado Martín Soria. Quiénes son los candidatos para reemplazar a Losardo. El legislador de Río Negro motorizó en los últimos meses denuncias contra la mesa judicial macrista y contra el presidente de la Cámara Federal de Casación Penal, Gustavo Hornos, por sus visitas a Mauricio Macri. Pero Alberto Fernández también mencionó al diputado massista Ramiro Gutiérrez y está el número dos del Ministerio, Juan Martín Mena.
 
-$*$Crónica de la salida anunciada de Marcela Losardo Alberto Fernández le busca reemplazante[Ver nota](https://www.pagina12.com.ar/328316-marcela-losardo-deja-el-gabinete)
+[Ver nota](https://www.pagina12.com.ar/328460-coronavirus-en-argentina-se-registraron-131-muertes-y-7307-c)Los números de la pandemia. Coronavirus en Argentina: se registraron 131 muertes y 7.307 contagios. El Ministerio de Salud de la Nación confirmó que en las últimas 24 horas el número total de contagios desde el comienzo de la pandemia ascendió a 2.162.001, en tanto que los fallecimientos se ubican en 53.252.
 
-$*$Sospechas por la distribución de vacunas en Corrientes Tras el choque del ministro de Salud, piden explicaciones al gobierno del radical Valdés[Ver nota](https://www.pagina12.com.ar/328316-marcela-losardo-deja-el-gabinete)
+[Ver nota](https://www.pagina12.com.ar/328352-la-cruzada-de-macri-por-correr-a-eduardo-farah-de-una-denunc)La cruzada de Macri por correr a Farah de la causa por espionaje ilegal El argumento del expresidente
 
-$*$Comenzó la inscripción de voluntarios para las pruebas con la vacuna Curevac-004 Las pruebas en el país se realizarán en hospitales públicos y privados[Ver nota](https://www.pagina12.com.ar/328316-marcela-losardo-deja-el-gabinete)
+[Ver nota](https://www.pagina12.com.ar/328448-el-pami-reitero-el-ofrecimiento-de-colaboracion-a-la-ciudad)El PAMI reiteró su ofrecimiento de colaboración a la Ciudad Larreta había rechazado la propuesta la semana pasada
 
-$*$Cristian Pavón fue imputado por "abuso sexual con acceso carnal" El jugador de Boca había sido denunciado a principios de año[Ver nota](https://www.pagina12.com.ar/328316-marcela-losardo-deja-el-gabinete)
+[Ver nota](https://www.pagina12.com.ar/328453-la-monarquia-britanica-dice-estar-entristecida-y-preocupada)La primera respuesta de la reina tras la explosiva entrevista de Harry y Meghan La reacción de la monarquía británica
 
-$*$Elecciones en Bolivia: el MAS sigue sin poder conquistar las principales ciudades El cómputo oficial de votos avanza lentamente y aumenta la incertidumbre[Ver nota](https://www.pagina12.com.ar/328316-marcela-losardo-deja-el-gabinete)
+[Ver nota](https://www.pagina12.com.ar/328487-vizzotti-analizo-con-sus-pares-provinciales-nuevas-medidas-r)Vizzotti analizó con sus pares provinciales medidas restrictivas en las fronteras Preocupación por el incremento de casos de Covid-19 en Brasil y Paraguay
+
+[Ver nota](https://www.pagina12.com.ar/328422-duras-criticas-a-la-vacunacion-de-adultos-mayores-en-caba-es)"Es una falta de respeto a la salud" Legisladores del Frente de Todos exigieron un informe a Larreta por el caos de vacunación
 
 ---------------------
 Infobae
----------------------
 
-$*$El gobierno bonaerense adelantó que próximamente "se va a restringir muy fuertemente la salida de turistas al exterior”
 
-$*$"Doctor, ¿dónde busco mi torta?": la Justicia investiga presuntas coimas de Luque al entorno de Maradona
+[] Diputados empezó a tratar los cambios en Ganancias: cuántas personas dejarán de pagar el impuesto y cuál será el costo fiscal
 
-$*$Cerró The Shamrock, emblemático bar irlandés de Buenos Aires
+[] El gobierno porteño reconoció los problemas con el operativo de vacunación: mañana sumarán cinco nuevos centros
 
-$*$Alberto Fernández define quién reemplazará a Losardo: Soria y Gutiérrez, principales candidatos
+[] Misterioso ataque en Belgrano: balearon en la cabeza a un abogado de 72 años cuando llegaba a su casa
 
-$*$Boca: Marcos Rojo se entrena normalmente y sería convocado para el Superclásico con River
+[] Estados Unidos ya aplicó más de 93 millones de dosis de la vacuna contra el COVID-19 e inmunizó al 10% de su población
 
-$*$Dos jóvenes asesinadas y un perverso sexual que buscaba el dolor de sus víctimas
+[] Acusaron al presidente de Honduras de ayudar a un narco a traficar toneladas de cocaína a Estados Unidos
+
+[] Coronavirus en la Argentina: confirmaron 131 muertes y 7.307 contagios en las últimas 24 horas
 
 ---------------------
 La Nacion
----------------------
 
-$*$Martín Soria. El candidato a reemplazar a Losardo que genera ruido interno
 
-$*$Análisis. Alberto Fernández, un presidente sitiado
+[] Vacunación. Fernán Quirós pidió disculpas por ''el desorden''
 
-$*$Vacunas. Países de la región cambiaron sus leyes para beneficiar a laboratorios
+[] Covid-19. Tras el caos en el Luna Park, la Ciudad habilitó cinco vacunatorios
 
-$*$Alquileres. Por qué un nuevo índice de la inflación podría aumentarlos
+[] Soria vs. Py. El historial de denuncias contra jueces del candidato a ministro
 
-$*$Decepcionado. El padre de Meghan Markle puso en duda las acusaciones de su hija
+[] Merval. Las empresas argentinas cotizan ''regaladas'' y la Bolsa no deja de caer
 
-$*$Protocolos. ''En la burbuja que me tocó no tengo amigos'', se quejan los chicos
+[] Superó a Israel. Chile es ahora el país que vacuna más rápido en el mundo
+
+[] Sin apostar al dólar. Cuál es la inversión que gana terreno en el año electoral
 
 ---------------------
 221
 ---------------------
 
-$*$ROBO, CHOQUE Y ESCÁNDALO: Una pericia complica al esposo de Carolina Piparo preso por "doble intento de homicidio"
+[] TRANSPORTE: Por el inicio de clases, el uso del transporte público en La Plata subió un 15%
 
-$*$IMÁGENES SENSIBLES: VIDEO: Un auto siguió de largo y se incrustó en un árbol de la rotonda de la Autopista
+[] EDUCACIÓN Y PANDEMIA: Empezaron a testear a docentes, directivos y auxiliares de escuelas platenses
 
-$*$PROSTITUCIÓN: El empresario platense Fernando Mercerat seguirá en una cárcel común hasta el juicio oral
+[] PLAN DE MANTENIMIENTO: ABSA encara obras en 33 puntos de La Plata para mejorar la red de agua
 
-$*$LA DINASTÍA CONTINÚA: VIDEO: Deian Verón hizo su debut en la goleada de Estudiantes sobre Arsenal
+[] LA DINASTÍA CONTINÚA: VIDEO: Deian Verón hizo su debut en la goleada de Estudiantes sobre Arsenal
 
-$*$5 a 0: Contundencia, lujos y un debut especial en la goleada del Pincha
+[] 5 a 0: Contundencia, lujos y un debut especial en la goleada del Pincha
 
-$*$TV, Horario y Formaciones: Estudiantes quiere mantener el invicto y visita a Arsenal
+[] TV, Horario y Formaciones: Estudiantes quiere mantener el invicto y visita a Arsenal
 
