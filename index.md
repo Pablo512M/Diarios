@@ -1,8 +1,8 @@
 ### Noticias
-20:46 09/03/2021
+20:48 09/03/2021
 
 ---------------------
-##### center>**Página12**</center>
+##### <center>**Página12**</center>
 
 ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146599-dni_0.jpg?itok=N9WLhIWq)
 
@@ -11,7 +11,7 @@
 
 
 ---------------------
-##### center>**Página12**</center>
+##### <center>**Página12**</center>
 
 ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/oreiro.jpg?itok=HqafY3td)
 
@@ -20,7 +20,7 @@
 
 
 ---------------------
-##### center>**Página12**</center>
+##### <center>**Página12**</center>
 
 ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146537-whatsapp-20image-202021-03-09-20at-2016-31-34.jpeg?itok=81DLlcB-)
 
@@ -29,7 +29,7 @@
 
 
 ---------------------
-##### center>**Página12**</center>
+##### <center>**Página12**</center>
 
 ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146636-whatsapp-20image-202021-03-09-20at-2019-51-09.jpeg?itok=Ms-cb-QG)
 
@@ -38,7 +38,7 @@
 
 
 ---------------------
-##### center>**Página12**</center>
+##### <center>**Página12**</center>
 
 ![nomb](https://www.pagina12.com.ar/assets/media/assets/video-icon.svg)
 
@@ -47,7 +47,7 @@
 
 
 ---------------------
-##### center>**Página12**</center>
+##### <center>**Página12**</center>
 
 ![nomb](https://www.pagina12.com.ar/assets/media/assets/video-icon.svg)
 
@@ -56,7 +56,7 @@
 
 
 ---------------------
-##### center>**Página12**</center>
+##### <center>**Página12**</center>
 
 ---------------------
 Infobae
@@ -64,31 +64,31 @@ Infobae
 
 [] Sin definiciones de Alberto Fernández, hay incertidumbre y cautela en el Gobierno por el sucesor de Marcela Losardo
 
-[] El gobierno porteño reconoció los problemas con el operativo de vacunación: mañana sumarán cinco nuevos centros
+[] Losardo presentará su renuncia al Ministerio de Justicia y será embajadora argentina en la Unesco
 
 [] Misterioso ataque en Belgrano: balearon en la cabeza a un abogado de 72 años cuando llegaba a su casa
+
+[] El Gobierno porteño reconoció los problemas con el operativo de vacunación: mañana sumarán cinco nuevos centros
 
 [] Fernán Quirós pidió disculpas por el fallido operativo para vacunar a los mayores de 80 años: su explicación
 
 [] Estados Unidos ya aplicó más de 93 millones de dosis de la vacuna contra el COVID-19 e inmunizó al 10% de su población
 
-[] Acusaron al presidente de Honduras de ayudar a un narco a traficar toneladas de cocaína a Estados Unidos
-
 ---------------------
 La Nacion
 
 
+[] Marcela Losardo presentó su renuncia y será la embajadora ante la Unesco
+
 [] Luna Park. El caos volvió a tensar la relación entre el Gobierno y la Ciudad
 
-[] Vacunación. Fernán Quirós pidió disculpas por ''el desorden''
-
 [] Irritación. La agonía por el reemplazo de Losardo enrarece el clima en el Gobierno
+
+[] Vacunación. Fernán Quirós pidió disculpas por ''el desorden''
 
 [] Brasil. Avanza un fallo contra Moro que dinamitaría al Lava Jato
 
 [] Misterio en Belgrano. Un abogado fue baleado en la cara
-
-[] ¿Restricciones de viaje? Por qué preocupan las variantes del coronavirus
 
 ---------------------
 221
