@@ -4,17 +4,19 @@
 ##### Pagina12
 
 
-[Ver nota](https://www.pagina12.com.ar/328460-coronavirus-en-argentina-se-registraron-131-muertes-y-7307-c)Los números de la pandemia. Coronavirus en Argentina: se registraron 131 muertes y 7.307 contagios. El Ministerio de Salud de la Nación confirmó que en las últimas 24 horas el número total de contagios desde el comienzo de la pandemia ascendió a 2.162.001, en tanto que los fallecimientos se ubican en 53.252.
+![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146599-dni_0.jpg?itok=N9WLhIWq)
 
-[Ver nota](https://www.pagina12.com.ar/328352-la-cruzada-de-macri-por-correr-a-eduardo-farah-de-una-denunc)La cruzada de Macri por correr a Farah de la causa por espionaje ilegal El argumento del expresidente
+[VER](https://www.pagina12.com.ar/328487-vizzotti-analizo-con-sus-pares-provinciales-nuevas-medidas-r) Preocupación por el incremento de contagios en Brasil y Paraguay. Vizzotti analizó con sus pares provinciales medidas restrictivas en las fronteras. Ante el aumento de casos en los países vecinos, el Consejo Federal de Salud, encabezado por la ministra del sector, Carla Vizzotti, analiza cómo desalentar los viajes a zonas con circulación de nuevas variantes de coronavirus.
 
-[Ver nota](https://www.pagina12.com.ar/328448-el-pami-reitero-el-ofrecimiento-de-colaboracion-a-la-ciudad)El PAMI reiteró su ofrecimiento de colaboración a la Ciudad Larreta había rechazado la propuesta la semana pasada
+[VER](https://www.pagina12.com.ar/328448-el-pami-reitero-el-ofrecimiento-de-colaboracion-a-la-ciudad) El PAMI reiteró su ofrecimiento de colaboración a la Ciudad Larreta había rechazado la propuesta la semana pasada
 
-[Ver nota](https://www.pagina12.com.ar/328453-la-monarquia-britanica-dice-estar-entristecida-y-preocupada)La primera respuesta de la reina tras la explosiva entrevista de Harry y Meghan La reacción de la monarquía británica
+[VER](https://www.pagina12.com.ar/328402-la-des-organizacion-del-gobierno-porteno-para-vacunar-en-el-) La (des) organización del gobierno porteño para vacunar en el Luna Park  Adultos mayores bajo el rayo del sol y amontonados
 
-[Ver nota](https://www.pagina12.com.ar/328487-vizzotti-analizo-con-sus-pares-provinciales-nuevas-medidas-r)Vizzotti analizó con sus pares provinciales medidas restrictivas en las fronteras Preocupación por el incremento de casos de Covid-19 en Brasil y Paraguay
+[VER](https://www.pagina12.com.ar/328460-coronavirus-en-argentina-se-registraron-131-muertes-y-7307-c) Coronavirus en Argentina: se registraron 131 muertes y 7.307 contagios Los números de la pandemia
 
-[Ver nota](https://www.pagina12.com.ar/328422-duras-criticas-a-la-vacunacion-de-adultos-mayores-en-caba-es)"Es una falta de respeto a la salud" Legisladores del Frente de Todos exigieron un informe a Larreta por el caos de vacunación
+[VER](https://www.pagina12.com.ar/328352-la-cruzada-de-macri-por-correr-a-eduardo-farah-de-una-denunc) La cruzada de Macri por correr a Farah de la causa por espionaje ilegal El argumento del expresidentePor Luciana Bertoia
+
+[VER](https://www.pagina12.com.ar/328391-la-historia-del-oceanografo-que-habria-colaborado-en-dictadu) La historia del oceanógrafo que habría colaborado en dictadura en los vuelos de la muerte El caso de Varela GorritiPor Ailín Bullentini
 
 ---------------------
 Infobae
@@ -26,25 +28,25 @@ Infobae
 
 [] Misterioso ataque en Belgrano: balearon en la cabeza a un abogado de 72 años cuando llegaba a su casa
 
+[] Fernán Quirós pidió disculpas por el fallido operativo para vacunar a los mayores de 80 años: su explicación
+
 [] Estados Unidos ya aplicó más de 93 millones de dosis de la vacuna contra el COVID-19 e inmunizó al 10% de su población
 
 [] Acusaron al presidente de Honduras de ayudar a un narco a traficar toneladas de cocaína a Estados Unidos
-
-[] Coronavirus en la Argentina: confirmaron 131 muertes y 7.307 contagios en las últimas 24 horas
 
 ---------------------
 La Nacion
 
 
+[] Luna Park. El caos volvió a tensar la relación entre el Gobierno y la Ciudad
+
 [] Vacunación. Fernán Quirós pidió disculpas por ''el desorden''
 
-[] Covid-19. Tras el caos en el Luna Park, la Ciudad habilitó cinco vacunatorios
-
-[] Soria vs. Py. El historial de denuncias contra jueces del candidato a ministro
+[] Irritación. La agonía por el reemplazo de Losardo enrarece el clima en el Gobierno
 
 [] Merval. Las empresas argentinas cotizan ''regaladas'' y la Bolsa no deja de caer
 
-[] Superó a Israel. Chile es ahora el país que vacuna más rápido en el mundo
+[] Misterio en Belgrano. Un abogado fue baleado en la cara
 
 [] Sin apostar al dólar. Cuál es la inversión que gana terreno en el año electoral
 
@@ -52,11 +54,11 @@ La Nacion
 221
 ---------------------
 
+[] MARCELO MANOLIO: Escándalo en Berisso: denuncian que echaron al jefe de Bomberos por pedir vacunas
+
 [] TRANSPORTE: Por el inicio de clases, el uso del transporte público en La Plata subió un 15%
 
 [] EDUCACIÓN Y PANDEMIA: Empezaron a testear a docentes, directivos y auxiliares de escuelas platenses
-
-[] PLAN DE MANTENIMIENTO: ABSA encara obras en 33 puntos de La Plata para mejorar la red de agua
 
 [] LA DINASTÍA CONTINÚA: VIDEO: Deian Verón hizo su debut en la goleada de Estudiantes sobre Arsenal
 
