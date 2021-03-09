@@ -1,50 +1,68 @@
-### Noticias 20:36 09/03/2021
+### Noticias
+20:46 09/03/2021
 
 ---------------------
-##### Pagina12
-
+##### center>**Página12**</center>
 
 ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146599-dni_0.jpg?itok=N9WLhIWq)
 
-Pagina12 - [Ver Nota](https://www.pagina12.com.ar/328487-vizzotti-analizo-con-sus-pares-provinciales-nuevas-medidas-r) Preocupación por el incremento de contagios en Brasil y Paraguay. Vizzotti analizó con sus pares provinciales medidas restrictivas en las fronteras. Ante el aumento de casos en los países vecinos, el Consejo Federal de Salud, encabezado por la ministra del sector, Carla Vizzotti, analiza cómo desalentar los viajes a zonas con circulación de nuevas variantes de coronavirus.
+[Ver Nota](https://www.pagina12.com.ar/328487-vizzotti-analizo-con-sus-pares-provinciales-nuevas-medidas-r) Preocupación por el incremento de contagios en Brasil y Paraguay. Vizzotti analizó con sus pares provinciales medidas restrictivas en las fronteras. Ante el aumento de casos en los países vecinos, el Consejo Federal de Salud, encabezado por la ministra del sector, Carla Vizzotti, analiza cómo desalentar los viajes a zonas con circulación de nuevas variantes de coronavirus.
 
 
+
+---------------------
+##### center>**Página12**</center>
 
 ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/oreiro.jpg?itok=HqafY3td)
 
-Pagina12 - [Ver Nota](https://www.pagina12.com.ar/328437-natalia-oreiro-el-ciudadano-debe-involucrarse-en-politica-po) Natalia Oreiro: "El ciudadano debe involucrarse en política porque son sus derechos" La actriz habla de cine, política y de su historia de amor con RusiaPor Oscar Ranzani
+[Ver Nota](https://www.pagina12.com.ar/328437-natalia-oreiro-el-ciudadano-debe-involucrarse-en-politica-po) Natalia Oreiro: "El ciudadano debe involucrarse en política porque son sus derechos" La actriz habla de cine, política y de su historia de amor con RusiaPor Oscar Ranzani
 
 
+
+---------------------
+##### center>**Página12**</center>
 
 ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146537-whatsapp-20image-202021-03-09-20at-2016-31-34.jpeg?itok=81DLlcB-)
 
-Pagina12 - [Ver Nota](https://www.pagina12.com.ar/328448-el-pami-reitero-el-ofrecimiento-de-colaboracion-a-la-ciudad) El PAMI reiteró su ofrecimiento de colaboración a la Ciudad Larreta había rechazado la propuesta la semana pasada
+[Ver Nota](https://www.pagina12.com.ar/328448-el-pami-reitero-el-ofrecimiento-de-colaboracion-a-la-ciudad) El PAMI reiteró su ofrecimiento de colaboración a la Ciudad Larreta había rechazado la propuesta la semana pasada
 
 
+
+---------------------
+##### center>**Página12**</center>
 
 ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146636-whatsapp-20image-202021-03-09-20at-2019-51-09.jpeg?itok=Ms-cb-QG)
 
-Pagina12 - [Ver Nota](https://www.pagina12.com.ar/328509-ee-uu-comenzo-el-juicio-por-el-asesinato-de-george-floyd) EE.UU: comenzó el juicio por el asesinato de George Floyd  Derek Chauvin enfrenta cargos por asesinato en segundo grado y homicidio involuntario
+[Ver Nota](https://www.pagina12.com.ar/328509-ee-uu-comenzo-el-juicio-por-el-asesinato-de-george-floyd) EE.UU: comenzó el juicio por el asesinato de George Floyd  Derek Chauvin enfrenta cargos por asesinato en segundo grado y homicidio involuntario
 
 
 
-![nomb](https://www.pagina12.com.ar/assets/media/assets/video-icon.svg)
-
-Pagina12 - [Ver Nota](https://www.pagina12.com.ar/328453-la-monarquia-britanica-dice-estar-entristecida-y-preocupada) La primera respuesta de la reina tras la explosiva entrevista de Harry y Meghan La reacción de la monarquía británica
-
-
+---------------------
+##### center>**Página12**</center>
 
 ![nomb](https://www.pagina12.com.ar/assets/media/assets/video-icon.svg)
 
-Pagina12 - [Ver Nota](https://www.pagina12.com.ar/328402-la-des-organizacion-del-gobierno-porteno-para-vacunar-en-el-) La (des) organización del gobierno porteño para vacunar en el Luna Park  Adultos mayores bajo el rayo del sol y amontonados
+[Ver Nota](https://www.pagina12.com.ar/328453-la-monarquia-britanica-dice-estar-entristecida-y-preocupada) La primera respuesta de la reina tras la explosiva entrevista de Harry y Meghan La reacción de la monarquía británica
 
 
+
+---------------------
+##### center>**Página12**</center>
+
+![nomb](https://www.pagina12.com.ar/assets/media/assets/video-icon.svg)
+
+[Ver Nota](https://www.pagina12.com.ar/328402-la-des-organizacion-del-gobierno-porteno-para-vacunar-en-el-) La (des) organización del gobierno porteño para vacunar en el Luna Park  Adultos mayores bajo el rayo del sol y amontonados
+
+
+
+---------------------
+##### center>**Página12**</center>
 
 ---------------------
 Infobae
 
 
-[] Sin definiciones de Alberto Fernández, hay incertidumbre y cautela en el Gobierno por el reemplazo de Marcela Losardo
+[] Sin definiciones de Alberto Fernández, hay incertidumbre y cautela en el Gobierno por el sucesor de Marcela Losardo
 
 [] El gobierno porteño reconoció los problemas con el operativo de vacunación: mañana sumarán cinco nuevos centros
 
