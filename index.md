@@ -36,22 +36,15 @@
 
 [NOTA](https://www.infobae.com/historias/2021/03/10/cine-porno-alcoholismo-y-un-pasado-tragico-que-reinvento-las-oscuras-vidas-paralelas-de-jon-hamm-y-mad-men/) Cine porno, alcoholismo y un pasado trágico que reinventó: las vidas paralelas de Jon Hamm y Mad MenPor Mercedes Funes
 
+<a name='nodal'></a>
 ---------------------
 #### <center>Nodal</center>
 
-[NOTA](https://www.nodal.am/2021/03/fiscalia-de-eeuu-afirma-que-honduras-es-un-narcoestado-que-conto-con-la-ayuda-del-presidente-hernandez/)  
-Fiscalía de EEUU afirma que Honduras es un “narcoestado” que contó con la ayuda del presidente Hernández 
+[NOTA](https://www.nodal.am/2021/03/fiscalia-de-eeuu-afirma-que-honduras-es-un-narcoestado-que-conto-con-la-ayuda-del-presidente-hernandez/)  Fiscalía de EEUU afirma que Honduras es un “narcoestado” que contó con la ayuda del presidente Hernández 
 
+[NOTA](https://www.nodal.am/2021/03/paraguay-exigen-la-renuncia-del-presidente-abdo-benitez-en-el-quinto-dia-de-protestas/)  Paraguay | Exigen la renuncia del presidente Abdo Benítez en el quinto día de protestas 
 
-[NOTA](https://www.nodal.am/2021/03/paraguay-exigen-la-renuncia-del-presidente-abdo-benitez-en-el-quinto-dia-de-protestas/)  
-Paraguay | Exigen la renuncia del presidente Abdo Benítez en el quinto día de protestas 
-
-
-[NOTA](https://www.nodal.am/2021/03/brasil-bate-nuevo-record-de-muertes-y-supera-los-11-millones-de-casos-de-coronavirus/)  
-
-Brasil bate nuevo récord de muertes y supera los 11 millones de casos de coronavirus 
-
-
+[NOTA](https://www.nodal.am/2021/03/brasil-bate-nuevo-record-de-muertes-y-supera-los-11-millones-de-casos-de-coronavirus/)  Brasil bate nuevo récord de muertes y supera los 11 millones de casos de coronavirus 
 
 <a name='lanacion'></a>
 ---------------------
