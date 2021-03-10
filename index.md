@@ -1,5 +1,4 @@
-<a name='index'></a>
- &nbsp;&nbsp; [Pagina12](#pagina12) &nbsp;&nbsp; [Infobae](#infobae) &nbsp;&nbsp; [La Nacion](#lanacion) &nbsp;&nbsp; [221 Digital](#221digital) 
+<pre>  [Pagina12](#pagina12)  [Infobae](#infobae)  [La Nacion](#lanacion)  [221 Digital](#221digital) </pre> 
 
 <a name='pagina12'></a>
 ---------------------
@@ -64,7 +63,8 @@
 
 
 
-<a name='infobae'></a>---------------------
+<a name='infobae'></a>
+---------------------
 ##### <center>Infobae</center>
 
 ![nomb](https://www.infobae.com/new-resizer/KD0PXIUw9PFqkCM1nPzlMTZArkc=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/XKNJLSIPHND4LL323NIXEA4QSY.jpeg)
