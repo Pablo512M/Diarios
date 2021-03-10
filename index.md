@@ -1,5 +1,6 @@
 <a name='index'></a>
  &nbsp;&nbsp; [Pagina12](#pagina12) &nbsp;&nbsp; [Infobae](#infobae) &nbsp;&nbsp; [La Nacion](#lanacion) &nbsp;&nbsp; [221 Digital](#221digital) 
+
 <a name='pagina12'></a>
 ---------------------
 ##### <center>Página12</center>
@@ -68,42 +69,42 @@
 
 ![nomb](https://www.infobae.com/new-resizer/KD0PXIUw9PFqkCM1nPzlMTZArkc=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/XKNJLSIPHND4LL323NIXEA4QSY.jpeg)
 
-[NOTA](/politica/2021/03/10/el-presidente-el-increible-desmanejo-para-reemplazar-a-losardo-y-una-linea-clara-mas-batallas-con-el-poder-judicial/) El Presidente, el increíble desmanejo para reemplazar a Losardo y una línea clara: más batallas con el Poder JudicialLa salida de la ministra muestra tiempos llamativos y danza de nombres para sucederla. La dilación de las definiciones es un costo adicional para el Gobierno. Pero el sentido de la nueva gestión ya fue anticipado por el discurso presidencial y el alegado de CFKPor Eduardo Aulicino
+[NOTA](https://www.infobae.com/politica/2021/03/10/el-presidente-el-increible-desmanejo-para-reemplazar-a-losardo-y-una-linea-clara-mas-batallas-con-el-poder-judicial/) El Presidente, el increíble desmanejo para reemplazar a Losardo y una línea clara: más batallas con el Poder JudicialLa salida de la ministra muestra tiempos llamativos y danza de nombres para sucederla. La dilación de las definiciones es un costo adicional para el Gobierno. Pero el sentido de la nueva gestión ya fue anticipado por el discurso presidencial y el alegado de CFKPor Eduardo Aulicino
 
 ---------------------
 ##### <center>Infobae</center>
 
 ![nomb](https://www.infobae.com/new-resizer/P8OonD_IF1BBn8nJEXm1a0EuuS8=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/YNGTIN3I7VDTHGFUZTTCZ6HIPU.jfif)
 
-[NOTA](/sociedad/2021/03/10/preocupacion-por-nuevos-incendios-forestales-en-rio-negro-y-chubut-las-llamas-llegaron-a-la-zona-urbana/) Preocupación por nuevos incendios forestales en Río Negro y Chubut: las llamas llegaron a la zona urbanaVIDEOS
+[NOTA](https://www.infobae.com/sociedad/2021/03/10/preocupacion-por-nuevos-incendios-forestales-en-rio-negro-y-chubut-las-llamas-llegaron-a-la-zona-urbana/) Preocupación por nuevos incendios forestales en Río Negro y Chubut: las llamas llegaron a la zona urbanaVIDEOS
 
 ---------------------
 ##### <center>Infobae</center>
 
 ![nomb](https://www.infobae.com/new-resizer/hYp3MPZcWo2Dr4w3TNIrB85VhU8=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/BBCZ42BM45BEPLDL3FMXTK36PI.jpg)
 
-[NOTA](/historias/2021/03/10/cine-porno-alcoholismo-y-un-pasado-tragico-que-reinvento-las-oscuras-vidas-paralelas-de-jon-hamm-y-mad-men/) Cine porno, alcoholismo y un pasado trágico que reinventó: las vidas paralelas de Jon Hamm y Mad MenPor Mercedes Funes
+[NOTA](https://www.infobae.com/historias/2021/03/10/cine-porno-alcoholismo-y-un-pasado-tragico-que-reinvento-las-oscuras-vidas-paralelas-de-jon-hamm-y-mad-men/) Cine porno, alcoholismo y un pasado trágico que reinventó: las vidas paralelas de Jon Hamm y Mad MenPor Mercedes Funes
 
 ---------------------
 ##### <center>Infobae</center>
 
 ![nomb](https://www.infobae.com/new-resizer/XMHiM4guKYQg8gE8HA4G3upM_XE=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/RW3I3CJU4RAEPF2X46455BLYNI.jpg)
 
-[NOTA](/economia/2021/03/10/precios-de-referencia-y-denuncias-de-consumidores-los-mecanismos-del-gobierno-para-evitar-maniobras-especulativas/) Precios de referencia y denuncias: los mecanismos del Gobierno para evitar maniobras especulativasPor Natalia Donato
+[NOTA](https://www.infobae.com/economia/2021/03/10/precios-de-referencia-y-denuncias-de-consumidores-los-mecanismos-del-gobierno-para-evitar-maniobras-especulativas/) Precios de referencia y denuncias: los mecanismos del Gobierno para evitar maniobras especulativasPor Natalia Donato
 
 ---------------------
 ##### <center>Infobae</center>
 
 ![nomb](https://www.infobae.com/new-resizer/JtTcTJFcYf51G0ORKkaW13T6PpQ=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/XJ5UMQCOCFDYRF2P57RG2WCLGY.jpg)
 
-[NOTA](/politica/2021/03/09/marcela-losardo-presentara-su-renuncia-al-ministerio-de-justicia-y-sera-embajadora-argentina-en-la-unesco/) Losardo presentará su renuncia al Ministerio de Justicia y será embajadora ante la UnescoPor Román Lejtman
+[NOTA](https://www.infobae.com/politica/2021/03/09/marcela-losardo-presentara-su-renuncia-al-ministerio-de-justicia-y-sera-embajadora-argentina-en-la-unesco/) Losardo presentará su renuncia al Ministerio de Justicia y será embajadora ante la UnescoPor Román Lejtman
 
 ---------------------
 ##### <center>Infobae</center>
 
 ![nomb](https://www.infobae.com/new-resizer/Ng3vLPCuHFBT_O3nRdlyWPkLoc8=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/FUZRMDXLOJE5JG6OGT4ELDKRH4.jpg)
 
-[NOTA](/sociedad/2021/03/10/la-pelicula-que-fellini-filmo-hace-60-anos-y-nos-muestra-como-fuimos-y-somos-en-la-pandemia/) La película que Fellini filmó hace 60 años y nos muestra cómo fuimos y somos en la pandemiaPor Alberto Amato
+[NOTA](https://www.infobae.com/sociedad/2021/03/10/la-pelicula-que-fellini-filmo-hace-60-anos-y-nos-muestra-como-fuimos-y-somos-en-la-pandemia/) La película que Fellini filmó hace 60 años y nos muestra cómo fuimos y somos en la pandemiaPor Alberto Amato
 
 <a name='lanacion'></a>
 ---------------------
