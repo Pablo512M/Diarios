@@ -1,4 +1,4 @@
-<a name='index'></a>Secciones: [Pagina12](#pagina12) &nbsp;&nbsp; [Infobae](#infobae)<a name='pagina12'></a>
+<a name='index'></a>Secciones: [Pagina12](#pagina12) &nbsp;&nbsp; [Infobae](#infobae) &nbsp;&nbsp; [La Nacion](#lanacion) &nbsp;&nbsp; [221 Digital](#221digital)<a name='pagina12'></a>
 ---------------------
 ##### <center>Página12</center>
 
@@ -103,6 +103,7 @@
 
 [NOTA](/teleshow/infoshow/2021/03/09/jorge-lanata-fue-dado-de-alta-continuara-con-su-tratamiento-de-manera-domiciliaria/) Jorge Lanata fue dado de alta: continuará con su tratamiento de manera domiciliariaPor Constanza Kong
 
+<a name='lanacion'></a>
 ---------------------
 ##### <center>La Nación</center>
 
@@ -116,6 +117,7 @@
 
 [NOTA](https://www.lanacion.com.ar/seguridad/misterio-en-belgrano-balean-a-un-abogado-y-no-quiere-que-lo-atiendan-nid09032021/) Misterio en Belgrano. Un abogado fue baleado en la cara
 
+<a name='221digital'></a>
 ---------------------
 ##### <center>221 Digital</center>
 
