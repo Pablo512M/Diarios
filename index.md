@@ -1,4 +1,4 @@
-<center>Ultima actualización: 02:13 - 10/03/2021</center>
+<center>Ultima actualización: 02:16 - 10/03/2021</center>
 
 ---------------------
 ##### <center>Página12</center>
@@ -6,9 +6,13 @@
 ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/na01fo01_1661.jpg?itok=SAtsLjEa)
 
 [Ver Nota](https://www.pagina12.com.ar/328504-cronica-del-caos-en-los-vacunatorios-portenos) Los mayores de 80 porteños pasaron horas amontonados bajo el sol cuando fueron a vacunarse 
+ 
  EL DESAMPARO 
+ 
  Cuadras de cola al sol, desmayos, aglomeraciones y largas esperas sin atención fueron las postales que mostraron el Luna Park y el estadio de San Lorenzo, donde el Gobierno porteño eligió vacunar a los mayores de 80 años. En medio de semejante desorganización, se conoció que el ministro de Salud, Fernán Quirós, había rechazado ofertas de colaboración del PAMI. 
+ 
  Por  
+ 
  Werner Pertot
 
 
@@ -18,12 +22,7 @@
 
 ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146583-2-a.jpg?itok=NE-bDa3U)
 
-[Ver Nota](https://www.pagina12.com.ar/328545-el-escandalo-de-las-vacunas-en-corrientes-despues-del-infart) El escándalo de las vacunas en Corrientes: después del infarto y el choque, piden la renuncia del  
- ministro 
-   
- El supuesto traslado irregular de 900 dosis de Sputnik V 
- Por  
- Maria Cafferata
+[Ver Nota](https://www.pagina12.com.ar/328545-el-escandalo-de-las-vacunas-en-corrientes-despues-del-infart) El escándalo de las vacunas en Corrientes: después del infarto y el choque, piden la renuncia del ministro El supuesto traslado irregular de 900 dosis de Sputnik VPor Maria Cafferata
 
 
 
@@ -32,12 +31,7 @@
 
 ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146451-bernardino-20avila.jpeg?itok=l_sGjzLZ)
 
-[Ver Nota](https://www.pagina12.com.ar/328396-coronavirus-en-carrera-para-llegar-al-millon-de-vacunades-po) Coronavirus: en carrera para llegar al millón de vacunades por  
- semana 
-   
- Buscan inmunizar a toda la población de riesgo antes de que empiece el frío 
- Por  
- Pablo Esteban
+[Ver Nota](https://www.pagina12.com.ar/328396-coronavirus-en-carrera-para-llegar-al-millon-de-vacunades-po) Coronavirus: en carrera para llegar al millón de vacunades por semana Buscan inmunizar a toda la población de riesgo antes de que empiece el fríoPor Pablo Esteban
 
 
 
@@ -46,12 +40,7 @@
 
 ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146519-6-amacri-20peocupado-0.jpg?itok=DxC3nWNh)
 
-[Ver Nota](https://www.pagina12.com.ar/328548-parques-eolicos-mariano-macri-declarara-el-16-de-marzo) Parques eólicos: Mariano Macri declarará el 16 de  
- marzo 
-   
- El juez Marcelo Martínez de Giorgi logró notificarlo 
- Por  
- Irina Hauser
+[Ver Nota](https://www.pagina12.com.ar/328548-parques-eolicos-mariano-macri-declarara-el-16-de-marzo) Parques eólicos: Mariano Macri declarará el 16 de marzo El juez Marcelo Martínez de Giorgi logró notificarloPor Irina Hauser
 
 
 
@@ -60,12 +49,7 @@
 
 ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146458-ail-c3-adn-20vuelos-20ppal.jpeg?itok=x7-3_tE_)
 
-[Ver Nota](https://www.pagina12.com.ar/328391-la-historia-del-oceanografo-que-habria-colaborado-en-dictadu) La historia del oceanógrafo que habría colaborado en dictadura en los vuelos de la  
- muerte 
-   
- El caso de Varela Gorriti 
- Por  
- Ailín Bullentini
+[Ver Nota](https://www.pagina12.com.ar/328391-la-historia-del-oceanografo-que-habria-colaborado-en-dictadu) La historia del oceanógrafo que habría colaborado en dictadura en los vuelos de la muerte El caso de Varela GorritiPor Ailín Bullentini
 
 
 
@@ -74,10 +58,7 @@
 
 ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/146440-blonda-0_0.jpg?itok=L603IRVX)
 
-[Ver Nota](https://www.pagina12.com.ar/328361-quienes-son-los-posibles-candidatos-para-reemplazar-a-marcel) Quiénes son los posibles candidatos para reemplazar a Marcela  
- Losardo 
-   
- Corre con ventaja el diputado nacional Martín Soria
+[Ver Nota](https://www.pagina12.com.ar/328361-quienes-son-los-posibles-candidatos-para-reemplazar-a-marcel) Quiénes son los posibles candidatos para reemplazar a Marcela Losardo Corre con ventaja el diputado nacional Martín Soria
 
 
 
