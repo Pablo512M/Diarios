@@ -1,5 +1,5 @@
 <a name='index'></a>
-<FONT SIZE=3> &nbsp;&nbsp; [Pagina12](#pagina12) &nbsp;&nbsp; [Infobae](#infobae) &nbsp;&nbsp; [La Nacion](#lanacion) &nbsp;&nbsp; [221 Digital](#221digital)
+<h1 style='font-size:10vw'> &nbsp;&nbsp; [Pagina12](#pagina12) &nbsp;&nbsp; [Infobae](#infobae) &nbsp;&nbsp; [La Nacion](#lanacion) &nbsp;&nbsp; [221 Digital](#221digital)</h1> 
 <a name='pagina12'></a>
 ---------------------
 ##### <center>Página12</center>
