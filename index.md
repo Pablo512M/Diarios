@@ -73,8 +73,20 @@
                 Maduro denuncia que Venezuela ha detectado 600 intentos de sobornos a sus militares por parte de la inteligencia colombiana
             
 
-[NOTA](https://actualidad.rt.com//video/385899-bolivia-pedira-ayuda-interpol-localizar) 
-                Bolivia pedirá ayuda a la Interpol para localizar al exjefe de las Fuerzas Armadas
+[NOTA](https://actualidad.rt.com//actualidad/385810-terremoto-politico-brasil-anulacion-condenas-lula) 
+                Terremoto político en Brasil tras la anulación de las condenas a Lula da Silva
+            
+
+[NOTA](https://actualidad.rt.com//actualidad/385880-expertos-cuestionar-viabilidad-proyecto-neom) 
+                ¿Es viable el proyecto saudita de una ciudad de 170 kilómetros de extensión sin automóviles, calles, ni emisiones de carbono?
+            
+
+[NOTA](https://actualidad.rt.com//actualidad/385896-crece-respaldo-juicio-politico-abdo-paraguay) 
+                Crece el respaldo para un juicio político contra el Gobierno de Mario Abdo Benítez en el quinto día de manifestaciones en Paraguay
+            
+
+[NOTA](https://actualidad.rt.com//actualidad/385829-colegiala-desencadenar-decapitacion-samuel-paty-mentiras) 
+                La colegiala que desencadenó la decapitación del profesor francés Samuel Paty admite que mintió sobre él
             
 
 <a name='lanacion'></a>
