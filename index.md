@@ -1,4 +1,4 @@
-<pre>  [Pagina12](#pagina12)  [Infobae](#infobae)  [La Nacion](#lanacion)  [221 Digital](#221digital) </pre> 
+ &nbsp;&nbsp; [Pagina12](#pagina12) &nbsp;&nbsp; [Infobae](#infobae) &nbsp;&nbsp; [La Nacion](#lanacion) &nbsp;&nbsp; [221](#221digital) 
 
 <a name='pagina12'></a>
 ---------------------
