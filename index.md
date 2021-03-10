@@ -1,4 +1,3 @@
-.markdown-preview.markdown-preview { p, ul, ol {font-size: 1.2em;} }
  &nbsp;&nbsp; [Pagina12](#pagina12) &nbsp;&nbsp; [Infobae](#infobae) &nbsp;&nbsp; [La Nacion](#lanacion) &nbsp;&nbsp; [221](#221digital) 
 
 <a name='pagina12'></a>
