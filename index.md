@@ -1,4 +1,4 @@
-<a name='index'></a>#### Secciones: [Pagina12](#pagina12) &nbsp;&nbsp; [Infobae](#infobae) &nbsp;&nbsp; [La Nacion](#lanacion) &nbsp;&nbsp; [221 Digital](#221digital)<a name='pagina12'></a>
+<a name='index'></a>[Pagina12](#pagina12) &nbsp;&nbsp; [Infobae](#infobae) &nbsp;&nbsp; [La Nacion](#lanacion) &nbsp;&nbsp; [221 Digital](#221digital)<a name='pagina12'></a>
 ---------------------
 ##### <center>Página12</center>
 
