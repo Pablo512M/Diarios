@@ -1,7 +1,3 @@
- &nbsp;&nbsp; [Pagina12](#pagina12) &nbsp;&nbsp; [Infobae](#infobae) &nbsp;&nbsp; [Nodal](#nodal)
-
- &nbsp;&nbsp; [RT](#rt) &nbsp;&nbsp; [La Nacion](#lanacion) &nbsp;&nbsp; [221](#221digital)
-
 <a name='pagina12'></a>
 ---------------------
 #### <center>Página12</center>
