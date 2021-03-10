@@ -46,6 +46,22 @@
 
 [NOTA](https://www.nodal.am/2021/03/brasil-bate-nuevo-record-de-muertes-y-supera-los-11-millones-de-casos-de-coronavirus/)  Brasil bate nuevo récord de muertes y supera los 11 millones de casos de coronavirus 
 
+<a name='rt'></a>
+---------------------
+#### <center>RT</center>
+
+[NOTA](https://actualidad.rt.com//actualidad/385886-maduro-denuncia-600-casos-sobornos-colombia) 
+                Maduro denuncia que Venezuela ha detectado 600 intentos de sobornos a sus militares por parte de la inteligencia colombiana
+            
+
+[NOTA](https://actualidad.rt.com//actualidad/385810-terremoto-politico-brasil-anulacion-condenas-lula) 
+                Terremoto político en Brasil tras la anulación de las condenas a Lula da Silva
+            
+
+[NOTA](https://actualidad.rt.com//actualidad/385880-expertos-cuestionar-viabilidad-proyecto-neom) 
+                ¿Es viable el proyecto saudita de una ciudad de 170 kilómetros de extensión sin automóviles, calles, ni emisiones de carbono?
+            
+
 <a name='lanacion'></a>
 ---------------------
 #### <center>La Nación</center>
