@@ -5,11 +5,11 @@
 
 ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/na01fo01_1661.jpg?itok=SAtsLjEa)
 
-[Ver Nota](https://www.pagina12.com.ar/328504-cronica-del-caos-en-los-vacunatorios-portenos) Los mayores de 80 porteños pasaron horas amontonados bajo el sol cuando fueron a vacunarse
-EL DESAMPARO
-Cuadras de cola al sol, desmayos, aglomeraciones y largas esperas sin atención fueron las postales que mostraron el Luna Park y el estadio de San Lorenzo, donde el Gobierno porteño eligió vacunar a los mayores de 80 años. En medio de semejante desorganización, se conoció que el ministro de Salud, Fernán Quirós, había rechazado ofertas de colaboración del PAMI.
-Por 
-Werner Pertot
+[Ver Nota](https://www.pagina12.com.ar/328504-cronica-del-caos-en-los-vacunatorios-portenos) Los mayores de 80 porteños pasaron horas amontonados bajo el sol cuando fueron a vacunarse 
+ EL DESAMPARO 
+ Cuadras de cola al sol, desmayos, aglomeraciones y largas esperas sin atención fueron las postales que mostraron el Luna Park y el estadio de San Lorenzo, donde el Gobierno porteño eligió vacunar a los mayores de 80 años. En medio de semejante desorganización, se conoció que el ministro de Salud, Fernán Quirós, había rechazado ofertas de colaboración del PAMI. 
+ Por  
+ Werner Pertot
 
 
 
