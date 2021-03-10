@@ -1,12 +1,12 @@
 ### Noticias
-21:04 09/03/2021
+22:07 09/03/2021
 
 ---------------------
 ##### <center>Página12</center>
 
-![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146477-laura-20na-20graciano.jpeg?itok=ZGRqOduM)
+![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146646-15a.jpg?itok=2XrXa8TL)
 
-[Ver Nota](https://www.pagina12.com.ar/328404-ute-reclama-al-gobierno-porteno-que-haga-publicos-los-casos-) Ante el aumento de contagios en las escuelas del distrito. UTE reclama al gobierno porteño que haga públicos los casos de coronavirus. Las situaciones más preocupantes se dan en el nivel inicial, como el jardín de infantes Ramón Carrillo, del barrio de Soldati, donde hubo 7 contagios en diez días. El gremio plantea que la Ciudad de Buenos Aires debe intervenir para evaluar si hay contagios intrainstitucionales.. Por . Laura Vales
+[Ver Nota](https://www.pagina12.com.ar/328512-mejora-el-salario-y-busca-dinamizar-el-consumo) Plenario de las comisiones de Presupuesto y Trabajo de Diputados para tratar la reforma en el Impuesto a las Ganancias . Mejora el salario y busca dinamizar el consumo. La iniciativa oficial tiene un costo fiscal de 41.250 millones de pesos, recursos que el Gobierno evalúa que se volcarán al mercado interno. Se modificaron algunos puntos del proyecto. Se eximió al aguinaldo y la reforma es retroactiva al primero de enero. Se debatirá en el recinto el miércoles 17 o jueves 18 de marzo.. Por . Natalí Risso
 
 
 
@@ -67,7 +67,7 @@
 
 ![nomb](https://www.infobae.com/new-resizer/JtTcTJFcYf51G0ORKkaW13T6PpQ=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/XJ5UMQCOCFDYRF2P57RG2WCLGY.jpg)
 
-[Ver Nota](/politica/2021/03/09/marcela-losardo-presentara-su-renuncia-al-ministerio-de-justicia-y-sera-embajadora-argentina-en-la-unesco/) Losardo presentará su renuncia al Ministerio de Justicia y será embajadora argentina en la UnescoPor Román Lejtman
+[Ver Nota](/politica/2021/03/09/marcela-losardo-presentara-su-renuncia-al-ministerio-de-justicia-y-sera-embajadora-argentina-en-la-unesco/) Losardo presentará su renuncia al Ministerio de Justicia y será embajadora argentina ante la UnescoPor Román Lejtman
 
 ---------------------
 ##### <center>Infobae</center>
@@ -98,34 +98,32 @@
 [Ver Nota](/teleshow/infoshow/2021/03/09/jorge-lanata-fue-dado-de-alta-continuara-con-su-tratamiento-de-manera-domiciliaria/) Jorge Lanata fue dado de alta: continuará con su tratamiento de manera domiciliariaPor Constanza Kong
 
 ---------------------
-La Nacion
+##### <center>La Nación</center>
 
+[Ver Nota](https://www.lanacion.com.ar/sociedad/marcela-losardo-presento-su-renuncia-y-sera-la-embajadora-ante-la-unesco-nid09032021/) Ahora. Marcela Losardo presentó su renuncia y será la embajadora ante la Unesco       Fuentes de Casa Rosada confirmaron a LA NACION que la exministra de Justicia dejó su cargo y aceptó liderar la representación nacional del organismo con sede en París          Por José María Costa
 
-[] Ahora. Marcela Losardo presentó su renuncia y será la embajadora ante la Unesco
+[Ver Nota](https://www.lanacion.com.ar/politica/amado-boudou-fijan-una-audiencia-para-decidir-donde-cumplira-su-condena-nid09032021/) Amado Boudou. Citan a una audiencia para decidir dónde cumplirá su condena     Por Hernán Cappiello
 
-[] Luna Park. El caos volvió a tensar la relación entre el Gobierno y la Ciudad
+[Ver Nota](https://www.lanacion.com.ar/politica/el-caos-en-el-vacunatorio-del-luna-park-volvio-a-tensar-la-relacion-entre-el-gobierno-y-la-ciudad-nid09032021/) Luna Park. El caos volvió a tensar la relación entre el Gobierno y la Ciudad     Por Santiago Dapelo
 
-[] Irritación. La agonía por el reemplazo de Losardo enrarece el clima en el Gobierno
+[Ver Nota](https://www.lanacion.com.ar/economia/tarifas-de-luz-y-gas-deberian-subir-40-para-que-no-aumenten-los-subsidios-nid10032021/) Tarifas de luz y gas. Deberían subir 40% para que no aumenten los subsidios
 
-[] Vacunación. Fernán Quirós pidió disculpas por ''el desorden''
+[Ver Nota](https://www.lanacion.com.ar/el-mundo/avanza-un-fallo-contra-sergio-moro-que-dinamitaria-al-lava-jato-nid09032021/) Brasil. Avanza un fallo contra Moro que dinamitaría al Lava Jato     Por Marcelo Silva de Sousa
 
-[] Brasil. Avanza un fallo contra Moro que dinamitaría al Lava Jato
-
-[] Misterio en Belgrano. Un abogado fue baleado en la cara
+[Ver Nota](https://www.lanacion.com.ar/deportes/atp-250-de-doha-roger-federer-regresa-al-circuito-y-se-mide-ante-evans-horario-y-tv-del-partido-nid09032021/) Vuelve Federer. Cómo ver el regreso del suizo tras un año: horario y TV
 
 ---------------------
-221
----------------------
+##### <center>221 Digital</center>
 
-[] ESTE MIÉRCOLES: EDELAP anunció cortes de luz por obras en distintos barrios de La Plata
+[Ver Nota](/nota/2021-3-9-20-3-0-edelap-anuncio-cortes-de-luz-por-obras-en-distintos-barrios-de-la-plata) ESTE MIÉRCOLES: EDELAP anunció cortes de luz por obras en distintos barrios de La Plata
 
-[] MARCELO MANOLIO: Escándalo en Berisso: denuncian que echaron al jefe de Bomberos por pedir vacunas
+[Ver Nota](/nota/2021-3-9-19-5-0-escandalo-en-berisso-denuncian-que-echaron-al-jefe-de-bomberos-por-pedir-vacunas) MARCELO MANOLIO: Escándalo en Berisso: denuncian que echaron al jefe de Bomberos por pedir vacunas
 
-[] TRANSPORTE: Por el inicio de clases, el uso del transporte público en La Plata subió un 15%
+[Ver Nota](/nota/2021-3-9-17-13-0-por-el-inicio-de-clases-el-uso-del-transporte-publico-en-la-plata-subio-un-15) TRANSPORTE: Por el inicio de clases, el uso del transporte público en La Plata subió un 15%
 
-[] LA DINASTÍA CONTINÚA: VIDEO: Deian Verón hizo su debut en la goleada de Estudiantes sobre Arsenal
+[Ver Nota](/nota/2021-3-7-18-40-0-video-deian-veron-hizo-su-debut-en-la-goleada-de-estudiantes-sobre-arsenal) LA DINASTÍA CONTINÚA: VIDEO: Deian Verón hizo su debut en la goleada de Estudiantes sobre Arsenal
 
-[] 5 a 0: Contundencia, lujos y un debut especial en la goleada del Pincha
+[Ver Nota](/nota/2021-3-7-16-48-0-contundencia-lujos-y-un-debut-especial-en-la-goleada-del-pincha-contra-arsenal) 5 a 0: Contundencia, lujos y un debut especial en la goleada del Pincha
 
-[] TV, Horario y Formaciones: Estudiantes quiere mantener el invicto y visita a Arsenal
+[Ver Nota](/nota/2021-3-7-9-7-0-estudiantes-quiere-mantener-el-invicto-y-visita-a-arsenal) TV, Horario y Formaciones: Estudiantes quiere mantener el invicto y visita a Arsenal
 
