@@ -124,15 +124,15 @@
 ---------------------
 ##### <center>221 Digital</center>
 
-[NOTA](/nota/2021-3-9-20-3-0-edelap-anuncio-cortes-de-luz-por-obras-en-distintos-barrios-de-la-plata) ESTE MIÉRCOLES: EDELAP anunció cortes de luz por obras en distintos barrios de La Plata
+[NOTA](https://www.0221.com.ar/nota/2021-3-9-20-3-0-edelap-anuncio-cortes-de-luz-por-obras-en-distintos-barrios-de-la-plata) ESTE MIÉRCOLES: EDELAP anunció cortes de luz por obras en distintos barrios de La Plata
 
-[NOTA](/nota/2021-3-9-19-5-0-escandalo-en-berisso-denuncian-que-echaron-al-jefe-de-bomberos-por-pedir-vacunas) MARCELO MANOLIO: Escándalo en Berisso: denuncian que echaron al jefe de Bomberos por pedir vacunas
+[NOTA](https://www.0221.com.ar/nota/2021-3-9-19-5-0-escandalo-en-berisso-denuncian-que-echaron-al-jefe-de-bomberos-por-pedir-vacunas) MARCELO MANOLIO: Escándalo en Berisso: denuncian que echaron al jefe de Bomberos por pedir vacunas
 
-[NOTA](/nota/2021-3-9-17-13-0-por-el-inicio-de-clases-el-uso-del-transporte-publico-en-la-plata-subio-un-15) TRANSPORTE: Por el inicio de clases, el uso del transporte público en La Plata subió un 15%
+[NOTA](https://www.0221.com.ar/nota/2021-3-9-17-13-0-por-el-inicio-de-clases-el-uso-del-transporte-publico-en-la-plata-subio-un-15) TRANSPORTE: Por el inicio de clases, el uso del transporte público en La Plata subió un 15%
 
-[NOTA](/nota/2021-3-7-18-40-0-video-deian-veron-hizo-su-debut-en-la-goleada-de-estudiantes-sobre-arsenal) LA DINASTÍA CONTINÚA: VIDEO: Deian Verón hizo su debut en la goleada de Estudiantes sobre Arsenal
+[NOTA](https://www.0221.com.ar/nota/2021-3-7-18-40-0-video-deian-veron-hizo-su-debut-en-la-goleada-de-estudiantes-sobre-arsenal) LA DINASTÍA CONTINÚA: VIDEO: Deian Verón hizo su debut en la goleada de Estudiantes sobre Arsenal
 
-[NOTA](/nota/2021-3-7-16-48-0-contundencia-lujos-y-un-debut-especial-en-la-goleada-del-pincha-contra-arsenal) 5 a 0: Contundencia, lujos y un debut especial en la goleada del Pincha
+[NOTA](https://www.0221.com.ar/nota/2021-3-7-16-48-0-contundencia-lujos-y-un-debut-especial-en-la-goleada-del-pincha-contra-arsenal) 5 a 0: Contundencia, lujos y un debut especial en la goleada del Pincha
 
-[NOTA](/nota/2021-3-7-9-7-0-estudiantes-quiere-mantener-el-invicto-y-visita-a-arsenal) TV, Horario y Formaciones: Estudiantes quiere mantener el invicto y visita a Arsenal
+[NOTA](https://www.0221.com.ar/nota/2021-3-7-9-7-0-estudiantes-quiere-mantener-el-invicto-y-visita-a-arsenal) TV, Horario y Formaciones: Estudiantes quiere mantener el invicto y visita a Arsenal
 
