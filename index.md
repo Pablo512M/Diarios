@@ -51,15 +51,17 @@
 ---------------------
 #### <center>Nodal</center>
 
-[NOTA](https://www.nodal.am/2021/03/fiscalia-de-eeuu-afirma-que-honduras-es-un-narcoestado-que-conto-con-la-ayuda-del-presidente-hernandez/)  Fiscalía de EEUU afirma que Honduras es un “narcoestado” que contó con la ayuda del presidente Hernández 
+![nomb](https://www.nodal.am/wp-content/uploads/2021/03/Juan-Orlando-Hernandez-Honduras-357x210.jpg")
 
-[NOTA](https://www.nodal.am/2021/03/paraguay-exigen-la-renuncia-del-presidente-abdo-benitez-en-el-quinto-dia-de-protestas/)  Paraguay  Exigen la renuncia del presidente Abdo Benítez en el quinto día de protestas 
+[NOTA](https://www.nodal.am/2021/03/fiscalia-de-eeuu-afirma-que-honduras-es-un-narcoestado-que-conto-con-la-ayuda-del-presidente-hernandez/)  Fiscalía de EEUU afirma que Honduras es un “narcoestado” que contó con la ayuda del presidente Hernández  
+
+[NOTA](https://www.nodal.am/2021/03/paraguay-exigen-la-renuncia-del-presidente-abdo-benitez-en-el-quinto-dia-de-protestas/)  Paraguay  Exigen la renuncia del presidente Abdo Benítez en el quinto día de protestas   Brasil bate nuevo récord de muertes y supera los 11 millones de casos de coronavirus  Colombia  Condenan a expresidente de la Corte Suprema por corrupción 
+
+[NOTA](https://www.nodal.am/2021/03/paraguay-exigen-la-renuncia-del-presidente-abdo-benitez-en-el-quinto-dia-de-protestas/)  Paraguay  Exigen la renuncia del presidente Abdo Benítez en el quinto día de protestas  
 
 [NOTA](https://www.nodal.am/2021/03/brasil-bate-nuevo-record-de-muertes-y-supera-los-11-millones-de-casos-de-coronavirus/)  Brasil bate nuevo récord de muertes y supera los 11 millones de casos de coronavirus 
 
 [NOTA](https://www.nodal.am/2021/03/colombia-condenan-a-expresidente-de-la-corte-suprema-por-corrupcion/)  Colombia  Condenan a expresidente de la Corte Suprema por corrupción 
-
-[NOTA](https://www.nodal.am/2021/03/el-mas-gano-tres-gobernaciones-y-se-disputara-otras-cuatro-en-segunda-vuelta-segun-conteo-rapido/)  Según conteo rápido, el MAS ganó tres gobernaciones y disputará otras cuatro en segunda vuelta 
 
 <a name='rt'></a>
 ---------------------
