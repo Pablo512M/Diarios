@@ -1,11 +1,11 @@
-<center>Ultima actualización: 01:48 - 10/03/2021</center>
+<center>Ultima actualización: 02:02 - 10/03/2021</center>
 
 ---------------------
 ##### <center>Página12</center>
 
 ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/na01fo01_1661.jpg?itok=SAtsLjEa)
 
-[Ver Nota](https://www.pagina12.com.ar/328504-cronica-del-caos-en-los-vacunatorios-portenos) Cientos de adultos mayores pasaron horas bajo el sol y amontonados cuando fueron a inmunizarse. EL DESAMPARO. Cuadras de cola al sol, desmayos, aglomeraciones y largas esperas sin atención fueron las postales que mostraron el Luna Park y el estadio de San Lorenzo, donde el Gobierno porteño eligió vacunar a los mayores de 80 años. En medio de semejante desorganización, se conoció que el ministro de Salud, Fernán Quirós, había rechazado ofertas de colaboración del PAMI.. Por . Werner Pertot
+[Ver Nota](https://www.pagina12.com.ar/328504-cronica-del-caos-en-los-vacunatorios-portenos) Los mayores de 80 pasaron horas amontonados bajo el sol cuando fueron a vacunarse**EL DESAMPARO**Cuadras de cola al sol, desmayos, aglomeraciones y largas esperas sin atención fueron las postales que mostraron el Luna Park y el estadio de San Lorenzo, donde el Gobierno porteño eligió vacunar a los mayores de 80 años. En medio de semejante desorganización, se conoció que el ministro de Salud, Fernán Quirós, había rechazado ofertas de colaboración del PAMI.**Por **Werner Pertot
 
 
 
@@ -107,7 +107,7 @@
 
 [Ver Nota](https://www.lanacion.com.ar/politica/el-caos-en-el-vacunatorio-del-luna-park-volvio-a-tensar-la-relacion-entre-el-gobierno-y-la-ciudad-nid09032021/) Luna Park. El caos volvió a tensar la relación entre el Gobierno y la Ciudad     Por Santiago Dapelo
 
-[Ver Nota](https://www.lanacion.com.ar/el-mundo/avanza-un-fallo-contra-sergio-moro-que-dinamitaria-al-lava-jato-nid09032021/) Brasil. Avanza un fallo contra Moro que dinamitaría al Lava Jato     Por Marcelo Silva de Sousa
+[Ver Nota](https://www.lanacion.com.ar/seguridad/misterio-en-belgrano-balean-a-un-abogado-y-no-quiere-que-lo-atiendan-nid09032021/) Misterio en Belgrano. Un abogado fue baleado en la cara
 
 ---------------------
 ##### <center>221 Digital</center>
