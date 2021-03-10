@@ -51,7 +51,7 @@
 ---------------------
 #### <center>Nodal</center>
 
-![nomb](https://www.nodal.am/wp-content/uploads/2021/03/Juan-Orlando-Hernandez-Honduras-357x210.jpg")
+![nomb](https://www.nodal.am/wp-content/uploads/2021/03/Juan-Orlando-Hernandez-Honduras-357x210.jpg)
 
 [NOTA](https://www.nodal.am/2021/03/fiscalia-de-eeuu-afirma-que-honduras-es-un-narcoestado-que-conto-con-la-ayuda-del-presidente-hernandez/)  Fiscalía de EEUU afirma que Honduras es un “narcoestado” que contó con la ayuda del presidente Hernández  
 
@@ -66,52 +66,4 @@
 <a name='rt'></a>
 ---------------------
 #### <center>RT</center>
-
-[NOTA](https://actualidad.rt.com//actualidad/385886-maduro-denuncia-600-casos-sobornos-colombia) 
-                Maduro denuncia que Venezuela ha detectado 600 intentos de sobornos a sus militares por parte de la inteligencia colombiana
-            
-
-[NOTA](https://actualidad.rt.com//actualidad/385810-terremoto-politico-brasil-anulacion-condenas-lula) 
-                Terremoto político en Brasil tras la anulación de las condenas a Lula da Silva
-            
-
-[NOTA](https://actualidad.rt.com//actualidad/385880-expertos-cuestionar-viabilidad-proyecto-neom) 
-                ¿Es viable el proyecto saudita de una ciudad de 170 kilómetros de extensión sin automóviles, calles, ni emisiones de carbono?
-            
-
-[NOTA](https://actualidad.rt.com//actualidad/385896-crece-respaldo-juicio-politico-abdo-paraguay) 
-                Crece el respaldo para un juicio político contra el Gobierno de Mario Abdo Benítez en el quinto día de manifestaciones en Paraguay
-            
-
-[NOTA](https://actualidad.rt.com//actualidad/385829-colegiala-desencadenar-decapitacion-samuel-paty-mentiras) 
-                La colegiala que desencadenó la decapitación del profesor francés Samuel Paty admite que mintió sobre él
-            
-
-<a name='lanacion'></a>
----------------------
-#### <center>La Nación</center>
-
-[NOTA](https://www.lanacion.com.ar/politica/alberto-fernandez-un-presidente-mas-debilitado-nid09032021/) Análisis. Alberto Fernández, un presidente más debilitado       La decisión de remover a Losardo muestra cuánto pesa la voluntad de Cristina; la ''nueva etapa'' en la relación con la Justicia reduce al ''albertismo'' a la mínima expresión          Por Joaquín Morales Solá
-
-[NOTA](https://www.lanacion.com.ar/deportes/carlos-bilardo-recibio-la-vacuna-contra-el-coronavirus-y-sigue-sin-saber-sobre-la-muerte-de-diego-nid10032021/) Bilardo. La vacuna contra el coronavirus y la noticia de la muerte de Maradona
-
-[NOTA](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/casas-abandonadas-el-destino-de-las-misteriosas-viviendas-de-la-ciudad-nid10032021/) A FONDO  Casas abandonadas. El destino de las misteriosas viviendas de la Ciudad     Por Sebastián Prats
-
-[NOTA](https://www.lanacion.com.ar/sociedad/incendios-en-chubut-el-fuego-ya-llego-a-las-casas-y-crece-la-preocupacion-nid10032021/) VIDEO  Alerta. Incendios en Chubut: el fuego ya llegó a las casas y crece la preocupación
-
-[NOTA](https://www.lanacion.com.ar/opinion/alberto-fernandez-y-el-recuerdo-de-el-tio-nid10032021/) Análisis. Alberto Fernández y el recuerdo de El Tío         Por Pablo Mendelevich
-
-<a name='221digital'></a>
----------------------
-#### <center>221 Digital</center>
-
-[NOTA](https://www.0221.com.ar/nota/2021-3-9-20-3-0-edelap-anuncio-cortes-de-luz-por-obras-en-distintos-barrios-de-la-plata) ESTE MIÉRCOLES: EDELAP anunció cortes de luz por obras en distintos barrios de La Plata
-
-[NOTA](https://www.0221.com.ar/nota/2021-3-9-19-5-0-escandalo-en-berisso-denuncian-que-echaron-al-jefe-de-bomberos-por-pedir-vacunas) MARCELO MANOLIO: Escándalo en Berisso: denuncian que echaron al jefe de Bomberos por pedir vacunas
-
-[NOTA](https://www.0221.com.ar/nota/2021-3-9-17-13-0-por-el-inicio-de-clases-el-uso-del-transporte-publico-en-la-plata-subio-un-15) TRANSPORTE: Por el inicio de clases, el uso del transporte público en La Plata subió un 15%
-
-[NOTA](https://www.0221.com.ar/nota/2021-3-7-18-40-0-video-deian-veron-hizo-su-debut-en-la-goleada-de-estudiantes-sobre-arsenal) LA DINASTÍA CONTINÚA: VIDEO: Deian Verón hizo su debut en la goleada de Estudiantes sobre Arsenal
-
-[NOTA](https://www.0221.com.ar/nota/2021-3-7-16-48-0-contundencia-lujos-y-un-debut-especial-en-la-goleada-del-pincha-contra-arsenal) 5 a 0: Contundencia, lujos y un debut especial en la goleada del Pincha
 
