@@ -1,4 +1,4 @@
-<a name='index'></a>Secciones: [Pagina12](#pagina12) &nbsp;&nbsp; [Infobae](#infobae)<FONT SIZE=1>Ultima actualización: 02:39 - 10/03/2021<a name='pagina12'></a>
+<a name='index'></a>Secciones: [Pagina12](#pagina12) &nbsp;&nbsp; [Infobae](#infobae)<a name='pagina12'></a>
 ---------------------
 ##### <center>Página12</center>
 
