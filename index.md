@@ -1,6 +1,6 @@
-<center>Ultima actualización: 02:19 - 10/03/2021</center>
+<a name='index'></a>[Pagina12](#pagina12)[Infobae](#infobae)<center>Ultima actualización: 02:25 - 10/03/2021</center>
 
----------------------
+<a name='pagina12'></a>---------------------
 ##### <center>Página12</center>
 
 ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/na01fo01_1661.jpg?itok=SAtsLjEa)
@@ -62,7 +62,7 @@
 
 
 
----------------------
+<a name='infobae'></a>---------------------
 ##### <center>Infobae</center>
 
 ![nomb](https://www.infobae.com/new-resizer/ZoverIeKq2tqu9Qn9hgCXo0k-qQ=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/T7HTE37VYNGVRBAWQTZ73TF6YA.jpg)
