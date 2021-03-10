@@ -1,4 +1,4 @@
-<center>Ultima actualización: 01:16 - 10/03/2021</center>
+<center>Ultima actualización: 01:28 - 10/03/2021</center>
 
 ---------------------
 ##### <center>Página12</center>
@@ -78,9 +78,9 @@
 ---------------------
 ##### <center>Infobae</center>
 
-![nomb](https://www.infobae.com/new-resizer/zL5KJwijtLFEl3ZBFFSz4bHcBO4=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/MZBVLRY4FBCEDCJKNOURPIGQTY.jpg)
+![nomb](https://www.infobae.com/new-resizer/nGfS32mhT-NjGGwgtk_pzYoWgcg=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/SM6J67ZF6JDLLGO2QDJE4KUA4Y.jpg)
 
-[Ver Nota](/politica/2021/03/09/el-gobierno-porteno-reconocio-los-problemas-con-el-operativo-de-vacunacion-manana-sumaran-cinco-nuevos-centros/) El Gobierno porteño reconoció los problemas con el operativo de vacunación: mañana sumarán cinco nuevos centrosPor Federico Millenaar
+[Ver Nota](/politica/2021/03/10/tras-las-fallas-en-el-operativo-de-vacunacion-el-gobierno-porteno-habilitara-hoy-nuevos-centros-para-atender-a-los-mayores-de-80-anos/) Tras las fallas en el operativo de vacunación, el Gobierno porteño habilitará hoy nuevos centros para atender a los mayores de 80 años  Por Federico Millenaar
 
 ---------------------
 ##### <center>Infobae</center>
