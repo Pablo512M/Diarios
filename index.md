@@ -35,6 +35,8 @@
 ---------------------
 #### <center>Infobae</center>
 
+![nomb](https://www.infobae.com/new-resizer/KD0PXIUw9PFqkCM1nPzlMTZArkc=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/XKNJLSIPHND4LL323NIXEA4QSY.jpeg)
+
 [NOTA](https://www.infobae.com/politica/2021/03/10/el-presidente-el-increible-desmanejo-para-reemplazar-a-losardo-y-una-linea-clara-mas-batallas-con-el-poder-judicial/) El Presidente, el increíble desmanejo para reemplazar a Losardo y una línea clara: más batallas con el Poder JudicialLa salida de la ministra muestra tiempos llamativos y danza de nombres para sucederla. La dilación de las definiciones es un costo adicional para el Gobierno. Pero el sentido de la nueva gestión ya fue anticipado por el discurso presidencial y el alegato de CFKPor Eduardo Aulicino
 
 [NOTA](https://www.infobae.com/sociedad/2021/03/10/preocupacion-por-nuevos-incendios-forestales-en-rio-negro-y-chubut-las-llamas-llegaron-a-la-zona-urbana/) Preocupación por nuevos incendios forestales en Río Negro y Chubut: las llamas llegaron a la zona urbanaVIDEOS
