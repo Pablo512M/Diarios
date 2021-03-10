@@ -1,4 +1,4 @@
-<a name='index'></a>Secciones: [Pagina12](#pagina12) $~~~$ [Infobae](#infobae)<FONT SIZE=1><center>Ultima actualización: 02:32 - 10/03/2021</center></font>
+<a name='index'></a>Secciones: [Pagina12](#pagina12) &nbsp;&nbsp; [Infobae](#infobae)<FONT SIZE=1><center>Ultima actualización: 02:35 - 10/03/2021</center></font>
 
 <a name='pagina12'></a>
 ---------------------
