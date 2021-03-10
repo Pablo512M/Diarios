@@ -1,9 +1,9 @@
-<center>Ultima actualización: 22:52 - 09/03/2021</center>
+<center>Ultima actualización: 23:14 - 09/03/2021</center>
 
 ---------------------
 ##### <center>Página12</center>
 
-<center> ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146646-15a.jpg?itok=2XrXa8TL)</center>
+![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146646-15a.jpg?itok=2XrXa8TL)
 
 [Ver Nota](https://www.pagina12.com.ar/328512-mejora-el-salario-y-busca-dinamizar-el-consumo) Plenario de las comisiones de Presupuesto y Trabajo de Diputados para tratar la reforma en el Impuesto a las Ganancias . Mejora el salario y busca dinamizar el consumo. La iniciativa oficial tiene un costo fiscal de 41.250 millones de pesos, recursos que el Gobierno evalúa que se volcarán al mercado interno. Se modificaron algunos puntos del proyecto. Se eximió al aguinaldo y la reforma es retroactiva al primero de enero. Se debatirá en el recinto el miércoles 17 o jueves 18 de marzo.. Por . Natalí Risso
 
@@ -12,7 +12,7 @@
 ---------------------
 ##### <center>Página12</center>
 
-<center> ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146691-losardo_0.jpg?itok=VyTVjLqx)</center>
+![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146691-losardo_0.jpg?itok=VyTVjLqx)
 
 [Ver Nota](https://www.pagina12.com.ar/328543-marcela-losardo-presento-su-renuncia) Marcela Losardo presentó su renuncia La exministra será embajadora ante la UNESCOPor Luciana Bertoia
 
@@ -21,7 +21,7 @@
 ---------------------
 ##### <center>Página12</center>
 
-<center> ![nomb](https://www.pagina12.com.ar/assets/media/assets/video-icon.svg)</center>
+![nomb](https://www.pagina12.com.ar/assets/media/assets/video-icon.svg)
 
 [Ver Nota](https://www.pagina12.com.ar/328402-la-des-organizacion-del-gobierno-porteno-para-vacunar-en-el-) La (des) organización del gobierno porteño para vacunar en el Luna Park  Adultos mayores bajo el rayo del sol y amontonados
 
@@ -30,7 +30,7 @@
 ---------------------
 ##### <center>Página12</center>
 
-<center> ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146537-whatsapp-20image-202021-03-09-20at-2016-31-34.jpeg?itok=81DLlcB-)</center>
+![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146537-whatsapp-20image-202021-03-09-20at-2016-31-34.jpeg?itok=81DLlcB-)
 
 [Ver Nota](https://www.pagina12.com.ar/328448-el-pami-reitero-el-ofrecimiento-de-colaboracion-a-la-ciudad) El PAMI reiteró su ofrecimiento de colaboración a la Ciudad Larreta había rechazado la propuesta la semana pasada
 
@@ -39,7 +39,7 @@
 ---------------------
 ##### <center>Página12</center>
 
-<center> ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/oreiro.jpg?itok=HqafY3td)</center>
+![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/oreiro.jpg?itok=HqafY3td)
 
 [Ver Nota](https://www.pagina12.com.ar/328437-natalia-oreiro-el-ciudadano-debe-involucrarse-en-politica-po) Natalia Oreiro: "El ciudadano debe involucrarse en política porque son sus derechos" La actriz habla de cine, política y de su historia de amor con RusiaPor Oscar Ranzani
 
@@ -48,7 +48,7 @@
 ---------------------
 ##### <center>Página12</center>
 
-<center> ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146636-whatsapp-20image-202021-03-09-20at-2019-51-09.jpeg?itok=Ms-cb-QG)</center>
+![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146636-whatsapp-20image-202021-03-09-20at-2019-51-09.jpeg?itok=Ms-cb-QG)
 
 [Ver Nota](https://www.pagina12.com.ar/328509-ee-uu-comenzo-el-juicio-por-el-asesinato-de-george-floyd) EE.UU: comenzó el juicio por el asesinato de George Floyd  Derek Chauvin enfrenta cargos por asesinato en segundo grado y homicidio involuntario
 
@@ -101,15 +101,15 @@
 
 [Ver Nota](https://www.lanacion.com.ar/sociedad/marcela-losardo-presento-su-renuncia-y-sera-la-embajadora-ante-la-unesco-nid09032021/) Ahora. Marcela Losardo presentó su renuncia y será la embajadora ante la Unesco       Fuentes de Casa Rosada confirmaron a LA NACION que la exministra de Justicia dejó su cargo y aceptó liderar la representación nacional del organismo con sede en París          Por José María Costa
 
-[Ver Nota](https://www.lanacion.com.ar/politica/amado-boudou-fijan-una-audiencia-para-decidir-donde-cumplira-su-condena-nid09032021/) Amado Boudou. Citan a una audiencia para decidir dónde cumplirá su condena     Por Hernán Cappiello
-
 [Ver Nota](https://www.lanacion.com.ar/politica/el-caos-en-el-vacunatorio-del-luna-park-volvio-a-tensar-la-relacion-entre-el-gobierno-y-la-ciudad-nid09032021/) Luna Park. El caos volvió a tensar la relación entre el Gobierno y la Ciudad     Por Santiago Dapelo
 
-[Ver Nota](https://www.lanacion.com.ar/economia/tarifas-de-luz-y-gas-deberian-subir-40-para-que-no-aumenten-los-subsidios-nid10032021/) Tarifas de luz y gas. Deberían subir 40% para que no aumenten los subsidios
+[Ver Nota](https://www.lanacion.com.ar/politica/amado-boudou-fijan-una-audiencia-para-decidir-donde-cumplira-su-condena-nid09032021/) Amado Boudou. Citan a una audiencia para decidir dónde cumplirá su condena     Por Hernán Cappiello
 
 [Ver Nota](https://www.lanacion.com.ar/el-mundo/avanza-un-fallo-contra-sergio-moro-que-dinamitaria-al-lava-jato-nid09032021/) Brasil. Avanza un fallo contra Moro que dinamitaría al Lava Jato     Por Marcelo Silva de Sousa
 
-[Ver Nota](https://www.lanacion.com.ar/deportes/atp-250-de-doha-roger-federer-regresa-al-circuito-y-se-mide-ante-evans-horario-y-tv-del-partido-nid09032021/) Vuelve Federer. Cómo ver el regreso del suizo tras un año: horario y TV
+[Ver Nota](https://www.lanacion.com.ar/seguridad/misterio-en-belgrano-balean-a-un-abogado-y-no-quiere-que-lo-atiendan-nid09032021/) Misterio en Belgrano. Un abogado fue baleado en la cara
+
+[Ver Nota](https://www.lanacion.com.ar/lifestyle/meghan-alejo-a-harry-de-su-familia-samantha-markle-ataco-a-su-hermana-nid10032021/) Cruce. ''Meghan alejó a Harry de su familia'': Samantha Markle atacó a su hermana
 
 ---------------------
 ##### <center>221 Digital</center>
