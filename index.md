@@ -1,6 +1,7 @@
-<a name='index'></a>[Pagina12](#pagina12)[Infobae](#infobae)<center>Ultima actualización: 02:25 - 10/03/2021</center>
+<a name='index'></a>Secciones: [Pagina12](#pagina12) $~~~$ [Infobae](#infobae)<FONT SIZE=1><center>Ultima actualización: 02:32 - 10/03/2021</center></font>
 
-<a name='pagina12'></a>---------------------
+<a name='pagina12'></a>
+---------------------
 ##### <center>Página12</center>
 
 ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/na01fo01_1661.jpg?itok=SAtsLjEa)
