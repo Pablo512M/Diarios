@@ -1,4 +1,5 @@
-<a name='index'></a>[Pagina12](#pagina12) &nbsp;&nbsp; [Infobae](#infobae) &nbsp;&nbsp; [La Nacion](#lanacion) &nbsp;&nbsp; [221 Digital](#221digital)<a name='pagina12'></a>
+<a name='index'></a>
+&nbsp;&nbsp; [Pagina12](#pagina12) &nbsp;&nbsp; [Infobae](#infobae) &nbsp;&nbsp; [La Nacion](#lanacion) &nbsp;&nbsp; [221 Digital](#221digital)<a name='pagina12'></a>
 ---------------------
 ##### <center>Página12</center>
 
@@ -64,16 +65,9 @@
 <a name='infobae'></a>---------------------
 ##### <center>Infobae</center>
 
-![nomb](https://www.infobae.com/new-resizer/ZoverIeKq2tqu9Qn9hgCXo0k-qQ=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/T7HTE37VYNGVRBAWQTZ73TF6YA.jpg)
+![nomb](https://www.infobae.com/new-resizer/KD0PXIUw9PFqkCM1nPzlMTZArkc=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/XKNJLSIPHND4LL323NIXEA4QSY.jpeg)
 
-[NOTA](/politica/2021/03/09/sin-definiciones-de-alberto-fernandez-hay-incertidumbre-y-cautela-en-el-gobierno-por-el-reemplazo-de-marcela-losardo/) Sin definiciones de Alberto Fernández, hay incertidumbre y cautela en el Gobierno por el sucesor de Marcela LosardoEl Presidente pasó la tarde en Casa Rosada evaluando posibilidades. Martín Soria y Ramiro Gutiérrez eran las principales apuestas. Había expectativa y pases de factura tras el anuncio sobre la salida de la ministra de JusticiaPor Brenda Struminger
-
----------------------
-##### <center>Infobae</center>
-
-![nomb](https://www.infobae.com/new-resizer/JtTcTJFcYf51G0ORKkaW13T6PpQ=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/XJ5UMQCOCFDYRF2P57RG2WCLGY.jpg)
-
-[NOTA](/politica/2021/03/09/marcela-losardo-presentara-su-renuncia-al-ministerio-de-justicia-y-sera-embajadora-argentina-en-la-unesco/) Losardo presentará su renuncia al Ministerio de Justicia y será embajadora argentina ante la UnescoPor Román Lejtman
+[NOTA](/politica/2021/03/10/el-presidente-el-increible-desmanejo-para-reemplazar-a-losardo-y-una-linea-clara-mas-batallas-con-el-poder-judicial/) El Presidente, el increíble desmanejo para reemplazar a Losardo y una línea clara: más batallas con el Poder JudicialLa salida de la ministra muestra tiempos llamativos y danza de nombres para sucederla. La dilación de las definiciones es un costo adicional para el Gobierno. Pero el sentido de la nueva gestión ya fue anticipado por el discurso presidencial y el alegado de CFKPor Eduardo Aulicino
 
 ---------------------
 ##### <center>Infobae</center>
@@ -85,23 +79,30 @@
 ---------------------
 ##### <center>Infobae</center>
 
-![nomb](https://www.infobae.com/new-resizer/nGfS32mhT-NjGGwgtk_pzYoWgcg=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/SM6J67ZF6JDLLGO2QDJE4KUA4Y.jpg)
+![nomb](https://www.infobae.com/new-resizer/hYp3MPZcWo2Dr4w3TNIrB85VhU8=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/BBCZ42BM45BEPLDL3FMXTK36PI.jpg)
 
-[NOTA](/politica/2021/03/10/tras-las-fallas-en-el-operativo-de-vacunacion-el-gobierno-porteno-habilitara-hoy-nuevos-centros-para-atender-a-los-mayores-de-80-anos/) Tras las fallas en el operativo de vacunación, el Gobierno porteño habilitará hoy nuevos centros para atender a los mayores de 80 años  Por Federico Millenaar
-
----------------------
-##### <center>Infobae</center>
-
-![nomb](https://www.infobae.com/new-resizer/xvUdBjwitPZZ8NKvVxOXxGzigkY=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/4ULVAS4DBRBPROBNNG4D2UAXZU.jpg)
-
-[NOTA](/politica/2021/03/09/fernan-quiros-pidio-disculpas-por-el-fallido-operativo-para-vacunar-a-los-mayores-de-80-anos-subestimamos-la-cantidad-de-personas-que-iban-acompanadas/) Fernán Quirós pidió disculpas por el fallido operativo para vacunar a los mayores de 80 años: su explicaciónPor Martín Candalaft
+[NOTA](/historias/2021/03/10/cine-porno-alcoholismo-y-un-pasado-tragico-que-reinvento-las-oscuras-vidas-paralelas-de-jon-hamm-y-mad-men/) Cine porno, alcoholismo y un pasado trágico que reinventó: las vidas paralelas de Jon Hamm y Mad MenPor Mercedes Funes
 
 ---------------------
 ##### <center>Infobae</center>
 
-![nomb](https://www.infobae.com/new-resizer/C4JkSUsj7PupLAhJostl_EnaQf8=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/3MWGZALYUJASPOOJIPOH2CISMA.jpg)
+![nomb](https://www.infobae.com/new-resizer/XMHiM4guKYQg8gE8HA4G3upM_XE=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/RW3I3CJU4RAEPF2X46455BLYNI.jpg)
 
-[NOTA](/teleshow/infoshow/2021/03/09/jorge-lanata-fue-dado-de-alta-continuara-con-su-tratamiento-de-manera-domiciliaria/) Jorge Lanata fue dado de alta: continuará con su tratamiento de manera domiciliariaPor Constanza Kong
+[NOTA](/economia/2021/03/10/precios-de-referencia-y-denuncias-de-consumidores-los-mecanismos-del-gobierno-para-evitar-maniobras-especulativas/) Precios de referencia y denuncias: los mecanismos del Gobierno para evitar maniobras especulativasPor Natalia Donato
+
+---------------------
+##### <center>Infobae</center>
+
+![nomb](https://www.infobae.com/new-resizer/JtTcTJFcYf51G0ORKkaW13T6PpQ=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/XJ5UMQCOCFDYRF2P57RG2WCLGY.jpg)
+
+[NOTA](/politica/2021/03/09/marcela-losardo-presentara-su-renuncia-al-ministerio-de-justicia-y-sera-embajadora-argentina-en-la-unesco/) Losardo presentará su renuncia al Ministerio de Justicia y será embajadora ante la UnescoPor Román Lejtman
+
+---------------------
+##### <center>Infobae</center>
+
+![nomb](https://www.infobae.com/new-resizer/Ng3vLPCuHFBT_O3nRdlyWPkLoc8=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/FUZRMDXLOJE5JG6OGT4ELDKRH4.jpg)
+
+[NOTA](/sociedad/2021/03/10/la-pelicula-que-fellini-filmo-hace-60-anos-y-nos-muestra-como-fuimos-y-somos-en-la-pandemia/) La película que Fellini filmó hace 60 años y nos muestra cómo fuimos y somos en la pandemiaPor Alberto Amato
 
 <a name='lanacion'></a>
 ---------------------
