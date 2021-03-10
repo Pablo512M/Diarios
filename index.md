@@ -1,4 +1,4 @@
- &nbsp;&nbsp; [Pagina12](#pagina12) &nbsp;&nbsp; [Infobae](#infobae) &nbsp;&nbsp; [La Nacion](#lanacion) &nbsp;&nbsp; [221](#221digital) 
+.markdown-preview.markdown-preview { p, ul, ol {font-size: 1.2em;} }' &nbsp;&nbsp; [Pagina12](#pagina12) &nbsp;&nbsp; [Infobae](#infobae) &nbsp;&nbsp; [La Nacion](#lanacion) &nbsp;&nbsp; [221](#221digital) 
 
 <a name='pagina12'></a>
 ---------------------
@@ -58,13 +58,13 @@
 ---------------------
 ##### <center>La Nación</center>
 
-[NOTA](https://www.lanacion.com.ar/politica/alberto-fernandez-un-presidente-mas-debilitado-nid09032021/) Análisis. Alberto Fernández, un presidente más debilitado       La decisión de remover a Losardo muestra cuánto pesa la voluntad de Cristina; la ''nueva etapa'' en la relación con la Justicia reduce al ''albertismo'' a la mínima expresión
+[NOTA](https://www.lanacion.com.ar/politica/alberto-fernandez-un-presidente-mas-debilitado-nid09032021/) Análisis. Alberto Fernández, un presidente más debilitado       La decisión de remover a Losardo muestra cuánto pesa la voluntad de Cristina; la ''nueva etapa'' en la relación con la Justicia reduce al ''albertismo'' a la mínima expresión          Por Joaquín Morales Solá
 
-[NOTA](https://www.lanacion.com.ar/sociedad/incendios-en-chubut-el-fuego-ya-llego-a-las-casas-y-crece-la-preocupacion-nid10032021/) VIDEO  Alerta. Incendios en Chubut: el fuego ya llegó a las casas y crece la preocupación
+[NOTA](https://www.lanacion.com.ar/deportes/carlos-bilardo-recibio-la-vacuna-contra-el-coronavirus-y-sigue-sin-saber-sobre-la-muerte-de-diego-nid10032021/) Bilardo. La vacuna contra el coronavirus y la noticia de la muerte de Maradona
 
 [NOTA](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/casas-abandonadas-el-destino-de-las-misteriosas-viviendas-de-la-ciudad-nid10032021/) Casas abandonadas. El destino de las misteriosas viviendas de la Ciudad     Por Sebastián Prats
 
-[NOTA](https://www.lanacion.com.ar/deportes/carlos-bilardo-recibio-la-vacuna-contra-el-coronavirus-y-sigue-sin-saber-sobre-la-muerte-de-diego-nid10032021/) Bilardo. La vacuna contra el coronavirus y la noticia de la muerte de Maradona
+[NOTA](https://www.lanacion.com.ar/sociedad/incendios-en-chubut-el-fuego-ya-llego-a-las-casas-y-crece-la-preocupacion-nid10032021/) VIDEO  Alerta. Incendios en Chubut: el fuego ya llegó a las casas y crece la preocupación
 
 [NOTA](https://www.lanacion.com.ar/opinion/alberto-fernandez-y-el-recuerdo-de-el-tio-nid10032021/) Análisis. Alberto Fernández y el recuerdo de El Tío         Por Pablo Mendelevich
 
