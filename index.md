@@ -1,4 +1,6 @@
- &nbsp;&nbsp; [Pagina12](#pagina12) &nbsp;&nbsp; [Infobae](#infobae) &nbsp;&nbsp; [La Nacion](#lanacion) &nbsp;&nbsp; [221](#221digital) 
+ &nbsp;&nbsp; [Pagina12](#pagina12) &nbsp;&nbsp; [Infobae](#infobae) &nbsp;&nbsp; [Nodal](#nodal)
+
+ &nbsp;&nbsp; [RT](#rt) &nbsp;&nbsp; [La Nacion](#lanacion) &nbsp;&nbsp; [221](#221digital)
 
 <a name='pagina12'></a>
 ---------------------
@@ -68,9 +70,9 @@
 
 [NOTA](https://www.lanacion.com.ar/politica/alberto-fernandez-un-presidente-mas-debilitado-nid09032021/) Análisis. Alberto Fernández, un presidente más debilitado       La decisión de remover a Losardo muestra cuánto pesa la voluntad de Cristina; la ''nueva etapa'' en la relación con la Justicia reduce al ''albertismo'' a la mínima expresión          Por Joaquín Morales Solá
 
-[NOTA](https://www.lanacion.com.ar/deportes/carlos-bilardo-recibio-la-vacuna-contra-el-coronavirus-y-sigue-sin-saber-sobre-la-muerte-de-diego-nid10032021/) Bilardo. La vacuna contra el coronavirus y la noticia de la muerte de Maradona
+[NOTA](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/casas-abandonadas-el-destino-de-las-misteriosas-viviendas-de-la-ciudad-nid10032021/) A FONDO  Casas abandonadas. El destino de las misteriosas viviendas de la Ciudad     Por Sebastián Prats
 
-[NOTA](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/casas-abandonadas-el-destino-de-las-misteriosas-viviendas-de-la-ciudad-nid10032021/) Casas abandonadas. El destino de las misteriosas viviendas de la Ciudad     Por Sebastián Prats
+[NOTA](https://www.lanacion.com.ar/deportes/carlos-bilardo-recibio-la-vacuna-contra-el-coronavirus-y-sigue-sin-saber-sobre-la-muerte-de-diego-nid10032021/) Bilardo. La vacuna contra el coronavirus y la noticia de la muerte de Maradona
 
 <a name='221digital'></a>
 ---------------------
