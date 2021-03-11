@@ -1,4 +1,4 @@
-![nomb](https://lh3.googleusercontent.com/DL80g-iAxCGV9ou91uDhuYRQPDbUAXnd6DVUvkQZy4WP_SaOfPh4ycNgSY3fTjtS_4CPqOuCXJd6I7ywk9FdX6arFTtC70f_SQVjIhA1T89EfKw7tgwJsp6pM4OgmPGOhM0WARrTINUxidhn0fraqGq9YiKyIMLHiGDZrnaIqifykHFcWCFjisa4IEzREIgqqWZHKKSyBMjh9xHEUA28l2WJs3QonyvZEblV5nrwzIhIqrUdzVAHk6HpmoOXasCD4gRJR_N61hRy1y4bIxPtCVSlfHNwtmOzNgslcaJknqZOaiAsOy6H_mOW_rDpd1mTZrD3bMzrWtUdZ8_UAEIq4e1k6fbk65_u8EOz-ckgMBR_nomu3D04iYudgRoEESLf1JphzGGy-MijWsi41pbZKwcAQU7NQZqhc5RakFv7CNfsAJTc5fl_lIVMrcRd4cE_bXE1TZQp0eb61MXHMACalL9U4V-LPpN-mfiMzhIf5TRVA0xKFlP15xIDLZaYpfsDlhkTl_QOdxeGscJc56w8YxjqbX5ew2UuumF69tzlfK3HLbwJIYGzd5xR2o4OxrEz1GJKTQjlQGlGCdEoXlwKI8fgYC8h108faqi8vf-Kfl_kcR7sGi_koDUNEnIz3MoM72djn3bAY3f9O8kOzq4RG-tD5jKfEOWk9GnbclsdNsVCmZrMYRN6bVv9KdWsBHOBLXWGIgnrJSJ99OqDmMACpllK=w1669-h102-no?authuser=0)
+<img src='https://www.pagina12.com.ar/assets/media/logos/amp/logo_pagina_12_n.svg?v=1.0.277' width='100'>
 <a name='pagina12'></a>
 #### <center>Página12</center>
 
@@ -92,7 +92,7 @@
 ---------------------
 #### <center>La Nación</center>
 
-[NOTA](https://www.lanacion.com.ar/politica/rebelion-civil-contra-las-restricciones-y-septima-protesta-en-formosa-nid11032021/) Formosa. Una nueva movilización desafió las duras restricciones       Fue la séptima protesta contra la política de Gildo Insfrán; comerciantes y la ciudadanía en general repudian la fase 1 que rige en la provincia          Por Martín Boerr
+[NOTA](https://www.lanacion.com.ar/sociedad/disparidad-en-el-ritmo-de-vacunacion-entre-los-partidos-bonaerenses-nid11032021/) A FONDO   Ranking. Los partidos bonaerenses más y menos avanzados en la vacunación    Por José María Costa
 
 <a name='221digital'></a>
 ---------------------
