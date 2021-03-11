@@ -1,17 +1,15 @@
 <a name='pagina12'></a>
 #### <center>Página12</center>
 
-![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146825-larreta-20del-20d-c3-ada.jpg?itok=s3lzM--V)
+![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/na01fo01_1662.jpg?itok=nCrUzOgQ)
 
-[NOTA](https://www.pagina12.com.ar/328754-una-freno-a-la-cuestionada-oficina-anticorrupcion-de-la-ciud) La transparencia según Juntos por el Cambio 
+[NOTA](https://www.pagina12.com.ar/328787-beatriz-sarlo-y-su-desgraciada-metafora) POR ARRIBA DE LA MESA 
  
- Una freno a la cuestionada Oficina Anticorrupción de la Ciudad 
- 
- La jueza Romina Tesone consideró que el mecanismo de designación del titular del nuevo organismo podría ser inconstitucional. Para completar el panorama, el candidato que propuso el jefe de Gobierno porteño, Horacio Rodríguez Larreta, forma parte de sus alianzas políticas. 
+ La ensayista Beatriz Sarlo reconoció ante la Justicia que la oferta de vacunación que había recibido, que ella definió entonces como “por debajo de la mesa”, en realidad fue una convocatoria a sumarse a una iniciativa pública de concientización sobre la importancia de inmunizarse, cuando en ese momento arreciaba la campaña antivacunas de la oposición. 
  
  Por  
  
- Werner Pertot
+ Irina Hauser
 
 
 
@@ -19,15 +17,15 @@
 
 
 
-[NOTA](https://www.pagina12.com.ar/328699-la-tardia-autocritica-de-sarlo-no-debi-decir-por-debajo-de-l) La tardía autocrítica de Sarlo: "No debí decir por debajo de la mesa" “Me autocritico fuertemente"
+[NOTA](https://www.pagina12.com.ar/328773-escuchabamos-explosiones-de-autos-y-garrafas) "Escuchábamos explosiones de autos y garrafas" El relato de vecinos que durante horas quedaron rodeados por el fuegoPor María Fernanda Rezzano
 
 
 
-[NOTA](https://www.pagina12.com.ar/328746-lula-de-vuelta-al-ruedo) OpiniónLula de vuelta al ruedoPor Eric Nepomuceno
+[NOTA](https://www.pagina12.com.ar/328665-cristina-kirchner-recordo-el-historial-de-acosos-de-gemignan) Cristina Kirchner recordó el historial de acosos de Gemignani "¿Estarán esperando que le pegue a alguna?"Por Luciana Bertoia
 
 
 
-[NOTA](https://www.pagina12.com.ar/328745-la-camara-de-diputados-de-mexico-aprobo-la-legalizacion-de-l) La Cámara de Diputados de México aprobó la legalización de la marihuana La nueva legislación permitirá la posesión personal de hasta 28 gramos
+[NOTA](https://www.pagina12.com.ar/328776-la-vacunacion-en-la-ciudad-avanza-a-ritmo-lento) La vacunación en la Ciudad avanza a ritmo lento Tras las escenas de caos del martes y el pedido de perdón de QuirósPor Maria Cafferata
 
 
 
@@ -45,7 +43,7 @@
 
 [NOTA](https://www.infobae.com/economia/2021/03/10/luz-roja-en-el-tablero-de-guzman-los-bonos-se-desploman-ya-rinden-mas-de-20-y-pueden-complicar-su-estrategia/) Luz roja en el tablero de Guzmán: el derrumbe de los bonos complica la estrategia económica del GobiernoPor Matías Barbería
 
-[NOTA](https://www.infobae.com/sociedad/policiales/2021/03/11/detuvieron-a-un-conocido-productor-de-espectaculos-por-ofrecerle-sexo-a-menores-por-dinero/) Detuvieron a un conocido productor de espectáculos por ofrecerle dinero a menores por sexoPor Federico Fahsbender
+[NOTA](https://www.infobae.com/sociedad/policiales/2021/03/11/detuvieron-a-un-conocido-productor-de-espectaculos-por-ofrecerle-sexo-a-menores-por-dinero/) Detuvieron a un conocido productor de espectáculos por ofrecerles dinero a menores por sexoPor Federico Fahsbender
 
 <a name='nodal'></a>
 ---------------------
@@ -70,48 +68,40 @@
 ![nomb](https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604968be59bf5b50d062c27c.JPG)
 
 [NOTA](https://actualidad.rt.com//actualidad/386019-gobierno-ecuador-analisis-argentina-polemicas-declaraciones) 
-                Ecuador llama a consultas a su embajador en Argentina para "un análisis exhaustivo de las relaciones" tras las palabras de Alberto Fernández
+                Ecuador llama a consultas a su embajador en Argentina para "un análisis exhaustivo de las relaciones", tras las palabras de Alberto Fernández
             
 
 [NOTA](https://actualidad.rt.com//actualidad/385986-historico-mexico-legaliza-marihuana-resquebraja) 
                 México legaliza la marihuana, resquebraja políticas prohibicionistas y abre la puerta a un negocio multimillonario
             
 
+[NOTA](https://actualidad.rt.com//actualidad/385991-eeuu-vuelve-especular-china-perpetra-genocidio-acusar-acabar-indios) 
+                EE.UU. acusa a China del "genocidio" de los uigures y recibe una dura respuesta de Pekín
+            
+
 [NOTA](https://actualidad.rt.com//actualidad/385992-walter-delgatti-hombre-clave-liberacion-lula) 
                 Quién es el 'hacker' que puso en jaque la trama judicial de la operación 'Lava Jato' en Brasil
             
 
-[NOTA](https://actualidad.rt.com//opinion/ociel-ali-lopez/386000-antony-blinken-hombre-oposicion-venezolana-nombrar) 
-                Antony Blinken, el hombre que le marca el ritmo a la oposición venezolana (aunque sus dirigentes no lo nombren)
-            
-
-[NOTA](https://actualidad.rt.com//actualidad/385971-xi-instar-fuerzas-armadas-centrarse-preparacion-combate) 
-                Xi Jinping insta a las fuerzas armadas de China a centrarse en la "preparación para el combate" en medio de las tensiones con EE.UU.
+[NOTA](https://actualidad.rt.com//actualidad/386031-perseverance-sonido-laser) 
+                AUDIO: La NASA publica el primer sonido del láser del Perseverance destruyendo rocas en Marte
             
 
 <a name='lanacion'></a>
 ---------------------
 #### <center>La Nación</center>
 
-[NOTA](https://www.lanacion.com.ar/politica/vacunas-en-la-ciudad-relativizan-el-costo-politico-por-el-traspie-en-el-operativo-nid10032021/) Vacunas. En la Ciudad relativizan el costo por el traspié en el operativo       Después de admitir el error en la instrumentación de nuevos centros de vacunación, en el entorno de Larreta creen que no tendrá efecto político para el jefe de gobierno porteño          Por Matías Moreno
-
-[NOTA](https://www.lanacion.com.ar/economia/low-cost-las-aerolineas-comienzan-a-operar-vuelos-domesticos-en-aeroparque-a-partir-del-lunes-nid11032021/) Low cost. Las aerolíneas comienzan a operar en Aeroparque desde el lunes     Por Sofía Diamante
-
-[NOTA](https://www.lanacion.com.ar/politica/la-respuesta-de-soledad-quereilhac-tras-la-denuncia-de-beatriz-sarlo-nid10032021/) Vacunas. La respuesta de Soledad Quereilhac tras la denuncia de Beatriz Sarlo
-
-[NOTA](https://www.lanacion.com.ar/politica/beatriz-sarlo-me-autocritico-fuertemente-no-debi-decir-por-debajo-de-la-mesa-nid10032021/) Sarlo. "Cualquier cosa fuera de los protocolos es por debajo de la mesa"
-
-[NOTA](https://www.lanacion.com.ar/economia/campo/vicentin-la-empresa-rechazo-un-plan-que-respalda-el-banco-nacion-nid10032021/) Vicentin, complicada. La empresa rechazó un plan que respalda el Banco Nación     Por Fernando Bertello
+[NOTA](https://www.lanacion.com.ar/politica/rebelion-civil-contra-las-restricciones-y-septima-protesta-en-formosa-nid11032021/) Formosa. Una nueva movilización desafió las duras restricciones       Fue la séptima protesta contra la política de Gildo Insfrán; comerciantes y la ciudadanía en general repudian la fase 1 que rige en la provincia          Por Martín Boerr
 
 <a name='221digital'></a>
 ---------------------
 #### <center>221 Digital</center>
 
+[NOTA](https://www.0221.com.ar/nota/2021-3-10-22-25-0-sin-muertes-pero-con-116-casos-nuevos-asi-avanza-la-pandemia-en-la-plata) EMERGENCIA SANITARIA: Sin muertes pero con 116 casos nuevos, así avanza la pandemia en La Plata
+
 [NOTA](https://www.0221.com.ar/nota/2021-3-10-21-52-0-premiaran-a-las-mujeres-destacas-de-la-economia-social-en-la-plata) ESTE JUEVES: Premiarán a las "mujeres destacas de la economía social" en La Plata
 
 [NOTA](https://www.0221.com.ar/nota/2021-3-10-16-40-0-tensos-cruces-y-descargos-por-la-vacunacion-en-el-concejo-deliberante) COMISIÓN INVESTIGADORA: Tensos cruces y descargos por la vacunación en el Concejo Deliberante
-
-[NOTA](https://www.0221.com.ar/nota/2021-3-10-19-32-0--donde-se-puede-aprovechar-el-descuento-en-ypf-con-la-cuenta-dni-del-banco-provincia) ESTE JUEVES: ¿Dónde se puede aprovechar el descuento en YPF con la Cuenta DNI del Banco Provincia?
 
 [NOTA](https://www.0221.com.ar/nota/2021-3-10-9-38-0-pavone-revelo-un-detalle-del-historico-tiene-gatorei-de-carlos-bilardo) EN 2004: Pavone reveló un detalle del histórico "tiene Gatorei" de Carlos Bilardo
 
