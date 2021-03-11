@@ -2,8 +2,7 @@
 ---------------------
 #### <center>Página12</center>
 
-![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/na01fo01_1662.jpg?itok=nCrUzOgQ)
-
+<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/na01fo01_1662.jpg?itok=nCrUzOgQ' width='450'></center>
 [NOTA](https://www.pagina12.com.ar/328787-beatriz-sarlo-y-su-desgraciada-metafora) POR ARRIBA DE LA MESA 
  
  La ensayista Beatriz Sarlo reconoció ante la Justicia que la oferta de vacunación que había recibido, que ella definió entonces como “por debajo de la mesa”, en realidad fue una convocatoria a sumarse a una iniciativa pública de concientización sobre la importancia de inmunizarse, cuando en ese momento arreciaba la campaña antivacunas de la oposición. 
