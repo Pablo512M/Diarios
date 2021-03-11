@@ -32,8 +32,7 @@
 ---------------------
 #### <center>Infobae</center>
 
-![nomb](https://www.infobae.com/new-resizer/wqM8xPOXHBdZODe9PeBJO8FCq7I=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/3TU5V2KZEFA6RI5V4NKNV42NC4.jpg)
-
+<center><img src='https://www.infobae.com/new-resizer/wqM8xPOXHBdZODe9PeBJO8FCq7I=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/3TU5V2KZEFA6RI5V4NKNV42NC4.jpg' width='450'></center>
 [NOTA](https://www.infobae.com/politica/2021/03/11/el-presidente-busca-minimizar-el-impacto-de-la-salida-de-marcela-losardo-pero-potencia-la-pelea-de-poder-por-la-sucesion/) El Presidente busca minimizar el impacto de la salida de Marcela Losardo pero potencia la pelea de poder por la sucesiónLa dilación para resolver el tema amplifica en lugar de achicar su repercusión. Las versiones y operaciones cruzadas exponen además la tensión interna. Se va una figura antes destacada como moderada y albertista. Señal al Poder Judicial. Y un mensaje no registrado sobre la corrupciónPor Eduardo Aulicino
 
 [NOTA](https://www.infobae.com/economia/2021/03/11/cinco-motivos-por-los-que-los-bonos-argentinos-cotizan-como-si-estuvieran-en-default-aunque-no-lo-estan/) Por qué los bonos argentinos cotizan como si estuvieran en default aunque no lo estánPor Pablo Wende
@@ -47,8 +46,7 @@
 ---------------------
 #### <center>Nodal</center>
 
-![nomb](https://www.nodal.am/wp-content/uploads/2021/03/Lula1-357x210.jpg)
-
+<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/Lula1-357x210.jpg' width='450'></center>
 [NOTA](https://www.nodal.am/2021/03/brasil-lula-agradece-el-apoyo-del-papa-francisco-y-lideres-de-la-region/)  Brasil  Lula agradece el apoyo del Papa Francisco y líderes de la región  
 
 [NOTA](https://www.nodal.am/2021/03/colombia-ministro-de-defensa-califica-de-legitimo-al-bombardeo-que-asesino-a-menores-de-edad/)  Colombia  Ministro de Defensa califica de “legítimo” al bombardeo que asesinó a menores de edad   Bolivia  Detienen a almirante de la Armada implicado en el golpe de Estado contra Evo Morales  México  Diputados aprueba regulación de uso recreativo de la marihuana 
@@ -62,8 +60,7 @@
 ---------------------
 #### <center>RT</center>
 
-![nomb](https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604968be59bf5b50d062c27c.JPG)
-
+<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604968be59bf5b50d062c27c.JPG' width='450'></center>
 [NOTA](https://actualidad.rt.com//actualidad/386019-gobierno-ecuador-analisis-argentina-polemicas-declaraciones) 
                 Ecuador llama a consultas a su embajador en Argentina para "un análisis exhaustivo de las relaciones", tras las palabras de Alberto Fernández
             
