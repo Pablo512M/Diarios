@@ -1,4 +1,4 @@
-<center><img src='https://www.pagina12.com.ar/assets/media/logos/amp/logo_pagina_12_n.svg?v=1.0.277' width='100'></center>
+ &nbsp;<center><img src='https://www.pagina12.com.ar/assets/media/logos/amp/logo_pagina_12_n.svg?v=1.0.277' width='100'></center>
  &nbsp;
 ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/na01fo01_1662.jpg?itok=nCrUzOgQ)
 
@@ -28,21 +28,21 @@
 
 
 
-<center><img src='https://www.infobae.com/pf/resources/images/logo_infobae_naranja.svg?d=509' width='100'></center>
+ &nbsp;<center><img src='https://www.infobae.com/pf/resources/images/logo_infobae_naranja.svg?d=509' width='100'></center>
  &nbsp;
-![nomb](https://www.infobae.com/new-resizer/ffQe8Ef9G9czDQMrXuwI_Th_FbA=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/3Y56TFBGGBHBRKBKLU4X6JNL5I.jpg)
+![nomb](https://www.infobae.com/new-resizer/wqM8xPOXHBdZODe9PeBJO8FCq7I=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/3TU5V2KZEFA6RI5V4NKNV42NC4.jpg)
 
-[NOTA](https://www.infobae.com/america/america-latina/2021/03/10/ecuador-presento-una-energica-protesta-a-la-argentina-por-declaraciones-de-alberto-fernandez-sobre-lenin-moreno/) Ecuador convocó al embajador argentino para protestar tras las declaraciones de Alberto Fernández sobre Lenín MorenoLa cancillería ecuatoriana aseguró que con la medida busca realizar un “análisis exhaustivo” de las relaciones entre ambos países, luego de calificar como “intervención en los asuntos internos de otro Estado” a los dichos recientes del presidente argentinoPor Juan Gasalla
+[NOTA](https://www.infobae.com/politica/2021/03/11/el-presidente-busca-minimizar-el-impacto-de-la-salida-de-marcela-losardo-pero-potencia-la-pelea-de-poder-por-la-sucesion/) El Presidente busca minimizar el impacto de la salida de Marcela Losardo pero potencia la pelea de poder por la sucesiónLa dilación para resolver el tema amplifica en lugar de achicar su repercusión. Las versiones y operaciones cruzadas exponen además la tensión interna. Se va una figura antes destacada como moderada y albertista. Señal al Poder Judicial. Y un mensaje no registrado sobre la corrupciónPor Eduardo Aulicino
 
-[NOTA](https://www.infobae.com/economia/2021/03/10/jornada-financiera-los-bonos-volvieron-a-caer-y-el-riesgo-pais-se-acerco-a-1700-puntos/) Los bonos volvieron a caer y el riesgo país se acercó a 1.700 puntosPor Juan Gasalla
+[NOTA](https://www.infobae.com/economia/2021/03/11/cinco-motivos-por-los-que-los-bonos-argentinos-cotizan-como-si-estuvieran-en-default-aunque-no-lo-estan/) Por qué los bonos argentinos cotizan como si estuvieran en default aunque no lo estánPor Pablo Wende
 
-[NOTA](https://www.infobae.com/sociedad/2021/03/10/10m-movilizacion-en-el-centro-porteno-para-pedir-justicia-por-la-muerte-de-maradona/) #10M: corridas, robos y tensión en la marcha para pedir justicia por Diego MaradonaVIDEO
+[NOTA](https://www.infobae.com/america/tendencias-america/2021/03/11/un-ano-de-pandemia-en-el-mundo-como-evoluciono-el-covid-19-desde-su-aparicion-hasta-las-vacunas/) Un año de pandemia en el mundo: cómo evolucionó el COVID-19 desde su aparición hasta las vacunasVIDEO
 
-[NOTA](https://www.infobae.com/economia/2021/03/10/luz-roja-en-el-tablero-de-guzman-los-bonos-se-desploman-ya-rinden-mas-de-20-y-pueden-complicar-su-estrategia/) Luz roja en el tablero de Guzmán: el derrumbe de los bonos complica la estrategia económica del GobiernoPor Matías Barbería
+[NOTA](https://www.infobae.com/politica/2021/03/11/el-gobierno-confirmo-que-no-cerrara-la-frontera-con-brasil-pese-al-desmadre-sanitario-y-a-la-cepa-de-covid-19-que-circula-en-el-pais-vecino/) El Gobierno confirmó que no cerrará la frontera con Brasil, pese a las nuevas cepas de COVID-19 que circulan en el país vecinoPor Joaquín Cavanna
 
-[NOTA](https://www.infobae.com/sociedad/policiales/2021/03/11/detuvieron-a-un-conocido-productor-de-espectaculos-por-ofrecerle-sexo-a-menores-por-dinero/) Detuvieron a un conocido productor de espectáculos por ofrecerles dinero a menores por sexoPor Federico Fahsbender
+[NOTA](https://www.infobae.com/politica/2021/03/11/cristina-kirchner-pondra-un-juez-en-la-camara-federal-su-ex-abogado-sera-votado-hoy-para-un-tribunal-clave-de-comodoro-py/) Cristina Kirchner pondrá un juez en la Cámara Federal: su ex abogado será votado hoy para un tribunal clave de Comodoro PyVIDEO
 
-<center><img src='https://www.nodal.am/wp-content/uploads/2020/09/logo-chico.png' width='120'></center>
+ &nbsp;<center><img src='https://www.nodal.am/wp-content/uploads/2020/09/logo-chico.png' width='120'></center>
  &nbsp;
 ![nomb](https://www.nodal.am/wp-content/uploads/2021/03/Lula1-357x210.jpg)
 
@@ -56,7 +56,7 @@
 
 [NOTA](https://www.nodal.am/2021/03/mexico-diputados-aprueba-regulacion-de-uso-recreativo-de-la-marihuana/)  México  Diputados aprueba regulación de uso recreativo de la marihuana 
 
-<center><img src='https://pbs.twimg.com/profile_images/1018833905082871808/F7RZerA1_400x400.jpg' width='100'></center>
+ &nbsp;<center><img src='https://pbs.twimg.com/profile_images/1018833905082871808/F7RZerA1_400x400.jpg' width='80'></center>
  &nbsp;
 ![nomb](https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604968be59bf5b50d062c27c.JPG)
 
@@ -80,11 +80,11 @@
                 AUDIO: La NASA publica el primer sonido del láser del Perseverance destruyendo rocas en Marte
             
 
-<center><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_La_Naci%C3%B3n.svg/1280px-Logo_La_Naci%C3%B3n.svg.png' width='100'></center>
+ &nbsp;<center><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_La_Naci%C3%B3n.svg/1280px-Logo_La_Naci%C3%B3n.svg.png' width='100'></center>
  &nbsp;
 [NOTA](https://www.lanacion.com.ar/sociedad/disparidad-en-el-ritmo-de-vacunacion-entre-los-partidos-bonaerenses-nid11032021/) A FONDO   Ranking. Los partidos bonaerenses más y menos avanzados en la vacunación    Por José María Costa
 
-<center><img src='https://www.0221.com.ar/img/logo_principal.png' width='100' class='center'></center>
+ &nbsp;<center><img src='https://www.0221.com.ar/img/logo_principal.png' width='90' class='center'></center>
  &nbsp;
 [NOTA](https://www.0221.com.ar/nota/2021-3-10-22-25-0-sin-muertes-pero-con-116-casos-nuevos-asi-avanza-la-pandemia-en-la-plata) EMERGENCIA SANITARIA: Sin muertes pero con 116 casos nuevos, así avanza la pandemia en La Plata
 
