@@ -1,6 +1,6 @@
 <center><img src='https://pbs.twimg.com/media/EwLm1jcWUAQQizF?format=jpg&name=small' width='450'></center>
 ---------------------
-#### <center>Página12</center>
+### <center>Página12</center>
 ---------------------
 <center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/na01fo01_1662.jpg?itok=nCrUzOgQ' width='450'></center>
 [NOTA](https://www.pagina12.com.ar/328787-beatriz-sarlo-y-su-desgraciada-metafora) POR ARRIBA DE LA MESA 
@@ -34,7 +34,7 @@
 
 
 ---------------------
-#### <center>Infobae</center>
+### <center>Infobae</center>
 
 <center><img src='https://www.infobae.com/new-resizer/wqM8xPOXHBdZODe9PeBJO8FCq7I=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/3TU5V2KZEFA6RI5V4NKNV42NC4.jpg' width='450'></center>
 [NOTA](https://www.infobae.com/politica/2021/03/11/el-presidente-busca-minimizar-el-impacto-de-la-salida-de-marcela-losardo-pero-potencia-la-pelea-de-poder-por-la-sucesion/) El Presidente busca minimizar el impacto de la salida de Marcela Losardo pero potencia la pelea de poder por la sucesiónLa dilación para resolver el tema amplifica en lugar de achicar su repercusión. Las versiones y operaciones cruzadas exponen además la tensión interna. Se va una figura antes destacada como moderada y albertista. Señal al Poder Judicial. Y un mensaje no registrado sobre la corrupciónPor Eduardo Aulicino
@@ -48,7 +48,7 @@
 [NOTA](https://www.infobae.com/politica/2021/03/11/cristina-kirchner-pondra-un-juez-en-la-camara-federal-su-ex-abogado-sera-votado-hoy-para-un-tribunal-clave-de-comodoro-py/) Cristina Kirchner pondrá un juez en la Cámara Federal: su ex abogado será votado hoy para un tribunal clave de Comodoro PyVIDEO
 
 ---------------------
-#### <center>Nodal</center>
+### <center>Nodal</center>
 
 <center><img src='https://www.nodal.am/wp-content/uploads/2021/03/Lula1-357x210.jpg' width='450'></center>
 [NOTA](https://www.nodal.am/2021/03/brasil-lula-agradece-el-apoyo-del-papa-francisco-y-lideres-de-la-region/)  Brasil  Lula agradece el apoyo del Papa Francisco y líderes de la región  
@@ -62,7 +62,7 @@
 [NOTA](https://www.nodal.am/2021/03/mexico-diputados-aprueba-regulacion-de-uso-recreativo-de-la-marihuana/)  México  Diputados aprueba regulación de uso recreativo de la marihuana 
 
 ---------------------
-#### <center>RT</center>
+### <center>RT</center>
 
 <center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604968be59bf5b50d062c27c.JPG' width='450'></center>
 [NOTA](https://actualidad.rt.com//actualidad/386019-gobierno-ecuador-analisis-argentina-polemicas-declaraciones) 
@@ -86,7 +86,7 @@
             
 
 ---------------------
-#### <center>La Nación</center>
+### <center>La Nación</center>
 
 [NOTA](https://www.lanacion.com.ar/politica/el-extravagante-gabinete-de-no-ministros-que-arma-alberto-fernandez-nid11032021/) Análisis. El extravagante gabinete de "no ministros" que arma Alberto Fernández       La designación de colaboradores se ha convertido en una pesadilla para el Presidente; hay funcionarios de primera y de segunda, como en el vacunatorio       Por Carlos Pagni
 
@@ -99,7 +99,7 @@
 [NOTA](https://www.lanacion.com.ar/economia/becas-progresar-auh-aue-jubilaciones-y-pensiones-de-anses-quienes-cobran-el-11-de-marzo-nid11032021/) Anses. AUH, AUE, jubilaciones y pensiones: quiénes cobran el 11 de marzo
 
 ---------------------
-#### <center>221 Digital</center>
+### <center>221 Digital</center>
 
 [NOTA](https://www.0221.com.ar/nota/2021-3-10-22-25-0-sin-muertes-pero-con-116-casos-nuevos-asi-avanza-la-pandemia-en-la-plata) EMERGENCIA SANITARIA: Sin muertes pero con 116 casos nuevos, así avanza la pandemia en La Plata
 
