@@ -1,5 +1,5 @@
 <center><img src='https://www.pagina12.com.ar/assets/media/logos/amp/logo_pagina_12_n.svg?v=1.0.277' width='100'></center>
-
+ &nbsp;
 ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/na01fo01_1662.jpg?itok=nCrUzOgQ)
 
 [NOTA](https://www.pagina12.com.ar/328787-beatriz-sarlo-y-su-desgraciada-metafora) POR ARRIBA DE LA MESA 
@@ -30,7 +30,7 @@
 
 ---------------------
 <center><img src='https://www.infobae.com/pf/resources/images/logo_infobae_naranja.svg?d=509' width='100'></center>
-
+ &nbsp;
 ![nomb](https://www.infobae.com/new-resizer/ffQe8Ef9G9czDQMrXuwI_Th_FbA=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/3Y56TFBGGBHBRKBKLU4X6JNL5I.jpg)
 
 [NOTA](https://www.infobae.com/america/america-latina/2021/03/10/ecuador-presento-una-energica-protesta-a-la-argentina-por-declaraciones-de-alberto-fernandez-sobre-lenin-moreno/) Ecuador convocó al embajador argentino para protestar tras las declaraciones de Alberto Fernández sobre Lenín MorenoLa cancillería ecuatoriana aseguró que con la medida busca realizar un “análisis exhaustivo” de las relaciones entre ambos países, luego de calificar como “intervención en los asuntos internos de otro Estado” a los dichos recientes del presidente argentinoPor Juan Gasalla
@@ -44,7 +44,7 @@
 [NOTA](https://www.infobae.com/sociedad/policiales/2021/03/11/detuvieron-a-un-conocido-productor-de-espectaculos-por-ofrecerle-sexo-a-menores-por-dinero/) Detuvieron a un conocido productor de espectáculos por ofrecerles dinero a menores por sexoPor Federico Fahsbender
 
 ---------------------
-<center><img src='https://www.nodal.am/wp-content/uploads/2020/09/logo-chico.png' width='100'></center>
+<center><img src='https://www.nodal.am/wp-content/uploads/2020/09/logo-chico.png' width='120'></center>
 
 ![nomb](https://www.nodal.am/wp-content/uploads/2021/03/Lula1-357x210.jpg)
 
@@ -88,9 +88,8 @@
 
 [NOTA](https://www.lanacion.com.ar/sociedad/disparidad-en-el-ritmo-de-vacunacion-entre-los-partidos-bonaerenses-nid11032021/) A FONDO   Ranking. Los partidos bonaerenses más y menos avanzados en la vacunación    Por José María Costa
 
-<center><img src='https://www.0221.com.ar/img/logo_principal.png' width='100' class='center'></center>
 ---------------------
-#### <center>221 Digital</center>
+<center><img src='https://www.0221.com.ar/img/logo_principal.png' width='100' class='center'></center>
 
 [NOTA](https://www.0221.com.ar/nota/2021-3-10-22-25-0-sin-muertes-pero-con-116-casos-nuevos-asi-avanza-la-pandemia-en-la-plata) EMERGENCIA SANITARIA: Sin muertes pero con 116 casos nuevos, así avanza la pandemia en La Plata
 
