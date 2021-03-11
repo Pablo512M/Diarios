@@ -1,4 +1,4 @@
-<img src='https://www.pagina12.com.ar/assets/media/logos/amp/logo_pagina_12_n.svg?v=1.0.277' width='100' class='center'>
+<center><img src='https://www.pagina12.com.ar/assets/media/logos/amp/logo_pagina_12_n.svg?v=1.0.277' width='100'></center>
 #### <center>Página12</center>
 
 ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/na01fo01_1662.jpg?itok=nCrUzOgQ)
