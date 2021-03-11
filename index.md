@@ -84,7 +84,7 @@
             
 
 ---------------------
-<center><img src='https://argentina.mom-rsf.org/typo3temp/_processed_/6/a/csm_16107-1639_company_import_ab4745e60f.png' width='100'></center>
+<center><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_La_Naci%C3%B3n.svg/1280px-Logo_La_Naci%C3%B3n.svg.png' width='100'></center>
 
 [NOTA](https://www.lanacion.com.ar/sociedad/disparidad-en-el-ritmo-de-vacunacion-entre-los-partidos-bonaerenses-nid11032021/) A FONDO   Ranking. Los partidos bonaerenses más y menos avanzados en la vacunación    Por José María Costa
 
