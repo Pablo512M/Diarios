@@ -13,26 +13,22 @@
 
 
 
- &nbsp;
-<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146891-soledad-20quereilhac.jpg?itok=Jp9Ea3Kw' width='450'></center>
+ &nbsp;<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146891-soledad-20quereilhac.jpg?itok=Jp9Ea3Kw' width='450'></center>
 [NOTA](https://www.pagina12.com.ar/328720-la-respuesta-de-soledad-quereilhac-a-beatriz-sarlo) La respuesta de Soledad Quereilhac a Beatriz Sarlo Texto completo de la carta de la esposa del gobernador Axel Kicillof
 
 
 
- &nbsp;
-<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146982-whatsapp-20image-202021-03-10-20at-2018-58-58-0.jpeg?itok=C2faVgS1' width='450'></center>
+ &nbsp;<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146982-whatsapp-20image-202021-03-10-20at-2018-58-58-0.jpeg?itok=C2faVgS1' width='450'></center>
 [NOTA](https://www.pagina12.com.ar/328773-escuchabamos-explosiones-de-autos-y-garrafas) "Escuchábamos explosiones de autos y garrafas" El relato de vecinos que durante horas quedaron rodeados por el fuegoPor María Fernanda Rezzano
 
 
 
- &nbsp;
-<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146796-gemignani-na.jpg?itok=UN8Ch6A7' width='450'></center>
+ &nbsp;<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146796-gemignani-na.jpg?itok=UN8Ch6A7' width='450'></center>
 [NOTA](https://www.pagina12.com.ar/328665-cristina-kirchner-recordo-el-historial-de-acosos-de-gemignan) Cristina Kirchner recordó el historial de acosos de Gemignani "¿Estarán esperando que le pegue a alguna?"Por Luciana Bertoia
 
 
 
- &nbsp;
-<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146827-4-a-na.jpg?itok=JHXXFCnH' width='450'></center>
+ &nbsp;<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146827-4-a-na.jpg?itok=JHXXFCnH' width='450'></center>
 [NOTA](https://www.pagina12.com.ar/328776-la-vacunacion-en-la-ciudad-avanza-a-ritmo-lento) La vacunación en la Ciudad avanza a ritmo lento Tras las escenas de caos del martes y el pedido de perdón de QuirósPor Maria Cafferata
 
 
