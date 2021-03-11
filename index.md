@@ -1,5 +1,5 @@
 <center><img src='https://lh3.googleusercontent.com/Vw6XEzWmOWXPzvVp1ia9h9qfVPvpDhI-y7hV1s0crpRGS_a2JixP3p3emhkZo7z5I2CVKTKZmZ2j9Q3_dxbpYtrxQTvzhhsxRCrexb_H-_uR_XXVA4W8AbEsxBdyKomSkcd4ZaTlvoGFKq38V80GCDqXFqCstQiPQ8s3XXEuIC05NlUHmnZFKWkylexDbA5iRRG1DHDv2LRgkM0Bh0FOxp572EDbJn3lDQx_hagegDTPXUHY1Bt8WEbNSzs_lNXsNj1R91zi9QTFBT6v0voqcv5n0_WlIGO3AwxsLR6s2DtK0wW-b7fuslk5k3eyMKZTXnrepBuNwR3tk0hjEbn5zy-KEAi2XPx6KN6adtBBvvC2Tlo9EOS7hAl7AU3ZmAuSmIzb_SWCwq7mtTikMKhFY7ydlxmt3slhwmvsPDAflawVLQoBLv4BtA4IZiUKlrDcCmKzJmath6Ju8U01X8P3Y-4xXSgykm3ENibG8ATIR2nQdqAJBFVckiu49hyC7OMMqTn1yiDHvlCOmnINXKt-Ow9QDhGnJspTPkSBk5SGHpr2Gus7g8nvx4rbYoyWiDaabjJ_NBwig-LwmtzVReioiLzQowQSDpAeiG7UT7eXl7DN8GWxCYvWDeerowuPE3TJNzNfP6gszBocdS-utPx-LoE2rqapP8Ta70A3yFkNG0OwgXMCgmCLZzO55IjlnEUFfhmnt4jTFJTF6l5iQ0mB9o7n=w1288-h366-no?authuser=0' width='300'></center>
-<hr style='border:0,01px solid'>
+<hr style='border:0.01px solid'>
 #### <center>Página12</center>
 
 ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/na01fo01_1662.jpg?itok=nCrUzOgQ)
