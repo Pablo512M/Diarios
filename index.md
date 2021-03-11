@@ -1,4 +1,4 @@
-<center><img src='https://www.pagina12.com.ar/assets/media/logos/amp/logo_pagina_12_n.svg?v=1.0.277' width='100'>
+<img src='https://www.pagina12.com.ar/assets/media/logos/amp/logo_pagina_12_n.svg?v=1.0.277' width='100' class='center'>
 #### <center>Página12</center>
 
 ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/na01fo01_1662.jpg?itok=nCrUzOgQ)
@@ -87,13 +87,13 @@
                 AUDIO: La NASA publica el primer sonido del láser del Perseverance destruyendo rocas en Marte
             
 
-<center><img src='https://argentina.mom-rsf.org/typo3temp/_processed_/6/a/csm_16107-1639_company_import_ab4745e60f.png' width='100'>
+<img src='https://argentina.mom-rsf.org/typo3temp/_processed_/6/a/csm_16107-1639_company_import_ab4745e60f.png' width='100' class='center'>
 ---------------------
 #### <center>La Nación</center>
 
 [NOTA](https://www.lanacion.com.ar/sociedad/disparidad-en-el-ritmo-de-vacunacion-entre-los-partidos-bonaerenses-nid11032021/) A FONDO   Ranking. Los partidos bonaerenses más y menos avanzados en la vacunación    Por José María Costa
 
-<center><img src='https://www.0221.com.ar/img/logo_principal.png' width='100'>
+<img src='https://www.0221.com.ar/img/logo_principal.png' width='100' class='center'>
 ---------------------
 #### <center>221 Digital</center>
 
