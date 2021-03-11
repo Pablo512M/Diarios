@@ -1,4 +1,4 @@
-<center><img src='https://pbs.twimg.com/media/EwLm1jcWUAQQizF?format=jpg&name=small' width='40'></center>
+<center><img src='https://pbs.twimg.com/media/EwLm1jcWUAQQizF?format=jpg&name=small' width='450'></center>
 ---------------------
 #### <center>Página12</center>
 
