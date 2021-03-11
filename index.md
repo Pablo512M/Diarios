@@ -1,5 +1,4 @@
-<img src='https://www.pagina12.com.ar/assets/media/logos/amp/logo_pagina_12_n.svg?v=1.0.277' width='100'>
-<a name='pagina12'></a>
+<center><img src='https://www.pagina12.com.ar/assets/media/logos/amp/logo_pagina_12_n.svg?v=1.0.277' width='100'>
 #### <center>Página12</center>
 
 ![nomb](https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/na01fo01_1662.jpg?itok=nCrUzOgQ)
@@ -30,7 +29,7 @@
 
 
 
-<a name='infobae'></a>
+<center><img src='https://www.infobae.com/pf/resources/images/logo_infobae_naranja.svg?d=509' width='100'>
 ---------------------
 #### <center>Infobae</center>
 
@@ -46,7 +45,7 @@
 
 [NOTA](https://www.infobae.com/sociedad/policiales/2021/03/11/detuvieron-a-un-conocido-productor-de-espectaculos-por-ofrecerle-sexo-a-menores-por-dinero/) Detuvieron a un conocido productor de espectáculos por ofrecerles dinero a menores por sexoPor Federico Fahsbender
 
-<a name='nodal'></a>
+<center><img src='https://www.nodal.am/wp-content/uploads/2020/09/logo-chico.png' width='100'>
 ---------------------
 #### <center>Nodal</center>
 
@@ -62,7 +61,7 @@
 
 [NOTA](https://www.nodal.am/2021/03/mexico-diputados-aprueba-regulacion-de-uso-recreativo-de-la-marihuana/)  México  Diputados aprueba regulación de uso recreativo de la marihuana 
 
-<a name='rt'></a>
+<center><img src='https://pbs.twimg.com/profile_images/1018833905082871808/F7RZerA1_400x400.jpg' width='100'>
 ---------------------
 #### <center>RT</center>
 
@@ -88,13 +87,13 @@
                 AUDIO: La NASA publica el primer sonido del láser del Perseverance destruyendo rocas en Marte
             
 
-<a name='lanacion'></a>
+<center><img src='https://argentina.mom-rsf.org/typo3temp/_processed_/6/a/csm_16107-1639_company_import_ab4745e60f.png' width='100'>
 ---------------------
 #### <center>La Nación</center>
 
 [NOTA](https://www.lanacion.com.ar/sociedad/disparidad-en-el-ritmo-de-vacunacion-entre-los-partidos-bonaerenses-nid11032021/) A FONDO   Ranking. Los partidos bonaerenses más y menos avanzados en la vacunación    Por José María Costa
 
-<a name='221digital'></a>
+<center><img src='https://www.0221.com.ar/img/logo_principal.png' width='100'>
 ---------------------
 #### <center>221 Digital</center>
 
