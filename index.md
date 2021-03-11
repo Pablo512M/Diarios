@@ -2,112 +2,114 @@
 ---------------------
 ### <center>Página12</center>
 
-<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/na01fo01_1662.jpg?itok=nCrUzOgQ' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/328787-beatriz-sarlo-y-su-desgraciada-metafora) POR ARRIBA DE LA MESA 
+<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147221-8-20a.jpeg?itok=rAZmgLU9' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/328984-piden-la-continuidad-de-ahora-12) Las cámaras empresarias se lo solicitaron al gobierno nacional 
  
- La ensayista Beatriz Sarlo reconoció ante la Justicia que la oferta de vacunación que había recibido, que ella definió entonces como “por debajo de la mesa”, en realidad fue una convocatoria a sumarse a una iniciativa pública de concientización sobre la importancia de inmunizarse, cuando en ese momento arreciaba la campaña antivacunas de la oposición. 
+ Piden la continuidad de Ahora 12 
+ 
+ Consideran un “pilar fundamental” en el fomento al consumo interno. Si bien desde el Ministerio de Desarrollo Productivo confirman su continuidad, están terminando de delinear la letra chica, en una negociación que incluye a los bancos por la tasa de interés. 
  
  Por  
  
- Irina Hauser
+ Florencia Barragan
 
 
 
- &nbsp;<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146891-soledad-20quereilhac.jpg?itok=Jp9Ea3Kw' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/328720-la-respuesta-de-soledad-quereilhac-a-beatriz-sarlo) La respuesta de Soledad Quereilhac a Beatriz Sarlo Texto completo de la carta de la esposa del gobernador Axel Kicillof
+ &nbsp;<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147186-ypf-avila.jpg?itok=nU2jHR1S' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/328961-los-docentes-de-todo-el-pais-tendran-un-descuento-del-15-en-) Los docentes de todo el país tendrán un descuento del 15% en YPF  Se aplicará pagando con la app de la compañía 
 
 
 
- &nbsp;<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146982-whatsapp-20image-202021-03-10-20at-2018-58-58-0.jpeg?itok=C2faVgS1' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/328773-escuchabamos-explosiones-de-autos-y-garrafas) "Escuchábamos explosiones de autos y garrafas" El relato de vecinos que durante horas quedaron rodeados por el fuegoPor María Fernanda Rezzano
+ &nbsp;<center><img src='https://www.pagina12.com.ar/assets/media/assets/video-icon.svg' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/328970-metanse-el-barbijo-en-el-culo-exclamo-eduardo-bolsonaro) “Métanse el barbijo en el culo”, exclamó Eduardo Bolsonaro Otro exabrupto contra la prensa del hijo del presidente de Brasil, Jair Bolsonaro 
 
 
 
- &nbsp;<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146796-gemignani-na.jpg?itok=UN8Ch6A7' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/328665-cristina-kirchner-recordo-el-historial-de-acosos-de-gemignan) Cristina Kirchner recordó el historial de acosos de Gemignani "¿Estarán esperando que le pegue a alguna?"Por Luciana Bertoia
+ &nbsp;<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147105-9c2221c9-f747-42d6-ad52-51d67b9b0880_0.jpg?itok=7dSX0ocs' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/328981-el-poder-economico-piensa-en-las-elecciones) El poder económico piensa en las elecciones Charlas sobre las legislativas y el cambio de tendencia Por Leandro Renou
 
 
 
- &nbsp;<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/146827-4-a-na.jpg?itok=JHXXFCnH' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/328776-la-vacunacion-en-la-ciudad-avanza-a-ritmo-lento) La vacunación en la Ciudad avanza a ritmo lento Tras las escenas de caos del martes y el pedido de perdón de QuirósPor Maria Cafferata
+ &nbsp;<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147100-whatsapp-20image-202021-03-11-20at-2016-22-25.jpeg?itok=KopKo35y' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/328913-macri-suma-burlas-con-la-preventa-de-su-libro-en-mercado-lib) Macri suma burlas con la preventa de su libro en Mercado Libre  Un primer tiempo con muchos cánticos en contra
 
 
 
 ---------------------
 ### <center>Infobae</center>
 
-<center><img src='https://www.infobae.com/new-resizer/wqM8xPOXHBdZODe9PeBJO8FCq7I=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/3TU5V2KZEFA6RI5V4NKNV42NC4.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/politica/2021/03/11/el-presidente-busca-minimizar-el-impacto-de-la-salida-de-marcela-losardo-pero-potencia-la-pelea-de-poder-por-la-sucesion/) El Presidente busca minimizar el impacto de la salida de Marcela Losardo pero potencia la pelea de poder por la sucesiónLa dilación para resolver el tema amplifica en lugar de achicar su repercusión. Las versiones y operaciones cruzadas exponen además la tensión interna. Se va una figura antes destacada como moderada y albertista. Señal al Poder Judicial. Y un mensaje no registrado sobre la corrupciónPor Eduardo Aulicino
+<center><img src='https://www.infobae.com/new-resizer/PtZhS5jHOhJHTEqasaq674ltiIg=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/U6N2UH2CMZFAJH35DDRC4AGWHU.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/politica/2021/03/11/el-gobierno-derogara-el-decreto-de-macri-que-permitia-el-voto-anticipado-de-argentinos-en-el-exterior-presos-y-personal-de-seguridad/) Derogarán el decreto de Macri que permitía el voto anticipado de presos, argentinos en el exterior y personal de seguridadSe trata de una decisión adoptada por la administración de Cambiemos a principios de 2019 que había sido resistida por la oposición y llevada a la JusticiaPor Brenda Struminger
 
-[NOTA](https://www.infobae.com/economia/2021/03/11/cinco-motivos-por-los-que-los-bonos-argentinos-cotizan-como-si-estuvieran-en-default-aunque-no-lo-estan/) Por qué los bonos argentinos cotizan como si estuvieran en default aunque no lo estánPor Pablo Wende
+[NOTA](https://www.infobae.com/america/ciencia-america/2021/03/11/covid-19-graficos-muestran-la-probabilidad-de-hospitalizacion-y-muerte-segun-edad-sexo-y-factores-de-riesgo/) COVID-19: los gráficos que muestran la probabilidad de hospitalización y muerte según edad, sexo y factores de riesgoPor David Cayón
 
-[NOTA](https://www.infobae.com/america/tendencias-america/2021/03/11/un-ano-de-pandemia-en-el-mundo-como-evoluciono-el-covid-19-desde-su-aparicion-hasta-las-vacunas/) Un año de pandemia en el mundo: cómo evolucionó el COVID-19 desde su aparición hasta las vacunasPor Víctor Ingrassia
+[NOTA](https://www.infobae.com/economia/2021/03/11/jornada-financiera-el-dolar-libre-bajo-a-140-y-ya-es-20-pesos-mas-barato-que-el-oficial/) El dólar libre cayó a $140, su valor más bajo en los últimos seis mesesPor Juan Gasalla
 
-[NOTA](https://www.infobae.com/politica/2021/03/11/cristina-kirchner-pondra-un-juez-en-la-camara-federal-su-ex-abogado-sera-votado-hoy-para-un-tribunal-clave-de-comodoro-py/) El ex abogado de Cristina Kirchner a un paso de ocupar un tribunal clave de Comodoro PyVIDEO
+[NOTA](https://www.infobae.com/politica/2021/03/11/con-el-rechazo-de-la-oposicion-el-senado-aprobo-el-nombramiento-del-abogado-de-cristina-kirchner-en-la-camara-federal/) Con el rechazo de la oposición, el Senado aprobó el nombramiento del abogado de Cristina Kirchner en la Cámara FederalPor Mariano Boettner
 
-[NOTA](https://www.infobae.com/politica/2021/03/11/el-gobierno-confirmo-que-no-cerrara-la-frontera-con-brasil-pese-al-desmadre-sanitario-y-a-la-cepa-de-covid-19-que-circula-en-el-pais-vecino/) El Gobierno confirmó que no cerrará la frontera con Brasil, pese a las nuevas cepas de COVID-19 que circulan en el país vecinoPor Joaquín Cavanna
+[NOTA](https://www.infobae.com/politica/2021/03/11/el-gobierno-restringira-los-vuelos-al-exterior-los-paises-serian-estados-unidos-brasil-colombia-y-chile/) El Gobierno restringirá los vuelos a Europa, Estados Unidos, Brasil, Perú, Ecuador, Colombia, México y ChilePor Brenda Struminger
 
 ---------------------
 ### <center>Nodal</center>
 
-<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/Lula1-357x210.jpg' width='450'></center>
-[NOTA](https://www.nodal.am/2021/03/brasil-lula-agradece-el-apoyo-del-papa-francisco-y-lideres-de-la-region/)  Brasil  Lula agradece el apoyo del Papa Francisco y líderes de la región  
+<center><img src='https://www.nodal.am/wp-content/uploads/2021/01/brasil-covid-19-coronavirus-manaos-357x210.jpg' width='450'></center>
+[NOTA](https://www.nodal.am/2021/03/brasil-gobernador-de-san-pablo-decreta-fase-de-emergencia-y-afirma-que-el-pais-esta-colapsando/)  Brasil  Gobernador de San Pablo decreta fase de emergencia y afirma que el país “está colapsando”  
 
-[NOTA](https://www.nodal.am/2021/03/colombia-ministro-de-defensa-califica-de-legitimo-al-bombardeo-que-asesino-a-menores-de-edad/)  Colombia  Ministro de Defensa califica de “legítimo” al bombardeo que asesinó a menores de edad   Bolivia  Detienen a almirante de la Armada implicado en el golpe de Estado contra Evo Morales  México  Diputados aprueba regulación de uso recreativo de la marihuana 
+[NOTA](https://www.nodal.am/2021/03/peru-fiscal-pide-30-anos-de-prision-para-keiko-fujimori/)  Perú  Fiscal pide 30 años de prisión para Keiko Fujimori   Venezuela  El Gobierno anuncia que revisará la relación con la Oficina de DDHH de la ONU que comanda Bachelet  Bolivia  Fiscalía ordena detención de excomandante de la Policía involucrado en el golpe de Estado contra Evo Morales 
 
-[NOTA](https://www.nodal.am/2021/03/colombia-ministro-de-defensa-califica-de-legitimo-al-bombardeo-que-asesino-a-menores-de-edad/)  Colombia  Ministro de Defensa califica de “legítimo” al bombardeo que asesinó a menores de edad  
+[NOTA](https://www.nodal.am/2021/03/peru-fiscal-pide-30-anos-de-prision-para-keiko-fujimori/)  Perú  Fiscal pide 30 años de prisión para Keiko Fujimori  
 
-[NOTA](https://www.nodal.am/2021/03/bolivia-detienen-a-almirante-de-la-armada-implicado-en-el-golpe-de-estado-contra-evo-morales/)  Bolivia  Detienen a almirante de la Armada implicado en el golpe de Estado contra Evo Morales 
+[NOTA](https://www.nodal.am/2021/03/venezuela-el-gobierno-anuncia-que-revisara-la-relacion-con-la-oficina-de-ddhh-de-la-onu-que-comanda-bachelet/)  Venezuela  El Gobierno anuncia que revisará la relación con la Oficina de DDHH de la ONU que comanda Bachelet 
 
-[NOTA](https://www.nodal.am/2021/03/mexico-diputados-aprueba-regulacion-de-uso-recreativo-de-la-marihuana/)  México  Diputados aprueba regulación de uso recreativo de la marihuana 
+[NOTA](https://www.nodal.am/2021/03/bolivia-fiscalia-ordena-detencion-de-excomandante-de-la-policia-involucrado-en-el-golpe-de-estado-contra-evo-morales/)  Bolivia  Fiscalía ordena detención de excomandante de la Policía involucrado en el golpe de Estado contra Evo Morales 
 
 ---------------------
 ### <center>RT</center>
 
-<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604968be59bf5b50d062c27c.JPG' width='450'></center>
-[NOTA](https://actualidad.rt.com//actualidad/386019-gobierno-ecuador-analisis-argentina-polemicas-declaraciones) 
-                Ecuador llama a consultas a su embajador en Argentina para "un análisis exhaustivo de las relaciones", tras las palabras de Alberto Fernández
+<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604aab2ae9ff715c6b59edaa.JPG' width='450'></center>
+[NOTA](https://actualidad.rt.com//actualidad/386144-canciller-ecuador-luis-gallegos-renuncia) 
+                Renuncia el canciller de Ecuador, Luis Gallegos, tras la polémica con Argentina por las declaraciones de Alberto Fernández
             
 
-[NOTA](https://actualidad.rt.com//actualidad/385986-historico-mexico-legaliza-marihuana-resquebraja) 
-                México legaliza la marihuana, resquebraja políticas prohibicionistas y abre la puerta a un negocio multimillonario
+[NOTA](https://actualidad.rt.com//actualidad/386086-paises-europeos-suspenden-vacunacion-farmaco-astrazeneca) 
+                Varios países europeos suspenden la vacunación con el fármaco de AstraZeneca, mientras que la EMA dice que sus beneficios "superan" los riesgos
             
 
-[NOTA](https://actualidad.rt.com//actualidad/385991-eeuu-vuelve-especular-china-perpetra-genocidio-acusar-acabar-indios) 
-                EE.UU. acusa a China del "genocidio" de los uigures y recibe una dura respuesta de Pekín
+[NOTA](https://actualidad.rt.com//actualidad/386134-piden-corteidh-ordenar-despenalizacion-aborto-elsalvador) 
+                ¿Quién era Manuela? El caso que se debate en la Corte IDH y con el que demandan la despenalización del aborto en El Salvador
             
 
-[NOTA](https://actualidad.rt.com//actualidad/385992-walter-delgatti-hombre-clave-liberacion-lula) 
-                Quién es el 'hacker' que puso en jaque la trama judicial de la operación 'Lava Jato' en Brasil
+[NOTA](https://actualidad.rt.com//actualidad/386096-secretario-general-onu-advertir-millones-hambre) 
+                Secretario general de la ONU advierte de que millones de personas en todo el mundo pueden morir de hambre "si no se toman medidas inmediatas"
             
 
-[NOTA](https://actualidad.rt.com//actualidad/386031-perseverance-sonido-laser) 
-                AUDIO: La NASA publica el primer sonido del láser del Perseverance destruyendo rocas en Marte
+[NOTA](https://actualidad.rt.com//actualidad/386077-plan-lula-fiscal-estrategia-denuncias-ataques-destruir) 
+                'El Plan Lula' o cómo el fiscal jefe de Lava Jato creó una estrategia de denuncias y ataques para destruir al expresidente de Brasil
             
 
 ---------------------
 ### <center>La Nación</center>
 
-[NOTA](https://www.lanacion.com.ar/politica/el-extravagante-gabinete-de-no-ministros-que-arma-alberto-fernandez-nid11032021/) Análisis. El extravagante gabinete de "no ministros" que arma Alberto Fernández       La designación de colaboradores se ha convertido en una pesadilla para el Presidente; hay funcionarios de primera y de segunda, como en el vacunatorio       Por Carlos Pagni
+[NOTA](https://www.lanacion.com.ar/politica/alberto-fernandez-deroga-tres-decretos-de-mauricio-macri-en-materia-electoral-nid11032021/) Elecciones. Fernández deroga tres decretos de Macri en materia electoral       Se trata de normas que habilitaban el voto por correo de argentinos residentes en el exterior y el sufragio anticipado de personas en prisión preventiva y del comando electoral          Por Maia Jastreblansky
 
-[NOTA](https://www.lanacion.com.ar/sociedad/disparidad-en-el-ritmo-de-vacunacion-entre-los-partidos-bonaerenses-nid11032021/) A FONDO   Ranking. Los partidos bonaerenses más y menos avanzados en la vacunación    Por José María Costa
+[NOTA](https://www.lanacion.com.ar/economia/uia-los-cepos-laborales-frenan-la-creacion-de-empleo-para-7-de-cada-10-empresas-industriales-nid11032021/) UIA. Los cepos laborales frenan la creación de empleo para 7 de cada 10 empresas     Por Francisco Jueguen
 
-[NOTA](https://www.lanacion.com.ar/sociedad/covid-advierten-que-a-este-ritmo-llevara-10-meses-vacunar-a-grupos-de-riesgo-nid11032021/) Covid. Advierten que a este ritmo llevará 10 meses vacunar a grupos de riesgo     Por Evangelina Himitian
+[NOTA](https://www.lanacion.com.ar/el-mundo/escenario-de-guerra-en-un-brasil-al-limite-hospitales-colapsados-y-pico-de-muertes-nid11032021/) Escenario de guerra. Brasil, al límite: hospitales colapsados y pico de muertes
 
-[NOTA](https://www.lanacion.com.ar/economia/politica-economica-cuando-la-politica-es-un-caos-nid11032021/) Política económica, cuando la política es un caos        Juan Carlos de Pablo
+[NOTA](https://www.lanacion.com.ar/sociedad/incendios-en-el-sur-que-ocurrio-y-como-sigue-la-situacion-nid11032021/) Especial. Incendios en el Sur: imágenes impactantes del desastre     Por Paula Soler
 
-[NOTA](https://www.lanacion.com.ar/economia/becas-progresar-auh-aue-jubilaciones-y-pensiones-de-anses-quienes-cobran-el-11-de-marzo-nid11032021/) Anses. AUH, AUE, jubilaciones y pensiones: quiénes cobran el 11 de marzo
+[NOTA](https://www.lanacion.com.ar/politica/coronavirus-restringen-vuelos-de-estados-unidos-europa-chile-y-brasil-para-evitar-el-ingreso-de-nid11032021/) Nuevas cepas. Restringen vuelos de Estados Unidos, Europa, Chile y Brasil
 
 ---------------------
 ### <center>221 Digital</center>
 
-[NOTA](https://www.0221.com.ar/nota/2021-3-10-22-25-0-sin-muertes-pero-con-116-casos-nuevos-asi-avanza-la-pandemia-en-la-plata) EMERGENCIA SANITARIA: Sin muertes pero con 116 casos nuevos, así avanza la pandemia en La Plata
+[NOTA](https://www.0221.com.ar/nota/2021-3-11-19-47-0-un-nene-de-4-anos-necesita-un-transplante-de-medula-no-puede-pagarlo-y-piden-ayuda) TODOS POR PEDRO: Un nene de 4 años, necesita un transplante de médula, no puede pagarlo y piden ayuda
 
-[NOTA](https://www.0221.com.ar/nota/2021-3-10-21-52-0-premiaran-a-las-mujeres-destacas-de-la-economia-social-en-la-plata) ESTE JUEVES: Premiarán a las "mujeres destacas de la economía social" en La Plata
+[NOTA](https://www.0221.com.ar/nota/2021-3-11-16-49-0-alarma-por-el-recital-de-mala-fama-sin-distanciamiento-ni-barbijos-en-el-teatro-metro) VIDEO: Alarma por el recital de Mala Fama sin distanciamiento ni barbijos en el Teatro Metro
 
-[NOTA](https://www.0221.com.ar/nota/2021-3-10-16-40-0-tensos-cruces-y-descargos-por-la-vacunacion-en-el-concejo-deliberante) COMISIÓN INVESTIGADORA: Tensos cruces y descargos por la vacunación en el Concejo Deliberante
+[NOTA](https://www.0221.com.ar/nota/2021-3-11-15-15-0-descifraron-el-codigo-en-el-que-se-escribian-los-bisabuelos-de-una-joven-de-la-plata) MISTERIO RESUELTO: Descifraron el código en el que se escribían los bisabuelos de una joven de La Plata
 
-[NOTA](https://www.0221.com.ar/nota/2021-3-10-9-38-0-pavone-revelo-un-detalle-del-historico-tiene-gatorei-de-carlos-bilardo) EN 2004: Pavone reveló un detalle del histórico "tiene Gatorei" de Carlos Bilardo
+[NOTA](https://www.0221.com.ar/nota/2021-3-11-18-53-0-dolor-por-la-muerte-de-un-ex-futbolista-de-estudiantes-y-gimnasia) ROBERTO JOSÉ SANTIAGO: Dolor por la muerte de un ex futbolista de Estudiantes y Gimnasia
 
-[NOTA](https://www.0221.com.ar/nota/2021-3-10-8-23-0-bilardo-recibio-la-vacuna-contra-el-coronavirus-estaba-esperandola-y-mas-siendo-doctor) ESPERA LA SEGUNDA DOSIS: Bilardo recibió la vacuna contra el coronavirus: “Estaba esperándola y más siendo doctor”
+[NOTA](https://www.0221.com.ar/nota/2021-3-11-10-55-0-video-la-arenga-del-preparador-fisico-del-ruso-zielinski-en-estudiantes-que-se-hizo-viral) Alfonso Meoni: VIDEO: La arenga del preparador físico del Ruso Zielinski en Estudiantes que se hizo viral
 
