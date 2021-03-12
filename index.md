@@ -2,7 +2,9 @@
 <a name='Página12'></a>
 
 ---------------------
+ &nbsp;
 ### <center>Página12</center>
+ &nbsp;
 
 <center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147299-ewoziznwyaimevn.jpg?itok=MDnhfI9C' width='450'></center>
 [NOTA](https://www.pagina12.com.ar/329085-tras-las-quejas-por-las-demoras-en-caba-mirtha-legrand-se-va) Mirtha Legrand se vacunó contra el coronavirus: qué dijo Luego de las quejas por las demoras en CABA.
@@ -37,7 +39,9 @@
 <a name='Infobae'></a>
 
 ---------------------
+ &nbsp;
 ### <center>Infobae</center>
+ &nbsp;
 
 <center><img src='https://www.infobae.com/new-resizer/El6IgQbWnRh4UqOyB4qem8u2i_4=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/6NDCGJKA35HYDC4UZLAUJNVM74.jpg' width='450'></center>
 [NOTA](https://www.infobae.com/america/america-latina/2021/03/12/el-ministro-de-salud-de-chile-dijo-que-el-80-por-ciento-de-la-poblacion-estara-vacunada-para-fines-de-junio/) Chile tendrá al 80% de la población vacunada contra el COVID a fines de junioEnrique París,  ministro de Salud del gobierno de Sebastián Piñera, explicó las claves para el exitoso proceso de vacunación contra el coronavirus. En un sólo día vacunaron a más de 400 mil personas.
@@ -60,7 +64,9 @@
 <a name='Nodal'></a>
 
 ---------------------
+ &nbsp;
 ### <center>Nodal</center>
+ &nbsp;
 
 <center><img src='https://www.nodal.am/wp-content/uploads/2021/01/pandemia-brasil-357x210.jpg' width='450'></center>
 [NOTA](https://www.nodal.am/2021/03/preocupacion-en-la-region-brasil-ya-tiene-el-10-de-las-muertes-mundiales-y-cada-dia-registra-un-nuevo-record/)  Preocupación en la región  Brasil ya tiene el 10% de las muertes mundiales y cada día registra un nuevo récord  .
@@ -86,7 +92,9 @@
 <a name='RT'></a>
 
 ---------------------
+ &nbsp;
 ### <center>RT</center>
+ &nbsp;
 
 <center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604ab022e9ff715b8f39161a.JPG' width='450'></center>
 [NOTA](https://actualidad.rt.com//actualidad/386148-oms-reacciona-decision-paises-ue-suspender-uso-vacuna) 
@@ -126,7 +134,9 @@
 <a name='LaNación'></a>
 
 ---------------------
+ &nbsp;
 ### <center>La Nación</center>
+ &nbsp;
 
 <center><img src='https://bucket1.glanacion.com/anexos/fotos/40/3660240h373.jpg' width='450'></center>
 [NOTA](https://www.lanacion.com.ar/politica/un-abogado-mediatico-y-un-sindicalista-en-la-pata-peronista-de-juntos-por-el-cambio-nid12032021/) Lanzamiento. Un abogado mediático y un sindicalista, en la pata peronista de JxC       El grupo justicialista Hacemos intenta extenderse en la provincia de Buenos Aires          Por Javier Fuego Simondet.
@@ -149,7 +159,9 @@
 <a name='221Digital'></a>
 
 ---------------------
+ &nbsp;
 ### <center>221 Digital</center>
+ &nbsp;
 
 <center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615559407989.jpeg?x=20&y=6&width=1243&height=621&rotate=0&scaleX=1&scaleY=1&ow=1280&oh=633&&cw=288&ch=199' width='450'></center>
 [NOTA](https://www.0221.com.ar/nota/2021-3-12-11-28-0-murio-por-coronavirus-un-enfermero-de-la-upa-de-los-hornos-no-habia-querido-vacunarse) SALVADOR ROBERTO CURZIO : Murió por coronavirus un enfermero de la UPA de Los Hornos: no había querido vacunarse.
