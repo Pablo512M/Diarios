@@ -5,39 +5,37 @@
 <H3><center>Página12</center></H3>
  &nbsp;
 
-<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147266-whatsapp-20image-202021-03-11-20at-2019-22-30-20-281-29.jpeg?itok=c9XxhYmt' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/329024-incendios-en-chubut-ya-hay-un-muerto-y-pueblos-enteros-sin-a) Los incendios en Chubut y Río Negro 
+<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147373-reporte-12-03-2021.jpg?itok=V8zciRIM' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/329139-coronavirus-en-argentina-se-registraron-7849-nuevos-contagio) Los números de la pandemia 
  
- Un muerto y pueblos enteros sin agua ni luz por los incendios 
+ Coronavirus en Argentina: se registraron 7849 nuevos contagios 
  
- Se quemaron 220 viviendas y 1500 hectáreas de vegetación. El avance de las llamas en El Bolsón y la Comarca Andina generó una catástrofe social y dejó un escenario dramático en la zona 
- 
- Por María Fernanda Rezzano.
+ El reporte diario del Ministerio de Salud confirmó 86 nuevas muertes de pacientes con coronavirus en las últimas 24 horas, lo que eleva la cifra de víctimas mortales en el país a 53.578. Las camas de cuidados intensivos están ocupadas en un 54,6 por ciento a nivel nacional y en un 60 por ciento en el Área Metropolitana de Buenos Aires..
 
 
 
-<center><img src='https://www.pagina12.com.ar/assets/media/assets/video-icon.svg' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/329103-alberto-fernandez-en-el-acto-por-el-bicentenario-de-la-uba) "No hay posibilidad de progreso sin educación" Alberto Fernández en el acto por el Bicentenario de la UBA.
+<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147343-barbijo-atom-protect.jpg?itok=g4Hs83dq' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/329129-un-nuevo-superbarbijo-del-conicet-con-cuatro-capas-filtra-ma) Un nuevo barbijo con cuatro capas filtra más del 97% del polvo y de las gotas Resiste hasta 15 lavados.
 
 
 
-<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147299-ewoziznwyaimevn.jpg?itok=MDnhfI9C' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/329085-tras-las-quejas-por-las-demoras-en-caba-mirtha-legrand-se-va) Mirtha Legrand se vacunó contra el coronavirus: qué dijo Luego de las quejas por las demoras en CABA.
+<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147359-a-c3-b1ez-rt.jpg?itok=nb8_gRwh' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/329131-la-justicia-de-bolivia-pidio-la-detencion-de-jeanine-anez-y-) La Justicia de Bolivia pidió la detención de Jeanine Áñez y de varios de sus ministros La propia expresidenta de facto confirmó la noticia en Twitter.
 
 
 
-<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147112-macri-20libro.jpeg?itok=KJbPbFSE' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/329027-tras-las-burlas-en-la-preventa-macri-prepara-la-puesta-en-es) Macri prepara la puesta en escena para el lanzamiento de su libro Tras las burlas en la preventa. Por Werner Pertot.
+<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147302-23-a-afp-20-281-29.jpg?itok=mGISiaIi' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/329153-un-papa-que-mira-mas-alla-de-la-iglesia) Un Papa que mira más allá de la Iglesia Ocho años de Francisco. Por Washington Uranga.
 
 
 
-<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147020-post-20losardo.jpeg?itok=sCnxmHLv' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/328842-quienes-suenan-para-reemplazar-a-marcela-losardo-en-el-minis) Quiénes suenan para reemplazar a Losardo en Justicia A la danza de nombres para sucederla se sumó el de Marisa Herrera.
+<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147342-gemignani_0.jpg?itok=e619oecT' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/329134-el-presidente-del-consejo-de-la-magistratura-denuncio-al-jue) El presidente del Consejo de la Magistratura denunció al juez Gemignani  . Por sus comentarios machistas .
 
 
 
-<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147303-mirtha-legrand-1_0.jpg?itok=FoNlgn0g' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/329088-la-felicitacion-de-los-creadores-de-la-sputnik-v-a-mirtha-le) La felicitación de los creadores de la Sputnik V a Mirtha Legrand Buenos augurios para "la gran dama de la televisión".
+<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147304-138549-astrazeneca-20-282-29_0.jpg?itok=rpEfSqP9' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/329097-la-oms-recomienda-continuar-con-la-aplicacion-de-la-vacuna-d) La OMS recomienda aplicar la vacuna de AstraZeneca Explicó que "no hay razón" para suspender su uso.
 
 
 
@@ -47,23 +45,23 @@
 <H3><center>Infobae</center></H3>
  &nbsp;
 
-<center><img src='https://www.infobae.com/new-resizer/El6IgQbWnRh4UqOyB4qem8u2i_4=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/6NDCGJKA35HYDC4UZLAUJNVM74.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/america/america-latina/2021/03/12/el-ministro-de-salud-de-chile-dijo-que-el-80-por-ciento-de-la-poblacion-estara-vacunada-para-fines-de-junio/) Chile tendrá al 80% de la población vacunada contra el COVID a fines de junioEnrique París,  ministro de Salud del gobierno de Sebastián Piñera, explicó las claves para el exitoso proceso de vacunación contra el coronavirus. En un sólo día vacunaron a más de 400 mil personas.
+<center><img src='https://www.infobae.com/new-resizer/ua7XQdedl687IApua8by2-M09PQ=/arc-anglerfish-arc2-prod-infobae/public/D7OKIQ7SPJGIVE5WBFQVHXYVAY.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/america/tendencias-america/2021/03/12/cepa-por-cepa-como-pueden-impactar-las-variantes-del-coronavirus-en-la-argentina/) Cepa por cepa, cómo pueden impactar las variantes del coronavirus en ArgentinaEn nuestro país circulan dos de las tres mutaciones que más preocupan a los científicos a nivel mundial. Expertos analizan la situación regional y la eficacia de las vacunas aprobadas. Por Víctor Ingrassia.
 
-<center><img src='https://www.infobae.com/new-resizer/KOeLoBrJ6cpKsvUwVXLK0CVk3hQ=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/KHM3EAY4CVFMTA47OPCFWA2XDA.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/sociedad/policiales/2021/03/12/un-hombre-intento-asesinar-a-su-ex-mujer-en-la-puerta-del-colegio-de-su-hijo-la-baleo-y-luego-se-suicido/) Un hombre intentó asesinar a su ex mujer tras varias denuncias en su contra: la baleó y luego se suicidó.
+<center><img src='https://www.infobae.com/new-resizer/IsdMeT6QocP0yNs-9V82k108e40=/420x236/filters:format(jpg):quality(85)/arc-anglerfish-arc2-prod-infobae.s3.amazonaws.com/public/RNVQBZVBLRCNDHEXQKXDJZIZ2U' width='450'></center>
+[NOTA](https://www.infobae.com/sociedad/policiales/2021/03/12/caso-maradona-dalma-y-gianinna-denunciaron-penalmente-a-matias-morla-por-traicionar-a-su-padre/) Caso Maradona: Dalma y Gianinna denunciaron penalmente a Matías Morla por "traicionar" a su padre. Por Patricia Blanco.
 
-<center><img src='https://www.infobae.com/new-resizer/-yuAymX56638sZpXFEzrUPaso_A=/420x236/filters:format(jpg):quality(85)/arc-anglerfish-arc2-prod-infobae.s3.amazonaws.com/public/XAYLY7RSWRAWBJKRGE6JJ3H5RA' width='450'></center>
-[NOTA](https://www.infobae.com/salud/2021/03/12/que-es-el-glaucoma-una-enfermedad-ocular-que-afecta-a-25-millones-de-argentinos/) Qué es el glaucoma, una enfermedad ocular que afecta a 2.5 millones de argentinos. Por Francisco Reyes.
+<center><img src='https://www.infobae.com/new-resizer/QyEOAEJTCBt4Qi2P-HrZQZ46Qko=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/IUGJVTGI6NEYRDBW2ULJYHFQA4.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/sociedad/policiales/2021/03/12/sospechan-un-nuevo-ataque-de-la-mafia-china-le-disparo-a-la-cajera-de-un-supermercado-mientras-se-filmaba-con-su-celular/) Le disparó a la cajera de un supermercado mientras se filmaba con su celularVIDEO.
 
-<center><img src='https://www.infobae.com/new-resizer/dYJh-D15YRmIhDc2xi361XEMO84=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/JVE6TAVWLNAIJM2MCIER6Q5YJQ.com' width='450'></center>
-[NOTA](https://www.infobae.com/politica/2021/03/12/alberto-fernandez-se-aislo-para-nombrar-al-ministro-de-justicia-y-causa-incertidumbre-en-el-gabinete-nacional/) Alberto Fernández se aisló para nombrar al ministro de Justicia y causa incertidumbre en el Gabinete. Por Román Lejtman.
+<center><img src='https://www.infobae.com/new-resizer/XbfPBNLig-CZ-vOhk9lPz6eOTmQ=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/EFIJC7KWWVPSK2UXP6OOB3MJTA.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/america/eeuu/2021/03/12/estados-unidos-administro-mas-de-100-millones-de-dosis-de-las-vacunas-contra-el-covid-19/) Estados Unidos aplicó más de 100 millones de dosis de las vacunas contra el COVID-19.
 
-<center><img src='https://www.infobae.com/new-resizer/-3eQTNI3MdN_UQomrT1_GDCurPA=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/VGD7U2HB34FHUHO2SXUAJEMY6M.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/economia/2021/03/12/cada-vez-mas-mujeres-invierten-en-criptomonedas-por-que-apuestan-a-este-mercado-financiero-alternativo/) Cada vez más mujeres invierten en Bitcoin y otras criptomonedas: por qué apuestan a este mercado financiero alternativo . Por Martín Kanenguiser.
+<center><img src='https://www.infobae.com/new-resizer/TboisHXmaxYNbyupZRm3a1usN-Q=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/U5K6J4IVYJFW3B45ASVJHZ5YKE.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/sociedad/2021/03/12/coronavirus-en-argentina-confirmaron-86-muertes-y-7849-nuevos-contagios-en-las-ultimas-24-horas/) Coronavirus en Argentina: confirmaron 86 muertes y 7.849 contagios en las últimas 24 horas. Por Federico Fahsbender.
 
-<center><img src='https://www.infobae.com/new-resizer/5euATjDMIpzFm2y0b8KKKPlilRU=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/W7NSCQ56KFB2XCHEDEBHTORFLA.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/sociedad/2021/03/12/grabaron-a-un-inspector-de-transito-pidiendo-1200-de-coima-para-evitar-una-multa/) Grabaron a un inspector de tránsito pidiendo una coimaVIDEO.
+<center><img src='https://www.infobae.com/new-resizer/UjiNeOlvh7vjdykkPJOz7a3z9Xo=/420x236/filters:format(jpg):quality(85)/arc-anglerfish-arc2-prod-infobae.s3.amazonaws.com/public/35HH3SCBKVCWRG7C65DBEHDJX4' width='450'></center>
+[NOTA](https://www.infobae.com/economia/2021/03/12/ypf-aumentara-sus-precios-cerca-de-7-el-martes-y-18-en-total-en-los-proximos-tres-meses/) YPF aumenta sus precios casi 7% el martes y 15% más impuestos en tres meses: afirman que no habrá más subas en el año. Por Sebastián Catalano.
 
 <a name='Nodal'></a>
 
@@ -71,17 +69,17 @@
 <H3><center>Nodal</center></H3>
  &nbsp;
 
-<center><img src='https://www.nodal.am/wp-content/uploads/2021/01/pandemia-brasil-357x210.jpg' width='450'></center>
-[NOTA](https://www.nodal.am/2021/03/preocupacion-en-la-region-brasil-ya-tiene-el-10-de-las-muertes-mundiales-y-cada-dia-registra-un-nuevo-record/)  Preocupación en la región  Brasil ya tiene el 10% de las muertes mundiales y cada día registra un nuevo récord  .
+<center><img src='https://www.nodal.am/wp-content/uploads/2020/10/Jeanine-Anez-Bolivia-357x210.jpg' width='450'></center>
+[NOTA](https://www.nodal.am/2021/03/bolivia-fiscalia-emite-orden-de-detencion-contra-la-expresidenta-de-facto-jeanine-anez-y-cinco-exministros/)  Bolivia  Fiscalía emite orden de detención contra la expresidenta de facto Jeanine Áñez y cinco exministros  .
 
-<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/paraguay-protesta-357x210.jpg' width='450'></center>
-[NOTA](https://www.nodal.am/2021/03/la-columna-de-pedro-brieger-marzo-caliente-en-paraguay/)  La columna de Pedro Brieger  Marzo caliente en Paraguay  .
+<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/AMLO-357x210.jpg' width='450'></center>
+[NOTA](https://www.nodal.am/2021/03/mexico-lopez-obrador-celebra-que-se-hayan-anulado-las-condenas-contra-lula/)  México  López Obrador celebra que se hayan anulado las condenas contra Lula  .
+
+<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/paraguay-protesta-210x136.jpg' width='450'></center>
+[NOTA](https://www.nodal.am/2021/03/la-columna-de-pedro-brieger-marzo-caliente-en-paraguay/)  La columna de Pedro Brieger  Marzo caliente en Paraguay .
 
 <center><img src='https://www.nodal.am/wp-content/uploads/2021/03/1-33-210x136.jpg' width='450'></center>
 [NOTA](https://www.nodal.am/2021/03/chile-pinera-realiza-balance-a-tres-anos-de-asumir-hemos-tenido-que-convivir-con-el-rostro-de-la-adversidad/)  Chile  Piñera habla de “una ola irracional de violencia destructiva” en el balance de sus tres años de gobierno .
-
-<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/1-32-210x136.jpg' width='450'></center>
-[NOTA](https://www.nodal.am/2021/03/bolivia-ordenan-la-detencion-del-exjefe-de-las-ffaa-y-ya-son-cuatro-militares-acusados-por-el-golpe-de-estado/)  Bolivia  Ordenan la detención del exjefe de las FFAA y ya son cuatro militares acusados por el golpe de Estado .
 
 <center><img src='https://www.nodal.am/wp-content/uploads/2021/03/abdo-benitez-357x210.jpg' width='450'></center>
 [NOTA](https://www.nodal.am/category/suramerica/paraguay/) Paraguay  Tras una semana de protestas, la oposición confirma que pedirá el juicio político al presidente Abdo  .
@@ -95,34 +93,34 @@
 <H3><center>RT</center></H3>
  &nbsp;
 
-<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604ab022e9ff715b8f39161a.JPG' width='450'></center>
-[NOTA](https://actualidad.rt.com//actualidad/386148-oms-reacciona-decision-paises-ue-suspender-uso-vacuna) 
-                La OMS reacciona ante la decisión de varios países de la UE de suspender el uso de la vacuna de AstraZeneca
+<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604bc725e9ff71528600a9d0.jpg' width='450'></center>
+[NOTA](https://actualidad.rt.com//actualidad/386251-detienen-exministros-jeanine-anez-bolivia) 
+                Detienen a exministros del gobierno de facto de Jeanine Áñez en Bolivia por el caso del golpe de Estado de 2019
             .
 
-<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604a40e0e9ff7154c2100d3d.JPG' width='450'></center>
-[NOTA](https://actualidad.rt.com//actualidad/385981-crisis-humanitaria-maduro-venezolanos-colombia-eeuu) 
-                Lo que esconden las medidas de EE.UU. y Colombia para los migrantes venezolanos
+<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604bb6b459bf5b5d3f7ecde4.jpg' width='450'></center>
+[NOTA](https://actualidad.rt.com//actualidad/386240-brasil-contrato-10-millones-rusa-sputnik) 
+                Brasil firma un contrato para recibir 10 millones de dosis de la vacuna rusa Sputnik V
             .
 
-<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604b451fe9ff71574e2e5daa.jpg' width='450'></center>
-[NOTA](https://actualidad.rt.com//actualidad/386167-destituido-traductor-catalan-poema-amanda-gorman) 
-                ¿Quién debe traducir el poema de Amanda Gorman? El veto a un traductor catalán abre la polémica
+<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604b920d59bf5b24c8551520.jpg' width='450'></center>
+[NOTA](https://actualidad.rt.com//actualidad/385866-coronavirus-mundo-cientifico-brasil-aguas-residuales) 
+                "El coronavirus circulaba por el mundo antes de lo que pensábamos": Científico español habla sobre un hallazgo en aguas residuales en Brasil
             .
 
-<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604a0d68e9ff71627b2aec6c.JPG' width='450'></center>
-[NOTA](https://actualidad.rt.com//actualidad/386066-china-establece-planes-desarrollo-economico-social) 
-                China establece sus planes de desarrollo económico y social para los próximos cinco años: ¿en qué consisten los objetivos?
+<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604b6b09e9ff7153f748f7e7.jpg' width='450'></center>
+[NOTA](https://actualidad.rt.com//actualidad/386193-que-son-tokens-fungibles-como-vender-su-obra) 
+                Qué son los tokens no fungibles con los que se compra arte, música e incluso los tuits, y ¿cómo vender allí su propia obra y hacerse rico?
             .
 
-<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604b599359bf5b2638332076.JPG' width='450'></center>
-[NOTA](https://actualidad.rt.com//actualidad/386175-alibaba-multa-record-china-ant) 
-                ¿Podría una multa récord en la historia de China socavar a Alibaba?
+<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604b896de9ff7155895770be.jpg' width='450'></center>
+[NOTA](https://actualidad.rt.com//actualidad/386215-polemica-argentina-libro-memorias-mauricio-macri) 
+                De los chistes y memes a la venta selectiva en librerías: la polémica desatada en Argentina por el libro de memorias de Mauricio Macri
             .
 
-<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604b8470e9ff713c2e57ccdc.JPG' width='450'></center>
-[NOTA](https://actualidad.rt.com//actualidad/386210-buque-portacontendedores-iran-ataque-terrorista-mediterraneo) 
-                Un buque portacontendedores iraní sufre un ataque "terrorista" en el Mediterráneo
+<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604bc43759bf5b5f630e5c1d.JPG' width='450'></center>
+[NOTA](https://actualidad.rt.com//actualidad/386247-publican-video-grabado-ataque-terrorista) 
+                Publican un video grabado tras el ataque "terrorista" sufrido por un buque portacontenedores iraní en el Mediterráneo
             .
 
 <a name='LaNación'></a>
@@ -131,23 +129,23 @@
 <H3><center>La Nación</center></H3>
  &nbsp;
 
-<center><img src='https://bucket2.glanacion.com/anexos/fotos/34/3660334h373.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/politica/restricciones-por-el-coronavirus-la-nueva-lista-de-medidas-del-gobierno-nid12032021/) Coronavirus. Cuáles son las nuevas restricciones que impondrá el Gobierno       Hoy se definirá la prórroga de una nueva etapa del distanciamiento social, preventivo y obligatorio (Dispo).
+<center><img src='https://bucket3.glanacion.com/anexos/fotos/59/3660559h373.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/politica/la-provincia-de-buenos-aires-evalua-reponer-restricciones-a-la-circulacion-nid12032021/) Coronavirus. La provincia evalúa reponer restricciones a la circulación       “Es posible que tengamos que tomar alguna medida. Es muy probable que tengamos un rebrote”, dijo el viceministro Kreplak.
 
-<center><img src='https://bucket1.glanacion.com/anexos/fotos/40/3660240h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/politica/un-abogado-mediatico-y-un-sindicalista-en-la-pata-peronista-de-juntos-por-el-cambio-nid12032021/) Lanzamiento. Un abogado mediático y un sindicalista, en la pata peronista de JxC     Por Javier Fuego Simondet.
+<center><img src='https://bucket3.glanacion.com/anexos/fotos/27/3660527h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/sociedad/desde-adentro-asi-quedo-la-nueva-pista-de-aeroparque-nid12032021/) Desde adentro. Así quedó la nueva pista de Aeroparque     Por José María Costa.
 
-<center><img src='https://bucket1.glanacion.com/anexos/fotos/71/3660271h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/el-mundo/deja-vu-agobiada-italia-pone-en-zona-a-roja-a-dos-tercios-de-la-poblacion-nid12032021/) Déjà vu. Agobiada, Italia pone en zona a roja a dos tercios de la población     Por Elisabetta Piqué.
+<center><img src='https://bucket1.glanacion.com/anexos/fotos/52/3660652h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/economia/dolar-el-banco-central-sigue-aplicando-el-freno-y-sube-cada-vez-menos-nid12032021/) Dólar. El Banco Central sigue aplicando el freno y sube cada vez menos     Por Javier Blanco.
 
-<center><img src='https://bucket2.glanacion.com/anexos/fotos/63/3660263h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/buenos-aires/villa-crespo-el-misterioso-castillo-que-emergio-con-la-demolicion-del-puente-de-juan-b-justo-nid12032021/) Villa Crespo. El castillo que asomó con la remoción del puente de Juan B. Justo     Por Virginia Mejía.
+<center><img src='https://bucket3.glanacion.com/anexos/fotos/96/3660496h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/economia/los-precios-de-los-combustibles-aumentaran-18-en-los-proximos-tres-meses-nid12032021/) Naftas. Los precios aumentarán 18% en los próximos tres meses     Por Sofía Diamante.
 
-<center><img src='https://bucket1.glanacion.com/anexos/fotos/91/3660291h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/sociedad/salud-aconsejan-un-intervalo-de-14-dias-con-la-vacuna-antigripal-pero-sin-demorar-la-de-covid-nid12032021/) Coronavirus. Aconsejan esperar 14 días para recibir la vacuna antigripal     Por Fabiola Czubaj.
+<center><img src='https://bucket2.glanacion.com/anexos/fotos/35/3660635h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/politica/restricciones-por-el-coronavirus-la-nueva-lista-de-medidas-del-gobierno-nid12032021/) Coronavirus. Cuáles son las nuevas restricciones que impondrá el Gobierno.
 
-<center><img src='https://bucket3.glanacion.com/anexos/fotos/49/3660249h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/deportes/nba-el-mayor-ridiculo-en-una-sola-jugada-y-ante-la-mirada-de-michael-jordan-nid12032021/) VIDEO  NBA. El mayor ridículo en una jugada durante 30 segundos, con Jordan de testigo.
+<center><img src='https://bucket2.glanacion.com/anexos/fotos/04/3660504h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/el-mundo/paradoja-en-chile-la-vacunacion-es-un-exito-pero-los-casos-lo-agobian-nid12032021/) Paradoja en Chile. La vacunación es un éxito, pero los contagios agobian al país     Por Víctor García.
 
 <a name='221Digital'></a>
 
@@ -155,14 +153,14 @@
 <H3><center>221 Digital</center></H3>
  &nbsp;
 
-<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615559024226.jpg?&cw=288&ch=199' width='450'></center>
-[NOTA](https://www.0221.com.ar/nota/2021-3-12-12-55-0-piden-la-libertad-de-un-fletero-procesado-por-robo-de-materiales-en-un-corralon) ¿Preso por error?: Piden la libertad de un fletero procesado por robo de materiales en un corralón.
+<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615568877907.jpeg?x=4&y=82&width=1270&height=635&rotate=0&scaleX=1&scaleY=1&ow=1280&oh=958&&cw=288&ch=199' width='450'></center>
+[NOTA](https://www.0221.com.ar/nota/2021-3-12-13-46-0-el-pichettismo-busca-acomodarse-como-pata-peronista-en-el-oficialismo-de-la-plata) ELECCIONES 2021: El "pichettismo" busca acomodarse como pata peronista en el oficialismo de La Plata.
 
-<center><img src='https://pxb.cdn.0221.com.ar/0221/012021/1610195886493.jpeg?&cw=288&ch=199' width='450'></center>
-[NOTA](https://www.0221.com.ar/nota/2021-3-12-12-44-0-confirmaron-la-prision-preventiva-para-el-marido-de-carolina-piparo-y-seguira-en-la-carcel) Robo, choque y escándalo: Confirmaron la prisión preventiva para el marido de Carolina Piparo y seguirá en la cárcel.
+<center><img src='https://pxb.cdn.0221.com.ar/0221/012021/1609765675492.jpg?x=4&y=43&width=1493&height=746&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=998&&cw=288&ch=199' width='450'></center>
+[NOTA](https://www.0221.com.ar/nota/2021-3-12-16-5-0-los-fundamentos-que-mantienen-preso-al-marido-de-carolina-piparo) ROBO, CHOQUE Y ESCÁNDALO: Las razones por las que el esposo de Piparo sigue preso.
 
-<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615559407989.jpeg?x=20&y=6&width=1243&height=621&rotate=0&scaleX=1&scaleY=1&ow=1280&oh=633&&cw=288&ch=199' width='450'></center>
-[NOTA](https://www.0221.com.ar/nota/2021-3-12-11-28-0-murio-por-coronavirus-un-enfermero-de-la-upa-de-los-hornos-no-habia-querido-vacunarse) SALVADOR ROBERTO CURZIO : Murió por coronavirus un enfermero de la UPA de Los Hornos: no había querido vacunarse.
+<center><img src='https://pxb.cdn.0221.com.ar/0221/012021/1610195886493.jpeg?x=8&y=151&width=1270&height=635&rotate=0&scaleX=1&scaleY=1&ow=1280&oh=803&&cw=288&ch=199' width='450'></center>
+[NOTA](https://www.0221.com.ar/nota/2021-3-12-12-44-0-confirmaron-la-prision-preventiva-para-el-marido-de-carolina-piparo-y-seguira-en-la-carcel) ROBO, CHOQUE Y ESCÁNDALO: Confirmaron la prisión preventiva para el marido de Carolina Piparo y seguirá en la cárcel.
 
 <center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615499751300.jpg?x=4&y=75&width=1493&height=746&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=1125&&cw=288&ch=199' width='450'></center>
 [NOTA](https://www.0221.com.ar/nota/2021-3-11-18-53-0-dolor-por-la-muerte-de-un-ex-futbolista-de-estudiantes-y-gimnasia) ROBERTO JOSÉ SANTIAGO: Dolor por la muerte de un ex futbolista de Estudiantes y Gimnasia.
@@ -172,12 +170,4 @@
 
 <center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615461720654.jpg?x=13&y=45&width=1005&height=502&rotate=0&scaleX=1&scaleY=1&ow=1024&oh=640&&cw=288&ch=199' width='450'></center>
 [NOTA](https://www.0221.com.ar/nota/2021-3-11-9-44-0-work-club-estudiantes-el-espacio-para-profesionales-independientes-con-vista-a-la-cancha) UNO: Work Club Estudiantes, el espacio para profesionales independientes con vista a la cancha.
-
-<a name='UNLP'></a>
-
----------------------
-<H3><center>UNLP</center></H3>
- &nbsp;
-
-[NOTA](https://unlp.edu.ar/cienciaenaccion/la-unlp-se-pone-en-carrera-para-desarrollar-una-vacuna-contra-elcovid-19-19959) La UNLP se pone en carrera para desarrollar una vacuna contra el COVID-19             Ciencia en acción          / COVID-19                El proyecto interdisciplinario del denominado Grupo COVID-Exactas se encuentra en la etapa de ensayos preclínicos y apunta a fortalecer el sistema sanitario nacional..
 
