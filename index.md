@@ -1,8 +1,6 @@
 <center><img src='https://pbs.twimg.com/media/EwLm1jcWUAQQizF?format=jpg&name=small' width='450'></center>
 <a name='Página12'></a>
 
-# &nbsp;
-
 ---------------------
 # <center>Página12</center>
  &nbsp;
@@ -39,8 +37,6 @@
 
 <a name='Infobae'></a>
 
-# &nbsp;
-
 ---------------------
 # <center>Infobae</center>
  &nbsp;
@@ -64,8 +60,6 @@
 [NOTA](https://www.infobae.com/politica/2021/03/12/sergio-massa-mas-de-133-mil-trabajadores-del-transporte-en-todo-el-pais-van-a-dejar-de-pagar-ganancias/) Sergio Massa: “Más de 133 mil trabajadores del transporte en todo el país van a dejar de pagar Ganancias”. Por Federico Fahsbender.
 
 <a name='Nodal'></a>
-
-# &nbsp;
 
 ---------------------
 # <center>Nodal</center>
@@ -93,8 +87,6 @@
 [NOTA](https://www.nodal.am/category/suramerica/brasil/) Brasil  Nuevo exabrupto del hijo de Bolsonaro hacia la prensa: “Métanse el barbijo en el culo”  .
 
 <a name='RT'></a>
-
-# &nbsp;
 
 ---------------------
 # <center>RT</center>
@@ -137,8 +129,6 @@
 
 <a name='LaNación'></a>
 
-# &nbsp;
-
 ---------------------
 # <center>La Nación</center>
  &nbsp;
@@ -161,8 +151,6 @@
 [NOTA](https://www.lanacion.com.ar/deportes/nba-el-mayor-ridiculo-en-una-sola-jugada-y-ante-la-mirada-de-michael-jordan-nid12032021/) VIDEO  NBA. El mayor ridículo en una jugada durante 30 segundos, con Jordan de testigo.
 
 <a name='221Digital'></a>
-
-# &nbsp;
 
 ---------------------
 # <center>221 Digital</center>
