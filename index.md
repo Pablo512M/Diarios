@@ -1,5 +1,6 @@
 <center><img src='https://pbs.twimg.com/media/EwLm1jcWUAQQizF?format=jpg&name=small' width='450'></center>
 <a name='Página12'></a>
+
 ---------------------
 ### <center>Página12</center>
 
@@ -141,8 +142,8 @@
 
 [NOTA](https://www.lanacion.com.ar/ideas/kirchnerpedia-la-militancia-copo-las-definiciones-politicas-de-wikipedia-nid12032021/) A FONDO  ¿Kirchnerpedia? La militancia copó las definiciones políticas de Wikipedia     Por Diego Cabot.
 
-<center><img src='https://bucket3.glanacion.com/anexos/fotos/48/3660248h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/economia/alquileres-por-que-es-conveniente-deducir-ganancias-nid12032021/) Alquileres. Por qué es conveniente deducir Ganancias     Por Silvia Stang.
+<center><img src='https://bucket1.glanacion.com/anexos/fotos/30/3660230h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/el-mundo/mafioso-internacional-y-estupido-el-mensaje-de-lenin-moreno-en-la-polemica-con-fernandez-nid12032021/) ''Mafioso internacional". El mensaje de Lenín Moreno por la polémica con Fernández.
 
 [NOTA](https://www.lanacion.com.ar/el-mundo/astrazeneca-como-una-de-las-vacunas-candidatas-mas-fuertes-perdio-credibilidad-nid12032021/) AstraZeneca. Cómo se debilitó la confianza en una de las principales vacunas.
 
