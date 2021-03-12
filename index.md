@@ -145,6 +145,8 @@ vacunas a la iniciativa privada
 <center><img src='https://bucket3.glanacion.com/anexos/fotos/09/3659509h186.jpg' width='450'></center>
 [NOTA](https://www.lanacion.com.ar/politica/las-dilaciones-le-pasan-factura-a-alberto-fernandez-y-horacio-rodriguez-larreta-nid12032021/) Análisis. Las dilaciones les pasan factura a Fernández y Rodríguez Larreta       Como pocas veces, desde los lugares del poder emergen un desconcierto y un desasosiego inquietantes       Por Claudio Jacquelin
 
+[NOTA](https://www.lanacion.com.ar/ideas/kirchnerpedia-la-militancia-copo-las-definiciones-politicas-de-wikipedia-nid12032021/) A FONDO   ¿Kirchnerpedia? La militancia copó las definiciones políticas de Wikipedia    Por Diego Cabot
+
 <center><img src='https://bucket3.glanacion.com/anexos/fotos/08/3659508h186.jpg' width='450'></center>
 [NOTA](https://www.lanacion.com.ar/ideas/el-desafio-del-cristinismo-es-anestesiar-no-vacunar-nid12032021/) Análisis. El desafío del cristinismo es anestesiar, no vacunar         Por Sergio Suppo
 
@@ -153,4 +155,21 @@ vacunas a la iniciativa privada
 
 <center><img src='https://bucket1.glanacion.com/anexos/fotos/10/3659510h186.jpg' width='450'></center>
 [NOTA](https://www.lanacion.com.ar/el-mundo/vacunacion-la-argentina-se-retrasa-incluso-entre-paises-de-sus-mismos-ingresos-nid12032021/) Vacunación. La Argentina se retrasa incluso entre países de sus mismos ingresos         Por Inés Capdevila
+
+---------------------
+### <center>221 Digital</center>
+
+[NOTA](https://www.0221.com.ar/nota/2021-3-11-21-10-0-sin-muertes-y-con-141-casos-nuevos-de-covid-19-asi-avanza-la-pandemia-en-la-plata) EMERGENCIA SANITARIA: Sin muertes pero con 141 casos nuevos de COVID-19, así avanza la pandemia en La Plata
+
+[NOTA](https://www.0221.com.ar/nota/2021-3-11-19-47-0-un-nene-de-4-anos-necesita-un-transplante-de-medula-no-puede-pagarlo-y-piden-ayuda) TODOS POR PEDRO: Un nene de 4 años, necesita un transplante de médula, no puede pagarlo y piden ayuda
+
+[NOTA](https://www.0221.com.ar/nota/2021-3-11-16-49-0-alarma-por-el-recital-de-mala-fama-sin-distanciamiento-ni-barbijos-en-el-teatro-metro) VIDEO: Alarma por el recital de Mala Fama sin distanciamiento ni barbijos en el Teatro Metro
+
+[NOTA](https://www.0221.com.ar/nota/2021-3-11-18-53-0-dolor-por-la-muerte-de-un-ex-futbolista-de-estudiantes-y-gimnasia) ROBERTO JOSÉ SANTIAGO: Dolor por la muerte de un ex futbolista de Estudiantes y Gimnasia
+
+[NOTA](https://www.0221.com.ar/nota/2021-3-11-10-55-0-video-la-arenga-del-preparador-fisico-del-ruso-zielinski-en-estudiantes-que-se-hizo-viral) Alfonso Meoni: VIDEO: La arenga del preparador físico del Ruso Zielinski en Estudiantes que se hizo viral
+
+[NOTA](https://www.0221.com.ar/nota/2021-3-11-9-44-0-work-club-estudiantes-el-espacio-para-profesionales-independientes-con-vista-a-la-cancha) UNO: Work Club Estudiantes, el espacio para profesionales independientes con vista a la cancha
+
+[NOTA](https://www.0221.com.ar/nota/2021-3-11-18-53-0-dolor-por-la-muerte-de-un-ex-futbolista-de-estudiantes-y-gimnasia) ROBERTO JOSÉ SANTIAGO: Dolor por la muerte de un ex futbolista de Estudiantes y Gimnasia
 
