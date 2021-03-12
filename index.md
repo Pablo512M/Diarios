@@ -57,7 +57,6 @@ vacunas a la iniciativa privada
 ### <center>Infobae</center>
 
 <center><img src='https://www.infobae.com/new-resizer/q96IgUuRARQLAJy6XobQy1NFxIs=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/53MJ6OX3JRB5XDP33DQIOCLIXA.jpg' width='450'></center>
-<center><img src='https://www.infobae.com/new-resizer/q96IgUuRARQLAJy6XobQy1NFxIs=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/53MJ6OX3JRB5XDP33DQIOCLIXA.jpg' width='450'></center>
 [NOTA](https://www.infobae.com/politica/2021/03/12/el-gobierno-extendio-la-emergencia-sanitaria-hasta-el-31-de-diciembre/) El Gobierno extendió la emergencia sanitaria hasta el 31 de diciembreHabía sido declarada originalmente el 12 de marzo de 2020 para “dotar al Estado de las herramientas necesarias, adecuadas, eficaces y transparentes para combatir la pandemia”. Por Brenda Struminger
 
 <center><img src='https://www.infobae.com/new-resizer/LrRWA31kr032pvosSzUHkGJpmDg=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/MHGK6YJCZFELNO45IGTTSXA22A.jpg' width='450'></center>
