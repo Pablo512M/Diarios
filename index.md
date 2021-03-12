@@ -2,16 +2,34 @@
 ---------------------
 ### <center>Página12</center>
 
-<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147235-whatsapp-20image-202021-03-11-20at-207-46-22-20pm.jpeg?itok=M7UTKblG' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/329005-la-emergencia-sanitaria-se-extiende-hasta-el-31-de-diciembre) La prórroga de la emergencia sanitaria 
+<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/na01fo01_1663.jpg?itok=QQ3e2qyA' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/329048-juntos-por-el-cambio-blanqueo-que-privatizaria-la-vacuna) SALVESE QUIEN PAGUE 
  
- Reducen vuelos y extreman controles pero no cierran fronteras 
- 
- El Gobierno dictó un decreto que extiende hasta el 31 de diciembre las medidas de cuidado por la pandemia. Los viajes se restringen para los países con focos de contagio y alta circulación de nuevas variantes de coronavirus. 
+ La presidenta del PRO, Patricia
+Bullrich, propuso privatizar la compra
+de vacunas contra el coronavirus,
+“que la pague quien pueda hacerlo”.
+Calificó de “soviética” la centralización
+de las adquisiciones en el Estado,
+como se hace en todo el mundo. La
+propuesta está en línea con un
+proyecto de Juntos por el Cambio,
+que abre la comercialización de las
+vacunas a la iniciativa privada 
  
  Por  
  
- Melisa Molina
+ Maria Cafferata
+
+
+
+ &nbsp;<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147112-macri-20libro.jpeg?itok=KJbPbFSE' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/329027-tras-las-burlas-en-la-preventa-macri-prepara-la-puesta-en-es) Tras las burlas en la preventa, Macri prepara la puesta en escena para el lanzamiento de su libro El lugar de la presentación aún no está definidoPor Werner Pertot
+
+
+
+ &nbsp;<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147020-post-20losardo.jpeg?itok=sCnxmHLv' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/328842-quienes-suenan-para-reemplazar-a-marcela-losardo-en-el-minis) Quiénes suenan para reemplazar a Marcela Losardo en el ministerio de Justicia A horas de que la ministra renuncie, a la danza de nombres para sucederla se sumó el de Marisa Herrera
 
 
 
@@ -20,28 +38,18 @@
 
 
 
- &nbsp;<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147186-ypf-avila.jpg?itok=nU2jHR1S' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/328961-los-docentes-de-todo-el-pais-tendran-un-descuento-del-15-en-) Los docentes de todo el país tendrán un descuento del 15% en YPF  Se aplicará pagando con la app de la compañía 
+ &nbsp;<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147235-whatsapp-20image-202021-03-11-20at-207-46-22-20pm.jpeg?itok=M7UTKblG' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/329005-la-emergencia-sanitaria-se-extiende-hasta-el-31-de-diciembre) Reducen vuelos y extreman controles pero no cierran fronteras La prórroga de la emergencia sanitariaPor Melisa Molina
 
 
 
- &nbsp;<center><img src='https://www.pagina12.com.ar/assets/media/assets/video-icon.svg' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/328970-metanse-el-barbijo-en-el-culo-exclamo-eduardo-bolsonaro) “Métanse el barbijo en el culo”, exclamó Eduardo Bolsonaro Otro exabrupto contra la prensa del hijo del presidente de Brasil, Jair Bolsonaro 
+ &nbsp;<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147097-whatsapp-20image-202021-03-10-20at-2012-23-12-20pm.jpeg?itok=Rpoc4Mtf' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/328926-coronavirus-mas-vacunas-para-proteger-a-mas-personas-antes-d) Coronavirus: más vacunas para proteger a más personas antes de que llegue el frío Se confirmó la llegada de 3 millones de dosis de Sinopharm para la próxima semana  Por Pablo Esteban
 
 
 
- &nbsp;<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147100-whatsapp-20image-202021-03-11-20at-2016-22-25.jpeg?itok=KopKo35y' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/328913-macri-suma-burlas-con-la-preventa-de-su-libro-en-mercado-lib) Macri suma burlas con la preventa de su libro en Mercado Libre  Un primer tiempo con muchos cánticos en contra
-
-
-
- &nbsp;<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147105-9c2221c9-f747-42d6-ad52-51d67b9b0880_0.jpg?itok=7dSX0ocs' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/328981-el-poder-economico-piensa-en-las-elecciones) El poder económico piensa en las elecciones Charlas sobre las legislativas y el cambio de tendencia Por Leandro Renou
-
-
-
- &nbsp;<center><img src='https://www.pagina12.com.ar/assets/media/assets/video-icon.svg' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/328832-el-rincon-del-vago-la-ironia-de-cafiero-sobre-macri) El Rincón del vago, la ironía de Cafiero sobre Macri A propósito de la presentación del libro del expresidente
+ &nbsp;<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/Libia.jpg?itok=TByxWcBB' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/3289-nueve-muertos-en-la-costa-libia) Nueve muertos en la costa Libia
 
 
 
@@ -59,9 +67,9 @@
 
 [NOTA](https://www.infobae.com/economia/2021/03/11/jornada-financiera-el-dolar-libre-bajo-a-140-y-ya-es-20-pesos-mas-barato-que-el-oficial/) El dólar libre cayó a $140, su valor más bajo en los últimos seis mesesPor Juan Gasalla
 
-[NOTA](https://www.infobae.com/politica/2021/03/11/el-gobierno-derogara-el-decreto-de-macri-que-permitia-el-voto-anticipado-de-argentinos-en-el-exterior-presos-y-personal-de-seguridad/) Alberto Fernández derogará tres decretos electorales de Macri: cómo serán las nuevas reglamentacionesPor Brenda Struminger
+[NOTA](https://www.infobae.com/america/tecno/2021/03/12/netflix-lanzo-una-funcion-de-prueba-para-impedir-el-uso-compartido-de-contrasenas/) Netflix lanzó una función para impedir el uso compartido de contraseñasPor Juan Gasalla
 
-[NOTA](https://www.infobae.com/politica/2021/03/11/con-el-rechazo-de-la-oposicion-el-senado-aprobo-el-nombramiento-del-abogado-de-cristina-kirchner-en-la-camara-federal/) Con el rechazo de la oposición, el Senado aprobó el nombramiento del abogado de Cristina Kirchner en la Cámara FederalPor Mariano Boettner
+[NOTA](https://www.infobae.com/politica/2021/03/11/el-gobierno-derogara-el-decreto-de-macri-que-permitia-el-voto-anticipado-de-argentinos-en-el-exterior-presos-y-personal-de-seguridad/) Alberto Fernández derogará tres decretos electorales de Macri: cómo serán las nuevas reglamentacionesPor Brenda Struminger
 
 ---------------------
 ### <center>Nodal</center>
@@ -93,38 +101,38 @@
                 La OMS reacciona ante la decisión de varios países de la UE de suspender el uso de la vacuna de AstraZeneca
             
 
-[NOTA](https://actualidad.rt.com//actualidad/386134-piden-corteidh-ordenar-despenalizacion-aborto-elsalvador) 
-                ¿Quién era Manuela? El caso que se debate en la Corte IDH y con el que demandan la despenalización del aborto en El Salvador
+[NOTA](https://actualidad.rt.com//actualidad/386153-presidente-asamblea-estatal-nueva-york-investigacion-cuomo) 
+                Nueva York aprueba la investigación de 'impeachment' contra Andrew Cuomo en lo que sería el primer juicio político en ese estado en más de 100 años
             
 
 [NOTA](https://actualidad.rt.com//actualidad/386096-secretario-general-onu-advertir-millones-hambre) 
                 Secretario general de la ONU advierte de que millones de personas en todo el mundo pueden morir de hambre "si no se toman medidas inmediatas"
             
 
-[NOTA](https://actualidad.rt.com//actualidad/386077-plan-lula-fiscal-estrategia-denuncias-ataques-destruir) 
-                'El Plan Lula' o cómo el fiscal jefe de Lava Jato creó una estrategia de denuncias y ataques para destruir al expresidente de Brasil
+[NOTA](https://actualidad.rt.com//actualidad/386134-piden-corteidh-ordenar-despenalizacion-aborto-elsalvador) 
+                ¿Quién era Manuela? El caso que se debate en la Corte IDH y con el que demandan la despenalización del aborto en El Salvador
             
 
 [NOTA](https://actualidad.rt.com//actualidad/386143-colombia-alcaldesa-bogota-declaraciones-xenofobas-venezolanos) 
                 "Primero asesinan y luego roban": La alcaldesa de Bogotá vuelve a emitir juicios xenófobos en contra de los venezolanos
             
 
-[NOTA](https://actualidad.rt.com//actualidad/386154-video-produce-incendio-fabrica-tesla-california) 
-                VIDEO: Se produce un incendio en una fábrica de Tesla en California
+[NOTA](https://actualidad.rt.com//actualidad/386125-por-que-empresas-conocidas-no-quieren-participar-produccion-vehiculo-apple) 
+                Se habrían estancado negociaciones de Apple con gigantes de la industria automotriz para producir sus autos eléctricos: ¿cuáles son los obstáculos?
             
 
 ---------------------
 ### <center>La Nación</center>
 
-[NOTA](https://www.lanacion.com.ar/politica/alberto-fernandez-deroga-tres-decretos-de-mauricio-macri-en-materia-electoral-nid11032021/) Elecciones. Fernández deroga tres decretos de Macri en materia electoral       Se trata de normas que habilitaban el voto por correo de argentinos residentes en el exterior y el sufragio anticipado de personas en prisión preventiva y del comando electoral          Por Maia Jastreblansky
+[NOTA](https://www.lanacion.com.ar/politica/la-falta-de-resolucion-del-reemplazo-de-marcela-losardo-agiganta-los-problemas-del-gobierno-nid12032021/) Tensión. La falta de reemplazo para Losardo agiganta los problemas del Gobierno       Después de cuatro días, Alberto Fernández aún no resolvió quién será la persona deberá administrar los destinos de un Ministerio de Justicia con un perfil más confrontativo          Por Santiago Dapelo
 
-[NOTA](https://www.lanacion.com.ar/politica/la-falta-de-resolucion-del-reemplazo-de-marcela-losardo-agiganta-los-problemas-del-gobierno-nid12032021/) Tensión. La falta de reemplazo para Losardo agiganta los problemas del Gobierno     Por Santiago Dapelo
+[NOTA](https://www.lanacion.com.ar/politica/coronavirus-restringen-vuelos-de-estados-unidos-europa-chile-y-brasil-para-evitar-el-ingreso-de-nid11032021/) Nuevas cepas. Restringen vuelos de Estados Unidos, Europa, Chile y Brasil
 
 [NOTA](https://www.lanacion.com.ar/el-mundo/escenario-de-guerra-en-un-brasil-al-limite-hospitales-colapsados-y-pico-de-muertes-nid11032021/) Escenario de guerra. Brasil, al límite: hospitales colapsados y pico de muertes
 
-[NOTA](https://www.lanacion.com.ar/politica/covid-19-el-gobierno-extendio-la-emergencia-sanitaria-hasta-el-31-de-diciembre-nid12032021/) Covid-19. El Gobierno extendió la emergencia sanitaria hasta el 31 de diciembre
+[NOTA](https://www.lanacion.com.ar/politica/alberto-fernandez-deroga-tres-decretos-de-mauricio-macri-en-materia-electoral-nid11032021/) Elecciones. Fernández deroga tres decretos de Macri en materia electoral     Por Maia Jastreblansky
 
-[NOTA](https://www.lanacion.com.ar/politica/coronavirus-restringen-vuelos-de-estados-unidos-europa-chile-y-brasil-para-evitar-el-ingreso-de-nid11032021/) Nuevas cepas. Restringen vuelos de Estados Unidos, Europa, Chile y Brasil
+[NOTA](https://www.lanacion.com.ar/politica/covid-19-el-gobierno-extendio-la-emergencia-sanitaria-hasta-el-31-de-diciembre-nid12032021/) Covid-19. El Gobierno extendió la emergencia sanitaria hasta el 31 de diciembre
 
 [NOTA](https://www.lanacion.com.ar/sociedad/incendios-en-el-sur-que-ocurrio-y-como-sigue-la-situacion-nid11032021/) Especial. Incendios en el Sur: imágenes impactantes del desastre     Por Paula Soler
 
