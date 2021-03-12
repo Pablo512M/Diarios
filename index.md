@@ -17,9 +17,7 @@ proyecto de Juntos por el Cambio,
 que abre la comercialización de las
 vacunas a la iniciativa privada 
  
- Por  
- 
- Maria Cafferata
+ Por Maria Cafferata
 
 
 
