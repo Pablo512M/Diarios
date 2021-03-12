@@ -1,7 +1,9 @@
 <center><img src='https://pbs.twimg.com/media/EwLm1jcWUAQQizF?format=jpg&name=small' width='450'></center>
 <a name='Página12'></a>
 
-#---------------------
+# &nbsp;
+
+---------------------
 # <center>Página12</center>
  &nbsp;
 
@@ -37,7 +39,9 @@
 
 <a name='Infobae'></a>
 
-#---------------------
+# &nbsp;
+
+---------------------
 # <center>Infobae</center>
  &nbsp;
 
@@ -61,7 +65,9 @@
 
 <a name='Nodal'></a>
 
-#---------------------
+# &nbsp;
+
+---------------------
 # <center>Nodal</center>
  &nbsp;
 
@@ -88,7 +94,9 @@
 
 <a name='RT'></a>
 
-#---------------------
+# &nbsp;
+
+---------------------
 # <center>RT</center>
  &nbsp;
 
@@ -117,7 +125,7 @@
                 ¿Podría una multa récord en la historia de China socavar a Alibaba?
             .
 
-<center><img src='https://cdni.rt.com/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg' width='450'></center>
+<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604b8470e9ff713c2e57ccdc.JPG' width='450'></center>
 [NOTA](https://actualidad.rt.com//actualidad/386210-buque-portacontendedores-iran-ataque-terrorista-mediterraneo) 
                 Un buque portacontendedores iraní sufre un ataque "terrorista" en el Mediterráneo
             .
@@ -129,7 +137,9 @@
 
 <a name='LaNación'></a>
 
-#---------------------
+# &nbsp;
+
+---------------------
 # <center>La Nación</center>
  &nbsp;
 
@@ -142,18 +152,19 @@
 <center><img src='https://bucket1.glanacion.com/anexos/fotos/71/3660271h186.jpg' width='450'></center>
 [NOTA](https://www.lanacion.com.ar/el-mundo/deja-vu-agobiada-italia-pone-en-zona-a-roja-a-dos-tercios-de-la-poblacion-nid12032021/) Déjà vu. Agobiada, Italia pone en zona a roja a dos tercios de la población     Por Elisabetta Piqué.
 
-<center><img src='https://bucket1.glanacion.com/anexos/fotos/72/3660172h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/propiedades/construccion-y-diseno/es-ley-se-pueden-comprar-propiedades-con-menos-impuestos-y-blanquear-dinero-nid12032021/) Desde hoy. Se pueden comprar viviendas con menos impuestos y entrar en el blanqueo     Por Carla Quiroga.
+[NOTA](https://www.lanacion.com.ar/el-mundo/coronavirus-en-chile-apuntan-a-lograr-vacunar-al-80-de-la-poblacion-para-fines-de-junio-nid12032021/) En Chile. Apuntan a lograr vacunar al 80% de la población para fines de junio.
 
 <center><img src='https://bucket1.glanacion.com/anexos/fotos/30/3660230h186.jpg' width='450'></center>
 [NOTA](https://www.lanacion.com.ar/el-mundo/mafioso-internacional-y-estupido-el-mensaje-de-lenin-moreno-en-la-polemica-con-fernandez-nid12032021/) ''Mafioso internacional". El mensaje de Lenín Moreno por la polémica con Fernández.
 
-<center><img src='https://bucket1.glanacion.com/anexos/fotos/92/3660292h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/seguridad/ramos-mejia-un-hombre-baleo-a-su-exmujer-y-luego-se-suicido-de-un-tiro-en-la-cabeza-nid12032021/) En la puerta de su casa. Un hombre baleó a su exmujer y luego se suicidó.
+<center><img src='https://bucket3.glanacion.com/anexos/fotos/49/3660249h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/deportes/nba-el-mayor-ridiculo-en-una-sola-jugada-y-ante-la-mirada-de-michael-jordan-nid12032021/) VIDEO  NBA. El mayor ridículo en una jugada durante 30 segundos, con Jordan de testigo.
 
 <a name='221Digital'></a>
 
-#---------------------
+# &nbsp;
+
+---------------------
 # <center>221 Digital</center>
  &nbsp;
 
