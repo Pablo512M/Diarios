@@ -24,32 +24,32 @@ vacunas a la iniciativa privada
 
 
 <center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147112-macri-20libro.jpeg?itok=KJbPbFSE' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/329027-tras-las-burlas-en-la-preventa-macri-prepara-la-puesta-en-es) Tras las burlas en la preventa, Macri prepara la puesta en escena para el lanzamiento de su libro El lugar de la presentación aún no está definido. Por Werner Pertot
+[NOTA](https://www.pagina12.com.ar/329027-tras-las-burlas-en-la-preventa-macri-prepara-la-puesta-en-es) **Tras las burlas en la preventa, Macri prepara la puesta en escena para el lanzamiento de su libro El lugar de la presentación aún no está definido. Por Werner Pertot**
 
 
 
 <center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147020-post-20losardo.jpeg?itok=sCnxmHLv' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/328842-quienes-suenan-para-reemplazar-a-marcela-losardo-en-el-minis) Quiénes suenan para reemplazar a Marcela Losardo en el ministerio de Justicia A horas de que la ministra renuncie, a la danza de nombres para sucederla se sumó el de Marisa Herrera
+[NOTA](https://www.pagina12.com.ar/328842-quienes-suenan-para-reemplazar-a-marcela-losardo-en-el-minis) **Quiénes suenan para reemplazar a Marcela Losardo en el ministerio de Justicia A horas de que la ministra renuncie, a la danza de nombres para sucederla se sumó el de Marisa Herrera**
 
 
 
 <center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147205-whatsapp-20image-202021-03-11-20at-207-54-34-20pm.jpeg?itok=19m6YJDl' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/328987-ya-no-habra-voto-anticipado-en-la-argentina) Ya no habrá voto anticipado en la Argentina Cuál será en nuevo calendario electoral. Por Melisa Molina
+[NOTA](https://www.pagina12.com.ar/328987-ya-no-habra-voto-anticipado-en-la-argentina) **Ya no habrá voto anticipado en la Argentina Cuál será en nuevo calendario electoral. Por Melisa Molina**
 
 
 
 <center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147235-whatsapp-20image-202021-03-11-20at-207-46-22-20pm.jpeg?itok=M7UTKblG' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/329005-la-emergencia-sanitaria-se-extiende-hasta-el-31-de-diciembre) Reducen vuelos y extreman controles pero no cierran fronteras La prórroga de la emergencia sanitaria. Por Melisa Molina
+[NOTA](https://www.pagina12.com.ar/329005-la-emergencia-sanitaria-se-extiende-hasta-el-31-de-diciembre) **Reducen vuelos y extreman controles pero no cierran fronteras La prórroga de la emergencia sanitaria. Por Melisa Molina**
 
 
 
 <center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147097-whatsapp-20image-202021-03-10-20at-2012-23-12-20pm.jpeg?itok=Rpoc4Mtf' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/328926-coronavirus-mas-vacunas-para-proteger-a-mas-personas-antes-d) Coronavirus: más vacunas para proteger a más personas antes de que llegue el frío Se confirmó la llegada de 3 millones de dosis de Sinopharm para la próxima semana  . Por Pablo Esteban
+[NOTA](https://www.pagina12.com.ar/328926-coronavirus-mas-vacunas-para-proteger-a-mas-personas-antes-d) **Coronavirus: más vacunas para proteger a más personas antes de que llegue el frío Se confirmó la llegada de 3 millones de dosis de Sinopharm para la próxima semana  . Por Pablo Esteban**
 
 
 
 <center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/Libia.jpg?itok=TByxWcBB' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/3289-nueve-muertos-en-la-costa-libia) Nueve muertos en la costa Libia
+[NOTA](https://www.pagina12.com.ar/3289-nueve-muertos-en-la-costa-libia) **Nueve muertos en la costa Libia**
 
 
 
