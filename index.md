@@ -2,7 +2,7 @@
 <a name='Página12'></a>
 
 ---------------------
-<H2><center>Página12</center></H2>
+<H3><center>Página12</center></H3>
  &nbsp;
 
 <center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147266-whatsapp-20image-202021-03-11-20at-2019-22-30-20-281-29.jpeg?itok=c9XxhYmt' width='450'></center>
@@ -43,7 +43,7 @@
 <a name='Infobae'></a>
 
 ---------------------
-<H2><center>Infobae</center></H2>
+<H3><center>Infobae</center></H3>
  &nbsp;
 
 <center><img src='https://www.infobae.com/new-resizer/El6IgQbWnRh4UqOyB4qem8u2i_4=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/6NDCGJKA35HYDC4UZLAUJNVM74.jpg' width='450'></center>
@@ -67,7 +67,7 @@
 <a name='Nodal'></a>
 
 ---------------------
-<H2><center>Nodal</center></H2>
+<H3><center>Nodal</center></H3>
  &nbsp;
 
 <center><img src='https://www.nodal.am/wp-content/uploads/2021/01/pandemia-brasil-357x210.jpg' width='450'></center>
@@ -91,7 +91,7 @@
 <a name='RT'></a>
 
 ---------------------
-<H2><center>RT</center></H2>
+<H3><center>RT</center></H3>
  &nbsp;
 
 <center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604ab022e9ff715b8f39161a.JPG' width='450'></center>
@@ -127,7 +127,7 @@
 <a name='LaNación'></a>
 
 ---------------------
-<H2><center>La Nación</center></H2>
+<H3><center>La Nación</center></H3>
  &nbsp;
 
 <center><img src='https://bucket2.glanacion.com/anexos/fotos/34/3660334h373.jpg' width='450'></center>
@@ -151,7 +151,7 @@
 <a name='221Digital'></a>
 
 ---------------------
-<H2><center>221 Digital</center></H2>
+<H3><center>221 Digital</center></H3>
  &nbsp;
 
 <center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615559024226.jpg?&cw=288&ch=199' width='450'></center>
@@ -175,9 +175,6 @@
 <a name='UNLP'></a>
 
 ---------------------
-<H2><center>UNLP</center></H2>
+<H3><center>UNLP</center></H3>
  &nbsp;
-
-<center><img src='https://unlp.edu.ar/frontend/clients/347d0ec0744bd6d573afb5b0b217298ef55d02f2/modulo_de_portada_mosaico_de_articulos/logo_investiga-ffe3fbe2a0305f485816ccf3369c35c3.svg' width='450'></center>
-[NOTA](https://unlp.edu.ar/cienciaenaccion/la-unlp-se-pone-en-carrera-para-desarrollar-una-vacuna-contra-elcovid-19-19959) La UNLP se pone en carrera para desarrollar una vacuna contra el COVID-19             Ciencia en acción          / COVID-19                El proyecto interdisciplinario del denominado Grupo COVID-Exactas se encuentra en la etapa de ensayos preclínicos y apunta a fortalecer el sistema sanitario nacional..
 
