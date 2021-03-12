@@ -5,6 +5,21 @@
 # <center>Página12</center>
  &nbsp;
 
+<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147266-whatsapp-20image-202021-03-11-20at-2019-22-30-20-281-29.jpeg?itok=c9XxhYmt' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/329024-incendios-en-chubut-ya-hay-un-muerto-y-pueblos-enteros-sin-a) Los incendios en Chubut y Río Negro 
+ 
+ Un muerto y pueblos enteros sin agua ni luz por los incendios 
+ 
+ Se quemaron 220 viviendas y 1500 hectáreas de vegetación. El avance de las llamas en El Bolsón y la Comarca Andina generó una catástrofe social y dejó un escenario dramático en la zona 
+ 
+ Por María Fernanda Rezzano.
+
+
+
+[NOTA](https://www.pagina12.com.ar/329024-incendios-en-chubut-ya-hay-un-muerto-y-pueblos-enteros-sin-a) Los incendios en Chubut y Río NegroUn muerto y pueblos enteros sin agua ni luz por los incendiosSe quemaron 220 viviendas y 1500 hectáreas de vegetación. El avance de las llamas en El Bolsón y la Comarca Andina generó una catástrofe social y dejó un escenario dramático en la zona. Por María Fernanda Rezzano.
+
+
+
 <center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147299-ewoziznwyaimevn.jpg?itok=MDnhfI9C' width='450'></center>
 [NOTA](https://www.pagina12.com.ar/329085-tras-las-quejas-por-las-demoras-en-caba-mirtha-legrand-se-va) Mirtha Legrand se vacunó contra el coronavirus: qué dijo Luego de las quejas por las demoras en CABA.
 
