@@ -81,18 +81,25 @@ vacunas a la iniciativa privada
 ### <center>Nodal</center>
 
 <center><img src='https://www.nodal.am/wp-content/uploads/2021/01/brasil-covid-19-coronavirus-manaos-357x210.jpg' width='450'></center>
+<center><img src='https://www.nodal.am/wp-content/uploads/2021/01/brasil-covid-19-coronavirus-manaos-357x210.jpg' width='450'></center>
 [NOTA](https://www.nodal.am/2021/03/brasil-gobernador-de-san-pablo-decreta-fase-de-emergencia-y-afirma-que-el-pais-esta-colapsando/)  Brasil  Gobernador de San Pablo decreta fase de emergencia y afirma que el país “está colapsando”  
 
+<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/luis-gallegos-ecuador-357x210.jpg' width='450'></center>
 [NOTA](https://www.nodal.am/2021/03/renuncio-el-canciller-de-ecuador-luis-gallegos/)  Renunció el canciller de Ecuador Luis Gallegos   Perú  Fiscal pide 30 años de prisión para Keiko Fujimori  Venezuela  El Gobierno anuncia que revisará la relación con la Oficina de DDHH de la ONU que comanda Bachelet 
 
+<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/luis-gallegos-ecuador-357x210.jpg' width='450'></center>
 [NOTA](https://www.nodal.am/2021/03/renuncio-el-canciller-de-ecuador-luis-gallegos/)  Renunció el canciller de Ecuador Luis Gallegos  
 
+<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/Keiko-FUjimori-Peru-210x136.jpg' width='450'></center>
 [NOTA](https://www.nodal.am/2021/03/peru-fiscal-pide-30-anos-de-prision-para-keiko-fujimori/)  Perú  Fiscal pide 30 años de prisión para Keiko Fujimori 
 
+<center><img src='https://www.nodal.am/wp-content/uploads/2020/10/arreaza-210x136.jpg' width='450'></center>
 [NOTA](https://www.nodal.am/2021/03/venezuela-el-gobierno-anuncia-que-revisara-la-relacion-con-la-oficina-de-ddhh-de-la-onu-que-comanda-bachelet/)  Venezuela  El Gobierno anuncia que revisará la relación con la Oficina de DDHH de la ONU que comanda Bachelet 
 
+<center><img src='https://www.nodal.am/category/centroamerica/el_salvador/>El' width='450'></center>
 [NOTA](https://www.nodal.am/category/centroamerica/el_salvador/) El Salvador  Caso Manuela: la CorteIDH inició el primer juicio contra un Estado por criminalizar el aborto  
 
+<center><img src='https://www.nodal.am/category/mexico/>México</a></span></div>' width='450'></center>
 [NOTA](https://www.nodal.am/category/mexico/) México  Cámara de Diputados aprueba el uso recreativo de la marihuana  
 
 ---------------------
@@ -134,7 +141,7 @@ vacunas a la iniciativa privada
 
 [NOTA](https://www.lanacion.com.ar/ideas/kirchnerpedia-la-militancia-copo-las-definiciones-politicas-de-wikipedia-nid12032021/) A FONDO   ¿Kirchnerpedia? La militancia copó las definiciones políticas de Wikipedia    Por Diego Cabot
 
-[NOTA](https://www.lanacion.com.ar/ideas/el-desafio-del-cristinismo-es-anestesiar-no-vacunar-nid12032021/) Análisis. El desafío del cristinismo es anestesiar, no vacunar
+[NOTA](https://www.lanacion.com.ar/ideas/el-desafio-del-cristinismo-es-anestesiar-no-vacunar-nid12032021/) Análisis. El desafío del cristinismo es anestesiar, no vacunar         Por Sergio Suppo
 
 [NOTA](https://www.lanacion.com.ar/politica/la-falta-de-resolucion-del-reemplazo-de-marcela-losardo-agiganta-los-problemas-del-gobierno-nid12032021/) Tensión. La falta de reemplazo para Losardo agiganta los problemas del Gobierno     Por Santiago Dapelo
 
