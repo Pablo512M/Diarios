@@ -16,7 +16,8 @@
 
 
 
-[NOTA](https://www.pagina12.com.ar/329103-alberto-fernandez-en-el-acto-por-el-bicentenario-de-la-uba) Alberto Fernández en el acto por el Bicentenario de la UBA En vivo, la ceremonia en la Manzana de las luces.
+<center><img src='https://www.pagina12.com.ar/assets/media/assets/video-icon.svg' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/329103-alberto-fernandez-en-el-acto-por-el-bicentenario-de-la-uba) "No hay posibilidad de progreso sin educación" Alberto Fernández en el acto por el Bicentenario de la UBA.
 
 
 
@@ -157,11 +158,11 @@
 <center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615559024226.jpg?&cw=288&ch=199' width='450'></center>
 [NOTA](https://www.0221.com.ar/nota/2021-3-12-12-55-0-piden-la-libertad-de-un-fletero-procesado-por-robo-de-materiales-en-un-corralon) ¿Preso por error?: Piden la libertad de un fletero procesado por robo de materiales en un corralón.
 
+<center><img src='https://pxb.cdn.0221.com.ar/0221/012021/1610195886493.jpeg?&cw=288&ch=199' width='450'></center>
+[NOTA](https://www.0221.com.ar/nota/2021-3-12-12-44-0-confirmaron-la-prision-preventiva-para-el-marido-de-carolina-piparo-y-seguira-en-la-carcel) Robo, choque y escándalo: Confirmaron la prisión preventiva para el marido de Carolina Piparo y seguirá en la cárcel.
+
 <center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615559407989.jpeg?x=20&y=6&width=1243&height=621&rotate=0&scaleX=1&scaleY=1&ow=1280&oh=633&&cw=288&ch=199' width='450'></center>
 [NOTA](https://www.0221.com.ar/nota/2021-3-12-11-28-0-murio-por-coronavirus-un-enfermero-de-la-upa-de-los-hornos-no-habia-querido-vacunarse) SALVADOR ROBERTO CURZIO : Murió por coronavirus un enfermero de la UPA de Los Hornos: no había querido vacunarse.
-
-<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615555284946.jpg?x=0&y=17&width=768&height=384&rotate=0&scaleX=1&scaleY=1&ow=768&oh=432&&cw=288&ch=199' width='450'></center>
-[NOTA](https://www.0221.com.ar/nota/2021-3-12-9-46-0--arranca-una-carrera-politica-fernando-burlando-dio-el-primer-paso-en-el-conurbano) Eleccions 2021: ¿Arranca una carrera política? Fernando Burlando dio el primer paso en el Conurbano.
 
 <center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615499751300.jpg?x=4&y=75&width=1493&height=746&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=1125&&cw=288&ch=199' width='450'></center>
 [NOTA](https://www.0221.com.ar/nota/2021-3-11-18-53-0-dolor-por-la-muerte-de-un-ex-futbolista-de-estudiantes-y-gimnasia) ROBERTO JOSÉ SANTIAGO: Dolor por la muerte de un ex futbolista de Estudiantes y Gimnasia.
@@ -177,4 +178,6 @@
 ---------------------
 <H3><center>UNLP</center></H3>
  &nbsp;
+
+[NOTA](https://unlp.edu.ar/cienciaenaccion/la-unlp-se-pone-en-carrera-para-desarrollar-una-vacuna-contra-elcovid-19-19959) La UNLP se pone en carrera para desarrollar una vacuna contra el COVID-19             Ciencia en acción          / COVID-19                El proyecto interdisciplinario del denominado Grupo COVID-Exactas se encuentra en la etapa de ensayos preclínicos y apunta a fortalecer el sistema sanitario nacional..
 
