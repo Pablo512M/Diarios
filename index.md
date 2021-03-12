@@ -30,11 +30,6 @@
 
 
 
-<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147306-netflix1.jpg?itok=XrJAiRvn' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/329101-netflix-prueba-cambios-que-complican-el-uso-compartido-de-la) Netflix prueba cambios que complican el uso compartido de la cuenta   Posible freno a una práctica habitual entre familiares y amigos.
-
-
-
 <a name='Infobae'></a>
 
 ---------------------
@@ -83,9 +78,6 @@
 <center><img src='https://www.nodal.am/wp-content/uploads/2021/03/Keiko-FUjimori-Peru-357x210.jpg' width='450'></center>
 [NOTA](https://www.nodal.am/category/suramerica/peru/) Perú  La Fiscalía pide 30 años de cárcel para Keiko Fujimori por corrupción  .
 
-<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/eduardo-bolsonaro-357x210.jpg' width='450'></center>
-[NOTA](https://www.nodal.am/category/suramerica/brasil/) Brasil  Nuevo exabrupto del hijo de Bolsonaro hacia la prensa: “Métanse el barbijo en el culo”  .
-
 <a name='RT'></a>
 
 ---------------------
@@ -120,11 +112,6 @@
 <center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604b8470e9ff713c2e57ccdc.JPG' width='450'></center>
 [NOTA](https://actualidad.rt.com//actualidad/386210-buque-portacontendedores-iran-ataque-terrorista-mediterraneo) 
                 Un buque portacontendedores iraní sufre un ataque "terrorista" en el Mediterráneo
-            .
-
-<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604b6de059bf5b336875f696.jpg' width='450'></center>
-[NOTA](https://actualidad.rt.com//actualidad/386190-discurso-antimarihuana-diputada-mexicana-viral) 
-                "Estar en un viaje durante cuatro días, ¿es eso lo que quieren?": El discurso antimarihuana de una diputada mexicana se vuelve viral (VIDEO)
             .
 
 <a name='LaNación'></a>
@@ -173,7 +160,4 @@
 
 <center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615461720654.jpg?x=13&y=45&width=1005&height=502&rotate=0&scaleX=1&scaleY=1&ow=1024&oh=640&&cw=288&ch=199' width='450'></center>
 [NOTA](https://www.0221.com.ar/nota/2021-3-11-9-44-0-work-club-estudiantes-el-espacio-para-profesionales-independientes-con-vista-a-la-cancha) UNO: Work Club Estudiantes, el espacio para profesionales independientes con vista a la cancha.
-
-<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615499751300.jpg?x=4&y=75&width=1493&height=746&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=1125&&cw=288&ch=199' width='450'></center>
-[NOTA](https://www.0221.com.ar/nota/2021-3-11-18-53-0-dolor-por-la-muerte-de-un-ex-futbolista-de-estudiantes-y-gimnasia) ROBERTO JOSÉ SANTIAGO: Dolor por la muerte de un ex futbolista de Estudiantes y Gimnasia.
 
