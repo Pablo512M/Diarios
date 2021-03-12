@@ -1,4 +1,5 @@
 <center><img src='https://pbs.twimg.com/media/EwLm1jcWUAQQizF?format=jpg&name=small' width='450'></center>
+<a name='Página12'></a>
 ---------------------
 ### <center>Página12</center>
 
@@ -46,23 +47,23 @@
 ---------------------
 ### <center>Infobae</center>
 
-<center><img src='https://www.infobae.com/new-resizer/dYJh-D15YRmIhDc2xi361XEMO84=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/JVE6TAVWLNAIJM2MCIER6Q5YJQ.com' width='450'></center>
-[NOTA](https://www.infobae.com/politica/2021/03/12/alberto-fernandez-se-aislo-para-nombrar-al-ministro-de-justicia-y-causa-incertidumbre-en-el-gabinete-nacional/) Alberto Fernández se aisló para nombrar al ministro de Justicia y causa incertidumbre en el Gabinete NacionalEl Presidente define en soledad al reemplazante de Marcela Losardo, mientras en Casa Rosada hay tensión por la demora en anunciar un cambio que es clave para entender cuanto poder interno tiene Cristina Fernández de Kirchner. Por Román Lejtman.
+<center><img src='https://www.infobae.com/new-resizer/El6IgQbWnRh4UqOyB4qem8u2i_4=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/6NDCGJKA35HYDC4UZLAUJNVM74.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/america/america-latina/2021/03/12/el-ministro-de-salud-de-chile-dijo-que-el-80-por-ciento-de-la-poblacion-estara-vacunada-para-fines-de-junio/) Chile tendrá al 80% de la población vacunada contra el COVID a fines de junioEnrique París,  ministro de Salud del gobierno de Sebastián Piñera, explicó las claves para el exitoso proceso de vacunación contra el coronavirus. En un sólo día vacunaron a más de 400 mil personas.
 
 <center><img src='https://www.infobae.com/new-resizer/VKDWgCvHzG9fUtVOEb4U88YRSgo=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/K44OGK5GZVDJFJQGEC4K6XM2JM.jpg' width='450'></center>
 [NOTA](https://www.infobae.com/economia/2021/03/12/el-blanqueo-para-la-construccion-rige-desde-hoy-todo-lo-que-hay-que-saber-para-comprar-inmuebles-con-menos-impuestos/) Todo lo que hay que saber para comprar inmuebles con menos impuestos.
 
 <center><img src='https://www.infobae.com/new-resizer/5euATjDMIpzFm2y0b8KKKPlilRU=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/W7NSCQ56KFB2XCHEDEBHTORFLA.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/sociedad/2021/03/12/grabaron-a-un-inspector-de-transito-pidiendo-1200-de-coima-para-evitar-una-multa/) Grabaron a un inspector de tránsito pidiendo una coima para evitar una multaVIDEO.
+[NOTA](https://www.infobae.com/sociedad/2021/03/12/grabaron-a-un-inspector-de-transito-pidiendo-1200-de-coima-para-evitar-una-multa/) Grabaron a un inspector de tránsito pidiendo una coimaVIDEO.
 
-<center><img src='https://www.infobae.com/new-resizer/tORhQNYfVg1LsNAe83-XGB3vUjs=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/VDBV5AWYPBENTG5FT3NWF2IUYY.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/teleshow/infoshow/2021/03/12/reaparecio-matias-morla-mientras-otros-hablan-yo-sigo-trabajando-como-lo-hice-toda-mi-vida/) Reapareció Matías Morla: “Mientras otros hablan, yo sigo trabajando como lo hice toda mi vida”. Por Brenda Struminger.
+<center><img src='https://www.infobae.com/new-resizer/Mlg_-TUWVU7QGXRBHZD6NtCrr2E=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/6LEF6FRQU5GVNCBOB46P3XMZ7I.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/salud/2021/03/12/premian-en-eeuu-a-una-argentina-por-desarrollar-un-software-inteligente-que-detecta-cancer-de-mama/) Premian en EEUU a una argentina por desarrollar un software inteligente que detecta cáncer de mama.
 
-<center><img src='https://www.infobae.com/new-resizer/XltI7NhX78sBqu7V0MzhlhH0bQw=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/FYDYI4OBWRHTTLEOH44FTGZMPU.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/america/america-latina/2021/03/12/lenin-moreno-se-refirio-a-mafiosos-internacionales-y-estupidos-en-medio-de-su-pelea-con-alberto-fernandez/) Lenín Moreno se refirió a “mafiosos internacionales” y “estúpidos” en medio de su pelea con Alberto Fernández. Por Mariano Boettner.
+<center><img src='https://www.infobae.com/new-resizer/dYJh-D15YRmIhDc2xi361XEMO84=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/JVE6TAVWLNAIJM2MCIER6Q5YJQ.com' width='450'></center>
+[NOTA](https://www.infobae.com/politica/2021/03/12/alberto-fernandez-se-aislo-para-nombrar-al-ministro-de-justicia-y-causa-incertidumbre-en-el-gabinete-nacional/) Alberto Fernández se aisló para nombrar al ministro de Justicia y causa incertidumbre en el Gabinete. Por Román Lejtman.
 
-<center><img src='https://www.infobae.com/new-resizer/pr0_7HLz3HSzMYYHnRWA8hpLScg=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/LONMUWSHCFGKRMTVPFKYRM6X7M.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/historias/2021/03/12/bernie-madoff-de-multimillonario-a-150-anos-de-carcel-el-unico-remordimiento-del-mayor-estafador-de-wall-street/) Madoff, de multimillonario a 150 años de cárcel: el remordimiento del mayor estafador de Wall Street. Por Mercedes Funes.
+<center><img src='https://www.infobae.com/new-resizer/REAUOPexKLH_Xr1bmPWWxh0_yBA=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/XBTZW6SHXFCVVGNLGRLU3ZFGKI.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/politica/2021/03/12/sergio-massa-mas-de-133-mil-trabajadores-del-transporte-en-todo-el-pais-van-a-dejar-de-pagar-ganancias/) Sergio Massa: “Más de 133 mil trabajadores del transporte en todo el país van a dejar de pagar Ganancias”. Por Federico Fahsbender.
 
 <center><img src='https://www.infobae.com/new-resizer/JqRvOQRVEGOG9yCSgIbHgAMatrk=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/4CBSD3IZO5BWHLVG5S6G4C2MEY.jpg' width='450'></center>
 [NOTA](https://www.infobae.com/teleshow/infoshow/2021/03/12/alberto-cormillot-de-82-anos-confirmo-que-espera-un-hijo-con-su-mujer-de-34/) Alberto Cormillot confirmó que será papá a los 82 añosAUDIO.
@@ -109,14 +110,19 @@
                 ¿Quién debe traducir el poema de Amanda Gorman? El veto a un traductor catalán abre la polémica
             .
 
-<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604ac88559bf5b21361d9e69.JPG' width='450'></center>
-[NOTA](https://actualidad.rt.com//actualidad/386153-presidente-asamblea-estatal-nueva-york-investigacion-cuomo) 
-                Nueva York aprueba la investigación de 'impeachment' contra Andrew Cuomo en lo que sería el primer juicio político en ese estado en más de 100 años
-            .
-
 <center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604aed03e9ff715b562f4471.JPG' width='450'></center>
 [NOTA](https://actualidad.rt.com//actualidad/386158-biden-ordenar-estados-habilitar-vacunacion) 
                 "Superamos el período más oscuro que hemos conocido": Biden ordena a los estados que habiliten la vacunación a todos los adultos para el 1 de mayo
+            .
+
+<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604b599359bf5b2638332076.JPG' width='450'></center>
+[NOTA](https://actualidad.rt.com//actualidad/386175-alibaba-multa-record-china-ant) 
+                ¿Podría una multa récord en la historia de China socavar a Alibaba?
+            .
+
+<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604b6de059bf5b336875f696.jpg' width='450'></center>
+[NOTA](https://actualidad.rt.com//actualidad/386190-discurso-antimarihuana-diputada-mexicana-viral) 
+                "Estar en un viaje durante cuatro días, ¿es eso lo que quieren?": El discurso antimarihuana de una diputada mexicana se vuelve viral (VIDEO)
             .
 
 <center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604aa8de59bf5b21361d9e4f.JPG' width='450'></center>
@@ -124,19 +130,14 @@
                 VIDEO: Descubrimiento en la RD de Congo de una 'montaña de oro' con una concentración de hasta 90 % del metal precioso desata una masiva fiebre de oro
             .
 
-<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604ab632e9ff7154c2100dee.jpg' width='450'></center>
-[NOTA](https://actualidad.rt.com//actualidad/386143-colombia-alcaldesa-bogota-declaraciones-xenofobas-venezolanos) 
-                "Primero asesinan y luego roban": La alcaldesa de Bogotá vuelve a emitir juicios xenófobos en contra de los venezolanos
-            .
-
 ---------------------
 ### <center>La Nación</center>
 
-<center><img src='https://bucket1.glanacion.com/anexos/fotos/72/3660172h373.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/propiedades/construccion-y-diseno/es-ley-se-pueden-comprar-propiedades-con-menos-impuestos-y-blanquear-dinero-nid12032021/) Desde hoy. Se pueden comprar viviendas con menos impuestos y entrar en el blanqueo       La ley permite adquirir departamentos sólo en proyectos en construcción con un avance de hasta el 50%          Por Carla Quiroga.
+<center><img src='https://bucket1.glanacion.com/anexos/fotos/40/3660240h373.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/politica/un-abogado-mediatico-y-un-sindicalista-en-la-pata-peronista-de-juntos-por-el-cambio-nid12032021/) Lanzamiento. Un abogado mediático y un sindicalista, en la pata peronista de JxC       El grupo justicialista Hacemos intenta extenderse en la provincia de Buenos Aires; para La Matanza          Por Javier Fuego Simondet.
 
-<center><img src='https://bucket1.glanacion.com/anexos/fotos/40/3660240h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/politica/un-abogado-mediatico-y-un-sindicalista-en-la-pata-peronista-de-juntos-por-el-cambio-nid12032021/) Lanzamiento. Un abogado mediático y un sindicalista, en la pata peronista de JxC     Por Javier Fuego Simondet.
+<center><img src='https://bucket1.glanacion.com/anexos/fotos/72/3660172h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/propiedades/construccion-y-diseno/es-ley-se-pueden-comprar-propiedades-con-menos-impuestos-y-blanquear-dinero-nid12032021/) Desde hoy. Se pueden comprar viviendas con menos impuestos y entrar en el blanqueo     Por Carla Quiroga.
 
 [NOTA](https://www.lanacion.com.ar/ideas/kirchnerpedia-la-militancia-copo-las-definiciones-politicas-de-wikipedia-nid12032021/) A FONDO  ¿Kirchnerpedia? La militancia copó las definiciones políticas de Wikipedia     Por Diego Cabot.
 
