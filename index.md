@@ -2,7 +2,7 @@
 <a name='Página12'></a>
 
 ---------------------
-<H2><center>Página12</center>
+<H2><center>Página12</center></H2>
  &nbsp;
 
 <center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147266-whatsapp-20image-202021-03-11-20at-2019-22-30-20-281-29.jpeg?itok=c9XxhYmt' width='450'></center>
@@ -43,7 +43,7 @@
 <a name='Infobae'></a>
 
 ---------------------
-<H2><center>Infobae</center>
+<H2><center>Infobae</center></H2>
  &nbsp;
 
 <center><img src='https://www.infobae.com/new-resizer/El6IgQbWnRh4UqOyB4qem8u2i_4=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/6NDCGJKA35HYDC4UZLAUJNVM74.jpg' width='450'></center>
@@ -58,8 +58,8 @@
 <center><img src='https://www.infobae.com/new-resizer/dYJh-D15YRmIhDc2xi361XEMO84=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/JVE6TAVWLNAIJM2MCIER6Q5YJQ.com' width='450'></center>
 [NOTA](https://www.infobae.com/politica/2021/03/12/alberto-fernandez-se-aislo-para-nombrar-al-ministro-de-justicia-y-causa-incertidumbre-en-el-gabinete-nacional/) Alberto Fernández se aisló para nombrar al ministro de Justicia y causa incertidumbre en el Gabinete. Por Román Lejtman.
 
-<center><img src='https://www.infobae.com/new-resizer/REAUOPexKLH_Xr1bmPWWxh0_yBA=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/XBTZW6SHXFCVVGNLGRLU3ZFGKI.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/politica/2021/03/12/sergio-massa-mas-de-133-mil-trabajadores-del-transporte-en-todo-el-pais-van-a-dejar-de-pagar-ganancias/) Sergio Massa: “Más de 133 mil trabajadores del transporte en todo el país van a dejar de pagar Ganancias”. Por Federico Fahsbender.
+<center><img src='https://www.infobae.com/new-resizer/-3eQTNI3MdN_UQomrT1_GDCurPA=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/VGD7U2HB34FHUHO2SXUAJEMY6M.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/economia/2021/03/12/cada-vez-mas-mujeres-invierten-en-criptomonedas-por-que-apuestan-a-este-mercado-financiero-alternativo/) Cada vez más mujeres invierten en Bitcoin y otras criptomonedas: por qué apuestan a este mercado financiero alternativo . Por Martín Kanenguiser.
 
 <center><img src='https://www.infobae.com/new-resizer/5euATjDMIpzFm2y0b8KKKPlilRU=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/W7NSCQ56KFB2XCHEDEBHTORFLA.jpg' width='450'></center>
 [NOTA](https://www.infobae.com/sociedad/2021/03/12/grabaron-a-un-inspector-de-transito-pidiendo-1200-de-coima-para-evitar-una-multa/) Grabaron a un inspector de tránsito pidiendo una coimaVIDEO.
@@ -67,7 +67,7 @@
 <a name='Nodal'></a>
 
 ---------------------
-<H2><center>Nodal</center>
+<H2><center>Nodal</center></H2>
  &nbsp;
 
 <center><img src='https://www.nodal.am/wp-content/uploads/2021/01/pandemia-brasil-357x210.jpg' width='450'></center>
@@ -91,7 +91,7 @@
 <a name='RT'></a>
 
 ---------------------
-<H2><center>RT</center>
+<H2><center>RT</center></H2>
  &nbsp;
 
 <center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604ab022e9ff715b8f39161a.JPG' width='450'></center>
@@ -127,7 +127,7 @@
 <a name='LaNación'></a>
 
 ---------------------
-<H2><center>La Nación</center>
+<H2><center>La Nación</center></H2>
  &nbsp;
 
 <center><img src='https://bucket2.glanacion.com/anexos/fotos/34/3660334h373.jpg' width='450'></center>
@@ -151,7 +151,7 @@
 <a name='221Digital'></a>
 
 ---------------------
-<H2><center>221 Digital</center>
+<H2><center>221 Digital</center></H2>
  &nbsp;
 
 <center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615559024226.jpg?&cw=288&ch=199' width='450'></center>
@@ -175,24 +175,9 @@
 <a name='UNLP'></a>
 
 ---------------------
-<H2><center>UNLP</center>
+<H2><center>UNLP</center></H2>
  &nbsp;
 
 <center><img src='https://unlp.edu.ar/frontend/clients/347d0ec0744bd6d573afb5b0b217298ef55d02f2/modulo_de_portada_mosaico_de_articulos/logo_investiga-ffe3fbe2a0305f485816ccf3369c35c3.svg' width='450'></center>
 [NOTA](https://unlp.edu.ar/cienciaenaccion/la-unlp-se-pone-en-carrera-para-desarrollar-una-vacuna-contra-elcovid-19-19959) La UNLP se pone en carrera para desarrollar una vacuna contra el COVID-19             Ciencia en acción          / COVID-19                El proyecto interdisciplinario del denominado Grupo COVID-Exactas se encuentra en la etapa de ensayos preclínicos y apunta a fortalecer el sistema sanitario nacional..
-
-<center><img src='https://unlp.edu.ar/frontend/clients/347d0ec0744bd6d573afb5b0b217298ef55d02f2/modulo_de_portada_mosaico_de_articulos/galeria-fotos-780b66aa3576da7a9a8f2047cd01bb5f.png' width='450'></center>
-[NOTA](https://unlp.edu.ar/institucional/tauber-visito-el-vacunatorio-que-funciona-en-la-sede-del-comedor-universitario-19985) Tauber visitó el vacunatorio que funciona en la sede del Comedor Universitario              Institucional                El presidente de la UNLP recorrió las instalaciones junto a autoridades de Salud de la Provincia.
-
-<center><img src='https://unlp.edu.ar/frontend/clients/347d0ec0744bd6d573afb5b0b217298ef55d02f2/modulo_de_portada_mosaico_de_articulos/galeria-fotos-780b66aa3576da7a9a8f2047cd01bb5f.png' width='450'></center>
-[NOTA](https://unlp.edu.ar/bienestar_universitario/se-reanudo-la-entrega-de-de-tablets-y-notebooks-para-estudiantes-de-la-unlp-19995) Se reanudó la entrega de tablets y notebooks para estudiantes de la UNLP             Bienestar Universitario                "Tu PC para estudiar" busca garantizar el desarrollo académico en tiempos de virtualidad.
-
-<center><img src='https://unlp.edu.ar/frontend/clients/347d0ec0744bd6d573afb5b0b217298ef55d02f2/modulo_de_portada_mosaico_de_articulos/galeria-fotos-780b66aa3576da7a9a8f2047cd01bb5f.png' width='450'></center>
-[NOTA](https://unlp.edu.ar/institucional/la-unlp-y-salud-de-la-provincia-refuerzan-la-articulacion-en-la-lucha-contra-la-pandemia-19947) La UNLP y Salud de la Provincia refuerzan la articulación en la lucha contra la pandemia              Institucional                El Presidente Tauber y el Ministro Gollan firmaron un nuevo convenio para continuar con las actividades de voluntariado de acuerdo a las necesidades planteadas por la cartera sanitaria.
-
-<center><img src='https://unlp.edu.ar/frontend/clients/347d0ec0744bd6d573afb5b0b217298ef55d02f2/modulo_de_portada_mosaico_de_articulos/galeria-fotos-780b66aa3576da7a9a8f2047cd01bb5f.png' width='450'></center>
-[NOTA](https://unlp.edu.ar/institucional/la-unlp-anuncio-un-plan-de-consolidacion-de-su-planta-de-trabajadores-nodocentes-19900) La UNLP anunció un plan de consolidación de su planta de trabajadores Nodocentes               Institucional                Se firmó un convenio-programa con Nación para la provisión de 300 cargos. A ello se sumarán otros 300, financiados con recursos del presupuesto de la Universidad.
-
-<center><img src='https://unlp.edu.ar/frontend/clients/347d0ec0744bd6d573afb5b0b217298ef55d02f2/modulo_de_portada_mosaico_de_articulos/galeria-fotos-780b66aa3576da7a9a8f2047cd01bb5f.png' width='450'></center>
-[NOTA](https://unlp.edu.ar/institucional/un-estudiante-de-ingenieria-de-la-unlp-entre-los-guardianes-de-la-antartida-19980) Un estudiante de Ingeniería de la UNLP entre los guardianes de la Antártida              Institucional                Fue uno de los veinte custodios de la Base San Martín. Su misión fue mantener los equipos electrónicos.
 
