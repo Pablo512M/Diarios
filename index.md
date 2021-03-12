@@ -34,14 +34,16 @@
 
 
 
+<a name='Infobae'></a>
+
 ---------------------
 ### <center>Infobae</center>
 
 <center><img src='https://www.infobae.com/new-resizer/El6IgQbWnRh4UqOyB4qem8u2i_4=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/6NDCGJKA35HYDC4UZLAUJNVM74.jpg' width='450'></center>
 [NOTA](https://www.infobae.com/america/america-latina/2021/03/12/el-ministro-de-salud-de-chile-dijo-que-el-80-por-ciento-de-la-poblacion-estara-vacunada-para-fines-de-junio/) Chile tendrá al 80% de la población vacunada contra el COVID a fines de junioEnrique París,  ministro de Salud del gobierno de Sebastián Piñera, explicó las claves para el exitoso proceso de vacunación contra el coronavirus. En un sólo día vacunaron a más de 400 mil personas.
 
-<center><img src='https://www.infobae.com/new-resizer/Q03tym1O1TyLioLM7lleBkM7i1E=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/6PCL4KABFJABRGJSIZQ5TJ64UI.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/sociedad/policiales/2021/03/12/un-hombre-intento-asesinar-a-su-ex-mujer-en-la-puerta-del-colegio-de-su-hijo-la-baleo-y-luego-se-suicido/) Un hombre intentó asesinar a su ex mujer en la puerta del colegio de su hijo: la baleó y luego se suicidó.
+<center><img src='https://www.infobae.com/new-resizer/KOeLoBrJ6cpKsvUwVXLK0CVk3hQ=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/KHM3EAY4CVFMTA47OPCFWA2XDA.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/sociedad/policiales/2021/03/12/un-hombre-intento-asesinar-a-su-ex-mujer-en-la-puerta-del-colegio-de-su-hijo-la-baleo-y-luego-se-suicido/) Un hombre intentó asesinar a su ex mujer tras varias denuncias en su contra: la baleó y luego se suicidó.
 
 <center><img src='https://www.infobae.com/new-resizer/5euATjDMIpzFm2y0b8KKKPlilRU=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/W7NSCQ56KFB2XCHEDEBHTORFLA.jpg' width='450'></center>
 [NOTA](https://www.infobae.com/sociedad/2021/03/12/grabaron-a-un-inspector-de-transito-pidiendo-1200-de-coima-para-evitar-una-multa/) Grabaron a un inspector de tránsito pidiendo una coimaVIDEO.
@@ -54,6 +56,8 @@
 
 <center><img src='https://www.infobae.com/new-resizer/REAUOPexKLH_Xr1bmPWWxh0_yBA=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/XBTZW6SHXFCVVGNLGRLU3ZFGKI.jpg' width='450'></center>
 [NOTA](https://www.infobae.com/politica/2021/03/12/sergio-massa-mas-de-133-mil-trabajadores-del-transporte-en-todo-el-pais-van-a-dejar-de-pagar-ganancias/) Sergio Massa: “Más de 133 mil trabajadores del transporte en todo el país van a dejar de pagar Ganancias”. Por Federico Fahsbender.
+
+<a name='Nodal'></a>
 
 ---------------------
 ### <center>Nodal</center>
@@ -126,15 +130,16 @@
 <center><img src='https://bucket1.glanacion.com/anexos/fotos/72/3660172h186.jpg' width='450'></center>
 [NOTA](https://www.lanacion.com.ar/propiedades/construccion-y-diseno/es-ley-se-pueden-comprar-propiedades-con-menos-impuestos-y-blanquear-dinero-nid12032021/) Desde hoy. Se pueden comprar viviendas con menos impuestos y entrar en el blanqueo     Por Carla Quiroga.
 
-[NOTA](https://www.lanacion.com.ar/el-mundo/astrazeneca-como-una-de-las-vacunas-candidatas-mas-fuertes-perdio-credibilidad-nid12032021/) AstraZeneca. Cómo se debilitó la confianza en una de las principales vacunas.
+<center><img src='https://bucket1.glanacion.com/anexos/fotos/91/3660291h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/sociedad/salud-aconsejan-un-intervalo-de-14-dias-con-la-vacuna-antigripal-pero-sin-demorar-la-de-covid-nid12032021/) Coronavirus. Cuánto esperar para recibir la vacuna antigripal     Por Fabiola Czubaj.
 
 <center><img src='https://bucket1.glanacion.com/anexos/fotos/30/3660230h186.jpg' width='450'></center>
 [NOTA](https://www.lanacion.com.ar/el-mundo/mafioso-internacional-y-estupido-el-mensaje-de-lenin-moreno-en-la-polemica-con-fernandez-nid12032021/) ''Mafioso internacional". El mensaje de Lenín Moreno por la polémica con Fernández.
 
 [NOTA](https://www.lanacion.com.ar/ideas/kirchnerpedia-la-militancia-copo-las-definiciones-politicas-de-wikipedia-nid12032021/) A FONDO  ¿Kirchnerpedia? La militancia copó las definiciones políticas de Wikipedia     Por Diego Cabot.
 
-<center><img src='https://bucket3.glanacion.com/anexos/fotos/09/3660209h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/deportes/dura-columna-lo-ultimo-que-necesita-messi-nid12032021/) En España. Dura columna sobre Barcelona: ''Lo último que necesita Messi''.
+<center><img src='https://bucket1.glanacion.com/anexos/fotos/92/3660292h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/seguridad/ramos-mejia-un-hombre-baleo-a-su-exmujer-y-luego-se-suicido-de-un-tiro-en-la-cabeza-nid12032021/) En la puerta de su casa. Un hombre baleó a su exmujer y luego se suicidó.
 
 ---------------------
 ### <center>221 Digital</center>
