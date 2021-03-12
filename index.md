@@ -48,8 +48,8 @@
 <center><img src='https://www.infobae.com/new-resizer/5euATjDMIpzFm2y0b8KKKPlilRU=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/W7NSCQ56KFB2XCHEDEBHTORFLA.jpg' width='450'></center>
 [NOTA](https://www.infobae.com/sociedad/2021/03/12/grabaron-a-un-inspector-de-transito-pidiendo-1200-de-coima-para-evitar-una-multa/) Grabaron a un inspector de tránsito pidiendo una coimaVIDEO.
 
-<center><img src='https://www.infobae.com/new-resizer/Mlg_-TUWVU7QGXRBHZD6NtCrr2E=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/6LEF6FRQU5GVNCBOB46P3XMZ7I.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/salud/2021/03/12/premian-en-eeuu-a-una-argentina-por-desarrollar-un-software-inteligente-que-detecta-cancer-de-mama/) Premian en EEUU a una argentina por desarrollar un software inteligente que detecta cáncer de mama.
+<center><img src='https://www.infobae.com/new-resizer/-yuAymX56638sZpXFEzrUPaso_A=/420x236/filters:format(jpg):quality(85)/arc-anglerfish-arc2-prod-infobae.s3.amazonaws.com/public/XAYLY7RSWRAWBJKRGE6JJ3H5RA' width='450'></center>
+[NOTA](https://www.infobae.com/salud/2021/03/12/que-es-el-glaucoma-una-enfermedad-ocular-que-afecta-a-25-millones-de-argentinos/) Qué es el glaucoma, una enfermedad ocular que afecta a 2.5 millones de argentinos. Por Francisco Reyes.
 
 <center><img src='https://www.infobae.com/new-resizer/dYJh-D15YRmIhDc2xi361XEMO84=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/JVE6TAVWLNAIJM2MCIER6Q5YJQ.com' width='450'></center>
 [NOTA](https://www.infobae.com/politica/2021/03/12/alberto-fernandez-se-aislo-para-nombrar-al-ministro-de-justicia-y-causa-incertidumbre-en-el-gabinete-nacional/) Alberto Fernández se aisló para nombrar al ministro de Justicia y causa incertidumbre en el Gabinete. Por Román Lejtman.
@@ -83,6 +83,8 @@
 <center><img src='https://www.nodal.am/wp-content/uploads/2021/03/eduardo-bolsonaro-357x210.jpg' width='450'></center>
 [NOTA](https://www.nodal.am/category/suramerica/brasil/) Brasil  Nuevo exabrupto del hijo de Bolsonaro hacia la prensa: “Métanse el barbijo en el culo”  .
 
+<a name='RT'></a>
+
 ---------------------
 ### <center>RT</center>
 
@@ -93,7 +95,7 @@
 
 <center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604a40e0e9ff7154c2100d3d.JPG' width='450'></center>
 [NOTA](https://actualidad.rt.com//actualidad/385981-crisis-humanitaria-maduro-venezolanos-colombia-eeuu) 
-                ¿Atender la "crisis humanitaria" o "atacar con fuerza a Maduro"? Lo que esconden las medidas de EE.UU. y Colombia para los migrantes venezolanos
+                Lo que esconden las medidas de EE.UU. y Colombia para los migrantes venezolanos
             .
 
 <center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604b451fe9ff71574e2e5daa.jpg' width='450'></center>
@@ -101,9 +103,9 @@
                 ¿Quién debe traducir el poema de Amanda Gorman? El veto a un traductor catalán abre la polémica
             .
 
-<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604aed03e9ff715b562f4471.JPG' width='450'></center>
-[NOTA](https://actualidad.rt.com//actualidad/386158-biden-ordenar-estados-habilitar-vacunacion) 
-                "Superamos el período más oscuro que hemos conocido": Biden ordena a los estados que habiliten la vacunación a todos los adultos para el 1 de mayo
+<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604a0d68e9ff71627b2aec6c.JPG' width='450'></center>
+[NOTA](https://actualidad.rt.com//actualidad/386066-china-establece-planes-desarrollo-economico-social) 
+                China establece sus planes de desarrollo económico y social para los próximos cinco años: ¿en qué consisten los objetivos?
             .
 
 <center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604b599359bf5b2638332076.JPG' width='450'></center>
@@ -121,37 +123,42 @@
                 VIDEO: Descubrimiento en la RD de Congo de una 'montaña de oro' con una concentración de hasta 90 % del metal precioso desata una masiva fiebre de oro
             .
 
+<a name='LaNación'></a>
+
 ---------------------
 ### <center>La Nación</center>
 
 <center><img src='https://bucket1.glanacion.com/anexos/fotos/40/3660240h373.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/politica/un-abogado-mediatico-y-un-sindicalista-en-la-pata-peronista-de-juntos-por-el-cambio-nid12032021/) Lanzamiento. Un abogado mediático y un sindicalista, en la pata peronista de JxC       El grupo justicialista Hacemos intenta extenderse en la provincia de Buenos Aires; para La Matanza          Por Javier Fuego Simondet.
-
-<center><img src='https://bucket1.glanacion.com/anexos/fotos/72/3660172h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/propiedades/construccion-y-diseno/es-ley-se-pueden-comprar-propiedades-con-menos-impuestos-y-blanquear-dinero-nid12032021/) Desde hoy. Se pueden comprar viviendas con menos impuestos y entrar en el blanqueo     Por Carla Quiroga.
+[NOTA](https://www.lanacion.com.ar/politica/un-abogado-mediatico-y-un-sindicalista-en-la-pata-peronista-de-juntos-por-el-cambio-nid12032021/) Lanzamiento. Un abogado mediático y un sindicalista, en la pata peronista de JxC       El grupo justicialista Hacemos intenta extenderse en la provincia de Buenos Aires          Por Javier Fuego Simondet.
 
 <center><img src='https://bucket1.glanacion.com/anexos/fotos/91/3660291h186.jpg' width='450'></center>
 [NOTA](https://www.lanacion.com.ar/sociedad/salud-aconsejan-un-intervalo-de-14-dias-con-la-vacuna-antigripal-pero-sin-demorar-la-de-covid-nid12032021/) Coronavirus. Cuánto esperar para recibir la vacuna antigripal     Por Fabiola Czubaj.
 
-<center><img src='https://bucket1.glanacion.com/anexos/fotos/30/3660230h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/el-mundo/mafioso-internacional-y-estupido-el-mensaje-de-lenin-moreno-en-la-polemica-con-fernandez-nid12032021/) ''Mafioso internacional". El mensaje de Lenín Moreno por la polémica con Fernández.
-
-[NOTA](https://www.lanacion.com.ar/ideas/kirchnerpedia-la-militancia-copo-las-definiciones-politicas-de-wikipedia-nid12032021/) A FONDO  ¿Kirchnerpedia? La militancia copó las definiciones políticas de Wikipedia     Por Diego Cabot.
-
 <center><img src='https://bucket1.glanacion.com/anexos/fotos/92/3660292h186.jpg' width='450'></center>
 [NOTA](https://www.lanacion.com.ar/seguridad/ramos-mejia-un-hombre-baleo-a-su-exmujer-y-luego-se-suicido-de-un-tiro-en-la-cabeza-nid12032021/) En la puerta de su casa. Un hombre baleó a su exmujer y luego se suicidó.
 
+<center><img src='https://bucket1.glanacion.com/anexos/fotos/72/3660172h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/propiedades/construccion-y-diseno/es-ley-se-pueden-comprar-propiedades-con-menos-impuestos-y-blanquear-dinero-nid12032021/) Desde hoy. Se pueden comprar viviendas con menos impuestos y entrar en el blanqueo     Por Carla Quiroga.
+
+<center><img src='https://bucket1.glanacion.com/anexos/fotos/30/3660230h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/el-mundo/mafioso-internacional-y-estupido-el-mensaje-de-lenin-moreno-en-la-polemica-con-fernandez-nid12032021/) ''Mafioso internacional". El mensaje de Lenín Moreno por la polémica con Fernández.
+
+<center><img src='https://bucket1.glanacion.com/anexos/fotos/71/3660271h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/el-mundo/deja-vu-agobiada-italia-pone-en-zona-a-roja-a-dos-tercios-de-la-poblacion-nid12032021/) Déjà vu. Agobiada, Italia pone en zona a roja a dos tercios de la población     Por Elisabetta Piqué.
+
+<a name='221Digital'></a>
+
 ---------------------
 ### <center>221 Digital</center>
+
+<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615559407989.jpeg?x=20&y=6&width=1243&height=621&rotate=0&scaleX=1&scaleY=1&ow=1280&oh=633&&cw=288&ch=199' width='450'></center>
+[NOTA](https://www.0221.com.ar/nota/2021-3-12-11-28-0-murio-por-coronavirus-un-enfermero-de-la-upa-de-los-hornos-no-habia-querido-vacunarse) SALVADOR ROBERTO CURZIO : Murió por coronavirus un enfermero de la UPA de Los Hornos: no había querido vacunarse.
 
 <center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615550466375.jpeg?&cw=288&ch=199' width='450'></center>
 [NOTA](https://www.0221.com.ar/nota/2021-3-12-9-11-0-robaron-los-cables-y-la-bomba-de-agua-del-paso-bajo-nivel-de-7-y-508-se-inundo-todo) VIDEOS: Robaron los cables y la bomba de agua del paso bajo nivel de 7 y 508 se inundó todo.
 
 <center><img src='https://pxb.cdn.0221.com.ar/0221/062018/1528207047764.jpg?x=6&y=24&width=1408&height=704&rotate=0&scaleX=1&scaleY=1&ow=1420&oh=728&&cw=288&ch=199' width='450'></center>
 [NOTA](https://www.0221.com.ar/nota/2021-3-12-8-27-0-tucho-fernandez-les-tomo-juramento-en-la-catedral-a-las-nuevas-autoridades-de-la-ucalp) CON INVITADOS ESPECIALES: Tucho Fernández les tomó juramento en la Catedral a las nuevas autoridades de la UCALP.
-
-<center><img src='https://pxb.cdn.0221.com.ar/0221/022021/1612376689297.jpg?x=9&y=134&width=1263&height=631&rotate=0&scaleX=1&scaleY=1&ow=1280&oh=853&&cw=288&ch=199' width='450'></center>
-[NOTA](https://www.0221.com.ar/nota/2021-3-12-7-39-0-la-semana-se-va-con-un-viernes-agradable-en-la-previa-de-un-finde-con-sol-en-la-plata) CLIMA: La semana se va con un viernes agradable, en la previa de un finde con sol en La Plata.
 
 <center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615499751300.jpg?x=4&y=75&width=1493&height=746&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=1125&&cw=288&ch=199' width='450'></center>
 [NOTA](https://www.0221.com.ar/nota/2021-3-11-18-53-0-dolor-por-la-muerte-de-un-ex-futbolista-de-estudiantes-y-gimnasia) ROBERTO JOSÉ SANTIAGO: Dolor por la muerte de un ex futbolista de Estudiantes y Gimnasia.
