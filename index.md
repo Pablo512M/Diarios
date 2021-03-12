@@ -24,7 +24,7 @@ vacunas a la iniciativa privada
 
 
  &nbsp;<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147112-macri-20libro.jpeg?itok=KJbPbFSE' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/329027-tras-las-burlas-en-la-preventa-macri-prepara-la-puesta-en-es) Tras las burlas en la preventa, Macri prepara la puesta en escena para el lanzamiento de su libro El lugar de la presentación aún no está definidoPor Werner Pertot
+[NOTA](https://www.pagina12.com.ar/329027-tras-las-burlas-en-la-preventa-macri-prepara-la-puesta-en-es) Tras las burlas en la preventa, Macri prepara la puesta en escena para el lanzamiento de su libro El lugar de la presentación aún no está definido. Por Werner Pertot
 
 
 
@@ -34,17 +34,17 @@ vacunas a la iniciativa privada
 
 
  &nbsp;<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147205-whatsapp-20image-202021-03-11-20at-207-54-34-20pm.jpeg?itok=19m6YJDl' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/328987-ya-no-habra-voto-anticipado-en-la-argentina) Ya no habrá voto anticipado en la Argentina Cuál será en nuevo calendario electoralPor Melisa Molina
+[NOTA](https://www.pagina12.com.ar/328987-ya-no-habra-voto-anticipado-en-la-argentina) Ya no habrá voto anticipado en la Argentina Cuál será en nuevo calendario electoral. Por Melisa Molina
 
 
 
  &nbsp;<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147235-whatsapp-20image-202021-03-11-20at-207-46-22-20pm.jpeg?itok=M7UTKblG' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/329005-la-emergencia-sanitaria-se-extiende-hasta-el-31-de-diciembre) Reducen vuelos y extreman controles pero no cierran fronteras La prórroga de la emergencia sanitariaPor Melisa Molina
+[NOTA](https://www.pagina12.com.ar/329005-la-emergencia-sanitaria-se-extiende-hasta-el-31-de-diciembre) Reducen vuelos y extreman controles pero no cierran fronteras La prórroga de la emergencia sanitaria. Por Melisa Molina
 
 
 
  &nbsp;<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147097-whatsapp-20image-202021-03-10-20at-2012-23-12-20pm.jpeg?itok=Rpoc4Mtf' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/328926-coronavirus-mas-vacunas-para-proteger-a-mas-personas-antes-d) Coronavirus: más vacunas para proteger a más personas antes de que llegue el frío Se confirmó la llegada de 3 millones de dosis de Sinopharm para la próxima semana  Por Pablo Esteban
+[NOTA](https://www.pagina12.com.ar/328926-coronavirus-mas-vacunas-para-proteger-a-mas-personas-antes-d) Coronavirus: más vacunas para proteger a más personas antes de que llegue el frío Se confirmó la llegada de 3 millones de dosis de Sinopharm para la próxima semana  . Por Pablo Esteban
 
 
 
@@ -57,19 +57,26 @@ vacunas a la iniciativa privada
 ### <center>Infobae</center>
 
 <center><img src='https://www.infobae.com/new-resizer/q96IgUuRARQLAJy6XobQy1NFxIs=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/53MJ6OX3JRB5XDP33DQIOCLIXA.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/politica/2021/03/12/el-gobierno-extendio-la-emergencia-sanitaria-hasta-el-31-de-diciembre/) El Gobierno extendió la emergencia sanitaria hasta el 31 de diciembreHabía sido declarada originalmente el 12 de marzo de 2020 para “dotar al Estado de las herramientas necesarias, adecuadas, eficaces y transparentes para combatir la pandemia”Por Brenda Struminger
+<center><img src='https://www.infobae.com/new-resizer/q96IgUuRARQLAJy6XobQy1NFxIs=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/53MJ6OX3JRB5XDP33DQIOCLIXA.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/politica/2021/03/12/el-gobierno-extendio-la-emergencia-sanitaria-hasta-el-31-de-diciembre/) El Gobierno extendió la emergencia sanitaria hasta el 31 de diciembreHabía sido declarada originalmente el 12 de marzo de 2020 para “dotar al Estado de las herramientas necesarias, adecuadas, eficaces y transparentes para combatir la pandemia”. Por Brenda Struminger
 
-[NOTA](https://www.infobae.com/america/ciencia-america/2021/03/11/covid-19-graficos-muestran-la-probabilidad-de-hospitalizacion-y-muerte-segun-edad-sexo-y-factores-de-riesgo/) COVID-19: los gráficos que muestran la probabilidad de hospitalización y muerte según edad, sexo y factores de riesgoPor David Cayón
+<center><img src='https://www.infobae.com/new-resizer/LrRWA31kr032pvosSzUHkGJpmDg=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/MHGK6YJCZFELNO45IGTTSXA22A.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/america/ciencia-america/2021/03/11/covid-19-graficos-muestran-la-probabilidad-de-hospitalizacion-y-muerte-segun-edad-sexo-y-factores-de-riesgo/) COVID-19: los gráficos que muestran la probabilidad de hospitalización y muerte según edad, sexo y factores de riesgo. Por David Cayón
 
-[NOTA](https://www.infobae.com/america/eeuu/2021/03/11/joe-biden-dara-su-primer-mensaje-a-la-nacion-vislumbrando-el-final-de-la-pandemia/) Joe Biden anunció la eliminación de restricciones de edad para recibir la vacuna contra el COVID-19Por Brenda Struminger
+<center><img src='https://www.infobae.com/new-resizer/aEwVA4t0YTnLZKxZ5O14Ertru_A=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/3QJIBXPGA5P2MFHSQ5V72JYTSU.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/america/eeuu/2021/03/11/joe-biden-dara-su-primer-mensaje-a-la-nacion-vislumbrando-el-final-de-la-pandemia/) Joe Biden anunció la eliminación de restricciones de edad para recibir la vacuna contra el COVID-19. Por Brenda Struminger
 
-[NOTA](https://www.infobae.com/economia/2021/03/12/el-gobierno-sube-la-alicuota-de-ganancias-para-las-grandes-empresas-y-la-reduce-para-las-pymes/) El Gobierno subirá la alícuota de Ganancias para las grandes empresas y la reducirá para las pymesPor Mariano Boettner
+<center><img src='https://www.infobae.com/new-resizer/m9Sj8lb2QgCtuYXHp4vySa2njTg=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/MKUPRJVH5RGNRDI5ZTFWYG4JLA.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/economia/2021/03/12/el-gobierno-sube-la-alicuota-de-ganancias-para-las-grandes-empresas-y-la-reduce-para-las-pymes/) El Gobierno subirá la alícuota de Ganancias para las grandes empresas y la reducirá para las pymes. Por Mariano Boettner
 
-[NOTA](https://www.infobae.com/economia/2021/03/11/jornada-financiera-el-dolar-libre-bajo-a-140-y-ya-es-20-pesos-mas-barato-que-el-oficial/) El dólar libre cayó a $140, su valor más bajo en los últimos seis mesesPor Juan Gasalla
+<center><img src='https://www.infobae.com/new-resizer/Ur43RJLhNMf3Dd8aZoCDumoXKQY=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/B3U6S2N7L4RFTJ3A3VCDFPOQ5Y.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/economia/2021/03/11/jornada-financiera-el-dolar-libre-bajo-a-140-y-ya-es-20-pesos-mas-barato-que-el-oficial/) El dólar libre cayó a $140, su valor más bajo en los últimos seis meses. Por Juan Gasalla
 
-[NOTA](https://www.infobae.com/america/tecno/2021/03/12/netflix-lanzo-una-funcion-de-prueba-para-impedir-el-uso-compartido-de-contrasenas/) Netflix lanzó una función para impedir el uso compartido de contraseñasPor Juan Gasalla
+<center><img src='https://www.infobae.com/new-resizer/xH7u0KHWXW_3tWbqwIRylJQayI4=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/AY3HBNLKCVDRVFDIKBQIK7UYYQ.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/america/tecno/2021/03/12/netflix-lanzo-una-funcion-de-prueba-para-impedir-el-uso-compartido-de-contrasenas/) Netflix lanzó una función para impedir el uso compartido de contraseñas. Por Juan Gasalla
 
-[NOTA](https://www.infobae.com/politica/2021/03/11/el-gobierno-derogara-el-decreto-de-macri-que-permitia-el-voto-anticipado-de-argentinos-en-el-exterior-presos-y-personal-de-seguridad/) Alberto Fernández derogará tres decretos electorales de Macri: cómo serán las nuevas reglamentacionesPor Brenda Struminger
+<center><img src='https://www.infobae.com/new-resizer/PtZhS5jHOhJHTEqasaq674ltiIg=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/U6N2UH2CMZFAJH35DDRC4AGWHU.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/politica/2021/03/11/el-gobierno-derogara-el-decreto-de-macri-que-permitia-el-voto-anticipado-de-argentinos-en-el-exterior-presos-y-personal-de-seguridad/) Alberto Fernández derogará tres decretos electorales de Macri: cómo serán las nuevas reglamentaciones. Por Brenda Struminger
 
 ---------------------
 ### <center>Nodal</center>
@@ -105,8 +112,8 @@ vacunas a la iniciativa privada
                 Nueva York aprueba la investigación de 'impeachment' contra Andrew Cuomo en lo que sería el primer juicio político en ese estado en más de 100 años
             
 
-[NOTA](https://actualidad.rt.com//actualidad/386096-secretario-general-onu-advertir-millones-hambre) 
-                Secretario general de la ONU advierte de que millones de personas en todo el mundo pueden morir de hambre "si no se toman medidas inmediatas"
+[NOTA](https://actualidad.rt.com//actualidad/386158-biden-ordenar-estados-habilitar-vacunacion) 
+                "Superamos el período más oscuro que hemos conocido": Biden ordena a los estados que habiliten la vacunación a todos los adultos para el 1 de mayo
             
 
 [NOTA](https://actualidad.rt.com//actualidad/386134-piden-corteidh-ordenar-despenalizacion-aborto-elsalvador) 
@@ -124,17 +131,15 @@ vacunas a la iniciativa privada
 ---------------------
 ### <center>La Nación</center>
 
-[NOTA](https://www.lanacion.com.ar/politica/la-falta-de-resolucion-del-reemplazo-de-marcela-losardo-agiganta-los-problemas-del-gobierno-nid12032021/) Tensión. La falta de reemplazo para Losardo agiganta los problemas del Gobierno       Después de cuatro días, Alberto Fernández aún no resolvió quién será la persona deberá administrar los destinos de un Ministerio de Justicia con un perfil más confrontativo          Por Santiago Dapelo
+[NOTA](https://www.lanacion.com.ar/politica/las-dilaciones-le-pasan-factura-a-alberto-fernandez-y-horacio-rodriguez-larreta-nid12032021/) Análisis. Las dilaciones les pasan factura a Fernández y Rodríguez Larreta       Como pocas veces, desde los lugares del poder emergen un desconcierto y un desasosiego inquietantes       Por Claudio Jacquelin
 
-[NOTA](https://www.lanacion.com.ar/politica/coronavirus-restringen-vuelos-de-estados-unidos-europa-chile-y-brasil-para-evitar-el-ingreso-de-nid11032021/) Nuevas cepas. Restringen vuelos de Estados Unidos, Europa, Chile y Brasil
+[NOTA](https://www.lanacion.com.ar/ideas/kirchnerpedia-la-militancia-copo-las-definiciones-politicas-de-wikipedia-nid12032021/) A FONDO   ¿Kirchnerpedia? La militancia copó las definiciones políticas de Wikipedia    Por Diego Cabot
 
-[NOTA](https://www.lanacion.com.ar/el-mundo/escenario-de-guerra-en-un-brasil-al-limite-hospitales-colapsados-y-pico-de-muertes-nid11032021/) Escenario de guerra. Brasil, al límite: hospitales colapsados y pico de muertes
+[NOTA](https://www.lanacion.com.ar/ideas/el-desafio-del-cristinismo-es-anestesiar-no-vacunar-nid12032021/) Análisis. El desafío del cristinismo es anestesiar, no vacunar
 
-[NOTA](https://www.lanacion.com.ar/politica/alberto-fernandez-deroga-tres-decretos-de-mauricio-macri-en-materia-electoral-nid11032021/) Elecciones. Fernández deroga tres decretos de Macri en materia electoral     Por Maia Jastreblansky
+[NOTA](https://www.lanacion.com.ar/politica/la-falta-de-resolucion-del-reemplazo-de-marcela-losardo-agiganta-los-problemas-del-gobierno-nid12032021/) Tensión. La falta de reemplazo para Losardo agiganta los problemas del Gobierno     Por Santiago Dapelo
 
-[NOTA](https://www.lanacion.com.ar/politica/covid-19-el-gobierno-extendio-la-emergencia-sanitaria-hasta-el-31-de-diciembre-nid12032021/) Covid-19. El Gobierno extendió la emergencia sanitaria hasta el 31 de diciembre
-
-[NOTA](https://www.lanacion.com.ar/sociedad/incendios-en-el-sur-que-ocurrio-y-como-sigue-la-situacion-nid11032021/) Especial. Incendios en el Sur: imágenes impactantes del desastre     Por Paula Soler
+[NOTA](https://www.lanacion.com.ar/el-mundo/vacunacion-la-argentina-se-retrasa-incluso-entre-paises-de-sus-mismos-ingresos-nid12032021/) Vacunación. La Argentina se retrasa incluso entre países de sus mismos ingresos         Por Inés Capdevila
 
 ---------------------
 ### <center>221 Digital</center>
