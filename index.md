@@ -144,10 +144,11 @@
 <center><img src='https://bucket1.glanacion.com/anexos/fotos/71/3660271h186.jpg' width='450'></center>
 [NOTA](https://www.lanacion.com.ar/el-mundo/deja-vu-agobiada-italia-pone-en-zona-a-roja-a-dos-tercios-de-la-poblacion-nid12032021/) Déjà vu. Agobiada, Italia pone en zona a roja a dos tercios de la población     Por Elisabetta Piqué.
 
-[NOTA](https://www.lanacion.com.ar/el-mundo/coronavirus-en-chile-apuntan-a-lograr-vacunar-al-80-de-la-poblacion-para-fines-de-junio-nid12032021/) En Chile. Apuntan a lograr vacunar al 80% de la población para fines de junio.
+<center><img src='https://bucket3.glanacion.com/anexos/fotos/48/3660248h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/economia/alquileres-por-que-es-conveniente-deducir-ganancias-nid12032021/) Alquileres. Cuál es el efecto en el bolsillo de deducirlos de Ganancias     Por Silvia Stang.
 
-<center><img src='https://bucket1.glanacion.com/anexos/fotos/30/3660230h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/el-mundo/mafioso-internacional-y-estupido-el-mensaje-de-lenin-moreno-en-la-polemica-con-fernandez-nid12032021/) ''Mafioso internacional". El mensaje de Lenín Moreno por la polémica con Fernández.
+<center><img src='https://bucket2.glanacion.com/anexos/fotos/63/3660263h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/buenos-aires/villa-crespo-el-misterioso-castillo-que-emergio-con-la-demolicion-del-puente-de-juan-b-justo-nid12032021/) Villa Crespo. El castillo que asomó con la remoción del puente de Juan B. Justo     Por Virginia Mejía.
 
 <center><img src='https://bucket3.glanacion.com/anexos/fotos/49/3660249h186.jpg' width='450'></center>
 [NOTA](https://www.lanacion.com.ar/deportes/nba-el-mayor-ridiculo-en-una-sola-jugada-y-ante-la-mirada-de-michael-jordan-nid12032021/) VIDEO  NBA. El mayor ridículo en una jugada durante 30 segundos, con Jordan de testigo.
@@ -161,11 +162,11 @@
 <center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615559407989.jpeg?x=20&y=6&width=1243&height=621&rotate=0&scaleX=1&scaleY=1&ow=1280&oh=633&&cw=288&ch=199' width='450'></center>
 [NOTA](https://www.0221.com.ar/nota/2021-3-12-11-28-0-murio-por-coronavirus-un-enfermero-de-la-upa-de-los-hornos-no-habia-querido-vacunarse) SALVADOR ROBERTO CURZIO : Murió por coronavirus un enfermero de la UPA de Los Hornos: no había querido vacunarse.
 
-<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615550466375.jpeg?&cw=288&ch=199' width='450'></center>
-[NOTA](https://www.0221.com.ar/nota/2021-3-12-9-11-0-robaron-los-cables-y-la-bomba-de-agua-del-paso-bajo-nivel-de-7-y-508-se-inundo-todo) VIDEOS: Robaron los cables y la bomba de agua del paso bajo nivel de 7 y 508 se inundó todo.
+<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615555284946.jpg?x=0&y=17&width=768&height=384&rotate=0&scaleX=1&scaleY=1&ow=768&oh=432&&cw=288&ch=199' width='450'></center>
+[NOTA](https://www.0221.com.ar/nota/2021-3-12-9-46-0--arranca-una-carrera-politica-fernando-burlando-dio-el-primer-paso-en-el-conurbano) Eleccions 2021: ¿Arranca una carrera política? Fernando Burlando dio el primer paso en el Conurbano.
 
-<center><img src='https://pxb.cdn.0221.com.ar/0221/062018/1528207047764.jpg?x=6&y=24&width=1408&height=704&rotate=0&scaleX=1&scaleY=1&ow=1420&oh=728&&cw=288&ch=199' width='450'></center>
-[NOTA](https://www.0221.com.ar/nota/2021-3-12-8-27-0-tucho-fernandez-les-tomo-juramento-en-la-catedral-a-las-nuevas-autoridades-de-la-ucalp) CON INVITADOS ESPECIALES: Tucho Fernández les tomó juramento en la Catedral a las nuevas autoridades de la UCALP.
+<center><img src='https://pxb.cdn.0221.com.ar/0221/092020/1600008728224.jpg?&cw=288&ch=199' width='450'></center>
+[NOTA](https://www.0221.com.ar/nota/2021-3-12-9-35-0-piden-jury-para-fiscal-acusado-de-avalar-la-detencion-ilegal-de-un-abogado-platense) OKUPAS VIP Y BRUJERÍAS: Piden jury para fiscal acusado de avalar la detención ilegal de un abogado platense.
 
 <center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615499751300.jpg?x=4&y=75&width=1493&height=746&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=1125&&cw=288&ch=199' width='450'></center>
 [NOTA](https://www.0221.com.ar/nota/2021-3-11-18-53-0-dolor-por-la-muerte-de-un-ex-futbolista-de-estudiantes-y-gimnasia) ROBERTO JOSÉ SANTIAGO: Dolor por la muerte de un ex futbolista de Estudiantes y Gimnasia.
