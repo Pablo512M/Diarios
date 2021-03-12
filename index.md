@@ -109,26 +109,32 @@ vacunas a la iniciativa privada
                 Renuncia el canciller de Ecuador, Luis Gallegos, tras la polémica con Argentina por las declaraciones de Alberto Fernández
             
 
+<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/604aab2ae9ff715c6b59edaa.JPG' width='450'></center>
 [NOTA](https://actualidad.rt.com//actualidad/386148-oms-reacciona-decision-paises-ue-suspender-uso-vacuna) 
                 La OMS reacciona ante la decisión de varios países de la UE de suspender el uso de la vacuna de AstraZeneca
             
 
+<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604aab2ae9ff715c6b59edaa.JPG' width='450'></center>
 [NOTA](https://actualidad.rt.com//actualidad/386153-presidente-asamblea-estatal-nueva-york-investigacion-cuomo) 
                 Nueva York aprueba la investigación de 'impeachment' contra Andrew Cuomo en lo que sería el primer juicio político en ese estado en más de 100 años
             
 
+<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/604aab2ae9ff715c6b59edaa.JPG' width='450'></center>
 [NOTA](https://actualidad.rt.com//actualidad/386158-biden-ordenar-estados-habilitar-vacunacion) 
                 "Superamos el período más oscuro que hemos conocido": Biden ordena a los estados que habiliten la vacunación a todos los adultos para el 1 de mayo
             
 
+<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604aab2ae9ff715c6b59edaa.JPG"' width='450'></center>
 [NOTA](https://actualidad.rt.com//actualidad/386134-piden-corteidh-ordenar-despenalizacion-aborto-elsalvador) 
                 ¿Quién era Manuela? El caso que se debate en la Corte IDH y con el que demandan la despenalización del aborto en El Salvador
             
 
+<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/604aab2ae9ff715c6b59edaa.JPG"/></noscript><div' width='450'></center>
 [NOTA](https://actualidad.rt.com//actualidad/386143-colombia-alcaldesa-bogota-declaraciones-xenofobas-venezolanos) 
                 "Primero asesinan y luego roban": La alcaldesa de Bogotá vuelve a emitir juicios xenófobos en contra de los venezolanos
             
 
+<center><img src='http://www.w3.org/2000/svg"' width='450'></center>
 [NOTA](https://actualidad.rt.com//actualidad/386125-por-que-empresas-conocidas-no-quieren-participar-produccion-vehiculo-apple) 
                 Se habrían estancado negociaciones de Apple con gigantes de la industria automotriz para producir sus autos eléctricos: ¿cuáles son los obstáculos?
             
