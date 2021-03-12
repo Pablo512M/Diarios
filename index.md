@@ -2,27 +2,29 @@
 ---------------------
 ### <center>Página12</center>
 
+<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147266-whatsapp-20image-202021-03-11-20at-2019-22-30-20-281-29.jpeg?itok=c9XxhYmt' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/329024-incendios-en-chubut-ya-hay-un-muerto-y-pueblos-enteros-sin-a) Los incendios en Chubut y Río Negro 
+ 
+ Un muerto y pueblos enteros sin agua ni luz por los incendios 
+ 
+ Se quemaron 220 viviendas y 1500 hectáreas de vegetación. El avance de las llamas en El Bolsón y la Comarca Andina generó una catástrofe social y dejó un escenario dramático en la zona 
+ 
+ Por María Fernanda Rezzano.
+
+
+
+<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147299-ewoziznwyaimevn.jpg?itok=MDnhfI9C' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/329085-tras-las-quejas-por-las-demoras-en-caba-mirtha-legrand-se-va) Mirtha Legrand se vacunó contra el coronavirus: qué dijo Luego de las quejas por las demoras en CABA.
+
+
+
 <center><img src='https://www.pagina12.com.ar/assets/media/assets/video-icon.svg' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/329048-juntos-por-el-cambio-blanqueo-que-privatizaria-la-vacuna) SALVESE QUIEN PAGUE 
- 
- La presidenta del PRO, Patricia
-Bullrich, propuso privatizar la compra
-de vacunas contra el coronavirus,
-“que la pague quien pueda hacerlo”.
-Calificó de “soviética” la centralización
-de las adquisiciones en el Estado,
-como se hace en todo el mundo. La
-propuesta está en línea con un
-proyecto de Juntos por el Cambio,
-que abre la comercialización de las
-vacunas a la iniciativa privada 
- 
- Por Maria Cafferata.
+[NOTA](https://www.pagina12.com.ar/329048-juntos-por-el-cambio-blanqueo-que-privatizaria-la-vacuna) Sálvese quien pague Bullrich pide "que pague la vacuna quien pueda hacerlo", Cornejo presenta un proyecto. Por Maria Cafferata.
 
 
 
 <center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147112-macri-20libro.jpeg?itok=KJbPbFSE' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/329027-tras-las-burlas-en-la-preventa-macri-prepara-la-puesta-en-es) Tras las burlas en la preventa, Macri prepara la puesta en escena para el lanzamiento de su libro El lugar de la presentación aún no está definido. Por Werner Pertot.
+[NOTA](https://www.pagina12.com.ar/329027-tras-las-burlas-en-la-preventa-macri-prepara-la-puesta-en-es) Macri prepara la puesta en escena para el lanzamiento de su libro Tras las burlas en la preventa. Por Werner Pertot.
 
 
 
@@ -31,23 +33,13 @@ vacunas a la iniciativa privada
 
 
 
+<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147303-mirtha-legrand-1_0.jpg?itok=FoNlgn0g' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/329088-la-felicitacion-de-los-creadores-de-la-sputnik-v-a-mirtha-le) La felicitación de los creadores de la Sputnik V a Mirtha Legrand Buenos augurios para "la gran dama de la televisión".
+
+
+
 <center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147205-whatsapp-20image-202021-03-11-20at-207-54-34-20pm.jpeg?itok=19m6YJDl' width='450'></center>
 [NOTA](https://www.pagina12.com.ar/328987-ya-no-habra-voto-anticipado-en-la-argentina) Ya no habrá voto anticipado en la Argentina Cuál será en nuevo calendario electoral. Por Melisa Molina.
-
-
-
-<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147266-whatsapp-20image-202021-03-11-20at-2019-22-30-20-281-29.jpeg?itok=c9XxhYmt' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/329024-incendios-en-chubut-ya-hay-un-muerto-y-pueblos-enteros-sin-a) Ya hay un muerto y pueblos enteros sin agua ni luz por los incendios Se quemaron 220 viviendas y 1500 hectáreas. Por María Fernanda Rezzano.
-
-
-
-<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147109-whatsapp-20image-202021-03-11-20at-2016-31-03.jpeg?itok=zEm_496s' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/328905-que-paises-suspendieron-temporalmente-la-vacuna-astra-zeneca) Ya son 8 los países que suspendieron temporalmente la vacuna de AstraZeneca . Por casos de trombosis.
-
-
-
-<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147298-cannabis-medicinal_0.jpg?itok=3P_nQFIO' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/329082-cannabis-medicinal-se-habilito-el-registro-que-permite-el-au) Se habilitó el registro que permite el autocultivo de cannabis medicinal El sitio donde hay que inscribirse.
 
 
 
@@ -97,7 +89,7 @@ vacunas a la iniciativa privada
 [NOTA](https://www.nodal.am/category/suramerica/peru/) Perú  La Fiscalía pide 30 años de cárcel para Keiko Fujimori por corrupción  .
 
 <center><img src='https://www.nodal.am/wp-content/uploads/2021/03/eduardo-bolsonaro-357x210.jpg' width='450'></center>
-[NOTA](https://www.nodal.am/category/suramerica/brasil/) Brasil  Nuevo exabrupto de Eduardo Bolsonaro hacia la prensa: “Métanse el barbijo en el culo”  .
+[NOTA](https://www.nodal.am/category/suramerica/brasil/) Brasil  Nuevo exabrupto del hijo de Bolsonaro hacia la prensa: “Métanse el barbijo en el culo”  .
 
 ---------------------
 ### <center>RT</center>
@@ -143,8 +135,8 @@ vacunas a la iniciativa privada
 <center><img src='https://bucket1.glanacion.com/anexos/fotos/72/3660172h373.jpg' width='450'></center>
 [NOTA](https://www.lanacion.com.ar/propiedades/construccion-y-diseno/es-ley-se-pueden-comprar-propiedades-con-menos-impuestos-y-blanquear-dinero-nid12032021/) Desde hoy. Se pueden comprar viviendas con menos impuestos y entrar en el blanqueo       La ley permite adquirir departamentos sólo en proyectos en construcción con un avance de hasta el 50%          Por Carla Quiroga.
 
-<center><img src='https://bucket2.glanacion.com/anexos/fotos/24/3660224h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/propiedades/inversiones/blanqueo-por-que-la-multa-podria-ser-solo-del-3-y-otras-datos-claves-nid12032021/) Blanqueo. Por qué la ''multa'' podría ser sólo del 3% y otras dudas del proceso.
+<center><img src='https://bucket1.glanacion.com/anexos/fotos/40/3660240h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/politica/un-abogado-mediatico-y-un-sindicalista-en-la-pata-peronista-de-juntos-por-el-cambio-nid12032021/) Lanzamiento. Un abogado mediático y un sindicalista, en la pata peronista de JxC     Por Javier Fuego Simondet.
 
 [NOTA](https://www.lanacion.com.ar/ideas/kirchnerpedia-la-militancia-copo-las-definiciones-politicas-de-wikipedia-nid12032021/) A FONDO  ¿Kirchnerpedia? La militancia copó las definiciones políticas de Wikipedia     Por Diego Cabot.
 
