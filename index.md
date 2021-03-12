@@ -66,7 +66,7 @@ vacunas a la iniciativa privada
 [NOTA](https://www.infobae.com/historias/2021/03/12/la-terrible-ejecucion-en-la-silla-electrica-de-un-matrimonio-acusado-de-revelar-secretos-atomicos-y-las-dudas-que-dejo-el-caso/) La terrible ejecución en la silla eléctrica de un matrimonio acusado de revelar secretos atómicos y las dudas que dejó el caso. Por Matías Bauso
 
 <center><img src='https://www.infobae.com/new-resizer/0cqwAmmNxeoycVp443ht-KZKGKQ=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/PU4KU7V3RJFK5AQNWHYCOCXFVQ.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/sociedad/2021/03/12/mientras-los-brigadistas-controlan-el-fuego-en-chubut-crece-la-sospecha-de-que-los-incendios-fueron-intencionales/) Chubut: los brigadistas luchan contra los incendios  y crece la sospecha sobre su intencionalidad. Por Mariano Boettner
+[NOTA](https://www.infobae.com/sociedad/2021/03/12/mientras-los-brigadistas-controlan-el-fuego-en-chubut-crece-la-sospecha-de-que-los-incendios-fueron-intencionales/) Chubut: los brigadistas luchan contra los incendios y crece la sospecha sobre su intencionalidad. Por Mariano Boettner
 
 <center><img src='https://www.infobae.com/new-resizer/sxisg4NN1yhTFo_Ng9sPN8t-n4E=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/3WQKSDBL3VHUDPHJ3L5SWLDBXM.jpg' width='450'></center>
 [NOTA](https://www.infobae.com/economia/2021/03/12/controles-cambiarios-reclaman-que-el-gobierno-retacea-dolares-para-comprar-insumos-en-el-exterior-y-complica-la-produccion/) Reclaman que el Gobierno retacea dólares para comprar insumos en el exterior y complica la producción. Por Juan Gasalla
@@ -92,13 +92,13 @@ vacunas a la iniciativa privada
 <center><img src='https://www.nodal.am/wp-content/uploads/2020/10/arreaza-210x136.jpg' width='450'></center>
 [NOTA](https://www.nodal.am/2021/03/venezuela-el-gobierno-anuncia-que-revisara-la-relacion-con-la-oficina-de-ddhh-de-la-onu-que-comanda-bachelet/)  Venezuela  El Gobierno anuncia que revisará la relación con la Oficina de DDHH de la ONU que comanda Bachelet 
 
-<center><img src='https://www.nodal.am/category/centroamerica/el_salvador/>El' width='450'></center>
+<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/manuela-357x210.jpg' width='450'></center>
 [NOTA](https://www.nodal.am/category/centroamerica/el_salvador/) El Salvador  Caso Manuela: la CorteIDH inició el primer juicio contra un Estado por criminalizar el aborto  
 
-<center><img src='https://www.nodal.am/category/mexico/>México</a></span></div>' width='450'></center>
+<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/mexico-cannabis-357x210.jpg' width='450'></center>
 [NOTA](https://www.nodal.am/category/mexico/) México  Cámara de Diputados aprueba el uso recreativo de la marihuana  
 
-<center><img src='https://www.nodal.am/category/suramerica/bolivia/>Bolivia</a></span></div>' width='450'></center>
+<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/bolivia-golpe-de-estado-militares-357x210.jpg' width='450'></center>
 [NOTA](https://www.nodal.am/category/suramerica/bolivia/) Bolivia  Fiscalía ordena detención de excomandante de la Policía involucrado en el golpe de Estado contra Evo Morales  
 
 ---------------------
