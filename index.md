@@ -46,23 +46,23 @@
 ---------------------
 ### <center>Infobae</center>
 
-<center><img src='https://www.infobae.com/new-resizer/wZvRLN3uaAtlt4rq0jWfsfY2T9I=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/E2F3YEXZPVHCRN5U7UAO2MNABE.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/economia/2021/03/12/inflacion-la-suba-mensual-promedio-de-la-gestion-de-alberto-fernandez-es-casi-el-mismo-que-el-de-mauricio-macri/) Inflación: la suba mensual promedio de la gestión de Alberto Fernández es casi la misma que la de Mauricio MacriEl índice de precios al consumidor avanzó a un ritmo mensual de 2,88% en los cuatro años de la administración anterior mientras que lo hizo al 2,84% desde diciembre de 2019 hasta el mes pasado. Cómo era esa cuenta durante las gestiones de Cristina Kirchner. Por Virginia Porcella.
+<center><img src='https://www.infobae.com/new-resizer/dYJh-D15YRmIhDc2xi361XEMO84=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/JVE6TAVWLNAIJM2MCIER6Q5YJQ.com' width='450'></center>
+[NOTA](https://www.infobae.com/politica/2021/03/12/alberto-fernandez-se-aislo-para-nombrar-al-ministro-de-justicia-y-causa-incertidumbre-en-el-gabinete-nacional/) Alberto Fernández se aisló para nombrar al ministro de Justicia y causa incertidumbre en el Gabinete NacionalEl Presidente define en soledad al reemplazante de Marcela Losardo, mientras en Casa Rosada hay tensión por la demora en anunciar un cambio que es clave para entender cuanto poder interno tiene Cristina Fernández de Kirchner. Por Román Lejtman.
 
 <center><img src='https://www.infobae.com/new-resizer/VKDWgCvHzG9fUtVOEb4U88YRSgo=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/K44OGK5GZVDJFJQGEC4K6XM2JM.jpg' width='450'></center>
 [NOTA](https://www.infobae.com/economia/2021/03/12/el-blanqueo-para-la-construccion-rige-desde-hoy-todo-lo-que-hay-que-saber-para-comprar-inmuebles-con-menos-impuestos/) Todo lo que hay que saber para comprar inmuebles con menos impuestos.
 
+<center><img src='https://www.infobae.com/new-resizer/5euATjDMIpzFm2y0b8KKKPlilRU=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/W7NSCQ56KFB2XCHEDEBHTORFLA.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/sociedad/2021/03/12/grabaron-a-un-inspector-de-transito-pidiendo-1200-de-coima-para-evitar-una-multa/) Grabaron a un inspector de tránsito pidiendo una coima para evitar una multaVIDEO.
+
 <center><img src='https://www.infobae.com/new-resizer/tORhQNYfVg1LsNAe83-XGB3vUjs=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/VDBV5AWYPBENTG5FT3NWF2IUYY.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/teleshow/infoshow/2021/03/12/reaparecio-matias-morla-mientras-otros-hablan-yo-sigo-trabajando-como-lo-hice-toda-mi-vida/) Reapareció Matías Morla: “Mientras otros hablan, yo sigo trabajando como lo hice toda mi vida”.
+[NOTA](https://www.infobae.com/teleshow/infoshow/2021/03/12/reaparecio-matias-morla-mientras-otros-hablan-yo-sigo-trabajando-como-lo-hice-toda-mi-vida/) Reapareció Matías Morla: “Mientras otros hablan, yo sigo trabajando como lo hice toda mi vida”. Por Brenda Struminger.
 
 <center><img src='https://www.infobae.com/new-resizer/XltI7NhX78sBqu7V0MzhlhH0bQw=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/FYDYI4OBWRHTTLEOH44FTGZMPU.jpg' width='450'></center>
 [NOTA](https://www.infobae.com/america/america-latina/2021/03/12/lenin-moreno-se-refirio-a-mafiosos-internacionales-y-estupidos-en-medio-de-su-pelea-con-alberto-fernandez/) Lenín Moreno se refirió a “mafiosos internacionales” y “estúpidos” en medio de su pelea con Alberto Fernández. Por Mariano Boettner.
 
 <center><img src='https://www.infobae.com/new-resizer/pr0_7HLz3HSzMYYHnRWA8hpLScg=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/LONMUWSHCFGKRMTVPFKYRM6X7M.jpg' width='450'></center>
 [NOTA](https://www.infobae.com/historias/2021/03/12/bernie-madoff-de-multimillonario-a-150-anos-de-carcel-el-unico-remordimiento-del-mayor-estafador-de-wall-street/) Madoff, de multimillonario a 150 años de cárcel: el remordimiento del mayor estafador de Wall Street. Por Mercedes Funes.
-
-<center><img src='https://www.infobae.com/new-resizer/y5QJBBTsxNVOsiV7QtLDnxYccRo=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/YCIHS6IL57VXF2FXCFRMSLCLQE.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/america/mundo/2021/03/12/alexei-navalny-fue-trasladado-a-otra-prision-y-su-paradero-es-desconocido/) Alexei Navalny fue trasladado a otra prisión y su paradero es desconocido.
 
 <center><img src='https://www.infobae.com/new-resizer/JqRvOQRVEGOG9yCSgIbHgAMatrk=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/4CBSD3IZO5BWHLVG5S6G4C2MEY.jpg' width='450'></center>
 [NOTA](https://www.infobae.com/teleshow/infoshow/2021/03/12/alberto-cormillot-de-82-anos-confirmo-que-espera-un-hijo-con-su-mujer-de-34/) Alberto Cormillot confirmó que será papá a los 82 añosAUDIO.
@@ -140,8 +140,8 @@
 
 [NOTA](https://www.lanacion.com.ar/ideas/kirchnerpedia-la-militancia-copo-las-definiciones-politicas-de-wikipedia-nid12032021/) A FONDO  ¿Kirchnerpedia? La militancia copó las definiciones políticas de Wikipedia     Por Diego Cabot.
 
-<center><img src='https://bucket3.glanacion.com/anexos/fotos/98/3660198h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/politica/el-gobierno-nacional-define-hoy-la-prorroga-de-una-nueva-etapa-del-distanciamiento-preventivo-y-nid12032021/) Nuevas cepas. El Gobierno define hoy la próxima etapa de restricciones.
+<center><img src='https://bucket3.glanacion.com/anexos/fotos/48/3660248h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/economia/alquileres-por-que-es-conveniente-deducir-ganancias-nid12032021/) Alquileres. Por qué es conveniente deducir Ganancias     Por Silvia Stang.
 
 [NOTA](https://www.lanacion.com.ar/el-mundo/astrazeneca-como-una-de-las-vacunas-candidatas-mas-fuertes-perdio-credibilidad-nid12032021/) AstraZeneca. Cómo se debilitó la confianza en una de las principales vacunas.
 
@@ -150,18 +150,4 @@
 
 ---------------------
 ### <center>221 Digital</center>
-
-[NOTA](https://www.0221.com.ar/nota/2021-3-12-9-11-0-robaron-los-cables-y-la-bomba-de-agua-del-paso-bajo-nivel-de-7-y-508-se-inundo-todo) VIDEOS: Robaron los cables y la bomba de agua del paso bajo nivel de 7 y 508 se inundó todo.
-
-[NOTA](https://www.0221.com.ar/nota/2021-3-12-8-27-0-tucho-fernandez-les-tomo-juramento-en-la-catedral-a-las-nuevas-autoridades-de-la-ucalp) CON INVITADOS ESPECIALES: Tucho Fernández les tomó juramento en la Catedral a las nuevas autoridades de la UCALP.
-
-[NOTA](https://www.0221.com.ar/nota/2021-3-12-7-39-0-la-semana-se-va-con-un-viernes-agradable-en-la-previa-de-un-finde-con-sol-en-la-plata) CLIMA: La semana se va con un viernes agradable, en la previa de un finde con sol en La Plata.
-
-[NOTA](https://www.0221.com.ar/nota/2021-3-11-18-53-0-dolor-por-la-muerte-de-un-ex-futbolista-de-estudiantes-y-gimnasia) ROBERTO JOSÉ SANTIAGO: Dolor por la muerte de un ex futbolista de Estudiantes y Gimnasia.
-
-[NOTA](https://www.0221.com.ar/nota/2021-3-11-10-55-0-video-la-arenga-del-preparador-fisico-del-ruso-zielinski-en-estudiantes-que-se-hizo-viral) Alfonso Meoni: VIDEO: La arenga del preparador físico del Ruso Zielinski en Estudiantes que se hizo viral.
-
-[NOTA](https://www.0221.com.ar/nota/2021-3-11-9-44-0-work-club-estudiantes-el-espacio-para-profesionales-independientes-con-vista-a-la-cancha) UNO: Work Club Estudiantes, el espacio para profesionales independientes con vista a la cancha.
-
-[NOTA](https://www.0221.com.ar/nota/2021-3-11-18-53-0-dolor-por-la-muerte-de-un-ex-futbolista-de-estudiantes-y-gimnasia) ROBERTO JOSÉ SANTIAGO: Dolor por la muerte de un ex futbolista de Estudiantes y Gimnasia.
 
