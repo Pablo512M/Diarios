@@ -1,17 +1,12 @@
 <center><img src='https://pbs.twimg.com/media/EwLm1jcWUAQQizF?format=jpg&name=small' width='450'></center>
 <a name='Página12'></a>
 
----------------------
+#---------------------
 # <center>Página12</center>
  &nbsp;
 
 <center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147299-ewoziznwyaimevn.jpg?itok=MDnhfI9C' width='450'></center>
 [NOTA](https://www.pagina12.com.ar/329085-tras-las-quejas-por-las-demoras-en-caba-mirtha-legrand-se-va) Mirtha Legrand se vacunó contra el coronavirus: qué dijo Luego de las quejas por las demoras en CABA.
-
-
-
-<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147304-138549-astrazeneca-20-282-29_0.jpg?itok=rpEfSqP9' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/329097-la-oms-recomienda-continuar-con-la-aplicacion-de-la-vacuna-d) La OMS recomienda aplicar la vacuna de AstraZeneca Explicó que "no hay razón" para suspender su uso.
 
 
 
@@ -35,9 +30,14 @@
 
 
 
+<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147306-netflix1.jpg?itok=XrJAiRvn' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/329101-netflix-prueba-cambios-que-complican-el-uso-compartido-de-la) Netflix prueba cambios que complican el uso compartido de la cuenta   Posible freno a una práctica habitual entre familiares y amigos.
+
+
+
 <a name='Infobae'></a>
 
----------------------
+#---------------------
 # <center>Infobae</center>
  &nbsp;
 
@@ -61,7 +61,7 @@
 
 <a name='Nodal'></a>
 
----------------------
+#---------------------
 # <center>Nodal</center>
  &nbsp;
 
@@ -88,7 +88,7 @@
 
 <a name='RT'></a>
 
----------------------
+#---------------------
 # <center>RT</center>
  &nbsp;
 
@@ -129,18 +129,18 @@
 
 <a name='LaNación'></a>
 
----------------------
+#---------------------
 # <center>La Nación</center>
  &nbsp;
 
-<center><img src='https://bucket1.glanacion.com/anexos/fotos/40/3660240h373.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/politica/un-abogado-mediatico-y-un-sindicalista-en-la-pata-peronista-de-juntos-por-el-cambio-nid12032021/) Lanzamiento. Un abogado mediático y un sindicalista, en la pata peronista de JxC       El grupo justicialista Hacemos intenta extenderse en la provincia de Buenos Aires          Por Javier Fuego Simondet.
+<center><img src='https://bucket1.glanacion.com/anexos/fotos/91/3660291h373.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/sociedad/salud-aconsejan-un-intervalo-de-14-dias-con-la-vacuna-antigripal-pero-sin-demorar-la-de-covid-nid12032021/) Coronavirus. Aconsejan esperar 14 días para recibir la vacuna antigripal       Este año, la inmunización contra la influenza se superpone con la del nuevo covid; rigen cinco criterios para los grupos de riesgo          Por Fabiola Czubaj.
 
-<center><img src='https://bucket1.glanacion.com/anexos/fotos/91/3660291h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/sociedad/salud-aconsejan-un-intervalo-de-14-dias-con-la-vacuna-antigripal-pero-sin-demorar-la-de-covid-nid12032021/) Coronavirus. Cuánto esperar para recibir la vacuna antigripal     Por Fabiola Czubaj.
+<center><img src='https://bucket1.glanacion.com/anexos/fotos/40/3660240h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/politica/un-abogado-mediatico-y-un-sindicalista-en-la-pata-peronista-de-juntos-por-el-cambio-nid12032021/) Lanzamiento. Un abogado mediático y un sindicalista, en la pata peronista de JxC     Por Javier Fuego Simondet.
 
-<center><img src='https://bucket1.glanacion.com/anexos/fotos/92/3660292h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/seguridad/ramos-mejia-un-hombre-baleo-a-su-exmujer-y-luego-se-suicido-de-un-tiro-en-la-cabeza-nid12032021/) En la puerta de su casa. Un hombre baleó a su exmujer y luego se suicidó.
+<center><img src='https://bucket1.glanacion.com/anexos/fotos/71/3660271h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/el-mundo/deja-vu-agobiada-italia-pone-en-zona-a-roja-a-dos-tercios-de-la-poblacion-nid12032021/) Déjà vu. Agobiada, Italia pone en zona a roja a dos tercios de la población     Por Elisabetta Piqué.
 
 <center><img src='https://bucket1.glanacion.com/anexos/fotos/72/3660172h186.jpg' width='450'></center>
 [NOTA](https://www.lanacion.com.ar/propiedades/construccion-y-diseno/es-ley-se-pueden-comprar-propiedades-con-menos-impuestos-y-blanquear-dinero-nid12032021/) Desde hoy. Se pueden comprar viviendas con menos impuestos y entrar en el blanqueo     Por Carla Quiroga.
@@ -148,12 +148,12 @@
 <center><img src='https://bucket1.glanacion.com/anexos/fotos/30/3660230h186.jpg' width='450'></center>
 [NOTA](https://www.lanacion.com.ar/el-mundo/mafioso-internacional-y-estupido-el-mensaje-de-lenin-moreno-en-la-polemica-con-fernandez-nid12032021/) ''Mafioso internacional". El mensaje de Lenín Moreno por la polémica con Fernández.
 
-<center><img src='https://bucket1.glanacion.com/anexos/fotos/71/3660271h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/el-mundo/deja-vu-agobiada-italia-pone-en-zona-a-roja-a-dos-tercios-de-la-poblacion-nid12032021/) Déjà vu. Agobiada, Italia pone en zona a roja a dos tercios de la población     Por Elisabetta Piqué.
+<center><img src='https://bucket1.glanacion.com/anexos/fotos/92/3660292h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/seguridad/ramos-mejia-un-hombre-baleo-a-su-exmujer-y-luego-se-suicido-de-un-tiro-en-la-cabeza-nid12032021/) En la puerta de su casa. Un hombre baleó a su exmujer y luego se suicidó.
 
 <a name='221Digital'></a>
 
----------------------
+#---------------------
 # <center>221 Digital</center>
  &nbsp;
 
