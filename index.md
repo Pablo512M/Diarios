@@ -84,6 +84,77 @@ vacunas a la iniciativa privada
 <center><img src='https://www.nodal.am/wp-content/uploads/2021/01/brasil-covid-19-coronavirus-manaos-357x210.jpg' width='450'></center>
 [NOTA](https://www.nodal.am/2021/03/brasil-gobernador-de-san-pablo-decreta-fase-de-emergencia-y-afirma-que-el-pais-esta-colapsando/)  Brasil  Gobernador de San Pablo decreta fase de emergencia y afirma que el país “está colapsando”  
 
-<center><img src='https://www.nodal.am/2021/03/renuncio-el-canciller-de-ecuador-luis-gallegos/' width='450'></center>
 [NOTA](https://www.nodal.am/2021/03/renuncio-el-canciller-de-ecuador-luis-gallegos/)  Renunció el canciller de Ecuador Luis Gallegos   Perú  Fiscal pide 30 años de prisión para Keiko Fujimori  Venezuela  El Gobierno anuncia que revisará la relación con la Oficina de DDHH de la ONU que comanda Bachelet 
+
+[NOTA](https://www.nodal.am/2021/03/renuncio-el-canciller-de-ecuador-luis-gallegos/)  Renunció el canciller de Ecuador Luis Gallegos  
+
+[NOTA](https://www.nodal.am/2021/03/peru-fiscal-pide-30-anos-de-prision-para-keiko-fujimori/)  Perú  Fiscal pide 30 años de prisión para Keiko Fujimori 
+
+[NOTA](https://www.nodal.am/2021/03/venezuela-el-gobierno-anuncia-que-revisara-la-relacion-con-la-oficina-de-ddhh-de-la-onu-que-comanda-bachelet/)  Venezuela  El Gobierno anuncia que revisará la relación con la Oficina de DDHH de la ONU que comanda Bachelet 
+
+[NOTA](https://www.nodal.am/category/centroamerica/el_salvador/) El Salvador  Caso Manuela: la CorteIDH inició el primer juicio contra un Estado por criminalizar el aborto  
+
+[NOTA](https://www.nodal.am/category/mexico/) México  Cámara de Diputados aprueba el uso recreativo de la marihuana  
+
+---------------------
+### <center>RT</center>
+
+<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604aab2ae9ff715c6b59edaa.JPG' width='450'></center>
+[NOTA](https://actualidad.rt.com//actualidad/386144-canciller-ecuador-luis-gallegos-renuncia) 
+                Renuncia el canciller de Ecuador, Luis Gallegos, tras la polémica con Argentina por las declaraciones de Alberto Fernández
+            
+
+[NOTA](https://actualidad.rt.com//actualidad/386148-oms-reacciona-decision-paises-ue-suspender-uso-vacuna) 
+                La OMS reacciona ante la decisión de varios países de la UE de suspender el uso de la vacuna de AstraZeneca
+            
+
+[NOTA](https://actualidad.rt.com//actualidad/386153-presidente-asamblea-estatal-nueva-york-investigacion-cuomo) 
+                Nueva York aprueba la investigación de 'impeachment' contra Andrew Cuomo en lo que sería el primer juicio político en ese estado en más de 100 años
+            
+
+[NOTA](https://actualidad.rt.com//actualidad/386158-biden-ordenar-estados-habilitar-vacunacion) 
+                "Superamos el período más oscuro que hemos conocido": Biden ordena a los estados que habiliten la vacunación a todos los adultos para el 1 de mayo
+            
+
+[NOTA](https://actualidad.rt.com//actualidad/386134-piden-corteidh-ordenar-despenalizacion-aborto-elsalvador) 
+                ¿Quién era Manuela? El caso que se debate en la Corte IDH y con el que demandan la despenalización del aborto en El Salvador
+            
+
+[NOTA](https://actualidad.rt.com//actualidad/386143-colombia-alcaldesa-bogota-declaraciones-xenofobas-venezolanos) 
+                "Primero asesinan y luego roban": La alcaldesa de Bogotá vuelve a emitir juicios xenófobos en contra de los venezolanos
+            
+
+[NOTA](https://actualidad.rt.com//actualidad/386125-por-que-empresas-conocidas-no-quieren-participar-produccion-vehiculo-apple) 
+                Se habrían estancado negociaciones de Apple con gigantes de la industria automotriz para producir sus autos eléctricos: ¿cuáles son los obstáculos?
+            
+
+---------------------
+### <center>La Nación</center>
+
+[NOTA](https://www.lanacion.com.ar/politica/las-dilaciones-le-pasan-factura-a-alberto-fernandez-y-horacio-rodriguez-larreta-nid12032021/) Análisis. Las dilaciones les pasan factura a Fernández y Rodríguez Larreta       Como pocas veces, desde los lugares del poder emergen un desconcierto y un desasosiego inquietantes       Por Claudio Jacquelin
+
+[NOTA](https://www.lanacion.com.ar/ideas/kirchnerpedia-la-militancia-copo-las-definiciones-politicas-de-wikipedia-nid12032021/) A FONDO   ¿Kirchnerpedia? La militancia copó las definiciones políticas de Wikipedia    Por Diego Cabot
+
+[NOTA](https://www.lanacion.com.ar/ideas/el-desafio-del-cristinismo-es-anestesiar-no-vacunar-nid12032021/) Análisis. El desafío del cristinismo es anestesiar, no vacunar
+
+[NOTA](https://www.lanacion.com.ar/politica/la-falta-de-resolucion-del-reemplazo-de-marcela-losardo-agiganta-los-problemas-del-gobierno-nid12032021/) Tensión. La falta de reemplazo para Losardo agiganta los problemas del Gobierno     Por Santiago Dapelo
+
+[NOTA](https://www.lanacion.com.ar/el-mundo/vacunacion-la-argentina-se-retrasa-incluso-entre-paises-de-sus-mismos-ingresos-nid12032021/) Vacunación. La Argentina se retrasa incluso entre países de sus mismos ingresos         Por Inés Capdevila
+
+---------------------
+### <center>221 Digital</center>
+
+[NOTA](https://www.0221.com.ar/nota/2021-3-11-21-10-0-sin-muertes-y-con-141-casos-nuevos-de-covid-19-asi-avanza-la-pandemia-en-la-plata) EMERGENCIA SANITARIA: Sin muertes pero con 141 casos nuevos de COVID-19, así avanza la pandemia en La Plata
+
+[NOTA](https://www.0221.com.ar/nota/2021-3-11-19-47-0-un-nene-de-4-anos-necesita-un-transplante-de-medula-no-puede-pagarlo-y-piden-ayuda) TODOS POR PEDRO: Un nene de 4 años, necesita un transplante de médula, no puede pagarlo y piden ayuda
+
+[NOTA](https://www.0221.com.ar/nota/2021-3-11-16-49-0-alarma-por-el-recital-de-mala-fama-sin-distanciamiento-ni-barbijos-en-el-teatro-metro) VIDEO: Alarma por el recital de Mala Fama sin distanciamiento ni barbijos en el Teatro Metro
+
+[NOTA](https://www.0221.com.ar/nota/2021-3-11-18-53-0-dolor-por-la-muerte-de-un-ex-futbolista-de-estudiantes-y-gimnasia) ROBERTO JOSÉ SANTIAGO: Dolor por la muerte de un ex futbolista de Estudiantes y Gimnasia
+
+[NOTA](https://www.0221.com.ar/nota/2021-3-11-10-55-0-video-la-arenga-del-preparador-fisico-del-ruso-zielinski-en-estudiantes-que-se-hizo-viral) Alfonso Meoni: VIDEO: La arenga del preparador físico del Ruso Zielinski en Estudiantes que se hizo viral
+
+[NOTA](https://www.0221.com.ar/nota/2021-3-11-9-44-0-work-club-estudiantes-el-espacio-para-profesionales-independientes-con-vista-a-la-cancha) UNO: Work Club Estudiantes, el espacio para profesionales independientes con vista a la cancha
+
+[NOTA](https://www.0221.com.ar/nota/2021-3-11-18-53-0-dolor-por-la-muerte-de-un-ex-futbolista-de-estudiantes-y-gimnasia) ROBERTO JOSÉ SANTIAGO: Dolor por la muerte de un ex futbolista de Estudiantes y Gimnasia
 
