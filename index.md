@@ -29,7 +29,7 @@ vacunas a la iniciativa privada
 
 
 <center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147020-post-20losardo.jpeg?itok=sCnxmHLv' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/328842-quienes-suenan-para-reemplazar-a-marcela-losardo-en-el-minis) Quiénes suenan para reemplazar a Marcela Losardo en el ministerio de Justicia A horas de que la ministra renuncie, a la danza de nombres para sucederla se sumó el de Marisa Herrera
+[NOTA](https://www.pagina12.com.ar/328842-quienes-suenan-para-reemplazar-a-marcela-losardo-en-el-minis) Quiénes suenan para reemplazar a Losardo en Justicia A la danza de nombres para sucederla se sumó el de Marisa Herrera
 
 
 
@@ -38,68 +38,68 @@ vacunas a la iniciativa privada
 
 
 
-<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147235-whatsapp-20image-202021-03-11-20at-207-46-22-20pm.jpeg?itok=M7UTKblG' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/329005-la-emergencia-sanitaria-se-extiende-hasta-el-31-de-diciembre) Reducen vuelos y extreman controles pero no cierran fronteras La prórroga de la emergencia sanitaria. Por Melisa Molina
+<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147266-whatsapp-20image-202021-03-11-20at-2019-22-30-20-281-29.jpeg?itok=c9XxhYmt' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/329024-incendios-en-chubut-ya-hay-un-muerto-y-pueblos-enteros-sin-a) Ya hay un muerto y pueblos enteros sin agua ni luz por los incendios Se quemaron 220 viviendas y 1500 hectáreas. Por María Fernanda Rezzano
 
 
 
-<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147097-whatsapp-20image-202021-03-10-20at-2012-23-12-20pm.jpeg?itok=Rpoc4Mtf' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/328926-coronavirus-mas-vacunas-para-proteger-a-mas-personas-antes-d) Coronavirus: más vacunas para proteger a más personas antes de que llegue el frío Se confirmó la llegada de 3 millones de dosis de Sinopharm para la próxima semana  . Por Pablo Esteban
+<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147109-whatsapp-20image-202021-03-11-20at-2016-31-03.jpeg?itok=zEm_496s' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/328905-que-paises-suspendieron-temporalmente-la-vacuna-astra-zeneca) Ya son 8 los países que suspendieron temporalmente la vacuna de AstraZeneca . Por casos de trombosis
 
 
 
-<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/Libia.jpg?itok=TByxWcBB' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/3289-nueve-muertos-en-la-costa-libia) Nueve muertos en la costa Libia
+<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147298-cannabis-medicinal_0.jpg?itok=3P_nQFIO' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/329082-cannabis-medicinal-se-habilito-el-registro-que-permite-el-au) Se habilitó el registro que permite el autocultivo de cannabis medicinal El sitio donde hay que inscribirse
 
 
 
 ---------------------
 ### <center>Infobae</center>
 
-<center><img src='https://www.infobae.com/new-resizer/ue4xVWnqlM8dvIQ4Boi_pya_Vnc=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/Y35F6Q67AZESBAMWO67APDF3HM.jfif' width='450'></center>
-[NOTA](https://www.infobae.com/politica/2021/03/12/el-gobierno-anunciara-restricciones-ante-el-coronavirus-en-medio-de-la-escasez-de-vacunas-la-amenaza-de-la-segunda-ola-y-un-ministerio-de-salud-con-bajo-perfil/) El Gobierno anunciará restricciones ante el coronavirus, en medio de la escasez de vacunas, la amenaza de la segunda ola y un Ministerio de Salud con bajo perfilLas medidas llegan en momentos en que las autoridades nacionales redujeron al mínimo la comunicación pública sobre la vacunación. Vizzotti está en un segundo plano, mientras crecen las dudas por la llegada de más vacunas y el ritmo de la inmunización. Qué pasará con los vuelos. Por Brenda Struminger
+<center><img src='https://www.infobae.com/new-resizer/wZvRLN3uaAtlt4rq0jWfsfY2T9I=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/E2F3YEXZPVHCRN5U7UAO2MNABE.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/economia/2021/03/12/inflacion-la-suba-mensual-promedio-de-la-gestion-de-alberto-fernandez-es-casi-el-mismo-que-el-de-mauricio-macri/) Inflación: la suba mensual promedio de la gestión de Alberto Fernández es casi la misma que la de Mauricio MacriEl índice de precios al consumidor avanzó a un ritmo mensual de 2,88% en los cuatro años de la administración anterior mientras que lo hizo al 2,84% desde diciembre de 2019 hasta el mes pasado. Cómo era esa cuenta durante las gestiones de Cristina Kirchner. Por Virginia Porcella
 
-<center><img src='https://www.infobae.com/new-resizer/C7i_XSKv4S3k1tvyUHh1CGargFw=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/KVX2XGQHTQ2ZHMMHHAOIFLXNOM.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/economia/2021/03/12/inflacion-por-las-dudas-las-crecientes-trabas-a-las-importaciones-desatan-mas-subas-en-los-precios/) Inflación "por las dudas": las fuertes trabas a las importaciones desatan más subas en los precios. Por Pablo Wende
+<center><img src='https://www.infobae.com/new-resizer/eAwqsqQDwEPQ41k4zUzxtZbKMYY=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/4TNFABJY2FDCLPKPEAY4JRCAXE.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/america/mundo/2021/03/12/la-oms-dijo-que-no-hay-razon-para-dejar-de-usar-la-vacuna-de-oxford-y-astrazeneca-contra-el-coronavirus/) La OMS dijo que no hay razón para dejar de usar la vacuna de Oxford y AstraZeneca contra el coronavirus 
 
-<center><img src='https://www.infobae.com/new-resizer/gQNcFJkL7F6bHZq9LKP_1R694ZQ=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/QKLCIFD75BFQNLIWPAA2QQLU7E.jpeg' width='450'></center>
-[NOTA](https://www.infobae.com/historias/2021/03/12/la-terrible-ejecucion-en-la-silla-electrica-de-un-matrimonio-acusado-de-revelar-secretos-atomicos-y-las-dudas-que-dejo-el-caso/) La terrible ejecución en la silla eléctrica de un matrimonio acusado de revelar secretos atómicos y las dudas que dejó el caso. Por Matías Bauso
+<center><img src='https://www.infobae.com/new-resizer/tORhQNYfVg1LsNAe83-XGB3vUjs=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/VDBV5AWYPBENTG5FT3NWF2IUYY.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/teleshow/infoshow/2021/03/12/reaparecio-matias-morla-mientras-otros-hablan-yo-sigo-trabajando-como-lo-hice-toda-mi-vida/) Reapareció Matías Morla: “Mientras otros hablan, yo sigo trabajando como lo hice toda mi vida”
 
-<center><img src='https://www.infobae.com/new-resizer/0cqwAmmNxeoycVp443ht-KZKGKQ=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/PU4KU7V3RJFK5AQNWHYCOCXFVQ.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/sociedad/2021/03/12/mientras-los-brigadistas-controlan-el-fuego-en-chubut-crece-la-sospecha-de-que-los-incendios-fueron-intencionales/) Incendios en Chubut: un hombre murió calcinado y los bomberos luchan contra las llamas. Por Mariano Boettner
+<center><img src='https://www.infobae.com/new-resizer/XltI7NhX78sBqu7V0MzhlhH0bQw=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/FYDYI4OBWRHTTLEOH44FTGZMPU.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/america/america-latina/2021/03/12/lenin-moreno-se-refirio-a-mafiosos-internacionales-y-estupidos-en-medio-de-su-pelea-con-alberto-fernandez/) Lenín Moreno se refirió a “mafiosos internacionales” y “estúpidos” en medio de su pelea con Alberto Fernández. Por Mariano Boettner
 
-<center><img src='https://www.infobae.com/new-resizer/m9Sj8lb2QgCtuYXHp4vySa2njTg=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/MKUPRJVH5RGNRDI5ZTFWYG4JLA.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/economia/2021/03/12/el-gobierno-sube-la-alicuota-de-ganancias-para-las-grandes-empresas-y-la-reduce-para-las-pymes/) El Gobierno sube la alícuota de Ganancias para las grandes empresas y la reduce para pymes. Por Brenda Struminger
+<center><img src='https://www.infobae.com/new-resizer/JqRvOQRVEGOG9yCSgIbHgAMatrk=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/4CBSD3IZO5BWHLVG5S6G4C2MEY.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/teleshow/infoshow/2021/03/12/alberto-cormillot-de-82-anos-confirmo-que-espera-un-hijo-con-su-mujer-de-34/) Alberto Cormillot confirmó que será papá a los 82 añosAUDIO
 
 <center><img src='https://www.infobae.com/new-resizer/pr0_7HLz3HSzMYYHnRWA8hpLScg=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/LONMUWSHCFGKRMTVPFKYRM6X7M.jpg' width='450'></center>
 [NOTA](https://www.infobae.com/historias/2021/03/12/bernie-madoff-de-multimillonario-a-150-anos-de-carcel-el-unico-remordimiento-del-mayor-estafador-de-wall-street/) Madoff, de multimillonario a 150 años de cárcel: el remordimiento del mayor estafador de Wall Street. Por Mercedes Funes
 
-<center><img src='https://www.infobae.com/new-resizer/NxuFaR9n0e_y5glX5uyhmZgXV28=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/J6EYREMYSZHBPAIXGKHBSWXQKI.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/cultura/2021/03/12/por-que-algunas-librerias-no-van-a-vender-el-libro-de-macri/) . Por qué algunas librerías no van a vender el libro de Macri. Por Luciano Sáliche 
+<center><img src='https://www.infobae.com/new-resizer/m9Sj8lb2QgCtuYXHp4vySa2njTg=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/MKUPRJVH5RGNRDI5ZTFWYG4JLA.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/economia/2021/03/12/el-gobierno-sube-la-alicuota-de-ganancias-para-las-grandes-empresas-y-la-reduce-para-las-pymes/) El Gobierno sube la alícuota de Ganancias para grandes empresas y la reduce para pymes. Por Brenda Struminger
 
 ---------------------
 ### <center>Nodal</center>
 
-<center><img src='https://www.nodal.am/wp-content/uploads/2021/01/brasil-covid-19-coronavirus-manaos-357x210.jpg' width='450'></center>
-[NOTA](https://www.nodal.am/2021/03/brasil-gobernador-de-san-pablo-decreta-fase-de-emergencia-y-afirma-que-el-pais-esta-colapsando/)  Brasil  Gobernador de San Pablo decreta fase de emergencia y afirma que el país “está colapsando”  
+<center><img src='https://www.nodal.am/wp-content/uploads/2021/01/pandemia-brasil-357x210.jpg' width='450'></center>
+[NOTA](https://www.nodal.am/2021/03/preocupacion-en-la-region-brasil-ya-tiene-el-10-de-las-muertes-mundiales-y-cada-dia-registra-un-nuevo-record/)  Preocupación en la región  Brasil ya tiene el 10% de las muertes mundiales y cada día registra un nuevo récord  
 
-<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/luis-gallegos-ecuador-357x210.jpg' width='450'></center>
-[NOTA](https://www.nodal.am/2021/03/renuncio-el-canciller-de-ecuador-luis-gallegos/)  Renunció el canciller de Ecuador Luis Gallegos  
+<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/paraguay-protesta-357x210.jpg' width='450'></center>
+[NOTA](https://www.nodal.am/2021/03/la-columna-de-pedro-brieger-marzo-caliente-en-paraguay/)  La columna de Pedro Brieger  Marzo caliente en Paraguay  
 
-<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/Keiko-FUjimori-Peru-210x136.jpg' width='450'></center>
-[NOTA](https://www.nodal.am/2021/03/peru-fiscal-pide-30-anos-de-prision-para-keiko-fujimori/)  Perú  Fiscal pide 30 años de prisión para Keiko Fujimori 
+<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/abdo-benitez-210x136.jpg' width='450'></center>
+[NOTA](https://www.nodal.am/2021/03/paraguay-tras-una-semana-de-protestas-la-oposicion-confirma-que-pedira-el-juicio-politico-al-presidente-abdo/)  Paraguay  Tras una semana de protestas, la oposición confirma que pedirá el juicio político al presidente Abdo 
 
-<center><img src='https://www.nodal.am/wp-content/uploads/2020/10/arreaza-210x136.jpg' width='450'></center>
-[NOTA](https://www.nodal.am/2021/03/venezuela-el-gobierno-anuncia-que-revisara-la-relacion-con-la-oficina-de-ddhh-de-la-onu-que-comanda-bachelet/)  Venezuela  El Gobierno anuncia que revisará la relación con la Oficina de DDHH de la ONU que comanda Bachelet 
+<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/1-32-210x136.jpg' width='450'></center>
+[NOTA](https://www.nodal.am/2021/03/bolivia-ordenan-la-detencion-del-exjefe-de-las-ffaa-y-ya-son-cuatro-militares-acusados-por-el-golpe-de-estado/)  Bolivia  Ordenan la detención del exjefe de las FFAA y ya son cuatro militares acusados por el golpe de Estado 
 
 <center><img src='https://www.nodal.am/wp-content/uploads/2021/03/manuela-357x210.jpg' width='450'></center>
 [NOTA](https://www.nodal.am/category/centroamerica/el_salvador/) El Salvador  Caso Manuela: la CorteIDH inició el primer juicio contra un Estado por criminalizar el aborto  
 
-<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/mexico-cannabis-357x210.jpg' width='450'></center>
-[NOTA](https://www.nodal.am/category/mexico/) México  Cámara de Diputados aprueba el uso recreativo de la marihuana  
+<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/Keiko-FUjimori-Peru-357x210.jpg' width='450'></center>
+[NOTA](https://www.nodal.am/category/suramerica/peru/) Perú  La Fiscalía pide 30 años de cárcel para Keiko Fujimori por corrupción  
 
-<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/bolivia-golpe-de-estado-militares-357x210.jpg' width='450'></center>
-[NOTA](https://www.nodal.am/category/suramerica/bolivia/) Bolivia  Fiscalía ordena detención de excomandante de la Policía involucrado en el golpe de Estado contra Evo Morales  
+<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/eduardo-bolsonaro-357x210.jpg' width='450'></center>
+[NOTA](https://www.nodal.am/category/suramerica/brasil/) Brasil  Nuevo exabrupto de Eduardo Bolsonaro hacia la prensa: “Métanse el barbijo en el culo”  
 
 ---------------------
 ### <center>RT</center>
@@ -109,9 +109,14 @@ vacunas a la iniciativa privada
                 La OMS reacciona ante la decisión de varios países de la UE de suspender el uso de la vacuna de AstraZeneca
             
 
-<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604aab2ae9ff715c6b59edaa.JPG' width='450'></center>
-[NOTA](https://actualidad.rt.com//actualidad/386144-canciller-ecuador-luis-gallegos-renuncia) 
-                Renuncia el canciller de Ecuador, Luis Gallegos, tras la polémica con Argentina por las declaraciones de Alberto Fernández
+<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604a40e0e9ff7154c2100d3d.JPG' width='450'></center>
+[NOTA](https://actualidad.rt.com//actualidad/385981-crisis-humanitaria-maduro-venezolanos-colombia-eeuu) 
+                ¿Atender la "crisis humanitaria" o "atacar con fuerza a Maduro"? Lo que esconden las medidas de EE.UU. y Colombia para los migrantes venezolanos
+            
+
+<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604b451fe9ff71574e2e5daa.jpg' width='450'></center>
+[NOTA](https://actualidad.rt.com//actualidad/386167-destituido-traductor-catalan-poema-amanda-gorman) 
+                ¿Quién debe traducir el poema de Amanda Gorman? El veto a un traductor catalán abre la polémica
             
 
 <center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604ac88559bf5b21361d9e69.JPG' width='450'></center>
@@ -124,9 +129,9 @@ vacunas a la iniciativa privada
                 "Superamos el período más oscuro que hemos conocido": Biden ordena a los estados que habiliten la vacunación a todos los adultos para el 1 de mayo
             
 
-<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604a9596e9ff715ca70e5e12.JPG' width='450'></center>
-[NOTA](https://actualidad.rt.com//actualidad/386134-piden-corteidh-ordenar-despenalizacion-aborto-elsalvador) 
-                ¿Quién era Manuela? El caso que se debate en la Corte IDH y con el que demandan la despenalización del aborto en El Salvador
+<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604b41cb59bf5b151c765e3d.jpg' width='450'></center>
+[NOTA](https://actualidad.rt.com//actualidad/386176-bulgaria-suspende-vacunacion-astrazeneca) 
+                Bulgaria se une a otros países y suspende la vacunación con el fármaco de AstraZeneca
             
 
 <center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604ab632e9ff7154c2100dee.jpg' width='450'></center>
@@ -134,36 +139,35 @@ vacunas a la iniciativa privada
                 "Primero asesinan y luego roban": La alcaldesa de Bogotá vuelve a emitir juicios xenófobos en contra de los venezolanos
             
 
-<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604a9cb959bf5b0e314cf5d2.JPG' width='450'></center>
-[NOTA](https://actualidad.rt.com//actualidad/386142-conflicto-jack-ma-autoridades-chinas-multa-record-alibaba) 
-                Reportan que, en medio del conflicto con Jack Ma, China prepara una multa récord para Alibaba que puede superar los 975 millones de dólares
-            
-
 ---------------------
 ### <center>La Nación</center>
 
-<center><img src='https://bucket3.glanacion.com/anexos/fotos/09/3659509h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/politica/las-dilaciones-le-pasan-factura-a-alberto-fernandez-y-horacio-rodriguez-larreta-nid12032021/) Análisis. Las dilaciones les pasan factura a Fernández y Rodríguez Larreta       Como pocas veces, desde los lugares del poder emergen un desconcierto y un desasosiego inquietantes       Por Claudio Jacquelin
+<center><img src='https://bucket1.glanacion.com/anexos/fotos/72/3660172h373.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/propiedades/construccion-y-diseno/es-ley-se-pueden-comprar-propiedades-con-menos-impuestos-y-blanquear-dinero-nid12032021/) Desde hoy. Se pueden comprar viviendas con menos impuestos y entrar en el blanqueo       La ley permite adquirir departamentos sólo en proyectos en construcción con un avance de hasta el 50%          Por Carla Quiroga
 
-[NOTA](https://www.lanacion.com.ar/ideas/kirchnerpedia-la-militancia-copo-las-definiciones-politicas-de-wikipedia-nid12032021/) A FONDO   ¿Kirchnerpedia? La militancia copó las definiciones políticas de Wikipedia    Por Diego Cabot
+<center><img src='https://bucket3.glanacion.com/anexos/fotos/88/3660188h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/propiedades/inversiones/vuelve-el-cedin-diferencias-y-similitudes-con-el-nuevo-blanqueo-nid12032021/) ¿Vuelve el Cedin? Todo lo que hay que saber sobre el nuevo blanqueo     Por Melisa Reinhold
 
-<center><img src='https://bucket3.glanacion.com/anexos/fotos/08/3659508h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/ideas/el-desafio-del-cristinismo-es-anestesiar-no-vacunar-nid12032021/) Análisis. El desafío del cristinismo es anestesiar, no vacunar         Por Sergio Suppo
+<center><img src='https://bucket3.glanacion.com/anexos/fotos/08/3660208h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/el-mundo/coronavirus-la-oms-pide-seguir-aplicando-la-vacuna-de-astrazeneca-nid12032021/) Covid. Por qué la OMS dice que no hay razón para dejar de aplicar AstraZeneca
 
-<center><img src='https://bucket2.glanacion.com/anexos/fotos/15/3659415h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/politica/la-falta-de-resolucion-del-reemplazo-de-marcela-losardo-agiganta-los-problemas-del-gobierno-nid12032021/) Tensión. La falta de reemplazo para Losardo agiganta los problemas del Gobierno     Por Santiago Dapelo
+<center><img src='https://bucket3.glanacion.com/anexos/fotos/98/3660198h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/politica/el-gobierno-nacional-define-hoy-la-prorroga-de-una-nueva-etapa-del-distanciamiento-preventivo-y-nid12032021/) Nuevas cepas. El Gobierno define hoy la próxima etapa de restricciones
 
-<center><img src='https://bucket1.glanacion.com/anexos/fotos/10/3659510h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/el-mundo/vacunacion-la-argentina-se-retrasa-incluso-entre-paises-de-sus-mismos-ingresos-nid12032021/) Vacunación. La Argentina se retrasa incluso entre países de sus mismos ingresos         Por Inés Capdevila
+<center><img src='https://bucket1.glanacion.com/anexos/fotos/61/3659361h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/politica/los-liberales-ratifican-su-distancia-con-cambiemos-no-hay-acercamiento-competiremos-con-ellos-afirmo-nid11032021/) Vamos. Los liberales formalizan su alianza y rechazan unirse a Cambiemos     Por Inés Beato Vassolo
+
+<center><img src='https://bucket1.glanacion.com/anexos/fotos/12/3660212h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/sociedad/un-muerto-por-los-incendios-en-chubut-nid12032021/) Desastre en el Sur. Un muerto por los incendios en Chubut
 
 ---------------------
 ### <center>221 Digital</center>
 
-[NOTA](https://www.0221.com.ar/nota/2021-3-11-21-10-0-sin-muertes-y-con-141-casos-nuevos-de-covid-19-asi-avanza-la-pandemia-en-la-plata) EMERGENCIA SANITARIA: Sin muertes pero con 141 casos nuevos de COVID-19, así avanza la pandemia en La Plata
+[NOTA](https://www.0221.com.ar/nota/2021-3-12-9-11-0-robaron-los-cables-y-la-bomba-de-agua-del-paso-bajo-nivel-de-7-y-508-se-inundo-todo) VIDEOS: Robaron los cables y la bomba de agua del paso bajo nivel de 7 y 508 se inundó todo
 
-[NOTA](https://www.0221.com.ar/nota/2021-3-11-19-47-0-un-nene-de-4-anos-necesita-un-transplante-de-medula-no-puede-pagarlo-y-piden-ayuda) TODOS POR PEDRO: Un nene de 4 años, necesita un transplante de médula, no puede pagarlo y piden ayuda
+[NOTA](https://www.0221.com.ar/nota/2021-3-12-8-27-0-tucho-fernandez-les-tomo-juramento-en-la-catedral-a-las-nuevas-autoridades-de-la-ucalp) CON INVITADOS ESPECIALES: Tucho Fernández les tomó juramento en la Catedral a las nuevas autoridades de la UCALP
 
-[NOTA](https://www.0221.com.ar/nota/2021-3-11-16-49-0-alarma-por-el-recital-de-mala-fama-sin-distanciamiento-ni-barbijos-en-el-teatro-metro) VIDEO: Alarma por el recital de Mala Fama sin distanciamiento ni barbijos en el Teatro Metro
+[NOTA](https://www.0221.com.ar/nota/2021-3-12-7-39-0-la-semana-se-va-con-un-viernes-agradable-en-la-previa-de-un-finde-con-sol-en-la-plata) CLIMA: La semana se va con un viernes agradable, en la previa de un finde con sol en La Plata
 
 [NOTA](https://www.0221.com.ar/nota/2021-3-11-18-53-0-dolor-por-la-muerte-de-un-ex-futbolista-de-estudiantes-y-gimnasia) ROBERTO JOSÉ SANTIAGO: Dolor por la muerte de un ex futbolista de Estudiantes y Gimnasia
 
