@@ -151,3 +151,24 @@
 ---------------------
 ### <center>221 Digital</center>
 
+<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615550466375.jpeg?&cw=288&ch=199' width='450'></center>
+[NOTA](https://www.0221.com.ar/nota/2021-3-12-9-11-0-robaron-los-cables-y-la-bomba-de-agua-del-paso-bajo-nivel-de-7-y-508-se-inundo-todo) VIDEOS: Robaron los cables y la bomba de agua del paso bajo nivel de 7 y 508 se inundó todo.
+
+<center><img src='https://pxb.cdn.0221.com.ar/0221/062018/1528207047764.jpg?x=6&y=24&width=1408&height=704&rotate=0&scaleX=1&scaleY=1&ow=1420&oh=728&&cw=288&ch=199' width='450'></center>
+[NOTA](https://www.0221.com.ar/nota/2021-3-12-8-27-0-tucho-fernandez-les-tomo-juramento-en-la-catedral-a-las-nuevas-autoridades-de-la-ucalp) CON INVITADOS ESPECIALES: Tucho Fernández les tomó juramento en la Catedral a las nuevas autoridades de la UCALP.
+
+<center><img src='https://pxb.cdn.0221.com.ar/0221/022021/1612376689297.jpg?x=9&y=134&width=1263&height=631&rotate=0&scaleX=1&scaleY=1&ow=1280&oh=853&&cw=288&ch=199' width='450'></center>
+[NOTA](https://www.0221.com.ar/nota/2021-3-12-7-39-0-la-semana-se-va-con-un-viernes-agradable-en-la-previa-de-un-finde-con-sol-en-la-plata) CLIMA: La semana se va con un viernes agradable, en la previa de un finde con sol en La Plata.
+
+<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615499751300.jpg?x=4&y=75&width=1493&height=746&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=1125&&cw=288&ch=199' width='450'></center>
+[NOTA](https://www.0221.com.ar/nota/2021-3-11-18-53-0-dolor-por-la-muerte-de-un-ex-futbolista-de-estudiantes-y-gimnasia) ROBERTO JOSÉ SANTIAGO: Dolor por la muerte de un ex futbolista de Estudiantes y Gimnasia.
+
+<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615469291225.jpg?x=14&y=12&width=1449&height=725&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=843&&cw=288&ch=199' width='450'></center>
+[NOTA](https://www.0221.com.ar/nota/2021-3-11-10-55-0-video-la-arenga-del-preparador-fisico-del-ruso-zielinski-en-estudiantes-que-se-hizo-viral) Alfonso Meoni: VIDEO: La arenga del preparador físico del Ruso Zielinski en Estudiantes que se hizo viral.
+
+<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615461720654.jpg?x=13&y=45&width=1005&height=502&rotate=0&scaleX=1&scaleY=1&ow=1024&oh=640&&cw=288&ch=199' width='450'></center>
+[NOTA](https://www.0221.com.ar/nota/2021-3-11-9-44-0-work-club-estudiantes-el-espacio-para-profesionales-independientes-con-vista-a-la-cancha) UNO: Work Club Estudiantes, el espacio para profesionales independientes con vista a la cancha.
+
+<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615499751300.jpg?x=4&y=75&width=1493&height=746&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=1125&&cw=288&ch=199' width='450'></center>
+[NOTA](https://www.0221.com.ar/nota/2021-3-11-18-53-0-dolor-por-la-muerte-de-un-ex-futbolista-de-estudiantes-y-gimnasia) ROBERTO JOSÉ SANTIAGO: Dolor por la muerte de un ex futbolista de Estudiantes y Gimnasia.
+
