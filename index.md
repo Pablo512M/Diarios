@@ -1,7 +1,5 @@
 <center><img src='https://pbs.twimg.com/media/EwLm1jcWUAQQizF?format=jpg&name=small' width='450'></center>
- &nbsp;&nbsp; [Página12](#pagina12) &nbsp;&nbsp; [Infobae](#Infobae) &nbsp;&nbsp; [Nodal](#Nodal)
-
- &nbsp;&nbsp; [RT](#rt) &nbsp;&nbsp; [La Nacion](#LaNación) &nbsp;&nbsp; [221](#221Digital) &nbsp;&nbsp; [Google News](#GoogleNews)
+ &nbsp;&nbsp; [Página12](#pagina12) &nbsp;&nbsp; [Infobae](#Infobae) &nbsp;&nbsp; [Nodal](#Nodal) &nbsp;&nbsp; [RT](#rt) &nbsp;&nbsp; [La Nacion](#LaNación) &nbsp;&nbsp; [221](#221Digital) &nbsp;&nbsp; [Google News](#GoogleNews)
 
 <a name='Página12'></a>
 
