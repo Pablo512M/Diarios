@@ -25,8 +25,8 @@ Detuvieron a Jeanine Áñez . Por el golpe de Estado que derrocó a Evo Morales 
 
 
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/af-vizzotti.jpg?itok=Hg4GXxiR' width=450></center>](https://www.pagina12.com.ar/329197-el-gobierno-extiende-el-distanciamiento-social-hasta-el-9-de)
-El Gobierno extiende el Distanciamiento Social hasta el 9 de abril “Argentina fortalece los cuidados para retrasar el aumento de casos de coronavirus”, dijo Vizzotti.
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147520-5fbc3d771ca42-1004x565.jpg?itok=gTFJ11Ws' width=450></center>](https://www.pagina12.com.ar/329250-que-dice-el-decreto-que-extiende-el-dispo)
+Qué dice el decreto que extiende el Dispo Se publicó este viernes.
 
 
 
@@ -52,6 +52,9 @@ Desolado y con oficinas y locales vacíos: ¿el Microcentro porteño se podrá r
 
 [<center><img src='https://www.infobae.com/new-resizer/LYDsSLOM2s2Xt96wGUrSwTs3jzc=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/OHXALF4UVJAJTIDVBSDUXGCVTQ.jpg' width=450></center>](https://www.infobae.com/economia/2021/03/13/que-va-a-pasar-con-el-dolar-advierten-que-la-estrategia-de-ancla-cambiaria-en-el-ano-electoral-tiene-corto-alcance/)
 ¿Qué va a pasar con el dólar?: advierten que la estrategia de "ancla cambiaria" en el año electoral tiene corto alcance. Por Juan Gasalla.
+
+[<center><img src='https://www.infobae.com/new-resizer/N9Bgzh4gJkaPEMgnhYaun0q7jMo=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/DNWW435LZXPLCIBSCOIZJN7CEA.jpg' width=450></center>](https://www.infobae.com/america/realeza/2021/03/13/6-contradicciones-dudas-y-mentiras-de-meghan-markle-y-el-principe-harry-en-la-entrevista-bomba-con-oprah-winfrey/)
+6 contradicciones, dudas y ¿mentiras? de Meghan Markle y el príncipe Harry en la entrevista bomba con Oprah WinfreyVIDEO.
 
 <a name='Nodal'></a>
 
@@ -80,6 +83,11 @@ Desolado y con oficinas y locales vacíos: ¿el Microcentro porteño se podrá r
 <H3><center>RT</center></H3>
  &nbsp;
 
+[<center><img src='https://cdni.rt.com/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg' width=450></center>](https://actualidad.rt.com//actualidad/386307-avion-transporte-militar-an-kazajistan)
+
+                Un avión de transporte militar An-26 se estrella en Kazajistán
+            .
+
 [<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604c5738e9ff7124f8601900.JPG' width=450></center>](https://actualidad.rt.com//actualidad/386290-ministro-gobierno-bolivia-confirmar-expresidenta-anez-aprehendida)
 
                 La Policía de Bolivia captura a la expresidenta de facto Jeanine Áñez
@@ -88,11 +96,6 @@ Desolado y con oficinas y locales vacíos: ¿el Microcentro porteño se podrá r
 [<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604c60a7e9ff71278d5eda83.jpeg' width=450></center>](https://actualidad.rt.com//actualidad/386291-primeras-imagenes-captura-anez)
 
                 Primeras imágenes de la captura de la expresidenta 'de facto' de Bolivia Jeanine Áñez
-            .
-
-[<center><img src='https://cdni.rt.com/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg' width=450></center>](https://actualidad.rt.com//actualidad/386307-avion-transporte-militar-an-kazajistan)
-
-                Un avión de transporte militar An-26 se estrella en Kazajistán
             .
 
 [<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604b8c6ae9ff7153f748f817.jpg' width=450></center>](https://actualidad.rt.com//actualidad/386214-informe-denuncia-actividades-mar-china)
@@ -150,23 +153,4 @@ FUROR EN LAS REDES: ¿Declaración de amor? El video de Deian Verón sobre una p
 ---------------------
 <H3><center>Google News</center></H3>
  &nbsp;
-
-[<center><img src='https://lh3.googleusercontent.com/yt6HUVMrGG1jUnjfax6Ua34n6MNB8xKofLVSos9CRQvrJV2aerErQcQyidH6zKaRY5S26XAVFpdyoKu5I9c=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEL5a-HYOtYqN331DMRnlgIwqGQgEKhAIACoHCAowwOWNCzDbmqADMNSCqgY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  3 claves que explican por qué China restringe sus préstamos a América Latina. BBC News Mundo Hace 18 horas.
-
-[<center><img src='https://lh3.googleusercontent.com/omTExNWFLOaH0aJcDnhlOk1N6EKosYPu3XEHm8gtxO0UxpdFPOwZ4ntkFRG8KELS39XLdB6uthLF7Ty49lY=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEAvNVRqSn-sUlvQu8wSoYWUqGQgEKhAIACoHCAowwOWNCzDbmqADMILOqQY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  El plan de China y Rusia para construir una estación espacial en la Luna. BBC News Mundo Hace 3 días.
-
-[<center><img src='https://lh3.googleusercontent.com/JDFOyo903E9WGstK0YhI2ZFOKR3h4qDxBngX5M8XJVBZFKzOBoxLmk3OVlgNw9SOE-HfkNgb=w32' width=450></center>](https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvbGEtdWlmLXByZXNlbnRvLXN1LXByb3B1ZXN0YS1wYXJhLWxhLWhpZHJvdmlh0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Meoni en el Consejo Federal Hidrovía: "El Presidente nos pidió desde el primer momento que la Hidrovía Paraná - Paraguay sea una hidrovía federal". Argentina.gob.ar Presidencia de la Nación 22 feb..
-
-[<center><img src='https://lh6.googleusercontent.com/proxy/EmkgxTeBvLzAbeDK7FT85KsRts2z2P5SZG2b26vBjPfTPtuD_5dQumgI5y7bNTg5P-n0CoYP7TxheVgzyzt4V_IlViQxru_rCEY9mJXMMqsmO9Ax2qn08KXB_40Q02ybp1QSQ0CvnBFpOC0jCm7ZaK-SWENi-c0AlHLe41wxapROgyO31r5r0Y9q_bcQgOTR6mBld5h_9czP7Zs-8B0=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvbGEtdWlmLXNvbGljaXRvLWludGVncmFyLWVsLWNvbnNlam8tYXNlc29yLWRlLWxhLWhpZHJvdmlhLTDSAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Argentina: Consejo Federal Hidrovía Paraguay-Paraná abordó ejes de acción en su primera reunión. MundoMaritimo.cl 24 feb..
-
-[<center><img src='https://lh6.googleusercontent.com/proxy/ayfbw-Rh-Z3Gi3nE3-h1cvDgD67d1ZdWhJ8pjP6muJwTkwh_8kNinvU0D7I4mRjWsyl_AVuewqUnarlYH2Ffhf0_BQlvM_dQbT2l92H95TUf1iNkW7Y_VaeTtm3QjC_am9I4lA=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LnRlbGFtLmNvbS5hci9ub3Rhcy8yMDIxMDMvNTQ3MDY3LXVydWd1YXktcmVjaWJpby1sYXMtcHJpbWVyYXMtNTAwMDAtZG9zaXMtZGUtbGEtdmFjdW5hLWRlLXBmaXplci5odG1s0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Uruguay recibiÃ³ las primeras 50.000 dosis de la vacuna de Pfizer. TÃ©lam Hace 2 dÃ­as.
-
-[<center><img src='https://lh3.googleusercontent.com/proxy/JSwV6GEy-qM_09fTrRYwf3ApvvbV5hheo364jUQk5vM9uvTN3dv7_O1FQpsg7E9WqpKj-LwcEwWWiQHiB6tKrH0sLh0Ozg0flfc7A2OEyGZQxbqyaxbJ0vDyt_aMWPBmA0_leEKWQV4asIk4Cws=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMiSmh0dHBzOi8vd2VicGlja2luZy5jb20vY29zdG9zLWRlLXRyYW5zcG9ydGUtZXNjYWxhbi01Ni1lbi0yMDIwLWVuLXVydWd1YXkv0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Costos de transporte escalan 5,6% en 2020 en Uruguay.[<center><img src='https://lh3.googleusercontent.com/proxy/x59qS77Ac_cegiZgWCZPoMjta0sM6VZRLlr3lB6-rOrMl3C8tD-eTQbYY7jzUnwgnp1FlgTptkmVJEKopelsrEPJVSMr2q9ZdV0ojh7T2e1KYrwi81tK-1ODfGimFNhwqHilZQ=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiECGI-UZvItnucJBV6D4eFykqGQgEKhAIACoHCAowmYaVCzDS4KoDMNmTzwY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Paraguay analiza nuevas restricciones ante una situación de virtual colapso. Télam Hace 21 horas.
 
