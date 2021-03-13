@@ -1,5 +1,7 @@
  &nbsp;
-<center><img src='https://lh3.googleusercontent.com/pw/ACtC-3fPU269RhAFi-pkXpi8xBUvWNo07l3gKf1cRqTZCu5cKHF3Bxz2x8zgvrc-cWDZrk4jy6_8Mixu8vjAIbJNbam-aEcKNQM2LzZ2_NbvMZ_Nty-fTL66IduyCq4WJYIqEORme0TPedcYH8nBK9lgE7dP=w1100-h1000-no' width='450'></center>
+<center><img src='https://lh3.googleusercontent.com/pw/ACtC-3eNCk9bgwdlPyke2A1hsQF62sJQHtC4_skw9zrZDmFKG6GE5Jj7UjC0L1WdrUh4y-s0jzW6aeD4UFzHCjwgTyMGHPIHD7bUVtIC-5EDIEYMz7s-LLCk3Rik5UZPj0Mpxc0YtyZkn7-CqxByA-fhQPlG=w710-h1000-no' width='450'></center>
+ &nbsp;
+ &nbsp;
  &nbsp;
  &nbsp;
 <a name='Página12'></a>
@@ -20,8 +22,8 @@ La acusación es por “administración fraudulenta y malversación de caudales 
 
 
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147393-2-a-0.jpg?itok=L8PuvOH4' width=450></center>](https://www.pagina12.com.ar/329176-beatriz-sarlo-y-las-fake-news-de-la-corporacion-mediatica)
-Beatriz Sarlo y las fake news de la corporación mediática Formateados. Por Luis Bruschtein.
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147525-1614192512210224523-20-281-29.jpg?itok=Cn2RukQN' width=450></center>](https://www.pagina12.com.ar/329259-axel-kicillof-el-macrismo-esta-haciendo-una-campana-sucia)
+"El macrismo está haciendo una campaña sucia" La oposición presentó una denuncia penal contra su esposa.
 
 
 
@@ -30,13 +32,13 @@ Detuvieron a Jeanine Áñez . Por el golpe de Estado que derrocó a Evo Morales 
 
 
 
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147393-2-a-0.jpg?itok=L8PuvOH4' width=450></center>](https://www.pagina12.com.ar/329176-beatriz-sarlo-y-las-fake-news-de-la-corporacion-mediatica)
+Beatriz Sarlo y las fake news de la corporación mediática Formateados. Por Luis Bruschtein.
+
+
+
 [<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147520-5fbc3d771ca42-1004x565.jpg?itok=gTFJ11Ws' width=450></center>](https://www.pagina12.com.ar/329250-que-dice-el-decreto-que-extiende-el-dispo)
 Qué dice el decreto que extiende el Dispo Se publicó este viernes.
-
-
-
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147399-32-a-20-283-29.jpg?itok=eidlEcUv' width=450></center>](https://www.pagina12.com.ar/329175-el-tao-vencio-a-uber-en-china)
-El tao venció a Uber en China . Por qué la app de transporte perdió contra DiDi. Por Julián Varsavsky.
 
 
 
@@ -52,14 +54,14 @@ Cómo hizo Chile para vacunar el triple de gente que la Argentina: la comparaci�
 [<center><img src='https://www.infobae.com/new-resizer/q2HLLJa5jOPDsI1VxNSFZUStPls=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/S7S4NGRU4NBXFHGTU663OOVCNM.jpg' width=450></center>](https://www.infobae.com/opinion/2021/03/13/la-pequena-tragedia-ideologica-de-quemar-y-repudiar-libros-en-la-hoguera-del-odio/)
 La pequeña tragedia ideológica de quemar y repudiar libros en la hoguera del odio. Por Alberto Amato.
 
-[<center><img src='https://www.infobae.com/new-resizer/GrtA60lk6SFHs46eV5XxDOSMXNA=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/YN6VJKQKLNCPVBCSBSRRUY2ZWE.jpg' width=450></center>](https://www.infobae.com/economia/2021/03/13/desolado-y-con-oficinas-y-locales-vacios-el-microcentro-porteno-se-podra-reconvertir-en-un-barrio-residencial/)
-Desolado y con oficinas y locales vacíos: ¿el Microcentro porteño se podrá reconvertir en un barrio residencial?. Por Ximena Casas.
+[<center><img src='https://www.infobae.com/new-resizer/c9ZGU7DwEm26Scqas8q3EOgh7Wo=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/THM4WMMF6FCCPH5LKMIEHRC7SA.jpg' width=450></center>](https://www.infobae.com/economia/2021/03/13/como-se-conforma-el-precio-de-la-carne-desde-liniers-hasta-que-llega-a-gondolas-y-carnicerias/)
+¿Cómo se conforma el precio de la carne, desde Liniers hasta que llega a góndolas y carnicerías?.
 
 [<center><img src='https://www.infobae.com/new-resizer/AF0oJUtmBOZkcrvFR9_SPgJ6I64=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/ZQRVAX7VKRDHFBQY6VVOSVIFFA.jpg' width=450></center>](https://www.infobae.com/economia/2021/03/13/marcos-santana-y-sebastian-ortega-de-telemundo-el-pais-mas-dificil-para-emprender-y-producir-television-se-llama-argentina/)
 Marcos Santana y Sebastián Ortega, de Telemundo: "El país más difícil para producir televisión se llama Argentina". Por Ximena Casas.
 
-[<center><img src='https://www.infobae.com/new-resizer/7ehRs-DUzWuunm_jnNKRAMyQdi4=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/OQCKK7ZWTVGPJKTVEMBRPFWHEA.jpg' width=450></center>](https://www.infobae.com/opinion/2021/03/13/nosotras-frente-al-espejo-el-dia-que-supe-que-mi-mejor-amiga-sufria-anorexia/)
-Nosotras frente al espejo: el día que supe que mi mejor amiga sufría anorexia. Por Zoe Hochbaum.
+[<center><img src='https://www.infobae.com/new-resizer/LYDsSLOM2s2Xt96wGUrSwTs3jzc=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/OHXALF4UVJAJTIDVBSDUXGCVTQ.jpg' width=450></center>](https://www.infobae.com/economia/2021/03/13/que-va-a-pasar-con-el-dolar-advierten-que-la-estrategia-de-ancla-cambiaria-en-el-ano-electoral-tiene-corto-alcance/)
+¿Qué va a pasar con el dólar?: advierten que la estrategia de "ancla cambiaria" en el año electoral tiene corto alcance. Por Juan Gasalla.
 
 <a name='Nodal'></a>
 
@@ -70,14 +72,14 @@ Nosotras frente al espejo: el día que supe que mi mejor amiga sufría anorexia.
 [<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/anez-detenida-750x430-1-357x210.jpg' width=450></center>](https://www.nodal.am/2021/03/bolivia-detienen-a-la-expresidenta-de-facto-jeanine-anez-y-dos-de-sus-ex-ministros-por/)
 Bolivia  Detienen a la expresidenta de facto Jeanine Áñez y dos de sus ministros por el golpe de Estado contra Evo Morales.
 
+[<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/Petro-750x430-1-357x210.jpg' width=450></center>](https://www.nodal.am/2021/03/gustavo-petro-senador-colombiano-las-campanas-de-la-derecha-se-fundan-sobre-la-mentira/)
+Gustavo Petro, senador colombiano: “Las campañas de la derecha se fundan sobre la mentira”.
+
 [<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/Paraguay-750x430-1-357x210.jpg' width=450></center>](https://www.nodal.am/2021/03/paraguay-tras-una-semana-de-protestas-manifestantes-continuan-en-las-calles-pidiendo-la-renuncia-del-presidente/)
 Paraguay  Tras una semana de protestas manifestantes continúan en las calles pidiendo la renuncia del presidente.
 
-[<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/Haiti-750x430-1-357x210.jpg' width=450></center>](https://www.nodal.am/2021/03/haitial-menos-tres-policias-murieron-en-un-operativo-dentro-de-un-barrio-dominado-por-grupos-armados/)
-Haití  Al menos tres policías murieron en un operativo dentro de un barrio dominado por grupos armados.
-
 [<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/lawfare-america-latina-357x210.jpeg' width=450></center>](https://www.nodal.am/2021/03/el-lawfare-en-america-latina-y-la-judicializacion-selectiva-de-la-politica-por-carol-proner-y-gisele-ricobom/)
-El lawfare en América Latina y la judicialización selectiva de la política – Por Carol Proner y Gisele Ricobom  El Lawfare, como se practica en América Latina y el Caribe, no es un proceso políticamente neutral..
+El lawfare en América Latina y la judicialización selectiva de la política – Por Carol Proner y Gisele Ricobom   El Lawfare, como se practica en América Latina y el Caribe, no es un proceso políticamente neutral..
 
 [<center><img src='https://www.nodal.am/2021/03/la-guerra-juridica-lawfare-en-brasil-por-larissa-ramina/' width=450></center>](https://www.nodal.am/2021/03/la-guerra-juridica-lawfare-en-brasil-por-larissa-ramina/)
 La guerra jurídica: lawfare en Brasil – Por Larissa Ramina  En Brasil, la guerra jurídica se implementó con fines geopolíticos y se justificó en la lucha contra la corrupción..
@@ -152,8 +154,8 @@ COPA DE LA LIGA: Estudiantes recibe a Colón con la ilusión de llegar a la punt
 [<center><img src='https://lh3.googleusercontent.com/excWZuT_YIQnrtPjKKmXrHaqCrl1dRcSBQ8On8w3EHNJ-JxXXyl3SqRkY3-LjZXYqr6-EwHnD3LCx1HORI8=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEL5a-HYOtYqN331DMRnlgIwqGQgEKhAIACoHCAowwOWNCzDbmqADMNSCqgY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   3 claves que explican por qué China restringe sus préstamos a América Latina. BBC News Mundo Hace 19 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/JAf2-feop_BHVNcB5WmbrjTK6MKCYSZgt2XXlqe7p8fskmyx2Pa3NXn1BT7u6XHOGliZv8JK-j8WnCIEDw=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEFZ2uOOrDtWjKfd3Bve_0RkqGQgEKhAIACoHCAowwJn-CjCamooDMKn_2QU?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Descubiertos cuatro nuevos coronavirus relacionados con el virus de la covid en murciélagos de China. EL PAÍS Hace 1 hora.
+[<center><img src='https://lh6.googleusercontent.com/proxy/VC6_b4JnhJM6PoJ6E8228KOBgzgPb-4PtXxPAo5wZi8qKuU_iZsKqzcLOUmpQ3CYuc00t3ie8BSlRdazI8Mj_U2WduWuTVmqkVRoawPb6ZvqKvX_KKj4dHstBpvf1rIbhBfbbeKguOBI5mttTWNSseepWG8-KH4uc1spj5mDAjfWXFlO0yuTWnkJncOSBvL-02AOdOO__loWSX_yWCp5BH9Xj7Cddfvx=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMiSmh0dHBzOi8vd3d3LnBhZ2luYTEyLmNvbS5hci8zMjkxNDgtYS1kdXBsaWNhci1sYXMtcHltZXMtcXVlLXZlbmRlbi1hLWNoaW5h0gFKaHR0cHM6Ly93d3cucGFnaW5hMTIuY29tLmFyLzMyOTE0OC1hLWR1cGxpY2FyLWxhcy1weW1lcy1xdWUtdmVuZGVuLWEtY2hpbmE?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  A duplicar las pymes que venden a China. Página 12 Hace 16 horas.
 
 [<center><img src='https://lh3.googleusercontent.com/JDFOyo903E9WGstK0YhI2ZFOKR3h4qDxBngX5M8XJVBZFKzOBoxLmk3OVlgNw9SOE-HfkNgb=w32' width=450></center>](https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvbGEtdWlmLXByZXNlbnRvLXN1LXByb3B1ZXN0YS1wYXJhLWxhLWhpZHJvdmlh0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Meoni en el Consejo Federal Hidrovía: "El Presidente nos pidió desde el primer momento que la Hidrovía Paraná - Paraguay sea una hidrovía federal". Argentina.gob.ar Presidencia de la Nación 22 feb..
@@ -164,6 +166,6 @@ COPA DE LA LIGA: Estudiantes recibe a Colón con la ilusión de llegar a la punt
 [<center><img src='https://lh3.googleusercontent.com/proxy/x59qS77Ac_cegiZgWCZPoMjta0sM6VZRLlr3lB6-rOrMl3C8tD-eTQbYY7jzUnwgnp1FlgTptkmVJEKopelsrEPJVSMr2q9ZdV0ojh7T2e1KYrwi81tK-1ODfGimFNhwqHilZQ=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiECGI-UZvItnucJBV6D4eFykqGQgEKhAIACoHCAowmYaVCzDS4KoDMNmTzwY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Paraguay analiza nuevas restricciones ante una situación de virtual colapso. Télam Hace 22 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/proxy/6y5-2hj3B25gPMlF0Kte7ER8xJHvD-UR2UFplxtm-YqujtVkc0-X75lrSsG2khk5N7I0Iv6wD9riuTD-TgSHZJZCDMzVIc6omdgMoWldcN5kg5TFBkXSkhPQXIFRLBh2QES2zw=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEFvKWDJbl-uBCuXG1XvNt1MqGQgEKhAIACoHCAowwfehCTDkrpcCMJKcvwM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Bolivia: detuvieron a la expresidenta de facto Jeanine Áñez. Télam Hace 1 hora.
+[<center><img src='https://lh3.googleusercontent.com/g0p3FwKP0kdsNQjPLahtP46_aIASsKRujqG1Wr21eJ1bb47XzuqB7-c3qkoWjwd5eV8ShajGgFiYoaCPJo9o=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEFvKWDJbl-uBCuXG1XvNt1MqGQgEKhAIACoHCAowwfehCTDkrpcCMJKcvwM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Detienen en Bolivia a la expresidenta Jeanine Áñez por el “caso golpe de Estado” contra Evo Morales. BBC News Mundo Hace 6 horas.
 
