@@ -60,7 +60,7 @@ La acusación es por “administración fraudulenta y malversación de caudales 
  &nbsp;
 
 <center><img src='https://www.nodal.am/wp-content/uploads/2021/03/anez-750x430-1-357x210.jpg' width='450'></center>
-[NOTA](https://www.nodal.am/2021/03/bolivia-detienen-a-la-expresidenta-de-facto-jeanine-anez-y-dos-de-sus-ex-ministros-por/)  Bolivia  Detienen a la expresidenta de facto Jeanine Áñez y dos de sus ex ministros por  .
+[NOTA](https://www.nodal.am/2021/03/bolivia-detienen-a-la-expresidenta-de-facto-jeanine-anez-y-dos-de-sus-ex-ministros-por/)  Bolivia  Detienen a la expresidenta de facto Jeanine Áñez y dos de sus ministros por  .
 
 <center><img src='https://www.nodal.am/wp-content/uploads/2021/03/Marcha-Haiti-357x210.jpg' width='450'></center>
 [NOTA](https://www.nodal.am/2021/03/haiti-organizaciones-de-ddhh-exigen-justicia-por-25-mujeres-torturadas-en-prision-civil/)  Haití  Organizaciones de DDHH exigen justicia por 25 mujeres torturadas en prisión civil  .
@@ -119,8 +119,7 @@ La acusación es por “administración fraudulenta y malversación de caudales 
 
 [NOTA](https://www.lanacion.com.ar/opinion/las-memorias-de-un-desmemoriado-nid13032021/) De no creer. Las memorias de un desmemoriado        Carlos M. Reymundo Roberts.
 
-<center><img src='https://bucket3.glanacion.com/anexos/fotos/79/3660679h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/politica/las-diferencias-en-el-mercosur-quedaron-a-la-vista-en-un-encuentro-de-los-cancilleres-del-bloque-nid12032021/) Mercosur. Las diferencias quedan a la vista en un encuentro de cancilleres     Por Rafael Mathus Ruiz.
+[NOTA](https://www.lanacion.com.ar/politica/incendios-el-presidente-viaja-a-chubut-para-recorrer-las-zonas-afectadas-nid13032021/) Incendios. El Presidente viaja a Chubut para recorrer las zonas afectadas.
 
 <center><img src='https://bucket3.glanacion.com/anexos/fotos/78/3660878h186.jpg' width='450'></center>
 [NOTA](https://www.lanacion.com.ar/politica/el-gobierno-denuncio-a-mauricio-macri-por-defraudacion-por-el-acuerdo-con-el-fmi-nid13032021/) Acuerdo con el FMI. El Gobierno denunció a Macri por ''defraudación''     Por Santiago Dapelo.
@@ -131,14 +130,14 @@ La acusación es por “administración fraudulenta y malversación de caudales 
 <H3><center>221 Digital</center></H3>
  &nbsp;
 
+<center><img src='https://pxb.cdn.0221.com.ar/0221/102018/1539968882732.jpg?x=4&y=8&width=947&height=473&rotate=0&scaleX=1&scaleY=1&ow=960&oh=639&&cw=288&ch=199' width='450'></center>
+[NOTA](https://www.0221.com.ar/nota/2021-3-13-7-52-0-unos-280-mil-inmuebles-y-rodados-podran-acogerse-al-plan-de-pagos-de-tasas-atrasadas) HASTA EL 31 DE MARZO: Unos 280 mil inmuebles y rodados podrán acogerse al plan de pagos de tasas atrasadas.
+
 <center><img src='https://pxb.cdn.0221.com.ar/0221/012021/1610648469832.jpg?x=10&y=227&width=1480&height=740&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=1001&&cw=288&ch=199' width='450'></center>
 [NOTA](https://www.0221.com.ar/nota/2021-3-12-21-21-0-la-plata-sumo-122-casos-nuevos-y-dos-muertes-por-covid-19) EMERGENCIA SANITARIA: La Plata sumó 122 casos nuevos y dos muertes por COVID-19.
 
 <center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615591772984.jpg?x=6&y=0&width=1484&height=742&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=742&&cw=288&ch=199' width='450'></center>
 [NOTA](https://www.0221.com.ar/nota/2021-3-12-20-20-0-video-asi-se-prendio-fuego-un-auto-en-4-y-diagonal-80) TENSIÓN EN EL CENTRO: VIDEO: Así se prendió fuego un auto en 4 y diagonal 80.
-
-<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615568877907.jpeg?x=4&y=82&width=1270&height=635&rotate=0&scaleX=1&scaleY=1&ow=1280&oh=958&&cw=288&ch=199' width='450'></center>
-[NOTA](https://www.0221.com.ar/nota/2021-3-12-13-46-0-el-pichettismo-busca-acomodarse-como-pata-peronista-en-el-oficialismo-de-la-plata) ELECCIONES 2021: El "pichettismo" busca acomodarse como pata peronista en el oficialismo de La Plata.
 
 <center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615591338744.jpg?x=65&y=29&width=1201&height=601&rotate=0&scaleX=1&scaleY=1&ow=1276&oh=630&&cw=288&ch=199' width='450'></center>
 [NOTA](https://www.0221.com.ar/nota/2021-3-13-7-45-0-estudiantes-y-gimnasia-juntan-donaciones-para-los-afectados-por-los-incendios-en-el-sur) ¿CÓMO AYUDAR?: Estudiantes y Gimnasia juntan donaciones para los afectados por los incendios en el sur.
@@ -153,8 +152,14 @@ La acusación es por “administración fraudulenta y malversación de caudales 
  &nbsp;
 
 [<center><img src='https://lh3.googleusercontent.com/K9z5KTPyXSexZBRMHUbW3VJ9ZvJ78lYQVArpwMxxfqS5u-E5t8cCZV626YgJnVx6XlYc8AKZexz-fbRffcA=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEL5a-HYOtYqN331DMRnlgIwqGQgEKhAIACoHCAowwOWNCzDbmqADMNSCqgY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)  3 claves que explican por qué China restringe sus préstamos a América Latina. BBC News Mundo Hace 16 horas.
-[<center><img src='https://lh3.googleusercontent.com/-_csQ1n9Fc7jPR69R3Za1ASPXsn9mEHYO8At_67F63jx3x1OvwlpaNSbucj7vYpJkAQZ4yl2ktM4tdXXfA=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEFZ2uOOrDtWjKfd3Bve_0RkqGQgEKhAIACoHCAowwJn-CjCamooDMKn_2QU?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)  Descubiertos cuatro nuevos coronavirus relacionados con el virus de la covid en murciélagos de China. EL PAÍS Hace 3 horas.
+
 [<center><img src='https://lh3.googleusercontent.com/r6ECp-XA0pCQOcEZEZiv6nT0tBsp2vRuk_gEFeks4pjBZRoT_vwLTkvH78rA1edNjA9AQOhYndpETXto4po=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEAvNVRqSn-sUlvQu8wSoYWUqGQgEKhAIACoHCAowwOWNCzDbmqADMILOqQY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)  El plan de China y Rusia para construir una estación espacial en la Luna. BBC News Mundo Hace 3 días.
+
+[<center><img src='https://lh5.googleusercontent.com/proxy/eM2i2Yg3s7zplmWc1ZSxfYtXFrmqtsmaDlQGbdG75p45u5eKdBEkUbUKJv30euXmUOm4D_-hNdjzx8gYux0Y-Zqv0T1bC6C7-Xf0megbNldWQxkIZLNEaoYQt0qGBiSKBTsDv_88-C6MCt65WkJaTVo1JAvNV6YhSl06rQ=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3LmxhdmFuZ3VhcmRpYS5jb20vdmlkYS9qdW5pb3ItcmVwb3J0LzIwMjEwMzEyLzYzMjU4NzkvbnVldm8tcm9sLW11amVyLWNoaW5hLmh0bWzSAV9odHRwczovL3d3dy5sYXZhbmd1YXJkaWEuY29tL3ZpZGEvanVuaW9yLXJlcG9ydC8yMDIxMDMxMi82MzI1ODc5L251ZXZvLXJvbC1tdWplci1jaGluYS5hbXAuaHRtbA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)  El nuevo rol de la mujer en China. La Vanguardia Ayer.
+
 [<center><img src='https://lh3.googleusercontent.com/JDFOyo903E9WGstK0YhI2ZFOKR3h4qDxBngX5M8XJVBZFKzOBoxLmk3OVlgNw9SOE-HfkNgb=w32' width=450></center>](https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvbGEtdWlmLXByZXNlbnRvLXN1LXByb3B1ZXN0YS1wYXJhLWxhLWhpZHJvdmlh0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)  Meoni en el Consejo Federal Hidrovía: "El Presidente nos pidió desde el primer momento que la Hidrovía Paraná - Paraguay sea una hidrovía federal". Argentina.gob.ar Presidencia de la Nación 22 feb..
+
 [<center><img src='https://lh6.googleusercontent.com/proxy/EmkgxTeBvLzAbeDK7FT85KsRts2z2P5SZG2b26vBjPfTPtuD_5dQumgI5y7bNTg5P-n0CoYP7TxheVgzyzt4V_IlViQxru_rCEY9mJXMMqsmO9Ax2qn08KXB_40Q02ybp1QSQ0CvnBFpOC0jCm7ZaK-SWENi-c0AlHLe41wxapROgyO31r5r0Y9q_bcQgOTR6mBld5h_9czP7Zs-8B0=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvbGEtdWlmLXNvbGljaXRvLWludGVncmFyLWVsLWNvbnNlam8tYXNlc29yLWRlLWxhLWhpZHJvdmlhLTDSAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)  Argentina: Consejo Federal Hidrovía Paraguay-Paraná abordó ejes de acción en su primera reunión. MundoMaritimo.cl 24 feb..
+
 [<center><img src='https://lh6.googleusercontent.com/proxy/a2jNUWUF_5XNji9Yt7yVVvCdbOzRbXDF9l-6rZuEKUK9uK4Ic2Ck13s6a-YkzHR34gvci89HlPhymwjCDe7KCGrEGVjIEWB215T9mzM_hJi6oZ9c9pN3XXQmKwGC2dZXKE9qFA=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LmxhcG9saXRpY2FvbmxpbmUuY29tL3NhbnRhLWZlL2hpZHJvdmlhLWxhLWdyYW4tb2JyYS1lc3RyYXRlZ2ljYS1kZS1tZW5lbS1xdWUtdHJhbnNmb3Jtby1sYS1hcmdlbnRpbmEv0gFzaHR0cHM6Ly93d3cubGFwb2xpdGljYW9ubGluZS5jb20vYW1wLzEzMjExMy1oaWRyb3ZpYS1sYS1ncmFuLW9icmEtZXN0cmF0ZWdpY2EtZGUtbWVuZW0tcXVlLXRyYW5zZm9ybW8tbGEtYXJnZW50aW5hLw?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)  Meoni descartó la estatización de la Hidrovía y lanza una licitación internacional. La Política Online 22 feb..
+
