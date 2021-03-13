@@ -1,4 +1,8 @@
 <center><img src='https://pbs.twimg.com/media/EwLm1jcWUAQQizF?format=jpg&name=small' width='450'></center>
+ &nbsp;&nbsp; [Página12](#pagina12) &nbsp;&nbsp; [Infobae](#Infobae) &nbsp;&nbsp; [Nodal](#Nodal)
+
+ &nbsp;&nbsp; [RT](#rt) &nbsp;&nbsp; [La Nacion](#LaNación) &nbsp;&nbsp; [221](#221Digital) &nbsp;&nbsp; [Google News](#GoogleNews)
+
 <a name='Página12'></a>
 
 ---------------------
@@ -50,8 +54,8 @@ La acusación es por “administración fraudulenta y malversación de caudales 
 <center><img src='https://www.infobae.com/new-resizer/Y-TQ09pjmUvHkTJz09BJ4RzTmH8=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/4O7W52DEDZED7N5YCPJOEXAW4I.jpeg' width='450'></center>
 [NOTA](https://www.infobae.com/sociedad/2021/03/13/lo-escuche-y-sali-llorando-un-medico-cordobes-y-la-historia-real-que-inspiro-el-flamante-proyecto-de-ley-de-eutanasia/) "Lo escuché y salí llorando": un médico cordobés y la historia real que inspiró el flamante proyecto de ley de eutanasia. Por Gisele Sousa Dias.
 
-<center><img src='https://www.infobae.com/new-resizer/V4zBRaEYCyUTn3Okx-kCxQ-hg-0=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/3MTMJQGXAJDYRDTRBR7F7BVPDQ.jpeg' width='450'></center>
-[NOTA](https://www.infobae.com/salud/ciencia/2021/03/13/como-es-argenvac-221-el-nuevo-proyecto-de-vacuna-argentina-contra-el-covid-19/) Cómo es ARGENVAC 221, el nuevo proyecto de vacuna argentina contra el COVID-19. Por Francisco Reyes.
+<center><img src='https://www.infobae.com/new-resizer/KZN5vFBG6mr19LeXMLkx5KOC6aI=/arc-anglerfish-arc2-prod-infobae/public/VYK4XFGJHAPKXLFCRIXMZHF7LA.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/america/tendencias-america/2021/03/12/cepa-por-cepa-como-pueden-impactar-las-variantes-del-coronavirus-en-la-argentina/) Cepa por cepa, cómo pueden impactar las variantes del coronavirus en la Argentina. Por Víctor Ingrassia.
 
 <a name='Nodal'></a>
 
