@@ -1,6 +1,7 @@
-<>                          | <>
-:-------------------------:|:-------------------------:
+                          | 
+ | 
 [<center><img src='https://www.pagina12.com.ar/assets/media/logos/amp/logo_pagina_12_n.svg?v=1.0.277' width=100></center>](#Página12) | [<center><img src='https://www.infobae.com/pf/resources/images/logo_infobae_naranja.svg?d=509' width=100></center>](#Infobae)
+
 [<center><img src='https://www.nodal.am/wp-content/uploads/2020/09/logo-chico.png' width=100></center>](#Nodal) | [<center><img src='https://pbs.twimg.com/profile_images/1018833905082871808/F7RZerA1_400x400.jpg' width=80></center>](#RT)
 [<center><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_La_Naci%C3%B3n.svg/1280px-Logo_La_Naci%C3%B3n.svg.png' width=100></center>](#LaNación) | [<center><img src='https://www.0221.com.ar/img/logo_principal.png' width=80></center>](#221Digital)[<center><img src='https://victor-mochere.com/wp-content/uploads/2019/10/How-to-get-your-website-included-on-Google-News.jpg' width=100></center>](#GoogleNews)<a name='Página12'></a>
 
@@ -55,9 +56,6 @@ La acusación es por “administración fraudulenta y malversación de caudales 
 
 <center><img src='https://www.infobae.com/new-resizer/V4zBRaEYCyUTn3Okx-kCxQ-hg-0=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/3MTMJQGXAJDYRDTRBR7F7BVPDQ.jpeg' width='450'></center>
 [NOTA](https://www.infobae.com/salud/ciencia/2021/03/13/como-es-argenvac-221-el-nuevo-proyecto-de-vacuna-argentina-contra-el-covid-19/) Cómo es ARGENVAC 221, el nuevo proyecto de vacuna argentina contra el COVID-19. Por Francisco Reyes.
-
-<center><img src='https://www.infobae.com/new-resizer/XbfPBNLig-CZ-vOhk9lPz6eOTmQ=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/EFIJC7KWWVPSK2UXP6OOB3MJTA.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/america/eeuu/2021/03/12/estados-unidos-administro-mas-de-100-millones-de-dosis-de-las-vacunas-contra-el-covid-19/) Estados Unidos aplicó más de 100 millones de dosis de las vacunas contra el COVID-19.
 
 <a name='Nodal'></a>
 
