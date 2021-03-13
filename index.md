@@ -1,6 +1,4 @@
 <center><img src='https://pbs.twimg.com/media/EwLm1jcWUAQQizF?format=jpg&name=small' width='450'></center>
- &nbsp;&nbsp; [Página12](#pagina12) &nbsp;&nbsp; [Infobae](#Infobae) &nbsp;&nbsp; [Nodal](#Nodal) &nbsp;&nbsp; [RT](#rt) &nbsp;&nbsp; [La Nacion](#LaNación) &nbsp;&nbsp; [221](#221Digital) &nbsp;&nbsp; [Google News](#GoogleNews)
-
 <a name='Página12'></a>
 
 ---------------------
@@ -52,8 +50,8 @@ La acusación es por “administración fraudulenta y malversación de caudales 
 <center><img src='https://www.infobae.com/new-resizer/Y-TQ09pjmUvHkTJz09BJ4RzTmH8=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/4O7W52DEDZED7N5YCPJOEXAW4I.jpeg' width='450'></center>
 [NOTA](https://www.infobae.com/sociedad/2021/03/13/lo-escuche-y-sali-llorando-un-medico-cordobes-y-la-historia-real-que-inspiro-el-flamante-proyecto-de-ley-de-eutanasia/) "Lo escuché y salí llorando": un médico cordobés y la historia real que inspiró el flamante proyecto de ley de eutanasia. Por Gisele Sousa Dias.
 
-<center><img src='https://www.infobae.com/new-resizer/KZN5vFBG6mr19LeXMLkx5KOC6aI=/arc-anglerfish-arc2-prod-infobae/public/VYK4XFGJHAPKXLFCRIXMZHF7LA.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/america/tendencias-america/2021/03/12/cepa-por-cepa-como-pueden-impactar-las-variantes-del-coronavirus-en-la-argentina/) Cepa por cepa, cómo pueden impactar las variantes del coronavirus en la Argentina. Por Víctor Ingrassia.
+<center><img src='https://www.infobae.com/new-resizer/AF0oJUtmBOZkcrvFR9_SPgJ6I64=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/ZQRVAX7VKRDHFBQY6VVOSVIFFA.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/economia/2021/03/13/marcos-santana-y-sebastian-ortega-de-telemundo-el-pais-mas-dificil-para-emprender-y-producir-television-se-llama-argentina/) Marcos Santana y Sebastián Ortega, de Telemundo: "El país más difícil para producir televisión se llama Argentina". Por Ximena Casas.
 
 <a name='Nodal'></a>
 
@@ -113,8 +111,8 @@ La acusación es por “administración fraudulenta y malversación de caudales 
 <H3><center>La Nación</center></H3>
  &nbsp;
 
-<center><img src='https://bucket1.glanacion.com/anexos/fotos/51/3660851h373.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/politica/alberto-fernandez-extiende-el-distanciamiento-hasta-el-9-de-abril-y-pide-no-cerrar-la-economia-nid12032021/) Decisión. Extendieron el distanciamiento hasta el 9 de abril       El Presidente pidió aumentar las campañas de concientización para evitar el repunte que se registra en otros países; los detalles de lo publicado en el Boletín Oficial          Por Maia Jastreblansky.
+<center><img src='https://bucket2.glanacion.com/anexos/fotos/35/3660335h373.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/politica/restricciones-por-el-coronavirus-la-nueva-lista-de-medidas-del-gobierno-nid12032021/) Restricciones por Covid. La nueva lista de medidas del Gobierno       En el marco de la nueva etapa del distanciamiento social, el Presidente pidió aumentar las campañas de concientización para evitar el repunte que se registra en otros países.
 
 <center><img src='https://bucket2.glanacion.com/anexos/fotos/53/3660953h186.jpg' width='450'></center>
 [NOTA](https://www.lanacion.com.ar/ideas/reflexiones-de-un-historiador-que-es-usuario-de-wikipedia-nid13032021/) Análisis. Reflexiones de un historiador que es usuario de Wikipedia     Por Luis Alberto Romero.
