@@ -10,25 +10,17 @@
 <H3><center>Página12</center></H3>
  &nbsp;
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/sin-titulo-1_23.jpg?itok=QQ3xunGd' width=450></center>](https://www.pagina12.com.ar/329217-el-fm-igate-ya-es-una-causa-judicial-por-fraude)
-Denuncia de la Oficina Anticorrupción a Macri y su equipo económico por el insólito crédito del Fondo Monetario Internacional  
- 
- El mejor equipo de los últimos 50 años 
- 
- El Gobierno presentó la denuncia penal contra Mauricio Macri, Nicolás Dujovne, Luis Caputo, Federico Sturzenegger y Guido Sandleris por el acuerdo suscripto con el FMI para financiar el proyecto de reelección de Cambiemos y que terminó abasteciendo la fuga de capitales.
-La acusación es por “administración fraudulenta y malversación de caudales públicos”. 
- 
- Por Alfredo Zaiat.
-
-
-
 [<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147525-1614192512210224523-20-281-29.jpg?itok=Cn2RukQN' width=450></center>](https://www.pagina12.com.ar/329259-axel-kicillof-el-macrismo-esta-haciendo-una-campana-sucia)
-"El macrismo está haciendo una campaña sucia" La oposición presentó una denuncia penal contra su esposa.
+La oposición presentó una denuncia penal contra su esposa 
+ 
+ "El macrismo está haciendo una campaña sucia" 
+ 
+ En un nuevo episodio del caso Beatriz Sarlo, ahora acusan a Soledad Quereilhac de usurpación de cargo público. El gobernador vinculó la embestida al lawfare. "Es absolutamente ridícula", cuestionó en una entrevista con AM 750..
 
 
 
 [<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147519-13-03-2021-detuvieron-a-la-expresidenta-de.jpg?itok=0Qx6F-gZ' width=450></center>](https://www.pagina12.com.ar/329248-detuvieron-a-jeanine-anez)
-Detuvieron a Jeanine Áñez . Por el golpe de Estado que derrocó a Evo Morales en 2019.
+Detuvieron a Jeanine Áñez Declarará por el golpe de Estado que derrocó a Evo Morales en 2019.
 
 
 
@@ -39,6 +31,11 @@ Beatriz Sarlo y las fake news de la corporación mediática Formateados. Por Lui
 
 [<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147520-5fbc3d771ca42-1004x565.jpg?itok=gTFJ11Ws' width=450></center>](https://www.pagina12.com.ar/329250-que-dice-el-decreto-que-extiende-el-dispo)
 Qué dice el decreto que extiende el Dispo Se publicó este viernes.
+
+
+
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147399-32-a-20-283-29.jpg?itok=eidlEcUv' width=450></center>](https://www.pagina12.com.ar/329175-el-tao-vencio-a-uber-en-china)
+El tao venció a Uber en China . Por qué la app de transporte perdió contra DiDi. Por Julián Varsavsky.
 
 
 
@@ -96,14 +93,14 @@ La Policía de Bolivia captura a la expresidenta de facto Jeanine Áñez.
 [<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604c60a7e9ff71278d5eda83.jpeg' width=450></center>](https://actualidad.rt.com//actualidad/386291-primeras-imagenes-captura-anez)
 Primeras imágenes de la captura de la expresidenta 'de facto' de Bolivia Jeanine Áñez.
 
-[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604cb171e9ff71258d1b67e1.jpg' width=450></center>](https://actualidad.rt.com//actualidad/386307-avion-transporte-militar-an-kazajistan)
-Un avión de transporte militar An-26 se estrella en Kazajistán.
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604c8d3de9ff7124f860191a.jpg' width=450></center>](https://actualidad.rt.com//actualidad/386298-inaugurar-lago-baikal-telescopio-neutrinos)
+Inauguran en el fondo del lago Baikal un gran observatorio de neutrinos que ayudará a "entender cómo funciona el universo".
 
 [<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604b8c6ae9ff7153f748f817.jpg' width=450></center>](https://actualidad.rt.com//actualidad/386214-informe-denuncia-actividades-mar-china)
 Un informe denuncia una actividad sin precedentes de EE.UU. en el mar de la China Meridional, con maniobras "muy orientadas al combate".
 
-[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604becd259bf5b5efa73a552.JPG' width=450></center>](https://actualidad.rt.com//opinion/ociel-ali-lopez/386217-sanciones-diesel-venezuela-eeuu-catastrofe-humanitaria)
-El impacto de las sanciones al diésel en Venezuela: la culpa que EE.UU. no puede eludir y que es capaz de provocar una catástrofe humanitaria.
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604cb171e9ff71258d1b67e1.jpg' width=450></center>](https://actualidad.rt.com//actualidad/386307-avion-transporte-militar-an-kazajistan)
+Un avión de transporte militar An-26 se estrella en Kazajistán.
 
 <a name='LaNación'></a>
 
@@ -151,11 +148,11 @@ COPA DE LA LIGA: Estudiantes recibe a Colón con la ilusión de llegar a la punt
 <H3><center>Google News</center></H3>
  &nbsp;
 
-[<center><img src='https://lh3.googleusercontent.com/excWZuT_YIQnrtPjKKmXrHaqCrl1dRcSBQ8On8w3EHNJ-JxXXyl3SqRkY3-LjZXYqr6-EwHnD3LCx1HORI8=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEL5a-HYOtYqN331DMRnlgIwqGQgEKhAIACoHCAowwOWNCzDbmqADMNSCqgY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  3 claves que explican por qué China restringe sus préstamos a América Latina. BBC News Mundo Hace 19 horas.
+[<center><img src='https://lh3.googleusercontent.com/Nq4evg8umjpsHP7LO99uRZAn6HKrXkRET_4nAMYipP5WWHjWHHSOWMojp4jjNeCjlFroXK1liEVUBrTL05M=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEL5a-HYOtYqN331DMRnlgIwqGQgEKhAIACoHCAowwOWNCzDbmqADMNSCqgY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  3 claves que explican por qué China restringe sus préstamos a América Latina. BBC News Mundo Hace 20 horas.
 
-[<center><img src='https://lh6.googleusercontent.com/proxy/VC6_b4JnhJM6PoJ6E8228KOBgzgPb-4PtXxPAo5wZi8qKuU_iZsKqzcLOUmpQ3CYuc00t3ie8BSlRdazI8Mj_U2WduWuTVmqkVRoawPb6ZvqKvX_KKj4dHstBpvf1rIbhBfbbeKguOBI5mttTWNSseepWG8-KH4uc1spj5mDAjfWXFlO0yuTWnkJncOSBvL-02AOdOO__loWSX_yWCp5BH9Xj7Cddfvx=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMiSmh0dHBzOi8vd3d3LnBhZ2luYTEyLmNvbS5hci8zMjkxNDgtYS1kdXBsaWNhci1sYXMtcHltZXMtcXVlLXZlbmRlbi1hLWNoaW5h0gFKaHR0cHM6Ly93d3cucGFnaW5hMTIuY29tLmFyLzMyOTE0OC1hLWR1cGxpY2FyLWxhcy1weW1lcy1xdWUtdmVuZGVuLWEtY2hpbmE?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  A duplicar las pymes que venden a China. Página 12 Hace 16 horas.
+[<center><img src='https://lh3.googleusercontent.com/fNVzDAZ4WTSjiGlRX8XAi5gwkS2wg0h9_B5HzINy_rnfTQyG8dR-gNQzesawIZPihijpNpZpNhCiTEu3Tw=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEFZ2uOOrDtWjKfd3Bve_0RkqGQgEKhAIACoHCAowwJn-CjCamooDMKn_2QU?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Descubiertos cuatro nuevos coronavirus relacionados con el virus de la covid en murciélagos de China. EL PAÍS Hace 2 horas.
 
 [<center><img src='https://lh3.googleusercontent.com/JDFOyo903E9WGstK0YhI2ZFOKR3h4qDxBngX5M8XJVBZFKzOBoxLmk3OVlgNw9SOE-HfkNgb=w32' width=450></center>](https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvbGEtdWlmLXByZXNlbnRvLXN1LXByb3B1ZXN0YS1wYXJhLWxhLWhpZHJvdmlh0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Meoni en el Consejo Federal Hidrovía: "El Presidente nos pidió desde el primer momento que la Hidrovía Paraná - Paraguay sea una hidrovía federal". Argentina.gob.ar Presidencia de la Nación 22 feb..
@@ -163,9 +160,21 @@ COPA DE LA LIGA: Estudiantes recibe a Colón con la ilusión de llegar a la punt
 [<center><img src='https://lh6.googleusercontent.com/proxy/EmkgxTeBvLzAbeDK7FT85KsRts2z2P5SZG2b26vBjPfTPtuD_5dQumgI5y7bNTg5P-n0CoYP7TxheVgzyzt4V_IlViQxru_rCEY9mJXMMqsmO9Ax2qn08KXB_40Q02ybp1QSQ0CvnBFpOC0jCm7ZaK-SWENi-c0AlHLe41wxapROgyO31r5r0Y9q_bcQgOTR6mBld5h_9czP7Zs-8B0=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvbGEtdWlmLXNvbGljaXRvLWludGVncmFyLWVsLWNvbnNlam8tYXNlc29yLWRlLWxhLWhpZHJvdmlhLTDSAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Argentina: Consejo Federal Hidrovía Paraguay-Paraná abordó ejes de acción en su primera reunión. MundoMaritimo.cl 24 feb..
 
+[<center><img src='https://lh6.googleusercontent.com/proxy/ayfbw-Rh-Z3Gi3nE3-h1cvDgD67d1ZdWhJ8pjP6muJwTkwh_8kNinvU0D7I4mRjWsyl_AVuewqUnarlYH2Ffhf0_BQlvM_dQbT2l92H95TUf1iNkW7Y_VaeTtm3QjC_am9I4lA=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LnRlbGFtLmNvbS5hci9ub3Rhcy8yMDIxMDMvNTQ3MDY3LXVydWd1YXktcmVjaWJpby1sYXMtcHJpbWVyYXMtNTAwMDAtZG9zaXMtZGUtbGEtdmFjdW5hLWRlLXBmaXplci5odG1s0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Uruguay recibiÃ³ las primeras 50.000 dosis de la vacuna de Pfizer. TÃ©lam Hace 2 dÃ­as.
+
+[<center><img src='https://lh4.googleusercontent.com/proxy/ibMXVnvzrpgm2fp8ogjI44GgA0GeIWQnCoPY8-TU0R0xhTiLhsHNeas64TXZd5K5mS-g0Za1IpZpzzjcmau9kV35fEZnK6DOStLS6odZm-zqgYDDjD8p5zxEvo7CMbLJr4x1PDkG5TyY9jg0lkz9i7Jw49BEpsKlAsn5_Ow=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LmJuYW1lcmljYXMuY29tL2VzL25vdGljaWFzL3RlbGVjb20tYXJnZW50aW5hLWNvbmRpY2lvbmEtZXhwYW5zaW9uLWVuLXVydWd1YXktYS1udWV2by1tYXJjby1yZWd1bGFkb3LSAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Telecom Argentina condiciona expansiÃ³n en Uruguay a nuevo marco regulador. BNamericas Hace 3 dÃ­as.
+
 [<center><img src='https://lh3.googleusercontent.com/proxy/x59qS77Ac_cegiZgWCZPoMjta0sM6VZRLlr3lB6-rOrMl3C8tD-eTQbYY7jzUnwgnp1FlgTptkmVJEKopelsrEPJVSMr2q9ZdV0ojh7T2e1KYrwi81tK-1ODfGimFNhwqHilZQ=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiECGI-UZvItnucJBV6D4eFykqGQgEKhAIACoHCAowmYaVCzDS4KoDMNmTzwY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Paraguay analiza nuevas restricciones ante una situación de virtual colapso. Télam Hace 22 horas.
 
 [<center><img src='https://lh3.googleusercontent.com/g0p3FwKP0kdsNQjPLahtP46_aIASsKRujqG1Wr21eJ1bb47XzuqB7-c3qkoWjwd5eV8ShajGgFiYoaCPJo9o=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEFvKWDJbl-uBCuXG1XvNt1MqGQgEKhAIACoHCAowwfehCTDkrpcCMJKcvwM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Detienen en Bolivia a la expresidenta Jeanine Áñez por el “caso golpe de Estado” contra Evo Morales. BBC News Mundo Hace 6 horas.
+
+[<center><img src='https://lh3.googleusercontent.com/proxy/AmtPccwf-7_H8_oQJ9KwtI2u6gEsKs-q15Jj6cp0AagE-uFbdKwm-iQ3DQir13jWJkJh9bZ4KoQeoI2kcT1hsZLTvNsymd5QJYihjOkymBbFNIJQ84QfrUz5wNnlvshw5dGQD9S1SjG3EEjqFbnuKMOftb249Qa9aOD8bbDzuEdUlJ3F4F4yVza-s2mTNezzQRHOsQJhsOWmfu8epjTwVDvU=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3LnBhZ2luYTEyLmNvbS5hci8zMjY1MTUtZ2FyY2lhLWxpbmVyYS1lc3RhbW9zLWVuLWxhLXNlZ3VuZGEtb2xlYWRhLXByb2dyZXNpc3Rh0gFZaHR0cHM6Ly93d3cucGFnaW5hMTIuY29tLmFyLzMyNjUxNS1nYXJjaWEtbGluZXJhLWVzdGFtb3MtZW4tbGEtc2VndW5kYS1vbGVhZGEtcHJvZ3Jlc2lzdGE?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  García Linera: "Estamos en la segunda oleada progresista". Página 12 28 feb..
+
+[<center><img src='https://lh4.googleusercontent.com/proxy/F2kb28FklgaX6rKB0ScZIFLI4Z_82HzWV2Vw3n49_IYiGAYZ-pXW3aCPKO6rhFyJy1k1S0R1_MKhzotNOGP1Htx8TuWN8dEgyGgtwAmrv_TA-Yd3iq6kay_d454umg_pupkw5-4Cm6akelviU1JoH96bC3eGvpX3kFlMkE-7_yO5=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMifGh0dHBzOi8vd3d3LnBsYXRhZm9ybWFhcnF1aXRlY3R1cmEuY2wvY2wvOTU4MzQ5L3Jlc3RhdXJhY2lvbi15LWNvbnNlcnZhY2lvbi1kZS1sYS1jb2NpbmEtdHJhZGljaW9uYWwtb3RvbWktZW4taGlkYWxnby1tZXhpY2_SAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Restauración y conservación de la cocina tradicional otomí en Hidalgo, México. Plataforma Arquitectura Hace 22 horas.
 
