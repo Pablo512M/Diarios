@@ -1,3 +1,5 @@
+<a name='index'></a>
+
  &nbsp;
 <center><img src='https://lh3.googleusercontent.com/pw/ACtC-3eNCk9bgwdlPyke2A1hsQF62sJQHtC4_skw9zrZDmFKG6GE5Jj7UjC0L1WdrUh4y-s0jzW6aeD4UFzHCjwgTyMGHPIHD7bUVtIC-5EDIEYMz7s-LLCk3Rik5UZPj0Mpxc0YtyZkn7-CqxByA-fhQPlG=w710-h1000-no' width='450'></center>
  &nbsp;
@@ -10,12 +12,24 @@
 <H3><center>Página12</center></H3>
  &nbsp;
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147525-1614192512210224523-20-281-29.jpg?itok=Cn2RukQN' width=450></center>](https://www.pagina12.com.ar/329259-axel-kicillof-el-macrismo-esta-haciendo-una-campana-sucia)
-La oposición presentó una denuncia penal contra su esposa 
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147393-2-a-0.jpg?itok=L8PuvOH4' width=450></center>](https://www.pagina12.com.ar/329176-beatriz-sarlo-y-las-fake-news-de-la-corporacion-mediatica)
+Formateados 
  
- "El macrismo está haciendo una campaña sucia" 
+ Beatriz Sarlo y las fake news de la corporación mediática 
  
- En un nuevo episodio del caso Beatriz Sarlo, ahora acusan a Soledad Quereilhac de usurpación de cargo público. El gobernador vinculó la embestida al lawfare. "Es absolutamente ridícula", cuestionó en una entrevista con AM 750..
+ La mentira instalada como noticia en la primera plana. La minimización de los desmanejos en el plan de vacunación de la Ciudad de Buenos Aires, Corrientes y Jujuy. La disputa por la formación del sentido común. 
+ 
+ Por Luis Bruschtein.
+
+
+
+[<center><img src='https://www.pagina12.com.ar/assets/media/assets/audio-icon.svg' width=450></center>](https://www.pagina12.com.ar/329259-axel-kicillof-el-macrismo-esta-haciendo-una-campana-sucia)
+Kicillof: "El macrismo está haciendo una campaña sucia" La oposición presentó una denuncia penal contra su esposa.
+
+
+
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147534-whatsapp-20image-202021-03-13-20at-2011-43-08.jpeg?itok=x33BU2EF' width=450></center>](https://www.pagina12.com.ar/329264-incendios-en-chubut-el-presidente-supervisa-en-lago-puelo-la)
+El Presidente supervisa en Lago Puelo las zonas afectadas por los incendios Anuncios en materia económica, de obra pública y vivienda.
 
 
 
@@ -24,18 +38,8 @@ Detuvieron a Jeanine Áñez Declarará por el golpe de Estado que derrocó a Evo
 
 
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147393-2-a-0.jpg?itok=L8PuvOH4' width=450></center>](https://www.pagina12.com.ar/329176-beatriz-sarlo-y-las-fake-news-de-la-corporacion-mediatica)
-Beatriz Sarlo y las fake news de la corporación mediática Formateados. Por Luis Bruschtein.
-
-
-
 [<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147520-5fbc3d771ca42-1004x565.jpg?itok=gTFJ11Ws' width=450></center>](https://www.pagina12.com.ar/329250-que-dice-el-decreto-que-extiende-el-dispo)
 Qué dice el decreto que extiende el Dispo Se publicó este viernes.
-
-
-
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147399-32-a-20-283-29.jpg?itok=eidlEcUv' width=450></center>](https://www.pagina12.com.ar/329175-el-tao-vencio-a-uber-en-china)
-El tao venció a Uber en China . Por qué la app de transporte perdió contra DiDi. Por Julián Varsavsky.
 
 
 
@@ -45,20 +49,20 @@ El tao venció a Uber en China . Por qué la app de transporte perdió contra Di
 <H3><center>Infobae</center></H3>
  &nbsp;
 
-[<center><img src='https://www.infobae.com/new-resizer/uU6HqQMKE_XRzJdiv7z-etZZgak=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/PQ75AJNGYJHXLBOWVTWMGBIW3Q.jpg' width=450></center>](https://www.infobae.com/politica/2021/03/13/como-hizo-chile-para-vacunar-el-triple-de-gente-que-la-argentina-la-comparacion-en-numeros/)
-Cómo hizo Chile para vacunar el triple de gente que la Argentina: la comparación en númerosMientras que en nuestro país solo el 4% de la población recibió la primera dosis, en la nación vecina ese porcentaje alcanza al 26%. Por Mariel Fitz Patrick y Sandra Crucianelli.
+[<center><img src='https://www.infobae.com/new-resizer/LYDsSLOM2s2Xt96wGUrSwTs3jzc=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/OHXALF4UVJAJTIDVBSDUXGCVTQ.jpg' width=450></center>](https://www.infobae.com/economia/2021/03/13/que-va-a-pasar-con-el-dolar-advierten-que-la-estrategia-de-ancla-cambiaria-en-el-ano-electoral-tiene-corto-alcance/)
+¿Qué va a pasar con el dólar?: advierten que la estrategia de “ancla cambiaria” en el año electoral tiene corto alcanceEl Gobierno apela a una devaluación gradual para atenuar la inflación, mientras la economía se recupera, pero surgen riesgos: pérdida de competitividad y presión sobre las brechas y las reservas en el Banco Central. Por Juan Gasalla.
 
-[<center><img src='https://www.infobae.com/new-resizer/q2HLLJa5jOPDsI1VxNSFZUStPls=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/S7S4NGRU4NBXFHGTU663OOVCNM.jpg' width=450></center>](https://www.infobae.com/opinion/2021/03/13/la-pequena-tragedia-ideologica-de-quemar-y-repudiar-libros-en-la-hoguera-del-odio/)
-La pequeña tragedia ideológica de quemar y repudiar libros en la hoguera del odio. Por Alberto Amato.
+[<center><img src='https://www.infobae.com/new-resizer/yiH6EqglbqlT7fUnxuJtqKnvtck=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/KX4CK54R7FC2JLQQVCRWTBA5QU.jpg' width=450></center>](https://www.infobae.com/politica/2021/03/13/tras-un-debate-interno-el-gobierno-definio-reducir-entre-el-10-y-el-30-por-ciento-los-vuelos-a-europa-estados-unidos-brasil-y-otro-paises/)
+El Gobierno definió reducir los vuelos a Europa, Estados Unidos, Brasil y otros países. Por Brenda Struminger.
 
-[<center><img src='https://www.infobae.com/new-resizer/c9ZGU7DwEm26Scqas8q3EOgh7Wo=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/THM4WMMF6FCCPH5LKMIEHRC7SA.jpg' width=450></center>](https://www.infobae.com/economia/2021/03/13/como-se-conforma-el-precio-de-la-carne-desde-liniers-hasta-que-llega-a-gondolas-y-carnicerias/)
-¿Cómo se conforma el precio de la carne, desde Liniers hasta que llega a góndolas y carnicerías?.
+[<center><img src='https://www.infobae.com/new-resizer/N9Bgzh4gJkaPEMgnhYaun0q7jMo=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/DNWW435LZXPLCIBSCOIZJN7CEA.jpg' width=450></center>](https://www.infobae.com/america/realeza/2021/03/13/6-contradicciones-dudas-y-mentiras-de-meghan-markle-y-el-principe-harry-en-la-entrevista-bomba-con-oprah-winfrey/)
+6 contradicciones, dudas y ¿mentiras? de Meghan Markle y el príncipe Harry en la entrevista bomba con Oprah WinfreyVIDEO.
 
 [<center><img src='https://www.infobae.com/new-resizer/AF0oJUtmBOZkcrvFR9_SPgJ6I64=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/ZQRVAX7VKRDHFBQY6VVOSVIFFA.jpg' width=450></center>](https://www.infobae.com/economia/2021/03/13/marcos-santana-y-sebastian-ortega-de-telemundo-el-pais-mas-dificil-para-emprender-y-producir-television-se-llama-argentina/)
 Marcos Santana y Sebastián Ortega, de Telemundo: "El país más difícil para producir televisión se llama Argentina". Por Ximena Casas.
 
-[<center><img src='https://www.infobae.com/new-resizer/LYDsSLOM2s2Xt96wGUrSwTs3jzc=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/OHXALF4UVJAJTIDVBSDUXGCVTQ.jpg' width=450></center>](https://www.infobae.com/economia/2021/03/13/que-va-a-pasar-con-el-dolar-advierten-que-la-estrategia-de-ancla-cambiaria-en-el-ano-electoral-tiene-corto-alcance/)
-¿Qué va a pasar con el dólar?: advierten que la estrategia de "ancla cambiaria" en el año electoral tiene corto alcance. Por Juan Gasalla.
+[<center><img src='https://www.infobae.com/new-resizer/uU6HqQMKE_XRzJdiv7z-etZZgak=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/PQ75AJNGYJHXLBOWVTWMGBIW3Q.jpg' width=450></center>](https://www.infobae.com/politica/2021/03/13/como-hizo-chile-para-vacunar-el-triple-de-gente-que-la-argentina-la-comparacion-en-numeros/)
+Cómo hizo Chile para vacunar el triple de gente que la Argentina: la comparación en números. Por Mariel Fitz Patrick y Sandra Crucianelli.
 
 <a name='Nodal'></a>
 
@@ -99,8 +103,8 @@ Inauguran en el fondo del lago Baikal un gran observatorio de neutrinos que ayud
 [<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604b8c6ae9ff7153f748f817.jpg' width=450></center>](https://actualidad.rt.com//actualidad/386214-informe-denuncia-actividades-mar-china)
 Un informe denuncia una actividad sin precedentes de EE.UU. en el mar de la China Meridional, con maniobras "muy orientadas al combate".
 
-[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604cb171e9ff71258d1b67e1.jpg' width=450></center>](https://actualidad.rt.com//actualidad/386307-avion-transporte-militar-an-kazajistan)
-Un avión de transporte militar An-26 se estrella en Kazajistán.
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604ca63559bf5b548547645c.jpg' width=450></center>](https://actualidad.rt.com//actualidad/386306-precio-bitcoin-renovar-maximo-historico)
+El precio del bitcóin renueva su máximo histórico al alcanzar los 60.000 dólares por primera vez.
 
 <a name='LaNación'></a>
 
@@ -148,11 +152,11 @@ COPA DE LA LIGA: Estudiantes recibe a Colón con la ilusión de llegar a la punt
 <H3><center>Google News</center></H3>
  &nbsp;
 
-[<center><img src='https://lh3.googleusercontent.com/Nq4evg8umjpsHP7LO99uRZAn6HKrXkRET_4nAMYipP5WWHjWHHSOWMojp4jjNeCjlFroXK1liEVUBrTL05M=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEL5a-HYOtYqN331DMRnlgIwqGQgEKhAIACoHCAowwOWNCzDbmqADMNSCqgY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  3 claves que explican por qué China restringe sus préstamos a América Latina. BBC News Mundo Hace 20 horas.
+[<center><img src='https://lh3.googleusercontent.com/Nr7uYz9boY9qW4EMnD0m7pANvd3OQyWOBx7UJcbMXzRGA-xdy7fJ_CjT2oMLJbUhI1qSXf56UEi919mn0VE=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEL5a-HYOtYqN331DMRnlgIwqGQgEKhAIACoHCAowwOWNCzDbmqADMNSCqgY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  3 claves que explican por qué China restringe sus préstamos a América Latina. BBC News Mundo Hace 21 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/fNVzDAZ4WTSjiGlRX8XAi5gwkS2wg0h9_B5HzINy_rnfTQyG8dR-gNQzesawIZPihijpNpZpNhCiTEu3Tw=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEFZ2uOOrDtWjKfd3Bve_0RkqGQgEKhAIACoHCAowwJn-CjCamooDMKn_2QU?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Descubiertos cuatro nuevos coronavirus relacionados con el virus de la covid en murciélagos de China. EL PAÍS Hace 2 horas.
+[<center><img src='https://lh4.googleusercontent.com/proxy/dEBpzx3PVENluR04petHKO0eDK-qmV6vNeEphIo3-p0eJPZQ02I8UFqKDgCCcVdD9qCCb5NKg8kM0_e63sA5wpkKPs7tmr2M6bij9ZPqG2YgI6cE0-Kt5RZj-dHgnMK0evSAlsMzUh0XXCAK_g=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMif2h0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvZWwtZ29iaWVybm8tbmFjaW9uYWwtYXZhbnpvLWVuLWVsLWFjdWVyZG8tY29uLWxhLWVtcHJlc2EtY2hpbmEtY21lYy1wYXJhLWNvbnRpbnVhci1jb24tbGHSAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  El Gobierno Nacional avanzó en el acuerdo con la empresa china CMEC para continuar con la modernización de la línea Belgrano de Trenes Argentinos Cargas. Argentina.gob.ar Presidencia de la Nación Hace 2 horas.
 
 [<center><img src='https://lh3.googleusercontent.com/JDFOyo903E9WGstK0YhI2ZFOKR3h4qDxBngX5M8XJVBZFKzOBoxLmk3OVlgNw9SOE-HfkNgb=w32' width=450></center>](https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvbGEtdWlmLXByZXNlbnRvLXN1LXByb3B1ZXN0YS1wYXJhLWxhLWhpZHJvdmlh0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Meoni en el Consejo Federal Hidrovía: "El Presidente nos pidió desde el primer momento que la Hidrovía Paraná - Paraguay sea una hidrovía federal". Argentina.gob.ar Presidencia de la Nación 22 feb..
@@ -161,20 +165,20 @@ COPA DE LA LIGA: Estudiantes recibe a Colón con la ilusión de llegar a la punt
   Argentina: Consejo Federal Hidrovía Paraguay-Paraná abordó ejes de acción en su primera reunión. MundoMaritimo.cl 24 feb..
 
 [<center><img src='https://lh6.googleusercontent.com/proxy/ayfbw-Rh-Z3Gi3nE3-h1cvDgD67d1ZdWhJ8pjP6muJwTkwh_8kNinvU0D7I4mRjWsyl_AVuewqUnarlYH2Ffhf0_BQlvM_dQbT2l92H95TUf1iNkW7Y_VaeTtm3QjC_am9I4lA=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LnRlbGFtLmNvbS5hci9ub3Rhcy8yMDIxMDMvNTQ3MDY3LXVydWd1YXktcmVjaWJpby1sYXMtcHJpbWVyYXMtNTAwMDAtZG9zaXMtZGUtbGEtdmFjdW5hLWRlLXBmaXplci5odG1s0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Uruguay recibiÃ³ las primeras 50.000 dosis de la vacuna de Pfizer. TÃ©lam Hace 2 dÃ­as.
+  Uruguay lanza paracaidistas desde sus nuevos aviones KC-130H Hercules - Noticias Infodefensa AmÃ©rica. Infodefensa.com Hace 4 horas.
 
 [<center><img src='https://lh4.googleusercontent.com/proxy/ibMXVnvzrpgm2fp8ogjI44GgA0GeIWQnCoPY8-TU0R0xhTiLhsHNeas64TXZd5K5mS-g0Za1IpZpzzjcmau9kV35fEZnK6DOStLS6odZm-zqgYDDjD8p5zxEvo7CMbLJr4x1PDkG5TyY9jg0lkz9i7Jw49BEpsKlAsn5_Ow=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LmJuYW1lcmljYXMuY29tL2VzL25vdGljaWFzL3RlbGVjb20tYXJnZW50aW5hLWNvbmRpY2lvbmEtZXhwYW5zaW9uLWVuLXVydWd1YXktYS1udWV2by1tYXJjby1yZWd1bGFkb3LSAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Telecom Argentina condiciona expansiÃ³n en Uruguay a nuevo marco regulador. BNamericas Hace 3 dÃ­as.
+  Uruguay recibiÃ³ las primeras 50.000 dosis de la vacuna de Pfizer. TÃ©lam Hace 2 dÃ­as.
 
 [<center><img src='https://lh3.googleusercontent.com/proxy/x59qS77Ac_cegiZgWCZPoMjta0sM6VZRLlr3lB6-rOrMl3C8tD-eTQbYY7jzUnwgnp1FlgTptkmVJEKopelsrEPJVSMr2q9ZdV0ojh7T2e1KYrwi81tK-1ODfGimFNhwqHilZQ=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiECGI-UZvItnucJBV6D4eFykqGQgEKhAIACoHCAowmYaVCzDS4KoDMNmTzwY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Paraguay analiza nuevas restricciones ante una situación de virtual colapso. Télam Hace 22 horas.
+  Paraguay analiza nuevas restricciones ante una situación de virtual colapso. Télam Hace 23 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/g0p3FwKP0kdsNQjPLahtP46_aIASsKRujqG1Wr21eJ1bb47XzuqB7-c3qkoWjwd5eV8ShajGgFiYoaCPJo9o=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEFvKWDJbl-uBCuXG1XvNt1MqGQgEKhAIACoHCAowwfehCTDkrpcCMJKcvwM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Detienen en Bolivia a la expresidenta Jeanine Áñez por el “caso golpe de Estado” contra Evo Morales. BBC News Mundo Hace 6 horas.
-
-[<center><img src='https://lh3.googleusercontent.com/proxy/AmtPccwf-7_H8_oQJ9KwtI2u6gEsKs-q15Jj6cp0AagE-uFbdKwm-iQ3DQir13jWJkJh9bZ4KoQeoI2kcT1hsZLTvNsymd5QJYihjOkymBbFNIJQ84QfrUz5wNnlvshw5dGQD9S1SjG3EEjqFbnuKMOftb249Qa9aOD8bbDzuEdUlJ3F4F4yVza-s2mTNezzQRHOsQJhsOWmfu8epjTwVDvU=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3LnBhZ2luYTEyLmNvbS5hci8zMjY1MTUtZ2FyY2lhLWxpbmVyYS1lc3RhbW9zLWVuLWxhLXNlZ3VuZGEtb2xlYWRhLXByb2dyZXNpc3Rh0gFZaHR0cHM6Ly93d3cucGFnaW5hMTIuY29tLmFyLzMyNjUxNS1nYXJjaWEtbGluZXJhLWVzdGFtb3MtZW4tbGEtc2VndW5kYS1vbGVhZGEtcHJvZ3Jlc2lzdGE?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  García Linera: "Estamos en la segunda oleada progresista". Página 12 28 feb..
+[<center><img src='https://lh3.googleusercontent.com/chmg59efXz7GbRg6YH59id9byPXPWMYoP6va9qVjhTmTlItEiRDJS9PoAiqe9ZAu0rvOKPn4k01Il5BCG6sO=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEFvKWDJbl-uBCuXG1XvNt1MqGQgEKhAIACoHCAowwfehCTDkrpcCMJKcvwM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Detienen en Bolivia a la expresidenta Jeanine Áñez por el “caso golpe de Estado” contra Evo Morales. BBC News Mundo Hace 7 horas.
 
 [<center><img src='https://lh4.googleusercontent.com/proxy/F2kb28FklgaX6rKB0ScZIFLI4Z_82HzWV2Vw3n49_IYiGAYZ-pXW3aCPKO6rhFyJy1k1S0R1_MKhzotNOGP1Htx8TuWN8dEgyGgtwAmrv_TA-Yd3iq6kay_d454umg_pupkw5-4Cm6akelviU1JoH96bC3eGvpX3kFlMkE-7_yO5=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMifGh0dHBzOi8vd3d3LnBsYXRhZm9ybWFhcnF1aXRlY3R1cmEuY2wvY2wvOTU4MzQ5L3Jlc3RhdXJhY2lvbi15LWNvbnNlcnZhY2lvbi1kZS1sYS1jb2NpbmEtdHJhZGljaW9uYWwtb3RvbWktZW4taGlkYWxnby1tZXhpY2_SAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Restauración y conservación de la cocina tradicional otomí en Hidalgo, México. Plataforma Arquitectura Hace 22 horas.
+  Restauración y conservación de la cocina tradicional otomí en Hidalgo, México. Plataforma Arquitectura Hace 23 horas.
+
+[<center><img src='https://lh3.googleusercontent.com/proxy/WFtRDcMYntGNaqHjBfElMxDmmx08p5tO5vDKKmVA1QrDsuPDkTBmVIH5Qo_yTtQYWfSBrtmOq-HU7mohiNOz5_Dut6g2OnRiHXBsQUIW6oG68s3c5gS0RAA3etUI31HgHHmBMLe8A7Yg4BtjOLDemH4jVfmQYHk4VgcLH4IW252I19vzDVdRAPU5i9TXsidnY_OjEkD-ueq5PIuOBaOJrFxy-r8wto0mvgNve7HZNk4o2Wwr_OhrQanfVnyzaGWN9PHdAfLR=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEGiNR4mUClqxpbsaukL4fysqGQgEKhAIACoHCAowwfehCTDkrpcCMLfevwM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  #Covid19Hoy: Brasil detecta una nueva variante "más contagiosa" del coronavirus. FRANCE 24 Hace 1 hora.
 
