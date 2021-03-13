@@ -1,4 +1,4 @@
-                          | 
+        .                  | .
  | 
 [<center><img src='https://www.pagina12.com.ar/assets/media/logos/amp/logo_pagina_12_n.svg?v=1.0.277' width=100></center>](#Página12) | [<center><img src='https://www.infobae.com/pf/resources/images/logo_infobae_naranja.svg?d=509' width=100></center>](#Infobae)
 
