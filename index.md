@@ -120,7 +120,8 @@ Restricciones por Covid. La nueva lista de medidas del Gobierno.
 
 De no creer. Las memorias de un desmemoriado        Carlos M. Reymundo Roberts.
 
-Incendios. El Presidente viaja a Chubut para recorrer las zonas afectadas.
+[<center><img src='https://bucket1.glanacion.com/anexos/fotos/10/3661810h186.jpg' width=450></center>](https://www.lanacion.com.ar/politica/incendios-fernandez-llego-a-chubut-para-recorrer-las-zonas-afectadas-nid13032021/)
+Incendios. Incidentes en la llegada de Fernández para recorrer zonas afectadas     Por Ana Tronfi.
 
 [<center><img src='https://bucket2.glanacion.com/anexos/fotos/53/3660953h186.jpg' width=450></center>](https://www.lanacion.com.ar/ideas/reflexiones-de-un-historiador-que-es-usuario-de-wikipedia-nid13032021/)
 Análisis. Reflexiones de un historiador que es usuario de Wikipedia     Por Luis Alberto Romero.
@@ -158,12 +159,6 @@ COPA DE LA LIGA: Estudiantes recibe a Colón con la ilusión de llegar a la punt
 [<center><img src='https://lh4.googleusercontent.com/proxy/dEBpzx3PVENluR04petHKO0eDK-qmV6vNeEphIo3-p0eJPZQ02I8UFqKDgCCcVdD9qCCb5NKg8kM0_e63sA5wpkKPs7tmr2M6bij9ZPqG2YgI6cE0-Kt5RZj-dHgnMK0evSAlsMzUh0XXCAK_g=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMif2h0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvZWwtZ29iaWVybm8tbmFjaW9uYWwtYXZhbnpvLWVuLWVsLWFjdWVyZG8tY29uLWxhLWVtcHJlc2EtY2hpbmEtY21lYy1wYXJhLWNvbnRpbnVhci1jb24tbGHSAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   El Gobierno Nacional avanzó en el acuerdo con la empresa china CMEC para continuar con la modernización de la línea Belgrano de Trenes Argentinos Cargas. Argentina.gob.ar Presidencia de la Nación Hace 2 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/JDFOyo903E9WGstK0YhI2ZFOKR3h4qDxBngX5M8XJVBZFKzOBoxLmk3OVlgNw9SOE-HfkNgb=w32' width=450></center>](https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvbGEtdWlmLXByZXNlbnRvLXN1LXByb3B1ZXN0YS1wYXJhLWxhLWhpZHJvdmlh0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Meoni en el Consejo Federal Hidrovía: "El Presidente nos pidió desde el primer momento que la Hidrovía Paraná - Paraguay sea una hidrovía federal". Argentina.gob.ar Presidencia de la Nación 22 feb..
-
-[<center><img src='https://lh6.googleusercontent.com/proxy/EmkgxTeBvLzAbeDK7FT85KsRts2z2P5SZG2b26vBjPfTPtuD_5dQumgI5y7bNTg5P-n0CoYP7TxheVgzyzt4V_IlViQxru_rCEY9mJXMMqsmO9Ax2qn08KXB_40Q02ybp1QSQ0CvnBFpOC0jCm7ZaK-SWENi-c0AlHLe41wxapROgyO31r5r0Y9q_bcQgOTR6mBld5h_9czP7Zs-8B0=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvbGEtdWlmLXNvbGljaXRvLWludGVncmFyLWVsLWNvbnNlam8tYXNlc29yLWRlLWxhLWhpZHJvdmlhLTDSAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Argentina: Consejo Federal Hidrovía Paraguay-Paraná abordó ejes de acción en su primera reunión. MundoMaritimo.cl 24 feb..
-
 [<center><img src='https://lh6.googleusercontent.com/proxy/ayfbw-Rh-Z3Gi3nE3-h1cvDgD67d1ZdWhJ8pjP6muJwTkwh_8kNinvU0D7I4mRjWsyl_AVuewqUnarlYH2Ffhf0_BQlvM_dQbT2l92H95TUf1iNkW7Y_VaeTtm3QjC_am9I4lA=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LnRlbGFtLmNvbS5hci9ub3Rhcy8yMDIxMDMvNTQ3MDY3LXVydWd1YXktcmVjaWJpby1sYXMtcHJpbWVyYXMtNTAwMDAtZG9zaXMtZGUtbGEtdmFjdW5hLWRlLXBmaXplci5odG1s0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Uruguay lanza paracaidistas desde sus nuevos aviones KC-130H Hercules - Noticias Infodefensa AmÃ©rica. Infodefensa.com Hace 4 horas.
 
@@ -179,6 +174,18 @@ COPA DE LA LIGA: Estudiantes recibe a Colón con la ilusión de llegar a la punt
 [<center><img src='https://lh4.googleusercontent.com/proxy/F2kb28FklgaX6rKB0ScZIFLI4Z_82HzWV2Vw3n49_IYiGAYZ-pXW3aCPKO6rhFyJy1k1S0R1_MKhzotNOGP1Htx8TuWN8dEgyGgtwAmrv_TA-Yd3iq6kay_d454umg_pupkw5-4Cm6akelviU1JoH96bC3eGvpX3kFlMkE-7_yO5=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMifGh0dHBzOi8vd3d3LnBsYXRhZm9ybWFhcnF1aXRlY3R1cmEuY2wvY2wvOTU4MzQ5L3Jlc3RhdXJhY2lvbi15LWNvbnNlcnZhY2lvbi1kZS1sYS1jb2NpbmEtdHJhZGljaW9uYWwtb3RvbWktZW4taGlkYWxnby1tZXhpY2_SAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Restauración y conservación de la cocina tradicional otomí en Hidalgo, México. Plataforma Arquitectura Hace 23 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/proxy/WFtRDcMYntGNaqHjBfElMxDmmx08p5tO5vDKKmVA1QrDsuPDkTBmVIH5Qo_yTtQYWfSBrtmOq-HU7mohiNOz5_Dut6g2OnRiHXBsQUIW6oG68s3c5gS0RAA3etUI31HgHHmBMLe8A7Yg4BtjOLDemH4jVfmQYHk4VgcLH4IW252I19vzDVdRAPU5i9TXsidnY_OjEkD-ueq5PIuOBaOJrFxy-r8wto0mvgNve7HZNk4o2Wwr_OhrQanfVnyzaGWN9PHdAfLR=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEGiNR4mUClqxpbsaukL4fysqGQgEKhAIACoHCAowwfehCTDkrpcCMLfevwM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+[<center><img src='https://lh3.googleusercontent.com/proxy/WFtRDcMYntGNaqHjBfElMxDmmx08p5tO5vDKKmVA1QrDsuPDkTBmVIH5Qo_yTtQYWfSBrtmOq-HU7mohiNOz5_Dut6g2OnRiHXBsQUIW6oG68s3c5gS0RAA3etUI31HgHHmBMLe8A7Yg4BtjOLDemH4jVfmQYHk4VgcLH4IW252I19vzDVdRAPU5i9TXsidnY_OjEkD-ueq5PIuOBaOJrFxy-r8wto0mvgNve7HZNk4o2Wwr_OhrQanfVnyzaGWN9PHdAfLR=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMiLGh0dHBzOi8vbmV3cy51bi5vcmcvZXMvc3RvcnkvMjAyMS8wMy8xNDg5NDky0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   #Covid19Hoy: Brasil detecta una nueva variante "más contagiosa" del coronavirus. FRANCE 24 Hace 1 hora.
 
+[<center><img src='https://lh3.googleusercontent.com/JDFOyo903E9WGstK0YhI2ZFOKR3h4qDxBngX5M8XJVBZFKzOBoxLmk3OVlgNw9SOE-HfkNgb=w32' width=450></center>](https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvbGEtdWlmLXByZXNlbnRvLXN1LXByb3B1ZXN0YS1wYXJhLWxhLWhpZHJvdmlh0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Meoni en el Consejo Federal Hidrovía: "El Presidente nos pidió desde el primer momento que la Hidrovía Paraná - Paraguay sea una hidrovía federal". Argentina.gob.ar Presidencia de la Nación 22 feb..
+
+[<center><img src='https://lh6.googleusercontent.com/proxy/EmkgxTeBvLzAbeDK7FT85KsRts2z2P5SZG2b26vBjPfTPtuD_5dQumgI5y7bNTg5P-n0CoYP7TxheVgzyzt4V_IlViQxru_rCEY9mJXMMqsmO9Ax2qn08KXB_40Q02ybp1QSQ0CvnBFpOC0jCm7ZaK-SWENi-c0AlHLe41wxapROgyO31r5r0Y9q_bcQgOTR6mBld5h_9czP7Zs-8B0=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvbGEtdWlmLXNvbGljaXRvLWludGVncmFyLWVsLWNvbnNlam8tYXNlc29yLWRlLWxhLWhpZHJvdmlhLTDSAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Argentina: Consejo Federal Hidrovía Paraguay-Paraná abordó ejes de acción en su primera reunión. MundoMaritimo.cl 24 feb..
+
+[<center><img src='https://lh3.googleusercontent.com/proxy/AmtPccwf-7_H8_oQJ9KwtI2u6gEsKs-q15Jj6cp0AagE-uFbdKwm-iQ3DQir13jWJkJh9bZ4KoQeoI2kcT1hsZLTvNsymd5QJYihjOkymBbFNIJQ84QfrUz5wNnlvshw5dGQD9S1SjG3EEjqFbnuKMOftb249Qa9aOD8bbDzuEdUlJ3F4F4yVza-s2mTNezzQRHOsQJhsOWmfu8epjTwVDvU=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3LnBhZ2luYTEyLmNvbS5hci8zMjY1MTUtZ2FyY2lhLWxpbmVyYS1lc3RhbW9zLWVuLWxhLXNlZ3VuZGEtb2xlYWRhLXByb2dyZXNpc3Rh0gFZaHR0cHM6Ly93d3cucGFnaW5hMTIuY29tLmFyLzMyNjUxNS1nYXJjaWEtbGluZXJhLWVzdGFtb3MtZW4tbGEtc2VndW5kYS1vbGVhZGEtcHJvZ3Jlc2lzdGE?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  García Linera: "Estamos en la segunda oleada progresista". Página 12 28 feb..
+
+[<center><img src='https://i.pinimg.com/originals/74/a6/e3/74a6e30af664e72eed446f719393fdba.jpg' width=450></center>](#index)
+ &nbsp;
+[Volver al Inicio](#index)
