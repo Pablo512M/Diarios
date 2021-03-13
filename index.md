@@ -5,12 +5,28 @@
 <H3><center>Página12</center></H3>
  &nbsp;
 
+<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/sin-titulo-1_23.jpg?itok=QQ3xunGd' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/329217-el-fm-igate-ya-es-una-causa-judicial-por-fraude) El mejor equipo de los últimos 50 años 
+ 
+ El Gobierno presentó la denuncia penal contra Mauricio Macri, Nicolás Dujovne, Luis Caputo, Federico Sturzenegger y Guido Sandleris por el acuerdo suscripto con el FMI para financiar el proyecto de reelección de Cambiemos y que terminó abasteciendo la fuga de capitales.
+La acusación es por “administración fraudulenta y malversación de caudales públicos” 
+ 
+ Por Alfredo Zaiat.
+
+
+
+<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147393-2-a-0.jpg?itok=L8PuvOH4' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/329176-beatriz-sarlo-y-las-fake-news-de-la-corporacion-mediatica) Beatriz Sarlo y las fake news de la corporación mediática Formateados. Por Luis Bruschtein.
+
+
+
 <center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/af-vizzotti.jpg?itok=Hg4GXxiR' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/329197-el-gobierno-extiende-el-distanciamiento-social-hasta-el-9-de) “Argentina fortalece los cuidados para retrasar el aumento de casos de coronavirus”, dijo Vizzotti 
- 
- El Gobierno extiende el Distanciamiento Social hasta el 9 de abril 
- 
- De esta forma, el DISPO se mantendrá sin cambios, aunque habrá mayores controles a las personas que lleguen al país desde naciones donde circulan nuevas variantes del coronavirus..
+[NOTA](https://www.pagina12.com.ar/329197-el-gobierno-extiende-el-distanciamiento-social-hasta-el-9-de) El Gobierno extiende el Distanciamiento Social hasta el 9 de abril “Argentina fortalece los cuidados para retrasar el aumento de casos de coronavirus”, dijo Vizzotti.
+
+
+
+<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147482-whatsapp-20image-202021-03-12-20at-2018-33-06.jpeg?itok=22jikzQS' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/329200-el-dilema-de-las-tarifas) El dilema de las tarifas Entidades de usuarios rechazan cualquier aumento. Por David Cufré.
 
 
 
@@ -19,23 +35,8 @@
 
 
 
-<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147352-whatsapp-20image-202021-03-12-20at-2018-50-41-2017a-20t-c3-a9lam.jpeg?itok=4uJt6cYB' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/329185-el-marido-de-piparo-seguira-detenido) El marido de Píparo seguirá detenido La Cámara de Apelaciones rechazó el cambio de carátula.
-
-
-
-<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147384-acu-c3-b1a-20ganancias.jpeg?itok=icRvzqNe' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/329190-apoyo-unanime-del-sindicalismo-al-proyecto-que-modifica-el-i) Apoyo unánime del sindicalismo al proyecto que modifica el impuesto a las Ganancias Avanza el debate en la Cámara de Diputados.
-
-
-
-<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147276-img-20210311-wa0066.jpg?itok=q3ni6Twa' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/329055-un-notable-regreso-de-fito-paez-a-los-escenarios) Un notable regreso de Fito Paez a los escenarios Recital en el teatro Coliseo. Por Sergio Sánchez.
-
-
-
-<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147373-reporte-12-03-2021.jpg?itok=V8zciRIM' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/329139-coronavirus-en-argentina-se-registraron-7849-nuevos-contagio) Coronavirus en Argentina: se registraron 7849 nuevos contagios Los números de la pandemia.
+<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147303-mirtha-legrand-1_0.jpg?itok=FoNlgn0g' width='450'></center>
+[NOTA](https://www.pagina12.com.ar/329088-la-felicitacion-de-los-creadores-de-la-sputnik-v-a-mirtha-le) La felicitación de los creadores de la Sputnik V a Mirtha Legrand Buenos augurios para "la gran dama de la televisión".
 
 
 
@@ -45,23 +46,23 @@
 <H3><center>Infobae</center></H3>
  &nbsp;
 
-<center><img src='https://www.infobae.com/new-resizer/b6Qy1BDBfjZWbEaUcLRtT2KWKVg=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/PDV55VDVMJFFBKFGYPAI2PVA6E.jpeg' width='450'></center>
-[NOTA](https://www.infobae.com/politica/2021/03/12/con-preocupacion-por-las-situaciones-de-brasil-y-paraguay-alberto-fernandez-encabeza-una-reunion-del-comando-nacional-de-vacunacion/) El Gobierno decidió extender hasta el 9 de abril el distanciamiento social por el COVID, pero evitó aplicar nuevas restriccionesEn una reunión del Comité Nacional de Vacunación, el Presidente y varios de sus ministros analizaron la marcha del plan de vacunación y las posibles medidas restrictivas que se adoptarán sobre el ingreso y el egreso de personas al territorio argentino. Por Juan Gasalla.
+<center><img src='https://www.infobae.com/new-resizer/uU6HqQMKE_XRzJdiv7z-etZZgak=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/PQ75AJNGYJHXLBOWVTWMGBIW3Q.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/politica/2021/03/13/como-hizo-chile-para-vacunar-el-triple-de-gente-que-la-argentina-la-comparacion-en-numeros/) Cómo hizo Chile para vacunar el triple de gente que la Argentina: la comparación en númerosMientras que en nuestro país solo el 4% de la población recibió la primera dosis, en la nación vecina ese porcentaje alcanza al 26%. Por Mariel Fitz Patrick y Sandra Crucianelli.
 
-<center><img src='https://www.infobae.com/new-resizer/lUjeUIeeg7kOyi8bGl-3qPG5EvI=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/XPEAW3JMUQPYFVFELGHKILMBEA.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/economia/2021/03/12/dolar-libre-7-claves-que-explican-por-que-cayo-a-su-valor-mas-bajo-en-seis-meses/) Dólar libre: 7 claves que explican por qué cayó a su valor más bajo en seis meses. Por Juan Gasalla.
+<center><img src='https://www.infobae.com/new-resizer/q2HLLJa5jOPDsI1VxNSFZUStPls=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/S7S4NGRU4NBXFHGTU663OOVCNM.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/opinion/2021/03/13/la-pequena-tragedia-ideologica-de-quemar-y-repudiar-libros-en-la-hoguera-del-odio/) La pequeña tragedia ideológica de quemar y repudiar libros en la hoguera del odio. Por Alberto Amato.
 
-<center><img src='https://www.infobae.com/new-resizer/QyEOAEJTCBt4Qi2P-HrZQZ46Qko=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/IUGJVTGI6NEYRDBW2ULJYHFQA4.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/sociedad/policiales/2021/03/12/sospechan-un-nuevo-ataque-de-la-mafia-china-le-disparo-a-la-cajera-de-un-supermercado-mientras-se-filmaba-con-su-celular/) Le disparó a la cajera de un supermercado mientras se filmaba con su celularVIDEO.
+<center><img src='https://www.infobae.com/new-resizer/Y-TQ09pjmUvHkTJz09BJ4RzTmH8=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/4O7W52DEDZED7N5YCPJOEXAW4I.jpeg' width='450'></center>
+[NOTA](https://www.infobae.com/sociedad/2021/03/13/lo-escuche-y-sali-llorando-un-medico-cordobes-y-la-historia-real-que-inspiro-el-flamante-proyecto-de-ley-de-eutanasia/) "Lo escuché y salí llorando": un médico cordobés y la historia real que inspiró el flamante proyecto de ley de eutanasia. Por Gisele Sousa Dias.
+
+<center><img src='https://www.infobae.com/new-resizer/V4zBRaEYCyUTn3Okx-kCxQ-hg-0=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/3MTMJQGXAJDYRDTRBR7F7BVPDQ.jpeg' width='450'></center>
+[NOTA](https://www.infobae.com/salud/ciencia/2021/03/13/como-es-argenvac-221-el-nuevo-proyecto-de-vacuna-argentina-contra-el-covid-19/) Cómo es ARGENVAC 221, el nuevo proyecto de vacuna argentina contra el COVID-19. Por Francisco Reyes.
 
 <center><img src='https://www.infobae.com/new-resizer/XbfPBNLig-CZ-vOhk9lPz6eOTmQ=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/EFIJC7KWWVPSK2UXP6OOB3MJTA.jpg' width='450'></center>
 [NOTA](https://www.infobae.com/america/eeuu/2021/03/12/estados-unidos-administro-mas-de-100-millones-de-dosis-de-las-vacunas-contra-el-covid-19/) Estados Unidos aplicó más de 100 millones de dosis de las vacunas contra el COVID-19.
 
-<center><img src='https://www.infobae.com/new-resizer/TboisHXmaxYNbyupZRm3a1usN-Q=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/U5K6J4IVYJFW3B45ASVJHZ5YKE.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/sociedad/2021/03/12/coronavirus-en-argentina-confirmaron-86-muertes-y-7849-nuevos-contagios-en-las-ultimas-24-horas/) Coronavirus en Argentina: confirmaron 86 muertes y 7.849 contagios en las últimas 24 horas. Por Federico Fahsbender.
-
-<center><img src='https://www.infobae.com/new-resizer/dlQTp5yRU2fg18T6M4LgG-fNMdY=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/4T4R645E5NFQRPCTRBJH7HZWH4.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/politica/2021/03/13/la-oficina-anticorrupcion-cumplio-la-orden-de-alberto-fernandez-y-denuncio-penalmente-a-mauricio-macri-por-el-prestamo-con-el-fmi/) La Oficina Anticorrupción cumplió la orden del Presidente y denunció penalmente a Macri por el préstamo con el FMI. Por Víctor Ingrassia.
+<center><img src='https://www.infobae.com/new-resizer/i7m8uVyEWpBhFQIxgSpSTjj3QoY=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/ACRYJNOXUNBYXC2SQBCIJ2YXPA.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/politica/2021/03/13/formosa-fallo-el-calculo-sobre-un-conflicto-grave-pero-lejano-y-asoma-un-costo-en-continuado-para-el-gobierno/) Formosa: falló el cálculo sobre un conflicto grave pero lejano, y asoma un costo en continuado para el Gobierno. Por Eduardo Aulicino.
 
 <a name='Nodal'></a>
 
@@ -93,14 +94,19 @@
 <H3><center>RT</center></H3>
  &nbsp;
 
-<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604b8c6ae9ff7153f748f817.jpg' width='450'></center>
-[NOTA](https://actualidad.rt.com//actualidad/386214-informe-denuncia-actividades-mar-china) 
-                Un informe denuncia una actividad sin precedentes de EE.UU. en el mar de la China Meridional, con maniobras "muy orientadas al combate"
+<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604c5738e9ff7124f8601900.JPG' width='450'></center>
+[NOTA](https://actualidad.rt.com//actualidad/386290-ministro-gobierno-bolivia-confirmar-expresidenta-anez-aprehendida) 
+                La Policía de Bolivia captura a la expresidenta de facto Jeanine Áñez
             .
 
 <center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604c080be9ff7124f86018c5.jpg' width='450'></center>
 [NOTA](https://actualidad.rt.com//actualidad/386275-video-momento-arresto-exministros-jeanine-a%C3%B1ez) 
                 VIDEOS: El momento del arresto de dos exministros de Jeanine Áñez acusados por el golpe de Estado contra Evo Morales
+            .
+
+<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604b8c6ae9ff7153f748f817.jpg' width='450'></center>
+[NOTA](https://actualidad.rt.com//actualidad/386214-informe-denuncia-actividades-mar-china) 
+                Un informe denuncia una actividad sin precedentes de EE.UU. en el mar de la China Meridional, con maniobras "muy orientadas al combate"
             .
 
 <center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604bc43759bf5b5f630e5c1d.JPG' width='450'></center>
@@ -111,11 +117,6 @@
 <center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604becd259bf5b5efa73a552.JPG' width='450'></center>
 [NOTA](https://actualidad.rt.com//opinion/ociel-ali-lopez/386217-sanciones-diesel-venezuela-eeuu-catastrofe-humanitaria) 
                 El impacto de las sanciones al diésel en Venezuela: la culpa que EE.UU. no puede eludir y que es capaz de provocar una catástrofe humanitaria
-            .
-
-<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604b920d59bf5b24c8551520.jpg' width='450'></center>
-[NOTA](https://actualidad.rt.com//actualidad/385866-coronavirus-mundo-cientifico-brasil-aguas-residuales) 
-                "El coronavirus circulaba por el mundo antes de lo que pensábamos": Científico español habla sobre un hallazgo en aguas residuales en Brasil
             .
 
 <center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604bc57de9ff715589577146.JPG' width='450'></center>
@@ -129,23 +130,22 @@
 <H3><center>La Nación</center></H3>
  &nbsp;
 
-<center><img src='https://bucket1.glanacion.com/anexos/fotos/52/3660852h373.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/politica/alberto-fernandez-extiende-el-distanciamiento-hasta-el-9-de-abril-y-pide-no-cerrar-la-economia-nid12032021/) Medidas. Extienden el distanciamiento hasta el 9 de abril       El Presidente pidió aumentar las campañas de concientización para evitar el repunte que se registra en otros países; el impacto en la economía          Por Maia Jastreblansky.
+<center><img src='https://bucket1.glanacion.com/anexos/fotos/51/3660851h373.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/politica/alberto-fernandez-extiende-el-distanciamiento-hasta-el-9-de-abril-y-pide-no-cerrar-la-economia-nid12032021/) Decisión. Extendieron el distanciamiento hasta el 9 de abril       El Presidente pidió aumentar las campañas de concientización para evitar el repunte que se registra en otros países; los detalles de lo publicado en el Boletín Oficial          Por Maia Jastreblansky.
+
+<center><img src='https://bucket2.glanacion.com/anexos/fotos/53/3660953h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/ideas/reflexiones-de-un-historiador-que-es-usuario-de-wikipedia-nid13032021/) Análisis. Reflexiones de un historiador que es usuario de Wikipedia     Por Luis Alberto Romero.
+
+[NOTA](https://www.lanacion.com.ar/opinion/las-memorias-de-un-desmemoriado-nid13032021/) De no creer. Las memorias de un desmemoriado        Carlos M. Reymundo Roberts.
+
+<center><img src='https://bucket3.glanacion.com/anexos/fotos/79/3660679h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/politica/las-diferencias-en-el-mercosur-quedaron-a-la-vista-en-un-encuentro-de-los-cancilleres-del-bloque-nid12032021/) Mercosur. Las diferencias quedan a la vista en un encuentro de cancilleres     Por Rafael Mathus Ruiz.
 
 <center><img src='https://bucket3.glanacion.com/anexos/fotos/78/3660878h186.jpg' width='450'></center>
 [NOTA](https://www.lanacion.com.ar/politica/el-gobierno-denuncio-a-mauricio-macri-por-defraudacion-por-el-acuerdo-con-el-fmi-nid13032021/) Acuerdo con el FMI. El Gobierno denunció a Macri por ''defraudación''     Por Santiago Dapelo.
 
-<center><img src='https://bucket3.glanacion.com/anexos/fotos/36/3660936h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/politica/axel-kicillof-enojado-por-la-denuncia-judicial-contra-su-esposa-se-cierra-asi-el-triangulo-del-nid13032021/) "¡Bingo!". Axel Kicillof cuestionó la denuncia judicial contra su esposa.
-
-<center><img src='https://bucket2.glanacion.com/anexos/fotos/14/3660914h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/politica/clorinda-la-ciudad-formosena-que-estuvo-bloqueada-casi-200-dias-y-que-se-prepara-para-retomar-su-nid13032021/) Clorinda. La ciudad formoseña que estuvo bloqueada casi 200 días     Por Martín Boerr (Enviado especial).
-
-<center><img src='https://bucket3.glanacion.com/anexos/fotos/19/3660819h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/economia/se-recaudaran-120000-millones-mas-por-los-cambios-en-ganancias-a-empresas-nid12032021/) Ganancias a empresas. Se recaudarán $120.000 millones más por los nuevos cambios     Por Francisco Jueguen.
-
-<center><img src='https://bucket3.glanacion.com/anexos/fotos/59/3660559h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/politica/la-provincia-de-buenos-aires-evalua-reponer-restricciones-a-la-circulacion-nid12032021/) Coronavirus. La provincia evalúa reponer restricciones a la circulación.
+<center><img src='https://bucket1.glanacion.com/anexos/fotos/32/3661032h186.jpg' width='450'></center>
+[NOTA](https://www.lanacion.com.ar/deportes/volvio-facundo-campazzo-lo-que-hizo-contra-memphis-grizzlies-en-el-quinto-triunfo-seguido-de-denver-nid13032021/) VIDEO  Tras tres partidos. Volvió Campazzo y aportó al quinto triunfo seguido de Denver.
 
 <a name='221Digital'></a>
 
@@ -177,3 +177,7 @@
 <H3><center>Google News</center></H3>
  &nbsp;
 
+[<center><img src='https://lh3.googleusercontent.com/fhKMTtIqc-PM3_V2qIyOqvYk9syNTSkqTNgW8irtwxvSivRayKfNJTn1_Yr7rIeg1k7syGSWRxfBp-7wifw=-p-df-h100-w100' width='450'></center>](https://news.google.com/articles/CAIiEL5a-HYOtYqN331DMRnlgIwqGQgEKhAIACoHCAowwOWNCzDbmqADMNSCqgY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  3 claves que explican por qué China restringe sus préstamos a América Latina. BBC News Mundo Hace 13 horas.[<center><img src='https://lh5.googleusercontent.com/proxy/lWWLdSUTkIZMkqcBHjm19sVjxUu2yQasdribitg8aCphnLf__jbtVQjW5os8-bpIkORM5bHvvRuM5qgk72m3amMPfgq_Nwpp3N7hsGpf_AYglPM1sB1_ffYRvBxP2xL8H5Xym1tDOvocorx-sLfhatnXcrKJ6iGbLzpGEw=-p-df-h100-w100' width='450'></center>](https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LmZyYW5jZTI0LmNvbS9lcy9wcm9ncmFtYXMvZWNvbm9tJUMzJUFEYS8yMDIxMDMxMS1waW5hLWd1ZXJyYS1lY29ub21pY2EtY2hpbmEtdGFpd2Fu0gFfaHR0cHM6Ly9hbXAuZnJhbmNlMjQuY29tL2VzL3Byb2dyYW1hcy9lY29ub20lQzMlQURhLzIwMjEwMzExLXBpbmEtZ3VlcnJhLWVjb25vbWljYS1jaGluYS10YWl3YW4?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Economía - La piña de la discordia: las tensiones entre China y Taiwán se trasladan a lo económico. FRANCE 24 Hace 3 días.[<center><img src='https://lh3.googleusercontent.com/VUDeqSBKC7pGqyde0GTDPhojMSl-jkEunRwku4orggDigBDDVEIeJ9tPVUzWyekJuZo7B2XLWq3lA9v0CZQ=-p-df-h100-w100' width='450'></center>](https://news.google.com/articles/CAIiEAvNVRqSn-sUlvQu8wSoYWUqGQgEKhAIACoHCAowwOWNCzDbmqADMILOqQY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  El plan de China y Rusia para construir una estación espacial en la Luna. BBC News Mundo Hace 3 días.
