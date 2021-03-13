@@ -6,10 +6,12 @@
  &nbsp;
 
 [<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/sin-titulo-1_23.jpg?itok=QQ3xunGd' width=450></center>](https://www.pagina12.com.ar/329217-el-fm-igate-ya-es-una-causa-judicial-por-fraude)
-El mejor equipo de los últimos 50 años 
+Denuncia de la Oficina Anticorrupción a Macri y su equipo económico por el insólito crédito del Fondo Monetario Internacional  
+ 
+ El mejor equipo de los últimos 50 años 
  
  El Gobierno presentó la denuncia penal contra Mauricio Macri, Nicolás Dujovne, Luis Caputo, Federico Sturzenegger y Guido Sandleris por el acuerdo suscripto con el FMI para financiar el proyecto de reelección de Cambiemos y que terminó abasteciendo la fuga de capitales.
-La acusación es por “administración fraudulenta y malversación de caudales públicos” 
+La acusación es por “administración fraudulenta y malversación de caudales públicos”. 
  
  Por Alfredo Zaiat.
 
@@ -65,11 +67,11 @@ Desolado y con oficinas y locales vacíos: ¿el Microcentro porteño se podrá r
 [<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/anez-detenida-750x430-1-357x210.jpg' width=450></center>](https://www.nodal.am/2021/03/bolivia-detienen-a-la-expresidenta-de-facto-jeanine-anez-y-dos-de-sus-ex-ministros-por/)
  Bolivia  Detienen a la expresidenta de facto Jeanine Áñez y dos de sus ministros por  .
 
+[<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/Paraguay-750x430-1-357x210.jpg' width=450></center>](https://www.nodal.am/2021/03/paraguay-tras-una-semana-de-protestas-manifestantes-continuan-en-las-calles-pidiendo-la-renuncia-del-presidente/)
+ Paraguay  Tras una semana de protestas manifestantes continúan en las calles pidiendo la renuncia del presidente  .
+
 [<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/elecciones-honduras-357x210.jpg' width=450></center>](https://www.nodal.am/2021/03/honduras-celebra-elecciones-primarias-este-domingo/)
  Honduras celebra elecciones primarias este domingo  .
-
-[<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/Marcha-Haiti-357x210.jpg' width=450></center>](https://www.nodal.am/2021/03/haiti-organizaciones-de-ddhh-exigen-justicia-por-25-mujeres-torturadas-en-prision-civil/)
- Haití  Organizaciones de DDHH exigen justicia por 25 mujeres torturadas en prisión civil  .
 
 [<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/lawfare-america-latina-357x210.jpeg' width=450></center>](https://www.nodal.am/2021/03/el-lawfare-en-america-latina-y-la-judicializacion-selectiva-de-la-politica-por-carol-proner-y-gisele-ricobom/)
  El lawfare en América Latina y la judicialización selectiva de la política – Por Carol Proner y Gisele Ricobom  El Lawfare, como se practica en América Latina y el Caribe, no es un proceso políticamente neutral. .
@@ -83,11 +85,6 @@ Desolado y con oficinas y locales vacíos: ¿el Microcentro porteño se podrá r
 <H3><center>RT</center></H3>
  &nbsp;
 
-[<center><img src='https://cdni.rt.com/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg' width=450></center>](https://actualidad.rt.com//actualidad/386307-avion-transporte-militar-an-kazajistan)
-
-                Un avión de transporte militar An-26 se estrella en Kazajistán
-            .
-
 [<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604c5738e9ff7124f8601900.JPG' width=450></center>](https://actualidad.rt.com//actualidad/386290-ministro-gobierno-bolivia-confirmar-expresidenta-anez-aprehendida)
 
                 La Policía de Bolivia captura a la expresidenta de facto Jeanine Áñez
@@ -96,6 +93,11 @@ Desolado y con oficinas y locales vacíos: ¿el Microcentro porteño se podrá r
 [<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604c60a7e9ff71278d5eda83.jpeg' width=450></center>](https://actualidad.rt.com//actualidad/386291-primeras-imagenes-captura-anez)
 
                 Primeras imágenes de la captura de la expresidenta 'de facto' de Bolivia Jeanine Áñez
+            .
+
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604cb171e9ff71258d1b67e1.jpg' width=450></center>](https://actualidad.rt.com//actualidad/386307-avion-transporte-militar-an-kazajistan)
+
+                Un avión de transporte militar An-26 se estrella en Kazajistán
             .
 
 [<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604b8c6ae9ff7153f748f817.jpg' width=450></center>](https://actualidad.rt.com//actualidad/386214-informe-denuncia-actividades-mar-china)
@@ -114,18 +116,18 @@ Desolado y con oficinas y locales vacíos: ¿el Microcentro porteño se podrá r
 <H3><center>La Nación</center></H3>
  &nbsp;
 
-[<center><img src='https://bucket2.glanacion.com/anexos/fotos/35/3660335h373.jpg' width=450></center>](https://www.lanacion.com.ar/politica/restricciones-por-el-coronavirus-la-nueva-lista-de-medidas-del-gobierno-nid12032021/)
-Restricciones por Covid. La nueva lista de medidas del Gobierno       En el marco de la nueva etapa del distanciamiento social, el Presidente pidió aumentar las campañas de concientización para evitar el repunte que se registra en otros países.
+[<center><img src='https://bucket2.glanacion.com/anexos/fotos/43/3661743h373.jpg' width=450></center>](https://www.lanacion.com.ar/economia/peleas-y-dinero-un-ajedrez-arriesgado-que-puede-ventilar-secretos-kirchneristas-nid13032021/)
+Peleas. Un ajedrez arriesgado amenaza con ventilar viejos secretos kirchneristas    Por Pablo Fernández Blanco.
 
-[<center><img src='https://bucket2.glanacion.com/anexos/fotos/53/3660953h186.jpg' width=450></center>](https://www.lanacion.com.ar/ideas/reflexiones-de-un-historiador-que-es-usuario-de-wikipedia-nid13032021/)
-Análisis. Reflexiones de un historiador que es usuario de Wikipedia     Por Luis Alberto Romero.
+[<center><img src='https://bucket2.glanacion.com/anexos/fotos/35/3660335h186.jpg' width=450></center>](https://www.lanacion.com.ar/politica/restricciones-por-el-coronavirus-la-nueva-lista-de-medidas-del-gobierno-nid12032021/)
+Restricciones por Covid. La nueva lista de medidas del Gobierno.
 
 De no creer. Las memorias de un desmemoriado        Carlos M. Reymundo Roberts.
 
 Incendios. El Presidente viaja a Chubut para recorrer las zonas afectadas.
 
-[<center><img src='https://bucket2.glanacion.com/anexos/fotos/43/3661743h186.jpg' width=450></center>](https://www.lanacion.com.ar/economia/peleas-y-dinero-un-ajedrez-arriesgado-que-puede-ventilar-secretos-kirchneristas-nid13032021/)
-Peleas. Un ajedrez arriesgado amenaza con ventilar viejos secretos kirchneristas     Por Pablo Fernández Blanco.
+[<center><img src='https://bucket2.glanacion.com/anexos/fotos/53/3660953h186.jpg' width=450></center>](https://www.lanacion.com.ar/ideas/reflexiones-de-un-historiador-que-es-usuario-de-wikipedia-nid13032021/)
+Análisis. Reflexiones de un historiador que es usuario de Wikipedia     Por Luis Alberto Romero.
 
 <a name='221Digital'></a>
 
@@ -153,4 +155,19 @@ FUROR EN LAS REDES: ¿Declaración de amor? El video de Deian Verón sobre una p
 ---------------------
 <H3><center>Google News</center></H3>
  &nbsp;
+
+[<center><img src='https://lh3.googleusercontent.com/yt6HUVMrGG1jUnjfax6Ua34n6MNB8xKofLVSos9CRQvrJV2aerErQcQyidH6zKaRY5S26XAVFpdyoKu5I9c=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEL5a-HYOtYqN331DMRnlgIwqGQgEKhAIACoHCAowwOWNCzDbmqADMNSCqgY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  3 claves que explican por qué China restringe sus préstamos a América Latina. BBC News Mundo Hace 18 horas.
+
+[<center><img src='https://lh6.googleusercontent.com/proxy/VC6_b4JnhJM6PoJ6E8228KOBgzgPb-4PtXxPAo5wZi8qKuU_iZsKqzcLOUmpQ3CYuc00t3ie8BSlRdazI8Mj_U2WduWuTVmqkVRoawPb6ZvqKvX_KKj4dHstBpvf1rIbhBfbbeKguOBI5mttTWNSseepWG8-KH4uc1spj5mDAjfWXFlO0yuTWnkJncOSBvL-02AOdOO__loWSX_yWCp5BH9Xj7Cddfvx=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMiSmh0dHBzOi8vd3d3LnBhZ2luYTEyLmNvbS5hci8zMjkxNDgtYS1kdXBsaWNhci1sYXMtcHltZXMtcXVlLXZlbmRlbi1hLWNoaW5h0gFKaHR0cHM6Ly93d3cucGFnaW5hMTIuY29tLmFyLzMyOTE0OC1hLWR1cGxpY2FyLWxhcy1weW1lcy1xdWUtdmVuZGVuLWEtY2hpbmE?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  A duplicar las pymes que venden a China. Página 12 Hace 15 horas.
+
+[<center><img src='https://lh3.googleusercontent.com/JDFOyo903E9WGstK0YhI2ZFOKR3h4qDxBngX5M8XJVBZFKzOBoxLmk3OVlgNw9SOE-HfkNgb=w32' width=450></center>](https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvbGEtdWlmLXByZXNlbnRvLXN1LXByb3B1ZXN0YS1wYXJhLWxhLWhpZHJvdmlh0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Meoni en el Consejo Federal Hidrovía: "El Presidente nos pidió desde el primer momento que la Hidrovía Paraná - Paraguay sea una hidrovía federal". Argentina.gob.ar Presidencia de la Nación 22 feb..
+
+[<center><img src='https://lh6.googleusercontent.com/proxy/EmkgxTeBvLzAbeDK7FT85KsRts2z2P5SZG2b26vBjPfTPtuD_5dQumgI5y7bNTg5P-n0CoYP7TxheVgzyzt4V_IlViQxru_rCEY9mJXMMqsmO9Ax2qn08KXB_40Q02ybp1QSQ0CvnBFpOC0jCm7ZaK-SWENi-c0AlHLe41wxapROgyO31r5r0Y9q_bcQgOTR6mBld5h_9czP7Zs-8B0=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvbGEtdWlmLXNvbGljaXRvLWludGVncmFyLWVsLWNvbnNlam8tYXNlc29yLWRlLWxhLWhpZHJvdmlhLTDSAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Argentina: Consejo Federal Hidrovía Paraguay-Paraná abordó ejes de acción en su primera reunión. MundoMaritimo.cl 24 feb..
+
+[<center><img src='https://lh3.googleusercontent.com/proxy/x59qS77Ac_cegiZgWCZPoMjta0sM6VZRLlr3lB6-rOrMl3C8tD-eTQbYY7jzUnwgnp1FlgTptkmVJEKopelsrEPJVSMr2q9ZdV0ojh7T2e1KYrwi81tK-1ODfGimFNhwqHilZQ=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiECGI-UZvItnucJBV6D4eFykqGQgEKhAIACoHCAowmYaVCzDS4KoDMNmTzwY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Paraguay analiza nuevas restricciones ante una situación de virtual colapso. Télam Hace 21 horas.
 
