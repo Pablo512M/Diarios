@@ -1,4 +1,7 @@
+ &nbsp;
 <center><img src='https://lh3.googleusercontent.com/pw/ACtC-3fPU269RhAFi-pkXpi8xBUvWNo07l3gKf1cRqTZCu5cKHF3Bxz2x8zgvrc-cWDZrk4jy6_8Mixu8vjAIbJNbam-aEcKNQM2LzZ2_NbvMZ_Nty-fTL66IduyCq4WJYIqEORme0TPedcYH8nBK9lgE7dP=w1100-h1000-no' width='450'></center>
+ &nbsp;
+ &nbsp;
 <a name='Página12'></a>
 
 ---------------------
@@ -32,8 +35,8 @@ Qué dice el decreto que extiende el Dispo Se publicó este viernes.
 
 
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147482-whatsapp-20image-202021-03-12-20at-2018-33-06.jpeg?itok=22jikzQS' width=450></center>](https://www.pagina12.com.ar/329200-el-dilema-de-las-tarifas)
-El dilema de las tarifas Entidades de usuarios rechazan cualquier aumento. Por David Cufré.
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147399-32-a-20-283-29.jpg?itok=eidlEcUv' width=450></center>](https://www.pagina12.com.ar/329175-el-tao-vencio-a-uber-en-china)
+El tao venció a Uber en China . Por qué la app de transporte perdió contra DiDi. Por Julián Varsavsky.
 
 
 
@@ -52,11 +55,11 @@ La pequeña tragedia ideológica de quemar y repudiar libros en la hoguera del o
 [<center><img src='https://www.infobae.com/new-resizer/GrtA60lk6SFHs46eV5XxDOSMXNA=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/YN6VJKQKLNCPVBCSBSRRUY2ZWE.jpg' width=450></center>](https://www.infobae.com/economia/2021/03/13/desolado-y-con-oficinas-y-locales-vacios-el-microcentro-porteno-se-podra-reconvertir-en-un-barrio-residencial/)
 Desolado y con oficinas y locales vacíos: ¿el Microcentro porteño se podrá reconvertir en un barrio residencial?. Por Ximena Casas.
 
-[<center><img src='https://www.infobae.com/new-resizer/LYDsSLOM2s2Xt96wGUrSwTs3jzc=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/OHXALF4UVJAJTIDVBSDUXGCVTQ.jpg' width=450></center>](https://www.infobae.com/economia/2021/03/13/que-va-a-pasar-con-el-dolar-advierten-que-la-estrategia-de-ancla-cambiaria-en-el-ano-electoral-tiene-corto-alcance/)
-¿Qué va a pasar con el dólar?: advierten que la estrategia de "ancla cambiaria" en el año electoral tiene corto alcance. Por Juan Gasalla.
+[<center><img src='https://www.infobae.com/new-resizer/AF0oJUtmBOZkcrvFR9_SPgJ6I64=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/ZQRVAX7VKRDHFBQY6VVOSVIFFA.jpg' width=450></center>](https://www.infobae.com/economia/2021/03/13/marcos-santana-y-sebastian-ortega-de-telemundo-el-pais-mas-dificil-para-emprender-y-producir-television-se-llama-argentina/)
+Marcos Santana y Sebastián Ortega, de Telemundo: "El país más difícil para producir televisión se llama Argentina". Por Ximena Casas.
 
-[<center><img src='https://www.infobae.com/new-resizer/N9Bgzh4gJkaPEMgnhYaun0q7jMo=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/DNWW435LZXPLCIBSCOIZJN7CEA.jpg' width=450></center>](https://www.infobae.com/america/realeza/2021/03/13/6-contradicciones-dudas-y-mentiras-de-meghan-markle-y-el-principe-harry-en-la-entrevista-bomba-con-oprah-winfrey/)
-6 contradicciones, dudas y ¿mentiras? de Meghan Markle y el príncipe Harry en la entrevista bomba con Oprah WinfreyVIDEO.
+[<center><img src='https://www.infobae.com/new-resizer/7ehRs-DUzWuunm_jnNKRAMyQdi4=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/OQCKK7ZWTVGPJKTVEMBRPFWHEA.jpg' width=450></center>](https://www.infobae.com/opinion/2021/03/13/nosotras-frente-al-espejo-el-dia-que-supe-que-mi-mejor-amiga-sufria-anorexia/)
+Nosotras frente al espejo: el día que supe que mi mejor amiga sufría anorexia. Por Zoe Hochbaum.
 
 <a name='Nodal'></a>
 
@@ -70,8 +73,8 @@ Bolivia  Detienen a la expresidenta de facto Jeanine Áñez y dos de sus ministr
 [<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/Paraguay-750x430-1-357x210.jpg' width=450></center>](https://www.nodal.am/2021/03/paraguay-tras-una-semana-de-protestas-manifestantes-continuan-en-las-calles-pidiendo-la-renuncia-del-presidente/)
 Paraguay  Tras una semana de protestas manifestantes continúan en las calles pidiendo la renuncia del presidente.
 
-[<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/elecciones-honduras-357x210.jpg' width=450></center>](https://www.nodal.am/2021/03/honduras-celebra-elecciones-primarias-este-domingo/)
-Honduras celebra elecciones primarias este domingo.
+[<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/Haiti-750x430-1-357x210.jpg' width=450></center>](https://www.nodal.am/2021/03/haitial-menos-tres-policias-murieron-en-un-operativo-dentro-de-un-barrio-dominado-por-grupos-armados/)
+Haití  Al menos tres policías murieron en un operativo dentro de un barrio dominado por grupos armados.
 
 [<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/lawfare-america-latina-357x210.jpeg' width=450></center>](https://www.nodal.am/2021/03/el-lawfare-en-america-latina-y-la-judicializacion-selectiva-de-la-politica-por-carol-proner-y-gisele-ricobom/)
 El lawfare en América Latina y la judicialización selectiva de la política – Por Carol Proner y Gisele Ricobom  El Lawfare, como se practica en América Latina y el Caribe, no es un proceso políticamente neutral..
@@ -86,29 +89,19 @@ La guerra jurídica: lawfare en Brasil – Por Larissa Ramina  En Brasil, la gue
  &nbsp;
 
 [<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604c5738e9ff7124f8601900.JPG' width=450></center>](https://actualidad.rt.com//actualidad/386290-ministro-gobierno-bolivia-confirmar-expresidenta-anez-aprehendida)
-
-                La Policía de Bolivia captura a la expresidenta de facto Jeanine Áñez
-            .
+La Policía de Bolivia captura a la expresidenta de facto Jeanine Áñez.
 
 [<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604c60a7e9ff71278d5eda83.jpeg' width=450></center>](https://actualidad.rt.com//actualidad/386291-primeras-imagenes-captura-anez)
-
-                Primeras imágenes de la captura de la expresidenta 'de facto' de Bolivia Jeanine Áñez
-            .
+Primeras imágenes de la captura de la expresidenta 'de facto' de Bolivia Jeanine Áñez.
 
 [<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604cb171e9ff71258d1b67e1.jpg' width=450></center>](https://actualidad.rt.com//actualidad/386307-avion-transporte-militar-an-kazajistan)
-
-                Un avión de transporte militar An-26 se estrella en Kazajistán
-            .
+Un avión de transporte militar An-26 se estrella en Kazajistán.
 
 [<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604b8c6ae9ff7153f748f817.jpg' width=450></center>](https://actualidad.rt.com//actualidad/386214-informe-denuncia-actividades-mar-china)
-
-                Un informe denuncia una actividad sin precedentes de EE.UU. en el mar de la China Meridional, con maniobras "muy orientadas al combate"
-            .
+Un informe denuncia una actividad sin precedentes de EE.UU. en el mar de la China Meridional, con maniobras "muy orientadas al combate".
 
 [<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604becd259bf5b5efa73a552.JPG' width=450></center>](https://actualidad.rt.com//opinion/ociel-ali-lopez/386217-sanciones-diesel-venezuela-eeuu-catastrofe-humanitaria)
-
-                El impacto de las sanciones al diésel en Venezuela: la culpa que EE.UU. no puede eludir y que es capaz de provocar una catástrofe humanitaria
-            .
+El impacto de las sanciones al diésel en Venezuela: la culpa que EE.UU. no puede eludir y que es capaz de provocar una catástrofe humanitaria.
 
 <a name='LaNación'></a>
 
@@ -157,9 +150,9 @@ COPA DE LA LIGA: Estudiantes recibe a Colón con la ilusión de llegar a la punt
  &nbsp;
 
 [<center><img src='https://lh3.googleusercontent.com/excWZuT_YIQnrtPjKKmXrHaqCrl1dRcSBQ8On8w3EHNJ-JxXXyl3SqRkY3-LjZXYqr6-EwHnD3LCx1HORI8=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEL5a-HYOtYqN331DMRnlgIwqGQgEKhAIACoHCAowwOWNCzDbmqADMNSCqgY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  3 claves que explican por qué China restringe sus préstamos a América Latina. BBC News Mundo Hace 18 horas.
+  3 claves que explican por qué China restringe sus préstamos a América Latina. BBC News Mundo Hace 19 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/nAHU5MRTo9HLWqGNRyqlIIR7-4lgHBUne598nkX2dYGJu1QLJldn30ECDm5niBn7P2wKaJe3Iajq24xgSSk=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEFZ2uOOrDtWjKfd3Bve_0RkqGQgEKhAIACoHCAowwJn-CjCamooDMO6h-QU?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+[<center><img src='https://lh3.googleusercontent.com/JAf2-feop_BHVNcB5WmbrjTK6MKCYSZgt2XXlqe7p8fskmyx2Pa3NXn1BT7u6XHOGliZv8JK-j8WnCIEDw=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEFZ2uOOrDtWjKfd3Bve_0RkqGQgEKhAIACoHCAowwJn-CjCamooDMKn_2QU?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Descubiertos cuatro nuevos coronavirus relacionados con el virus de la covid en murciélagos de China. EL PAÍS Hace 1 hora.
 
 [<center><img src='https://lh3.googleusercontent.com/JDFOyo903E9WGstK0YhI2ZFOKR3h4qDxBngX5M8XJVBZFKzOBoxLmk3OVlgNw9SOE-HfkNgb=w32' width=450></center>](https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvbGEtdWlmLXByZXNlbnRvLXN1LXByb3B1ZXN0YS1wYXJhLWxhLWhpZHJvdmlh0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
@@ -168,10 +161,9 @@ COPA DE LA LIGA: Estudiantes recibe a Colón con la ilusión de llegar a la punt
 [<center><img src='https://lh6.googleusercontent.com/proxy/EmkgxTeBvLzAbeDK7FT85KsRts2z2P5SZG2b26vBjPfTPtuD_5dQumgI5y7bNTg5P-n0CoYP7TxheVgzyzt4V_IlViQxru_rCEY9mJXMMqsmO9Ax2qn08KXB_40Q02ybp1QSQ0CvnBFpOC0jCm7ZaK-SWENi-c0AlHLe41wxapROgyO31r5r0Y9q_bcQgOTR6mBld5h_9czP7Zs-8B0=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvbGEtdWlmLXNvbGljaXRvLWludGVncmFyLWVsLWNvbnNlam8tYXNlc29yLWRlLWxhLWhpZHJvdmlhLTDSAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Argentina: Consejo Federal Hidrovía Paraguay-Paraná abordó ejes de acción en su primera reunión. MundoMaritimo.cl 24 feb..
 
-[<center><img src='https://lh6.googleusercontent.com/proxy/ayfbw-Rh-Z3Gi3nE3-h1cvDgD67d1ZdWhJ8pjP6muJwTkwh_8kNinvU0D7I4mRjWsyl_AVuewqUnarlYH2Ffhf0_BQlvM_dQbT2l92H95TUf1iNkW7Y_VaeTtm3QjC_am9I4lA=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LnRlbGFtLmNvbS5hci9ub3Rhcy8yMDIxMDMvNTQ3MDY3LXVydWd1YXktcmVjaWJpby1sYXMtcHJpbWVyYXMtNTAwMDAtZG9zaXMtZGUtbGEtdmFjdW5hLWRlLXBmaXplci5odG1s0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Uruguay recibiÃ³ las primeras 50.000 dosis de la vacuna de Pfizer. TÃ©lam Hace 2 dÃ­as.
+[<center><img src='https://lh3.googleusercontent.com/proxy/x59qS77Ac_cegiZgWCZPoMjta0sM6VZRLlr3lB6-rOrMl3C8tD-eTQbYY7jzUnwgnp1FlgTptkmVJEKopelsrEPJVSMr2q9ZdV0ojh7T2e1KYrwi81tK-1ODfGimFNhwqHilZQ=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiECGI-UZvItnucJBV6D4eFykqGQgEKhAIACoHCAowmYaVCzDS4KoDMNmTzwY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Paraguay analiza nuevas restricciones ante una situación de virtual colapso. Télam Hace 22 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/proxy/JSwV6GEy-qM_09fTrRYwf3ApvvbV5hheo364jUQk5vM9uvTN3dv7_O1FQpsg7E9WqpKj-LwcEwWWiQHiB6tKrH0sLh0Ozg0flfc7A2OEyGZQxbqyaxbJ0vDyt_aMWPBmA0_leEKWQV4asIk4Cws=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMiSmh0dHBzOi8vd2VicGlja2luZy5jb20vY29zdG9zLWRlLXRyYW5zcG9ydGUtZXNjYWxhbi01Ni1lbi0yMDIwLWVuLXVydWd1YXkv0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Costos de transporte escalan 5,6% en 2020 en Uruguay.[<center><img src='https://lh3.googleusercontent.com/proxy/x59qS77Ac_cegiZgWCZPoMjta0sM6VZRLlr3lB6-rOrMl3C8tD-eTQbYY7jzUnwgnp1FlgTptkmVJEKopelsrEPJVSMr2q9ZdV0ojh7T2e1KYrwi81tK-1ODfGimFNhwqHilZQ=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiECGI-UZvItnucJBV6D4eFykqGQgEKhAIACoHCAowmYaVCzDS4KoDMNmTzwY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Paraguay analiza nuevas restricciones ante una situación de virtual colapso. Télam Hace 21 horas.
+[<center><img src='https://lh3.googleusercontent.com/proxy/6y5-2hj3B25gPMlF0Kte7ER8xJHvD-UR2UFplxtm-YqujtVkc0-X75lrSsG2khk5N7I0Iv6wD9riuTD-TgSHZJZCDMzVIc6omdgMoWldcN5kg5TFBkXSkhPQXIFRLBh2QES2zw=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEFvKWDJbl-uBCuXG1XvNt1MqGQgEKhAIACoHCAowwfehCTDkrpcCMJKcvwM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Bolivia: detuvieron a la expresidenta de facto Jeanine Áñez. Télam Hace 1 hora.
 
