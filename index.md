@@ -1,4 +1,4 @@
-<center><img src='https://lh3.googleusercontent.com/pw/ACtC-3cDnMpgUZ5fx7HFyhENpYbG3Nl2UY1iwppSLNp1mgvbP_3RGY2h_VhCah7-cUyfwnnno7jOhkGVrWePUJjS01ksEYONC8YFgvCS8Jaxz2dnh8b0qryu6XYcULxohYH4y_dcHJZDEKfx3s_wvxmiAj4J=w1292-h330-no' width='450'></center>
+<center><img src='https://lh3.googleusercontent.com/pw/ACtC-3fPU269RhAFi-pkXpi8xBUvWNo07l3gKf1cRqTZCu5cKHF3Bxz2x8zgvrc-cWDZrk4jy6_8Mixu8vjAIbJNbam-aEcKNQM2LzZ2_NbvMZ_Nty-fTL66IduyCq4WJYIqEORme0TPedcYH8nBK9lgE7dP=w1100-h1000-no' width='450'></center>
 <a name='Página12'></a>
 
 ---------------------
@@ -65,19 +65,19 @@ Desolado y con oficinas y locales vacíos: ¿el Microcentro porteño se podrá r
  &nbsp;
 
 [<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/anez-detenida-750x430-1-357x210.jpg' width=450></center>](https://www.nodal.am/2021/03/bolivia-detienen-a-la-expresidenta-de-facto-jeanine-anez-y-dos-de-sus-ex-ministros-por/)
- Bolivia  Detienen a la expresidenta de facto Jeanine Áñez y dos de sus ministros por  .
+Bolivia  Detienen a la expresidenta de facto Jeanine Áñez y dos de sus ministros por el golpe de Estado contra Evo Morales.
 
 [<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/Paraguay-750x430-1-357x210.jpg' width=450></center>](https://www.nodal.am/2021/03/paraguay-tras-una-semana-de-protestas-manifestantes-continuan-en-las-calles-pidiendo-la-renuncia-del-presidente/)
- Paraguay  Tras una semana de protestas manifestantes continúan en las calles pidiendo la renuncia del presidente  .
+Paraguay  Tras una semana de protestas manifestantes continúan en las calles pidiendo la renuncia del presidente.
 
 [<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/elecciones-honduras-357x210.jpg' width=450></center>](https://www.nodal.am/2021/03/honduras-celebra-elecciones-primarias-este-domingo/)
- Honduras celebra elecciones primarias este domingo  .
+Honduras celebra elecciones primarias este domingo.
 
 [<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/lawfare-america-latina-357x210.jpeg' width=450></center>](https://www.nodal.am/2021/03/el-lawfare-en-america-latina-y-la-judicializacion-selectiva-de-la-politica-por-carol-proner-y-gisele-ricobom/)
- El lawfare en América Latina y la judicialización selectiva de la política – Por Carol Proner y Gisele Ricobom  El Lawfare, como se practica en América Latina y el Caribe, no es un proceso políticamente neutral. .
+El lawfare en América Latina y la judicialización selectiva de la política – Por Carol Proner y Gisele Ricobom  El Lawfare, como se practica en América Latina y el Caribe, no es un proceso políticamente neutral..
 
 [<center><img src='https://www.nodal.am/2021/03/la-guerra-juridica-lawfare-en-brasil-por-larissa-ramina/' width=450></center>](https://www.nodal.am/2021/03/la-guerra-juridica-lawfare-en-brasil-por-larissa-ramina/)
- La guerra jurídica: lawfare en Brasil – Por Larissa Ramina  En Brasil, la guerra jurídica se implementó con fines geopolíticos y se justificó en la lucha contra la corrupción. .
+La guerra jurídica: lawfare en Brasil – Por Larissa Ramina  En Brasil, la guerra jurídica se implementó con fines geopolíticos y se justificó en la lucha contra la corrupción..
 
 <a name='RT'></a>
 
@@ -144,11 +144,11 @@ DE QUÉ SE TRATA: Organizan una cata gratuita de plantas silvestres en La Plata.
 [<center><img src='https://pxb.cdn.0221.com.ar/0221/102018/1539968882732.jpg?x=4&y=8&width=947&height=473&rotate=0&scaleX=1&scaleY=1&ow=960&oh=639&&cw=288&ch=199' width=450></center>](https://www.0221.com.ar/nota/2021-3-13-7-52-0-unos-280-mil-inmuebles-y-rodados-podran-acogerse-al-plan-de-pagos-de-tasas-atrasadas)
 HASTA EL 31 DE MARZO: Unos 280 mil inmuebles y rodados podrán acogerse al plan de pagos de tasas atrasadas.
 
+[<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615153101122.jpg?x=12&y=6&width=949&height=474&rotate=0&scaleX=1&scaleY=1&ow=982&oh=619&&cw=288&ch=199' width=450></center>](https://www.0221.com.ar/nota/2021-3-13-9-42-0-estudiantes-recibe-a-colon-con-la-ilusion-de-llegar-a-la-punta)
+COPA DE LA LIGA: Estudiantes recibe a Colón con la ilusión de llegar a la punta.
+
 [<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615591338744.jpg?x=65&y=29&width=1201&height=601&rotate=0&scaleX=1&scaleY=1&ow=1276&oh=630&&cw=288&ch=199' width=450></center>](https://www.0221.com.ar/nota/2021-3-13-7-45-0-estudiantes-y-gimnasia-juntan-donaciones-para-los-afectados-por-los-incendios-en-el-sur)
 ¿CÓMO AYUDAR?: Estudiantes y Gimnasia juntan donaciones para los afectados por los incendios en el sur.
-
-[<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615156848299.jpg?x=-3&y=60&width=1507&height=753&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=1000&&cw=288&ch=199' width=450></center>](https://www.0221.com.ar/nota/2021-3-12-19-14-0--declaracion-de-amor-el-video-de-deian-veron-que-se-viralizo)
-FUROR EN LAS REDES: ¿Declaración de amor? El video de Deian Verón sobre una periodista que se viralizó.
 
 <a name='GoogleNews'></a>
 
@@ -156,11 +156,11 @@ FUROR EN LAS REDES: ¿Declaración de amor? El video de Deian Verón sobre una p
 <H3><center>Google News</center></H3>
  &nbsp;
 
-[<center><img src='https://lh3.googleusercontent.com/yt6HUVMrGG1jUnjfax6Ua34n6MNB8xKofLVSos9CRQvrJV2aerErQcQyidH6zKaRY5S26XAVFpdyoKu5I9c=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEL5a-HYOtYqN331DMRnlgIwqGQgEKhAIACoHCAowwOWNCzDbmqADMNSCqgY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+[<center><img src='https://lh3.googleusercontent.com/excWZuT_YIQnrtPjKKmXrHaqCrl1dRcSBQ8On8w3EHNJ-JxXXyl3SqRkY3-LjZXYqr6-EwHnD3LCx1HORI8=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEL5a-HYOtYqN331DMRnlgIwqGQgEKhAIACoHCAowwOWNCzDbmqADMNSCqgY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   3 claves que explican por qué China restringe sus préstamos a América Latina. BBC News Mundo Hace 18 horas.
 
-[<center><img src='https://lh6.googleusercontent.com/proxy/VC6_b4JnhJM6PoJ6E8228KOBgzgPb-4PtXxPAo5wZi8qKuU_iZsKqzcLOUmpQ3CYuc00t3ie8BSlRdazI8Mj_U2WduWuTVmqkVRoawPb6ZvqKvX_KKj4dHstBpvf1rIbhBfbbeKguOBI5mttTWNSseepWG8-KH4uc1spj5mDAjfWXFlO0yuTWnkJncOSBvL-02AOdOO__loWSX_yWCp5BH9Xj7Cddfvx=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMiSmh0dHBzOi8vd3d3LnBhZ2luYTEyLmNvbS5hci8zMjkxNDgtYS1kdXBsaWNhci1sYXMtcHltZXMtcXVlLXZlbmRlbi1hLWNoaW5h0gFKaHR0cHM6Ly93d3cucGFnaW5hMTIuY29tLmFyLzMyOTE0OC1hLWR1cGxpY2FyLWxhcy1weW1lcy1xdWUtdmVuZGVuLWEtY2hpbmE?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  A duplicar las pymes que venden a China. Página 12 Hace 15 horas.
+[<center><img src='https://lh3.googleusercontent.com/nAHU5MRTo9HLWqGNRyqlIIR7-4lgHBUne598nkX2dYGJu1QLJldn30ECDm5niBn7P2wKaJe3Iajq24xgSSk=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEFZ2uOOrDtWjKfd3Bve_0RkqGQgEKhAIACoHCAowwJn-CjCamooDMO6h-QU?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Descubiertos cuatro nuevos coronavirus relacionados con el virus de la covid en murciélagos de China. EL PAÍS Hace 1 hora.
 
 [<center><img src='https://lh3.googleusercontent.com/JDFOyo903E9WGstK0YhI2ZFOKR3h4qDxBngX5M8XJVBZFKzOBoxLmk3OVlgNw9SOE-HfkNgb=w32' width=450></center>](https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvbGEtdWlmLXByZXNlbnRvLXN1LXByb3B1ZXN0YS1wYXJhLWxhLWhpZHJvdmlh0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Meoni en el Consejo Federal Hidrovía: "El Presidente nos pidió desde el primer momento que la Hidrovía Paraná - Paraguay sea una hidrovía federal". Argentina.gob.ar Presidencia de la Nación 22 feb..
@@ -168,6 +168,10 @@ FUROR EN LAS REDES: ¿Declaración de amor? El video de Deian Verón sobre una p
 [<center><img src='https://lh6.googleusercontent.com/proxy/EmkgxTeBvLzAbeDK7FT85KsRts2z2P5SZG2b26vBjPfTPtuD_5dQumgI5y7bNTg5P-n0CoYP7TxheVgzyzt4V_IlViQxru_rCEY9mJXMMqsmO9Ax2qn08KXB_40Q02ybp1QSQ0CvnBFpOC0jCm7ZaK-SWENi-c0AlHLe41wxapROgyO31r5r0Y9q_bcQgOTR6mBld5h_9czP7Zs-8B0=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvbGEtdWlmLXNvbGljaXRvLWludGVncmFyLWVsLWNvbnNlam8tYXNlc29yLWRlLWxhLWhpZHJvdmlhLTDSAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Argentina: Consejo Federal Hidrovía Paraguay-Paraná abordó ejes de acción en su primera reunión. MundoMaritimo.cl 24 feb..
 
-[<center><img src='https://lh3.googleusercontent.com/proxy/x59qS77Ac_cegiZgWCZPoMjta0sM6VZRLlr3lB6-rOrMl3C8tD-eTQbYY7jzUnwgnp1FlgTptkmVJEKopelsrEPJVSMr2q9ZdV0ojh7T2e1KYrwi81tK-1ODfGimFNhwqHilZQ=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiECGI-UZvItnucJBV6D4eFykqGQgEKhAIACoHCAowmYaVCzDS4KoDMNmTzwY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+[<center><img src='https://lh6.googleusercontent.com/proxy/ayfbw-Rh-Z3Gi3nE3-h1cvDgD67d1ZdWhJ8pjP6muJwTkwh_8kNinvU0D7I4mRjWsyl_AVuewqUnarlYH2Ffhf0_BQlvM_dQbT2l92H95TUf1iNkW7Y_VaeTtm3QjC_am9I4lA=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LnRlbGFtLmNvbS5hci9ub3Rhcy8yMDIxMDMvNTQ3MDY3LXVydWd1YXktcmVjaWJpby1sYXMtcHJpbWVyYXMtNTAwMDAtZG9zaXMtZGUtbGEtdmFjdW5hLWRlLXBmaXplci5odG1s0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Uruguay recibiÃ³ las primeras 50.000 dosis de la vacuna de Pfizer. TÃ©lam Hace 2 dÃ­as.
+
+[<center><img src='https://lh3.googleusercontent.com/proxy/JSwV6GEy-qM_09fTrRYwf3ApvvbV5hheo364jUQk5vM9uvTN3dv7_O1FQpsg7E9WqpKj-LwcEwWWiQHiB6tKrH0sLh0Ozg0flfc7A2OEyGZQxbqyaxbJ0vDyt_aMWPBmA0_leEKWQV4asIk4Cws=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMiSmh0dHBzOi8vd2VicGlja2luZy5jb20vY29zdG9zLWRlLXRyYW5zcG9ydGUtZXNjYWxhbi01Ni1lbi0yMDIwLWVuLXVydWd1YXkv0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Costos de transporte escalan 5,6% en 2020 en Uruguay.[<center><img src='https://lh3.googleusercontent.com/proxy/x59qS77Ac_cegiZgWCZPoMjta0sM6VZRLlr3lB6-rOrMl3C8tD-eTQbYY7jzUnwgnp1FlgTptkmVJEKopelsrEPJVSMr2q9ZdV0ojh7T2e1KYrwi81tK-1ODfGimFNhwqHilZQ=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiECGI-UZvItnucJBV6D4eFykqGQgEKhAIACoHCAowmYaVCzDS4KoDMNmTzwY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Paraguay analiza nuevas restricciones ante una situación de virtual colapso. Télam Hace 21 horas.
 
