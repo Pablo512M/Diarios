@@ -1,4 +1,4 @@
-<title> your_title </title><center><img src='https://pbs.twimg.com/media/EwLm1jcWUAQQizF?format=jpg&name=small' width='450'></center>
+<center><img src='https://www.pagina12.com.ar/assets/media/logos/amp/logo_pagina_12_n.svg?v=1.0.277' width='100'> &nbsp;<img src='https://www.infobae.com/pf/resources/images/logo_infobae_naranja.svg?d=509' width='100'> <img src='https://www.nodal.am/wp-content/uploads/2020/09/logo-chico.png' width='120'> &nbsp;<img src='https://pbs.twimg.com/profile_images/1018833905082871808/F7RZerA1_400x400.jpg' width='40'> &nbsp;<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_La_Naci%C3%B3n.svg/1280px-Logo_La_Naci%C3%B3n.svg.png' width='100'> &nbsp;<img src='https://www.0221.com.ar/img/logo_principal.png' width='40'></center>
 <a name='Página12'></a>
 
 ---------------------
@@ -35,11 +35,6 @@ La acusación es por “administración fraudulenta y malversación de caudales 
 
 
 
-<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147303-mirtha-legrand-1_0.jpg?itok=FoNlgn0g' width='450'></center>
-[NOTA](https://www.pagina12.com.ar/329088-la-felicitacion-de-los-creadores-de-la-sputnik-v-a-mirtha-le) La felicitación de los creadores de la Sputnik V a Mirtha Legrand Buenos augurios para "la gran dama de la televisión".
-
-
-
 <a name='Infobae'></a>
 
 ---------------------
@@ -61,9 +56,6 @@ La acusación es por “administración fraudulenta y malversación de caudales 
 <center><img src='https://www.infobae.com/new-resizer/XbfPBNLig-CZ-vOhk9lPz6eOTmQ=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/EFIJC7KWWVPSK2UXP6OOB3MJTA.jpg' width='450'></center>
 [NOTA](https://www.infobae.com/america/eeuu/2021/03/12/estados-unidos-administro-mas-de-100-millones-de-dosis-de-las-vacunas-contra-el-covid-19/) Estados Unidos aplicó más de 100 millones de dosis de las vacunas contra el COVID-19.
 
-<center><img src='https://www.infobae.com/new-resizer/i7m8uVyEWpBhFQIxgSpSTjj3QoY=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/ACRYJNOXUNBYXC2SQBCIJ2YXPA.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/politica/2021/03/13/formosa-fallo-el-calculo-sobre-un-conflicto-grave-pero-lejano-y-asoma-un-costo-en-continuado-para-el-gobierno/) Formosa: falló el cálculo sobre un conflicto grave pero lejano, y asoma un costo en continuado para el Gobierno. Por Eduardo Aulicino.
-
 <a name='Nodal'></a>
 
 ---------------------
@@ -84,9 +76,6 @@ La acusación es por “administración fraudulenta y malversación de caudales 
 
 <center><img src='https://www.nodal.am/2021/03/la-guerra-juridica-lawfare-en-brasil-por-larissa-ramina/' width='450'></center>
 [NOTA](https://www.nodal.am/2021/03/la-guerra-juridica-lawfare-en-brasil-por-larissa-ramina/)  La guerra jurídica: lawfare en Brasil – Por Larissa Ramina  En Brasil, la guerra jurídica se implementó con fines geopolíticos y se justificó en la lucha contra la corrupción. .
-
-<center><img src='https://www.nodal.am/2021/03/julian-assange-y-rafael-correa-dos-casos-de-lawfare-por-baltasar-garzon/' width='450'></center>
-[NOTA](https://www.nodal.am/2021/03/julian-assange-y-rafael-correa-dos-casos-de-lawfare-por-baltasar-garzon/)  Julian Assange y Rafael Correa. Dos casos de Lawfare – Por Baltasar Garzón  La represión y persecución contra la oposición política no ha cesado. En el siglo XXI se ha cambiado la vestimenta. .
 
 <a name='RT'></a>
 
@@ -119,11 +108,6 @@ La acusación es por “administración fraudulenta y malversación de caudales 
                 El impacto de las sanciones al diésel en Venezuela: la culpa que EE.UU. no puede eludir y que es capaz de provocar una catástrofe humanitaria
             .
 
-<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604c080be9ff7124f86018c5.jpg' width='450'></center>
-[NOTA](https://actualidad.rt.com//actualidad/386275-video-momento-arresto-exministros-jeanine-a%C3%B1ez) 
-                VIDEOS: El momento del arresto de dos exministros de Jeanine Áñez acusados por el golpe de Estado contra Evo Morales
-            .
-
 <a name='LaNación'></a>
 
 ---------------------
@@ -143,9 +127,6 @@ La acusación es por “administración fraudulenta y malversación de caudales 
 
 <center><img src='https://bucket3.glanacion.com/anexos/fotos/78/3660878h186.jpg' width='450'></center>
 [NOTA](https://www.lanacion.com.ar/politica/el-gobierno-denuncio-a-mauricio-macri-por-defraudacion-por-el-acuerdo-con-el-fmi-nid13032021/) Acuerdo con el FMI. El Gobierno denunció a Macri por ''defraudación''     Por Santiago Dapelo.
-
-<center><img src='https://bucket1.glanacion.com/anexos/fotos/32/3661032h186.jpg' width='450'></center>
-[NOTA](https://www.lanacion.com.ar/deportes/volvio-facundo-campazzo-lo-que-hizo-contra-memphis-grizzlies-en-el-quinto-triunfo-seguido-de-denver-nid13032021/) VIDEO  Tras tres partidos. Volvió Campazzo y aportó al quinto triunfo seguido de Denver.
 
 <a name='221Digital'></a>
 
@@ -168,16 +149,9 @@ La acusación es por “administración fraudulenta y malversación de caudales 
 <center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615499751300.jpg?x=4&y=75&width=1493&height=746&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=1125&&cw=288&ch=199' width='450'></center>
 [NOTA](https://www.0221.com.ar/nota/2021-3-11-18-53-0-dolor-por-la-muerte-de-un-ex-futbolista-de-estudiantes-y-gimnasia) ROBERTO JOSÉ SANTIAGO: Dolor por la muerte de un ex futbolista de Estudiantes y Gimnasia.
 
-<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615469291225.jpg?x=14&y=12&width=1449&height=725&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=843&&cw=288&ch=199' width='450'></center>
-[NOTA](https://www.0221.com.ar/nota/2021-3-11-10-55-0-video-la-arenga-del-preparador-fisico-del-ruso-zielinski-en-estudiantes-que-se-hizo-viral) Alfonso Meoni: VIDEO: La arenga del preparador físico del Ruso Zielinski en Estudiantes que se hizo viral.
-
 <a name='GoogleNews'></a>
 
 ---------------------
 <H3><center>Google News</center></H3>
  &nbsp;
 
-[<center><img src='https://lh3.googleusercontent.com/fhKMTtIqc-PM3_V2qIyOqvYk9syNTSkqTNgW8irtwxvSivRayKfNJTn1_Yr7rIeg1k7syGSWRxfBp-7wifw=-p-df-h800-w800' width='450'></center>](https://news.google.com/articles/CAIiEL5a-HYOtYqN331DMRnlgIwqGQgEKhAIACoHCAowwOWNCzDbmqADMNSCqgY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  3 claves que explican por qué China restringe sus préstamos a América Latina. BBC News Mundo Hace 14 horas.[<center><img src='https://lh5.googleusercontent.com/proxy/lWWLdSUTkIZMkqcBHjm19sVjxUu2yQasdribitg8aCphnLf__jbtVQjW5os8-bpIkORM5bHvvRuM5qgk72m3amMPfgq_Nwpp3N7hsGpf_AYglPM1sB1_ffYRvBxP2xL8H5Xym1tDOvocorx-sLfhatnXcrKJ6iGbLzpGEw=-p-df-h800-w800' width='450'></center>](https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LmZyYW5jZTI0LmNvbS9lcy9wcm9ncmFtYXMvZWNvbm9tJUMzJUFEYS8yMDIxMDMxMS1waW5hLWd1ZXJyYS1lY29ub21pY2EtY2hpbmEtdGFpd2Fu0gFfaHR0cHM6Ly9hbXAuZnJhbmNlMjQuY29tL2VzL3Byb2dyYW1hcy9lY29ub20lQzMlQURhLzIwMjEwMzExLXBpbmEtZ3VlcnJhLWVjb25vbWljYS1jaGluYS10YWl3YW4?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Economía - La piña de la discordia: las tensiones entre China y Taiwán se trasladan a lo económico. FRANCE 24 Hace 3 días.[<center><img src='https://lh3.googleusercontent.com/kApOPLUXpzE1rHBQxFTdKy2swXbsStucWLCsSgmYKAwbOZyIPR2kkvBQtL1oHVPOr1c4fBHbKHlNVfS90_c=-p-df-h800-w800' width='450'></center>](https://news.google.com/articles/CAIiEFZ2uOOrDtWjKfd3Bve_0RkqGQgEKhAIACoHCAowwJn-CjCamooDMO6h-QU?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Descubiertos cuatro nuevos coronavirus relacionados con el virus de la covid en murciélagos de China. EL PAÍS Hace 50 minutos.
