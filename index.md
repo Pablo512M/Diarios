@@ -1,4 +1,4 @@
-<center><img src='https://pbs.twimg.com/media/EwLm1jcWUAQQizF?format=jpg&name=small' width='450'></center>
+<center><img src='https://photos.google.com/share/AF1QipPHfNZr05Vx3dAy37Qj1FvZd5mHXRVvnjck_XTa5sgOvIlOj2owN6SXjGo1PVfe4A/photo/AF1QipMm2eKcKjr8jmHwutNb5zUM9tKoUX-ilXEgx3qe?key=QUgxTGM1U2dTZlh2UDgxVXBaT1NhdjJhcjFtcFlB' width='450'></center>
 <a name='Página12'></a>
 
 ---------------------
@@ -95,9 +95,9 @@ La acusación es por “administración fraudulenta y malversación de caudales 
                 Un informe denuncia una actividad sin precedentes de EE.UU. en el mar de la China Meridional, con maniobras "muy orientadas al combate"
             .
 
-[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604bc43759bf5b5f630e5c1d.JPG' width=450></center>](https://actualidad.rt.com//actualidad/386247-publican-video-grabado-ataque-terrorista)
-[NOTA](https://actualidad.rt.com//actualidad/386247-publican-video-grabado-ataque-terrorista) 
-                Publican un video grabado tras el ataque "terrorista" sufrido por un buque portacontenedores iraní en el Mediterráneo
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604bb3e359bf5b5efa73a4ef.JPG' width=450></center>](https://actualidad.rt.com//actualidad/385741-todos-ministros-renuncias-pandemia-america-latina)
+[NOTA](https://actualidad.rt.com//actualidad/385741-todos-ministros-renuncias-pandemia-america-latina) 
+                La pandemia como sacudón político: estos son los ministros de Salud que debieron renunciar en América Latina
             .
 
 [<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604becd259bf5b5efa73a552.JPG' width=450></center>](https://actualidad.rt.com//opinion/ociel-ali-lopez/386217-sanciones-diesel-venezuela-eeuu-catastrofe-humanitaria)
@@ -130,14 +130,14 @@ La acusación es por “administración fraudulenta y malversación de caudales 
 <H3><center>221 Digital</center></H3>
  &nbsp;
 
+[<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615634303909.jpeg?x=17&y=226&width=1217&height=608&rotate=0&scaleX=1&scaleY=1&ow=1280&oh=850&&cw=288&ch=199' width=450></center>](https://www.0221.com.ar/nota/2021-3-13-8-0-0-sabado-de-sol-y-temperatura-agradable-en-la-plata)
+[NOTA](https://www.0221.com.ar/nota/2021-3-13-8-0-0-sabado-de-sol-y-temperatura-agradable-en-la-plata) CLIMA: Sábado de sol y temperatura agradable en La Plata.
+
 [<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615595825404.jpg?x=-4&y=105&width=1508&height=754&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=1004&&cw=288&ch=199' width=450></center>](https://www.0221.com.ar/nota/2021-3-13-7-54-0-organizan-una-cata-gratuita-de-plantas-silvestres-en-la-plata)
 [NOTA](https://www.0221.com.ar/nota/2021-3-13-7-54-0-organizan-una-cata-gratuita-de-plantas-silvestres-en-la-plata) DE QUÉ SE TRATA: Organizan una cata gratuita de plantas silvestres en La Plata.
 
 [<center><img src='https://pxb.cdn.0221.com.ar/0221/102018/1539968882732.jpg?x=4&y=8&width=947&height=473&rotate=0&scaleX=1&scaleY=1&ow=960&oh=639&&cw=288&ch=199' width=450></center>](https://www.0221.com.ar/nota/2021-3-13-7-52-0-unos-280-mil-inmuebles-y-rodados-podran-acogerse-al-plan-de-pagos-de-tasas-atrasadas)
 [NOTA](https://www.0221.com.ar/nota/2021-3-13-7-52-0-unos-280-mil-inmuebles-y-rodados-podran-acogerse-al-plan-de-pagos-de-tasas-atrasadas) HASTA EL 31 DE MARZO: Unos 280 mil inmuebles y rodados podrán acogerse al plan de pagos de tasas atrasadas.
-
-[<center><img src='https://pxb.cdn.0221.com.ar/0221/012021/1610648469832.jpg?x=10&y=227&width=1480&height=740&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=1001&&cw=288&ch=199' width=450></center>](https://www.0221.com.ar/nota/2021-3-12-21-21-0-la-plata-sumo-122-casos-nuevos-y-dos-muertes-por-covid-19)
-[NOTA](https://www.0221.com.ar/nota/2021-3-12-21-21-0-la-plata-sumo-122-casos-nuevos-y-dos-muertes-por-covid-19) EMERGENCIA SANITARIA: La Plata sumó 122 casos nuevos y dos muertes por COVID-19.
 
 [<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615591338744.jpg?x=65&y=29&width=1201&height=601&rotate=0&scaleX=1&scaleY=1&ow=1276&oh=630&&cw=288&ch=199' width=450></center>](https://www.0221.com.ar/nota/2021-3-13-7-45-0-estudiantes-y-gimnasia-juntan-donaciones-para-los-afectados-por-los-incendios-en-el-sur)
 [NOTA](https://www.0221.com.ar/nota/2021-3-13-7-45-0-estudiantes-y-gimnasia-juntan-donaciones-para-los-afectados-por-los-incendios-en-el-sur) ¿CÓMO AYUDAR?: Estudiantes y Gimnasia juntan donaciones para los afectados por los incendios en el sur.
@@ -152,12 +152,12 @@ La acusación es por “administración fraudulenta y malversación de caudales 
  &nbsp;
 
 [<center><img src='https://lh3.googleusercontent.com/K9z5KTPyXSexZBRMHUbW3VJ9ZvJ78lYQVArpwMxxfqS5u-E5t8cCZV626YgJnVx6XlYc8AKZexz-fbRffcA=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEL5a-HYOtYqN331DMRnlgIwqGQgEKhAIACoHCAowwOWNCzDbmqADMNSCqgY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  3 claves que explican por qué China restringe sus préstamos a América Latina. BBC News Mundo Hace 16 horas.
+  3 claves que explican por qué China restringe sus préstamos a América Latina. BBC News Mundo Hace 17 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/-_csQ1n9Fc7jPR69R3Za1ASPXsn9mEHYO8At_67F63jx3x1OvwlpaNSbucj7vYpJkAQZ4yl2ktM4tdXXfA=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEFZ2uOOrDtWjKfd3Bve_0RkqGQgEKhAIACoHCAowwJn-CjCamooDMKn_2QU?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Descubiertos cuatro nuevos coronavirus relacionados con el virus de la covid en murciélagos de China. EL PAÍS Hace 3 horas.
+[<center><img src='https://lh3.googleusercontent.com/e8w26ePxo_rH2VWIXtIJ8IpvsOZVZwj7IHQYcmcq1olk8NIb9x4rYU7PhBRmKPCJYh4AQs67njKrmkZAiw=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEFZ2uOOrDtWjKfd3Bve_0RkqGQgEKhAIACoHCAowwJn-CjCamooDMKn_2QU?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Descubiertos cuatro nuevos coronavirus relacionados con el virus de la covid en murciélagos de China. EL PAÍS Hace 4 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/r6ECp-XA0pCQOcEZEZiv6nT0tBsp2vRuk_gEFeks4pjBZRoT_vwLTkvH78rA1edNjA9AQOhYndpETXto4po=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEAvNVRqSn-sUlvQu8wSoYWUqGQgEKhAIACoHCAowwOWNCzDbmqADMILOqQY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+[<center><img src='https://lh3.googleusercontent.com/omTExNWFLOaH0aJcDnhlOk1N6EKosYPu3XEHm8gtxO0UxpdFPOwZ4ntkFRG8KELS39XLdB6uthLF7Ty49lY=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEAvNVRqSn-sUlvQu8wSoYWUqGQgEKhAIACoHCAowwOWNCzDbmqADMILOqQY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   El plan de China y Rusia para construir una estación espacial en la Luna. BBC News Mundo Hace 3 días.
 
 [<center><img src='https://lh3.googleusercontent.com/JDFOyo903E9WGstK0YhI2ZFOKR3h4qDxBngX5M8XJVBZFKzOBoxLmk3OVlgNw9SOE-HfkNgb=w32' width=450></center>](https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvbGEtdWlmLXByZXNlbnRvLXN1LXByb3B1ZXN0YS1wYXJhLWxhLWhpZHJvdmlh0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
@@ -169,3 +169,5 @@ La acusación es por “administración fraudulenta y malversación de caudales 
 [<center><img src='https://lh6.googleusercontent.com/proxy/a2jNUWUF_5XNji9Yt7yVVvCdbOzRbXDF9l-6rZuEKUK9uK4Ic2Ck13s6a-YkzHR34gvci89HlPhymwjCDe7KCGrEGVjIEWB215T9mzM_hJi6oZ9c9pN3XXQmKwGC2dZXKE9qFA=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LmxhcG9saXRpY2FvbmxpbmUuY29tL3NhbnRhLWZlL2hpZHJvdmlhLWxhLWdyYW4tb2JyYS1lc3RyYXRlZ2ljYS1kZS1tZW5lbS1xdWUtdHJhbnNmb3Jtby1sYS1hcmdlbnRpbmEv0gFzaHR0cHM6Ly93d3cubGFwb2xpdGljYW9ubGluZS5jb20vYW1wLzEzMjExMy1oaWRyb3ZpYS1sYS1ncmFuLW9icmEtZXN0cmF0ZWdpY2EtZGUtbWVuZW0tcXVlLXRyYW5zZm9ybW8tbGEtYXJnZW50aW5hLw?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Meoni descartó la estatización de la Hidrovía y lanza una licitación internacional. La Política Online 22 feb..
 
+[<center><img src='https://lh3.googleusercontent.com/proxy/JSwV6GEy-qM_09fTrRYwf3ApvvbV5hheo364jUQk5vM9uvTN3dv7_O1FQpsg7E9WqpKj-LwcEwWWiQHiB6tKrH0sLh0Ozg0flfc7A2OEyGZQxbqyaxbJ0vDyt_aMWPBmA0_leEKWQV4asIk4Cws=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMiSmh0dHBzOi8vd2VicGlja2luZy5jb20vY29zdG9zLWRlLXRyYW5zcG9ydGUtZXNjYWxhbi01Ni1lbi0yMDIwLWVuLXVydWd1YXkv0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Costos de transporte escalan 5,6% en 2020 en Uruguay.
