@@ -1,12 +1,4 @@
-<table><tr>
-<td>[<center><img src='https://www.pagina12.com.ar/assets/media/logos/amp/logo_pagina_12_n.svg?v=1.0.277' width=100></center>](#Página12)</td>
-<td>[<center><img src='https://www.infobae.com/pf/resources/images/logo_infobae_naranja.svg?d=509' width=100></center>](#Infobae)</td>
-<td>[<center><img src='https://www.nodal.am/wp-content/uploads/2020/09/logo-chico.png' width=100></center>](#Nodal)</td>
-<td>[<center><img src='https://pbs.twimg.com/profile_images/1018833905082871808/F7RZerA1_400x400.jpg' width=80></center>](#RT)</td>
-<td>[<center><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_La_Naci%C3%B3n.svg/1280px-Logo_La_Naci%C3%B3n.svg.png' width=100></center>](#LaNación)</td>
-<td>[<center><img src='https://www.0221.com.ar/img/logo_principal.png' width=80></center>](#221Digital)</td>
-<td>[<center><img src='https://victor-mochere.com/wp-content/uploads/2019/10/How-to-get-your-website-included-on-Google-News.jpg' width=100></center>](#GoogleNews)<td>
-</tr></table><a name='Página12'></a>
+[<center><img src='https://www.pagina12.com.ar/assets/media/logos/amp/logo_pagina_12_n.svg?v=1.0.277' width=50></center>](#Página12)[<center><img src='https://www.infobae.com/pf/resources/images/logo_infobae_naranja.svg?d=509' width=50></center>](#Infobae)[<center><img src='https://www.nodal.am/wp-content/uploads/2020/09/logo-chico.png' width=50></center>](#Nodal)[<center><img src='https://pbs.twimg.com/profile_images/1018833905082871808/F7RZerA1_400x400.jpg' width=20></center>](#RT)[<center><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_La_Naci%C3%B3n.svg/1280px-Logo_La_Naci%C3%B3n.svg.png' width=50></center>](#LaNación)[<center><img src='https://www.0221.com.ar/img/logo_principal.png' width=20></center>](#221Digital)[<center><img src='https://victor-mochere.com/wp-content/uploads/2019/10/How-to-get-your-website-included-on-Google-News.jpg' width=50></center>](#GoogleNews)<a name='Página12'></a>
 
 ---------------------
 <H3><center>Página12</center></H3>
