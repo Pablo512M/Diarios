@@ -50,8 +50,8 @@ La acusación es por “administración fraudulenta y malversación de caudales 
 <center><img src='https://www.infobae.com/new-resizer/Y-TQ09pjmUvHkTJz09BJ4RzTmH8=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/4O7W52DEDZED7N5YCPJOEXAW4I.jpeg' width='450'></center>
 [NOTA](https://www.infobae.com/sociedad/2021/03/13/lo-escuche-y-sali-llorando-un-medico-cordobes-y-la-historia-real-que-inspiro-el-flamante-proyecto-de-ley-de-eutanasia/) "Lo escuché y salí llorando": un médico cordobés y la historia real que inspiró el flamante proyecto de ley de eutanasia. Por Gisele Sousa Dias.
 
-<center><img src='https://www.infobae.com/new-resizer/AF0oJUtmBOZkcrvFR9_SPgJ6I64=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/ZQRVAX7VKRDHFBQY6VVOSVIFFA.jpg' width='450'></center>
-[NOTA](https://www.infobae.com/economia/2021/03/13/marcos-santana-y-sebastian-ortega-de-telemundo-el-pais-mas-dificil-para-emprender-y-producir-television-se-llama-argentina/) Marcos Santana y Sebastián Ortega, de Telemundo: "El país más difícil para producir televisión se llama Argentina". Por Ximena Casas.
+<center><img src='https://www.infobae.com/new-resizer/RVe7uY3SoO-v6ZWsBCRZkJrYiWs=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/VQFEHAZBYPPYV6PF6PIPFUOIIQ.jpg' width='450'></center>
+[NOTA](https://www.infobae.com/america/mundo/2021/03/13/las-claves-del-exito-de-israel-en-la-gestion-de-la-pandemia/) Las claves del éxito de Israel en la gestión de la pandemia. Por Damián Pachter.
 
 <a name='Nodal'></a>
 
@@ -59,8 +59,8 @@ La acusación es por “administración fraudulenta y malversación de caudales 
 <H3><center>Nodal</center></H3>
  &nbsp;
 
-<center><img src='https://www.nodal.am/wp-content/uploads/2020/10/Jeanine-Anez-Bolivia-357x210.jpg' width='450'></center>
-[NOTA](https://www.nodal.am/2021/03/bolivia-fiscalia-emite-orden-de-detencion-contra-la-expresidenta-de-facto-jeanine-anez-y-cinco-exministros/)  Bolivia  Fiscalía emite orden de detención contra la expresidenta de facto Jeanine Áñez y cinco exministros  .
+<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/anez-750x430-1-357x210.jpg' width='450'></center>
+[NOTA](https://www.nodal.am/2021/03/bolivia-detienen-a-la-expresidenta-de-facto-jeanine-anez-y-dos-de-sus-ex-ministros-por/)  Bolivia  Detienen a la expresidenta de facto Jeanine Áñez y dos de sus ex ministros por  .
 
 <center><img src='https://www.nodal.am/wp-content/uploads/2021/03/Marcha-Haiti-357x210.jpg' width='450'></center>
 [NOTA](https://www.nodal.am/2021/03/haiti-organizaciones-de-ddhh-exigen-justicia-por-25-mujeres-torturadas-en-prision-civil/)  Haití  Organizaciones de DDHH exigen justicia por 25 mujeres torturadas en prisión civil  .
@@ -140,11 +140,11 @@ La acusación es por “administración fraudulenta y malversación de caudales 
 <center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615568877907.jpeg?x=4&y=82&width=1270&height=635&rotate=0&scaleX=1&scaleY=1&ow=1280&oh=958&&cw=288&ch=199' width='450'></center>
 [NOTA](https://www.0221.com.ar/nota/2021-3-12-13-46-0-el-pichettismo-busca-acomodarse-como-pata-peronista-en-el-oficialismo-de-la-plata) ELECCIONES 2021: El "pichettismo" busca acomodarse como pata peronista en el oficialismo de La Plata.
 
+<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615591338744.jpg?x=65&y=29&width=1201&height=601&rotate=0&scaleX=1&scaleY=1&ow=1276&oh=630&&cw=288&ch=199' width='450'></center>
+[NOTA](https://www.0221.com.ar/nota/2021-3-13-7-45-0-estudiantes-y-gimnasia-juntan-donaciones-para-los-afectados-por-los-incendios-en-el-sur) ¿CÓMO AYUDAR?: Estudiantes y Gimnasia juntan donaciones para los afectados por los incendios en el sur.
+
 <center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615156848299.jpg?x=-3&y=60&width=1507&height=753&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=1000&&cw=288&ch=199' width='450'></center>
 [NOTA](https://www.0221.com.ar/nota/2021-3-12-19-14-0--declaracion-de-amor-el-video-de-deian-veron-que-se-viralizo) FUROR EN LAS REDES: ¿Declaración de amor? El video de Deian Verón sobre una periodista que se viralizó.
-
-<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615499751300.jpg?x=4&y=75&width=1493&height=746&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=1125&&cw=288&ch=199' width='450'></center>
-[NOTA](https://www.0221.com.ar/nota/2021-3-11-18-53-0-dolor-por-la-muerte-de-un-ex-futbolista-de-estudiantes-y-gimnasia) ROBERTO JOSÉ SANTIAGO: Dolor por la muerte de un ex futbolista de Estudiantes y Gimnasia.
 
 <a name='GoogleNews'></a>
 
