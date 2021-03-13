@@ -171,10 +171,10 @@ COPA DE LA LIGA: Estudiantes recibe a Colón con la ilusión de llegar a la punt
   Uruguay recibiÃ³ las primeras 50.000 dosis de la vacuna de Pfizer. TÃ©lam Hace 2 dÃ­as.
 
 [<center><img src='https://lh3.googleusercontent.com/proxy/x59qS77Ac_cegiZgWCZPoMjta0sM6VZRLlr3lB6-rOrMl3C8tD-eTQbYY7jzUnwgnp1FlgTptkmVJEKopelsrEPJVSMr2q9ZdV0ojh7T2e1KYrwi81tK-1ODfGimFNhwqHilZQ=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiECGI-UZvItnucJBV6D4eFykqGQgEKhAIACoHCAowmYaVCzDS4KoDMNmTzwY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Paraguay analiza nuevas restricciones ante una situación de virtual colapso. Télam Hace 23 horas.
+  Paraguay analiza nuevas restricciones ante una situación de virtual colapso. Télam Ayer.
 
-[<center><img src='https://lh3.googleusercontent.com/chmg59efXz7GbRg6YH59id9byPXPWMYoP6va9qVjhTmTlItEiRDJS9PoAiqe9ZAu0rvOKPn4k01Il5BCG6sO=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEFvKWDJbl-uBCuXG1XvNt1MqGQgEKhAIACoHCAowwfehCTDkrpcCMJKcvwM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Detienen en Bolivia a la expresidenta Jeanine Áñez por el “caso golpe de Estado” contra Evo Morales. BBC News Mundo Hace 7 horas.
+[<center><img src='https://lh3.googleusercontent.com/proxy/6y5-2hj3B25gPMlF0Kte7ER8xJHvD-UR2UFplxtm-YqujtVkc0-X75lrSsG2khk5N7I0Iv6wD9riuTD-TgSHZJZCDMzVIc6omdgMoWldcN5kg5TFBkXSkhPQXIFRLBh2QES2zw=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEFvKWDJbl-uBCuXG1XvNt1MqGQgEKhAIACoHCAowwfehCTDkrpcCMJKcvwM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  La expresidenta de facto Áñe, está detenida en La Paz y declarará por el golpe. Télam Hace 1 hora.
 
 [<center><img src='https://lh4.googleusercontent.com/proxy/F2kb28FklgaX6rKB0ScZIFLI4Z_82HzWV2Vw3n49_IYiGAYZ-pXW3aCPKO6rhFyJy1k1S0R1_MKhzotNOGP1Htx8TuWN8dEgyGgtwAmrv_TA-Yd3iq6kay_d454umg_pupkw5-4Cm6akelviU1JoH96bC3eGvpX3kFlMkE-7_yO5=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMifGh0dHBzOi8vd3d3LnBsYXRhZm9ybWFhcnF1aXRlY3R1cmEuY2wvY2wvOTU4MzQ5L3Jlc3RhdXJhY2lvbi15LWNvbnNlcnZhY2lvbi1kZS1sYS1jb2NpbmEtdHJhZGljaW9uYWwtb3RvbWktZW4taGlkYWxnby1tZXhpY2_SAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Restauración y conservación de la cocina tradicional otomí en Hidalgo, México. Plataforma Arquitectura Hace 23 horas.
