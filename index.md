@@ -80,16 +80,16 @@ La disputa judicial por los 540 millones de dólares de la herencia de Franco Ma
  &nbsp;
 
 [<center><img src='https://www.infobae.com/new-resizer/ESVoc4dUMejwHCdbc9c0Bb_7iS4=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/IMBQ4WMO6NC5HNIAWTWDJYHBFQ' width=650></center>](https://www.infobae.com/america/deportes/2021/03/14/boca-river-un-superclasico-clave-para-la-copa-de-la-liga-hora-tv-y-formaciones/)
-River y Boca empataron con goles de Villa y Palavecino en un partido clave para la Copa de la LigaIgualaron 1-1. Carlos Zambrano y Milton Casco se fueron expulsados. Por Sebastián Catalano.
+Boca y River protagonizaron un Superclásico apasionante y empataron en la BomboneraIgualaron 1-1. Sebastián Villa abrió la cuenta de penal para el local y Agustín Palavecino dispuso la paridad. Zambrano y Milton Casco se fueron expulsados. Por David Cayón.
 
-[<center><img src='https://www.infobae.com/new-resizer/WRIM8o9jpM_Yxlst5vxi3H9f9h8=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/6Z4KSUEJGRCY3LJOQQXQW7LCX4.jpg' width=650></center>](https://www.infobae.com/deportes/2021/03/14/la-jugada-milagrosa-del-superclasico-entre-boca-y-river-que-dejo-estupefacto-a-riquelme/)
-ESPNLa jugada milagrosa del Superclásico que sufrieron Riquelme y GallardoVIDEO.
+[<center><img src='https://www.infobae.com/new-resizer/HFsiShujQl25gbUPpe90MIB9Ueo=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/IV7KXJ7U7ZFZ7FDI3OQTRCQBNY.jpg' width=650></center>](https://www.infobae.com/sociedad/2021/03/14/con-mas-de-80-vuelos-programados-reabrira-aeroparque-todos-los-detalles-de-la-remodelacion/)
+Con más de 80 vuelos programados, mañana reabrirá Aeroparque luego de una amplia remodelación VIDEO.
+
+[<center><img src='https://www.infobae.com/new-resizer/twOuYDEFEDgGfQUbDf_VIudt6ZY=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/7EVHF63FXJG5HBAJJ4EN6WIIHY.jpg' width=650></center>](https://www.infobae.com/america/deportes/2021/03/14/angel-di-maria-abandono-de-urgencia-el-partido-del-psg-por-un-robo-y-secuestro-de-un-familiar-en-su-hogar/)
+Di María abandonó de urgencia el partido del PSG por un robo y secuestro de un familiar en su hogarVIDEO.
 
 [<center><img src='https://www.infobae.com/new-resizer/fKGGbnTggzxAYLSPBydvlNNJpzg=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/UC56TAQ6UJAY3OV4234QUBHIVM.jpg' width=650></center>](https://www.infobae.com/america/deportes/espn/2021/03/14/que-paso-en-el-banco-de-suplentes-de-river-con-un-microfono-y-la-charla-tecnica-a-segundos-de-comenzar-el-partido-de-gallardo/)
-ESPNQué pasó en el banco de suplentes de River con un micrófonoVIDEO.
-
-[<center><img src='https://www.infobae.com/new-resizer/oLcA4qQYx4S8Rrnuyxmu_CyNLjU=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/SH3EMADJVARIFAFI65OO7F7KFI.jpg' width=650></center>](https://www.infobae.com/america/deportes/espn/2021/03/14/por-que-facundo-tello-acerto-en-sancionar-penal-para-boca-por-falta-de-paulo-diaz-a-capaldo/)
-. Por qué Facundo Tello acertó en sancionar penal para Boca por falta de Paulo Díaz a CapaldoVIDEO.
+Qué pasó en el banco de suplentes de River con un micrófono y qué dijo Gallardo antes del partido VIDEO.
 
 [<center><img src='https://www.infobae.com/new-resizer/2U8AOyAJhMkVpDHVhIDDhTJESes=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/UQQF5A5EIBFHJHCROYW37GLCBE.jpg' width=650></center>](https://www.infobae.com/america/deportes/espn/2021/03/14/franco-armani-le-tapo-un-mano-a-mano-imposible-a-carlos-tevez-en-el-superclasico/)
 Las dos atajadas imposibles de Franco Armani en el SuperclásicoVIDEO.
@@ -175,7 +175,7 @@ El Calafate. Cacerolazo en la casa de Cristina Kirchner     Por Mariela Arias.
 [<center><img src='https://lh3.googleusercontent.com/JDFOyo903E9WGstK0YhI2ZFOKR3h4qDxBngX5M8XJVBZFKzOBoxLmk3OVlgNw9SOE-HfkNgb=w32' width=650></center>](https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LjE2dmFsdnVsYXMuY29tLmFyL3ZvbGtzd2FnZW4tdGFsYWdvbi1hc2ktZXMtZWwtZW5vcm1lLXN1di1kZS01MTUtbWV0cm9zLWRlLWxhcmdvLWV4Y2x1c2l2by1wYXJhLWNoaW5hL9IBAA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Llega un millón de vacunas de la china Sinovac. La Jornada Hace 9 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/X8Wh-v5SOSRSy5kZxIGiPwsO4M8IIbY1h1tMtnrgSF79ChSeOaoCl7Jm9x9B7HDPUHqIGurrb5ywxExauA=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEMBXhej84XdttFapcSsK8rsqFwgEKg4IACoGCAowyPhzMO2BDDDCt60D?uo=CAUilgFodHRwczovL3d3dy5pbmZvYmFlLmNvbS9hbWVyaWNhL2FnZW5jaWFzLzIwMjEvMDMvMTQvZG9sYXItaG95LWVuLXVydWd1YXktY290aXphY2lvbi1kZWwtcGVzby11cnVndWF5by1hbC1kb2xhci1lc3RhZG91bmlkZW5zZS1kZWwtMTQtZGUtbWFyem8tdXNkLXV5dS_SAQA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+[<center><img src='https://lh3.googleusercontent.com/dp0Y2_7fSoh2H5smXADvkL44jOEcGdXLav9lNOEWYXs0E1HU6XxuXEmlDpJ6E2I-wNclfKQ8LPcmokBYzw=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEJZaMK3MgC2GnssHCZzM5ygqFwgEKg4IACoGCAowyPhzMO2BDDDCt60D?uo=CAUidGh0dHBzOi8vd3d3LmluZm9iYWUuY29tL2FtZXJpY2EvYWdlbmNpYXMvMjAyMS8wMy8xNC91cnVndWF5LWFsY2FuemEtdW4tbnVldm8tcmVjb3JkLWRlLWNhc29zLWRpYXJpb3MtZGUtbGEtY292aWQtMTkv0gEA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Uruguay entre los diez países del mundo que más dosis diarias dieron cada 100 personas. El País Uruguay  Hace 3 horas.
 
 [<center><img src='https://lh6.googleusercontent.com/proxy/HWxMZHItTQ2JrBE-3z8GV-N09_xKvS1SGOZmrEOAw4y0uMWE30LtKQ8Jlu5QP-01qAaleDkWjXJXovALy4cAzFtrWaleoVT-m9zx_R7w5wXfj2Oc9HGolrw14VI=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMibGh0dHBzOi8vY2hlcXVlYWRvLmNvbS9lbC1leHBsaWNhZG9yL3ZlaW50ZS1wcmVndW50YXMteS1yZXNwdWVzdGFzLXNvYnJlLWxhLXZhY3VuYWNpb24tY29udHJhLWVsLWNvcm9uYXZpcnVzL9IBcGh0dHBzOi8vY2hlcXVlYWRvLmNvbS9lbC1leHBsaWNhZG9yL3ZlaW50ZS1wcmVndW50YXMteS1yZXNwdWVzdGFzLXNvYnJlLWxhLXZhY3VuYWNpb24tY29udHJhLWVsLWNvcm9uYXZpcnVzL2FtcC8?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
@@ -202,13 +202,13 @@ PANDEMIA: ¿Es posible que La Plata y la provincia vuelvan a Fase 1?.
 PRONÓSTICO EXTENDIDO: Día por día, así va a estar el clima durante la semana en La Plata.
 
 [<center><img src='https://lh3.googleusercontent.com/jzKGPFJlDRhHHcdcV60RrhN4CEMcPd0AOtkCOQBIQFQW3GBvVjS4C14W2rG1sTat2Jc2nuvmyvMDFtJdGPU=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEOmFYvR2iBEA9ilpD0U622QqGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?uo=CAUikQFodHRwczovL3d3dy5lbGRpYS5jb20vbm90YS8yMDIxLTMtMTQtMTUtNTEtMC12aWRlby0tLWFzaS1kZXNhcnRpY3VsYWJhbi1sYXMtZmllc3Rhcy1jbGFuZGVzdGluYXMtZW4tbGEtcGxhdGEtZW5vcm1lLWNhbnRpZGFkLWRlLWpvdmVuZXMtbGEtY2l1ZGFk0gEA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Así desarticularon las fiestas clandestinas en La Plata: video de la salida de los jóvenes. Diario El Dia Hace 32 minutos.
+  Así desarticularon las fiestas clandestinas en La Plata: video de la salida de los jóvenes. Diario El Dia Hace 40 minutos.
 
 [<center><img src='https://lh3.googleusercontent.com/proxy/VDF8D5addjhpayKlnIN3YLUIsalp-sk6dthdM-w1PLrjIKlVjICmGMrRDD8V3QZOZMpCwZkuoWu4Dwo9VtuS6yDKQQk3V6FKmNA=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LmVsZGlhLmNvbS9ub3RhLzIwMjEtMy0xNC03LTU2LTAtZWwtZG9taW5nby1lbi1sYS1wbGF0YS1jb24tdGVtcGVyYXR1cmEtYWdyYWRhYmxlLXktY2llbG8tbnVib3NvLWxhLWNpdWRhZNIBeWh0dHBzOi8vd3d3LmVsZGlhLmNvbS9ub3RhLzIwMjEtMy0xNC03LTU2LTAtZWwtZG9taW5nby1lbi1sYS1wbGF0YS1jb24tdGVtcGVyYXR1cmEtYWdyYWRhYmxlLXktY2llbG8tbnVib3NvLWxhLWNpdWRhZC9hbXA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   El domingo en La Plata, con temperatura agradable y cielo nuboso. Diario El Día Hace 12 horas.
 
 [<center><img src='https://lh3.googleusercontent.com/92ePSWPVIorRY5i_TrUoDwCpZTn24WCzfZhpTa3yAYO0cXHo2rcitQQ922lD3IIi8-QadtfMUOiLGomsrN4=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiENpCGYw9whh89PDROEZ6yNIqGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?uo=CAUia2h0dHBzOi8vd3d3LmVsZGlhLmNvbS9ub3RhLzIwMjEtMy0xNC02LTAtMzctcGxhbnRhcm9uLW51ZXZvcy10aWxvcy1lbi1sYS1hdmVuaWRhLTEzLWRlc2RlLTcyLWEtNzYtbGEtY2l1ZGFk0gEA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Plantaron nuevos tilos en la avenida 13 desde 72 a 76. Diario El Dia Hace 32 minutos.
+  Plantaron nuevos tilos en la avenida 13 desde 72 a 76. Diario El Dia Hace 40 minutos.
 
  &nbsp;
 
@@ -223,4 +223,4 @@ PRONÓSTICO EXTENDIDO: Día por día, así va a estar el clima durante la semana
  &nbsp;
 
 [<center>Volver al Inicio</center>](#index) &nbsp;
-[<center><img src='https://media1.tenor.com/images/976701e0ec872990cea93b1c44aaa3cf/tenor.gif' width=650></center>](#index)
+[<center><img src='https://media1.tenor.com/images/976701e0ec872990cea93b1c44aaa3cf/tenor.gif' width=150></center>](#index)
