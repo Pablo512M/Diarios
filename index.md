@@ -6,6 +6,7 @@
  &nbsp;
  &nbsp;
  &nbsp;
+ &nbsp;
 <a name='Página12'></a>
 
 ---------------------
@@ -141,7 +142,7 @@ ALERTA EN LA REGIÓN: Garro habló del incendio en el Parque Pereyra y pidió qu
 ALARMA: Denuncian que el peligroso incendio el Parque Pereyra Iraola "fue intencional".
 
 [<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615683320269.jpg?x=1&y=37&width=1499&height=749&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=996&&cw=288&ch=199' width=450></center>](https://www.0221.com.ar/nota/2021-3-13-9-42-0-estudiantes-recibe-a-colon-con-la-ilusion-de-llegar-a-la-punta)
-0 A 0: El Pincha ya se mide con Colón y se ilusiona con llegar a la punta.
+1 A 0: Colón sorprendió a Estudiantes y se fue al descanso arriba por la mínima.
 
 [<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615591338744.jpg?x=65&y=29&width=1201&height=601&rotate=0&scaleX=1&scaleY=1&ow=1276&oh=630&&cw=288&ch=199' width=450></center>](https://www.0221.com.ar/nota/2021-3-13-7-45-0-estudiantes-y-gimnasia-juntan-donaciones-para-los-afectados-por-los-incendios-en-el-sur)
 ¿CÓMO AYUDAR?: Estudiantes y Gimnasia juntan donaciones para los afectados por los incendios en el sur.
@@ -155,8 +156,8 @@ ALARMA: Denuncian que el peligroso incendio el Parque Pereyra Iraola "fue intenc
 [<center><img src='https://lh3.googleusercontent.com/VX8Q4Sqs999FTLNBrTm3oNX_j5rgbF0WwNbUO4NkVzy5CDqDl0rrKrZoOyF9VwOU382wpZvxspCuX_gToUQ=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEL5a-HYOtYqN331DMRnlgIwqGQgEKhAIACoHCAowwOWNCzDbmqADMNSCqgY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   3 claves que explican por qué China restringe sus préstamos a América Latina. BBC News Mundo Ayer.
 
-[<center><img src='https://lh4.googleusercontent.com/proxy/dEBpzx3PVENluR04petHKO0eDK-qmV6vNeEphIo3-p0eJPZQ02I8UFqKDgCCcVdD9qCCb5NKg8kM0_e63sA5wpkKPs7tmr2M6bij9ZPqG2YgI6cE0-Kt5RZj-dHgnMK0evSAlsMzUh0XXCAK_g=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMif2h0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvZWwtZ29iaWVybm8tbmFjaW9uYWwtYXZhbnpvLWVuLWVsLWFjdWVyZG8tY29uLWxhLWVtcHJlc2EtY2hpbmEtY21lYy1wYXJhLWNvbnRpbnVhci1jb24tbGHSAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  El Gobierno Nacional avanzó en el acuerdo con la empresa china CMEC para continuar con la modernización de la línea Belgrano de Trenes Argentinos Cargas. Argentina.gob.ar Presidencia de la Nación Hace 12 horas.
+[<center><img src='https://lh3.googleusercontent.com/proxy/1NZdN5QFFS4tlQIQYUkc4m9OYsHGhPxDkmMScCKm4VTuP2yCHfHDjCnEHY_--ZDhimD_-lB9pR_0k66tBmKelRHhtKBVaeymrMoUmySVQzMsU2j4CMN7EAtzcMcV-aOlpM8BsvWayPlksqW8UQE8-E5nGGdmRLF-rwQAjfiOpYuEIyhQ1FYN=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMiT2h0dHBzOi8vd3d3LnBhZ2luYTEyLmNvbS5hci8zMjg4NjMtY29tby1oaXpvLWNoaW5hLXBhcmEtZXJyYWRpY2FyLWxhLWluZGlnZW5jaWHSAU9odHRwczovL3d3dy5wYWdpbmExMi5jb20uYXIvMzI4ODYzLWNvbW8taGl6by1jaGluYS1wYXJhLWVycmFkaWNhci1sYS1pbmRpZ2VuY2lh?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Cómo hizo China para erradicar la indigencia. Página 12 Hace 6 horas.
 
 [<center><img src='https://lh3.googleusercontent.com/vwjrPieB4-xlQHl0gMlZMYgdAYTjbbNZSd0zBb-oPo7HDKCN_vg3UEmIPoGnchMZGxqybcNLYJUzKVdMDiQ=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEC3OZgPAonXR-jYwTHdumQMqFwgEKg4IACoGCAowyPhzMO2BDDDCt60D?uo=CAUihQFodHRwczovL3d3dy5pbmZvYmFlLmNvbS9hbWVyaWNhL2FnZW5jaWFzLzIwMjEvMDMvMTMvdXJ1Z3VheS1jdW1wbGUtdW4tYW5vLWRlLXBhbmRlbWlhLWNvbi1zdS1zZWd1bmRhLW9sYS15LWNlbnRyYWRvLWVuLWxhLXZhY3VuYWNpb24v0gEA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Uruguay lanza paracaidistas desde sus nuevos aviones KC-130H Hercules - Noticias Infodefensa AmÃ©rica. Infodefensa.com Hace 14 horas.
@@ -182,7 +183,6 @@ ALARMA: Denuncian que el peligroso incendio el Parque Pereyra Iraola "fue intenc
 
  &nbsp;
 
-[<center>Volver al Inicio</center>](#index)[<center><img src='https://i.pinimg.com/originals/74/a6/e3/74a6e30af664e72eed446f719393fdba.jpg' width=450></center>](#index)
+[<center>Volver al Inicio</center>](#index) &nbsp;
+[<center><img src='https://i.pinimg.com/originals/74/a6/e3/74a6e30af664e72eed446f719393fdba.jpg' width=450></center>](#index)
  &nbsp;
- &nbsp;
-[<center>Volver al Inicio</center>](#index)
