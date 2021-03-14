@@ -3,11 +3,17 @@
  &nbsp;
 <center><img src='https://lh3.googleusercontent.com/pw/ACtC-3eNCk9bgwdlPyke2A1hsQF62sJQHtC4_skw9zrZDmFKG6GE5Jj7UjC0L1WdrUh4y-s0jzW6aeD4UFzHCjwgTyMGHPIHD7bUVtIC-5EDIEYMz7s-LLCk3Rik5UZPj0Mpxc0YtyZkn7-CqxByA-fhQPlG=w710-h1000-no' width='450'></center>
  &nbsp;
+
  &nbsp;
+
  &nbsp;
+
  &nbsp;
+
  &nbsp;
+
  &nbsp;
+
 [<center><img src='https://lh5.googleusercontent.com/proxy/pTsyJSMexRVOexvTPiBI18mtNdHPBB8VqKGIrQ211WXmN5btVZ8Ad2FlLG-KeO-zxfeHIqt0fCuCfKC-8d3m_zLUxOsKhl1622qv-PNeU1hqYPzNYahFTpsk8p8=-p-df-h800-w800' width=850></center>](https://news.google.com/articles/CBMiKGh0dHBzOi8vd3d3LmVsY29oZXRlYWxhbHVuYS5jb20vcmF5YWR4cy_SAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Rayadxs. elcohetealaluna.com Hace 2 horas.
 
@@ -106,11 +112,11 @@ La Policía de Bolivia captura a la expresidenta de facto Jeanine Áñez.
 [<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604d1448e9ff71278d5edb02.jpg' width=850></center>](https://actualidad.rt.com//actualidad/386327-expresidenta-facto-bolivia-esconderse-somier)
 La expresidenta de facto de Bolivia se estaba escondiendo dentro de un somier en la casa de sus familiares cuando fue encontrada por la Policía.
 
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604da048e9ff714b44762435.JPG' width=850></center>](https://actualidad.rt.com//actualidad/386349-investigacion-asedio-mas-grandes-historia-eeuu)
+La investigación del asedio al Capitolio podría convertirse en una de las más grandes en la historia de EE.UU..
+
 [<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604c8d3de9ff7124f860191a.jpg' width=850></center>](https://actualidad.rt.com//actualidad/386298-inaugurar-lago-baikal-telescopio-neutrinos)
 Inauguran en el fondo del lago Baikal un gran observatorio de neutrinos que ayudará a "entender cómo funciona el universo".
-
-[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604ce122e9ff71278d5edae4.jpg' width=850></center>](https://actualidad.rt.com//actualidad/386311-wsj-israel-ataco-docena-barcos-petroleo-irani)
-WSJ: Israel atacó al menos a una docena de barcos que transportaban petróleo o armas iraníes desde finales de 2019.
 
 <a name='LaNación'></a>
 
@@ -118,18 +124,19 @@ WSJ: Israel atacó al menos a una docena de barcos que transportaban petróleo o
 <H3><center>La Nación</center></H3>
  &nbsp;
 
-Chubut. ''Lo llevaron a la boca del lobo'', un ministro apuntó contra la custodia       El titular de la Seguridad provincial se desligó de la responsabilidad del ataque y acusó al intendente de Lago Puelo y a un diputado de haber modificado el itinerario.
+[<center><img src='https://bucket3.glanacion.com/anexos/fotos/37/3662237h373.jpg' width=850></center>](https://www.lanacion.com.ar/politica/fernandez-en-su-laberinto-tras-un-fuerte-desgaste-define-en-soledad-el-cambio-en-justicia-nid14032021/)
+Laberinto. Fernández, entre el desgaste y la presión por un cargo crítico       El Presidente anunció la salida de Losardo y su entorno quedó atónito; necesita un ministro propio para recuperar autoridad; Marisa Herrera parece ser quien encabeza la lista          Por S. Dapelo y M. Jastreblansky.
 
-En Twitter. El mensaje de Fernández tras el ataque que sufrió en Chubut.
+[<center><img src='https://bucket1.glanacion.com/anexos/fotos/40/3662240h186.jpg' width=850></center>](https://www.lanacion.com.ar/politica/la-soledad-de-alberto-fernandez-y-la-ansiedad-del-kirchnerismo-nid14032021/)
+Caso Losardo. La soledad de Alberto Fernández y la ansiedad del kirchnerismo         Por Martín Rodríguez Yebra.
 
-[<center><img src='https://bucket1.glanacion.com/anexos/fotos/22/3662022h186.jpg' width=850></center>](https://www.lanacion.com.ar/politica/carta-un-mensaje-al-papa-unio-a-referentes-de-todo-el-arco-politico-nid13032021/)
-Carta. Referentes de todo el arco político se unieron en un mensaje al Papa.
+Cristina quiere una monarquía electiva        Joaquín Morales Solá.
 
-[<center><img src='https://bucket3.glanacion.com/anexos/fotos/59/3662059h186.jpg' width=850></center>](https://www.lanacion.com.ar/sociedad/enojo-al-volver-al-pais-en-pandemia-en-ezeiza-nadie-nos-pidio-el-test-pcr-ni-nada-nid13032021/)
-En Ezeiza. Enojo al volver al país en pandemia. ''¡Nadie nos pidió nada!"     Por Pablo Mannino.
+[<center><img src='https://bucket3.glanacion.com/anexos/fotos/66/3662266h186.jpg' width=850></center>](https://www.lanacion.com.ar/politica/libro-el-dia-que-macri-evaluo-el-plan-v-y-las-razones-por-las-que-lo-descarto-nid14032021/)
+Libro. Macri revela por qué descartó el ''plan V'' y critica al ''círculo rojo''.
 
-[<center><img src='https://bucket3.glanacion.com/anexos/fotos/86/3661986h186.jpg' width=850></center>](https://www.lanacion.com.ar/buenos-aires/coronavirus-un-vuelo-regreso-de-mexico-con-44-egresados-contagiados-nid13032021/)
-Coronavirus. Un vuelo regresó desde México con 44 egresados contagiados.
+[<center><img src='https://bucket1.glanacion.com/anexos/fotos/91/3662091h186.jpg' width=850></center>](https://www.lanacion.com.ar/sociedad/covid-positividad-un-indicador-que-aun-genera-grietas-en-los-expertos-nid13032021/)
+Covid. Positividad, un indicador que aún genera ''grietas'' en los expertos     Por Gabriela Navarra.
 
 <a name='221Digital'></a>
 
@@ -164,11 +171,11 @@ HORA, TV Y FORMACIONES: Estudiantes recibe a Colón con la ilusión de llegar a 
 [<center><img src='https://lh4.googleusercontent.com/proxy/dEBpzx3PVENluR04petHKO0eDK-qmV6vNeEphIo3-p0eJPZQ02I8UFqKDgCCcVdD9qCCb5NKg8kM0_e63sA5wpkKPs7tmr2M6bij9ZPqG2YgI6cE0-Kt5RZj-dHgnMK0evSAlsMzUh0XXCAK_g=-p-df-h800-w800' width=850></center>](https://news.google.com/articles/CBMif2h0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvZWwtZ29iaWVybm8tbmFjaW9uYWwtYXZhbnpvLWVuLWVsLWFjdWVyZG8tY29uLWxhLWVtcHJlc2EtY2hpbmEtY21lYy1wYXJhLWNvbnRpbnVhci1jb24tbGHSAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   El Gobierno Nacional avanzó en el acuerdo con la empresa china CMEC para continuar con la modernización de la línea Belgrano de Trenes Argentinos Cargas. Argentina.gob.ar Presidencia de la Nación Hace 16 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/Df_slrKGhAPwAdCqgDtiuFMtbqrAR1fOjfwN8PLkAyqbAOOeQlWq1Rc70WmxVL3g89It9C5OrNE4eQFtSV0=-p-df-h800-w800' width=850></center>](https://news.google.com/articles/CAIiEC3OZgPAonXR-jYwTHdumQMqFwgEKg4IACoGCAowyPhzMO2BDDDCt60D?uo=CAUihQFodHRwczovL3d3dy5pbmZvYmFlLmNvbS9hbWVyaWNhL2FnZW5jaWFzLzIwMjEvMDMvMTMvdXJ1Z3VheS1jdW1wbGUtdW4tYW5vLWRlLXBhbmRlbWlhLWNvbi1zdS1zZWd1bmRhLW9sYS15LWNlbnRyYWRvLWVuLWxhLXZhY3VuYWNpb24v0gEA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+[<center><img src='https://lh3.googleusercontent.com/7g_q7XI07rojsleey-1QO9xxTZSOBYrLtyGUfVsdMdzWGS-nWL3Kbi5qTe9l-0pmRATkwT8Lgchz2LKUWjs=-p-df-h800-w800' width=850></center>](https://news.google.com/articles/CAIiEC3OZgPAonXR-jYwTHdumQMqFwgEKg4IACoGCAowyPhzMO2BDDDCt60D?uo=CAUihQFodHRwczovL3d3dy5pbmZvYmFlLmNvbS9hbWVyaWNhL2FnZW5jaWFzLzIwMjEvMDMvMTMvdXJ1Z3VheS1jdW1wbGUtdW4tYW5vLWRlLXBhbmRlbWlhLWNvbi1zdS1zZWd1bmRhLW9sYS15LWNlbnRyYWRvLWVuLWxhLXZhY3VuYWNpb24v0gEA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Uruguay lanza paracaidistas desde sus nuevos aviones KC-130H Hercules - Noticias Infodefensa AmÃ©rica. Infodefensa.com Hace 9 horas.
 
 [<center><img src='https://lh6.googleusercontent.com/proxy/30flCCehKRv6WEq3AgSHFulmGki9btNiGLe2QEivz19LqDixJJmQBXTBMCOqQWmQbzpOkNyR5mYj8TKnKTRmEYrmCO5PVKg4Eyy85-LdMe3yKn-7T9N4n4EkEoPtngfCtcRsnnFg=-p-df-h800-w800' width=850></center>](https://news.google.com/articles/CBMinQFodHRwczovL2NoZXF1ZWFkby5jb20vZWwtZXhwbGljYWRvci9sYS1vbXMtYXNlZ3VyYS1xdWUtbm8taGF5LXJhem9uLXBhcmEtZGVqYXItZGUtdXNhci1sYS12YWN1bmEtZGUtYXN0cmF6ZW5lY2EteS1veGZvcmQtdHJhcy1sYS1zdXNwZW5zaW9uLWVuLXZhcmlvcy1wYWlzZXMv0gGhAWh0dHBzOi8vY2hlcXVlYWRvLmNvbS9lbC1leHBsaWNhZG9yL2xhLW9tcy1hc2VndXJhLXF1ZS1uby1oYXktcmF6b24tcGFyYS1kZWphci1kZS11c2FyLWxhLXZhY3VuYS1kZS1hc3RyYXplbmVjYS15LW94Zm9yZC10cmFzLWxhLXN1c3BlbnNpb24tZW4tdmFyaW9zLXBhaXNlcy9hbXAv?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  La OMS asegura que no hay razón para dejar de usar la vacuna de AstraZeneca y Oxford, tras la suspensión en varios países. Chequeado Hace 10 horas.
+  La OMS asegura que no hay razón para dejar de usar la vacuna de AstraZeneca y Oxford, tras la suspensión en varios países. Chequeado Hace 11 horas.
 
 [<center><img src='https://lh3.googleusercontent.com/g1qdRDyLJXAPvRir41nWKRKaP2kDO9hyD2biryvQJJWfFqr4KLgOLLewRETPzSdzmkEQJBDyFQLEdG_hCRA=-p-df-h800-w800' width=850></center>](https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LmVsY29uZmlkZW5jaWFsLmNvbS90ZWNub2xvZ2lhL25vdmFjZW5vLzIwMjEtMDMtMTMvdGVzbGEtc3BhY2V4LWh5dW5kYWktc3RhcmlhLWNvY2hlLWVsZWN0cmljb18yOTg5OTIwL9IBdmh0dHBzOi8vd3d3LmVsY29uZmlkZW5jaWFsLmNvbS9hbXAvdGVjbm9sb2dpYS9ub3ZhY2Vuby8yMDIxLTAzLTEzL3Rlc2xhLXNwYWNleC1oeXVuZGFpLXN0YXJpYS1jb2NoZS1lbGVjdHJpY29fMjk4OTkyMC8?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Starship de SpaceX: el prototipo de nave espacial de Elon Musk consigue aterrizar pero poco después se incendió y explotó. BBC News Mundo Hace 10 días.
