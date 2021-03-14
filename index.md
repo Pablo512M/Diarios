@@ -49,11 +49,11 @@ Murió Maximiliano Djerfy, ex guitarrista de Callejeros Tenía 46 años.
 <H3><center>Infobae</center></H3>
  &nbsp;
 
-[<center><img src='https://www.infobae.com/new-resizer/GrtA60lk6SFHs46eV5XxDOSMXNA=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/YN6VJKQKLNCPVBCSBSRRUY2ZWE.jpg' width=450></center>](https://www.infobae.com/economia/2021/03/13/desolado-y-con-oficinas-y-locales-vacios-el-microcentro-porteno-se-podra-reconvertir-en-un-barrio-residencial/)
-Desolado y con oficinas y locales vacíos: ¿el Microcentro porteño se podrá reconvertir en un barrio residencial?En el sector inmobiliario apuestan a que pueda transformarse en una zona de viviendas en alquiler, hoy tan escasas. Advierten que se requieren iniciativas del gobierno porteño, con exenciones impositivasVIDEOS.
+[<center><img src='https://www.infobae.com/new-resizer/cpLIUVNh6k9GhZkHiNvOAQ4MB_I=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/MXFVZV55G5GDLIWOGMDMVHMVGA.jpg' width=450></center>](https://www.infobae.com/sociedad/2021/03/14/referentes-de-todo-el-arco-politico-y-social-empresarios-e-intelectuales-se-unieron-para-saludar-a-francisco-por-su-octavo-aniversario-de-papado/)
+Referentes de todo el arco político y social, empresarios e intelectuales se unieron para saludar a Francisco por su octavo aniversario“Queremos que sepas que los argentinos y las argentinas te valoramos mucho. Valoramos enormemente tu tenaz trabajo por la paz y la justicia en todo el mundo”, sostiene la cartaVIDEOS.
 
-[<center><img src='https://www.infobae.com/new-resizer/Zst9Ae8gNdPB0sXDYdtuKnqTOyw=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/L5UDS7O77SBS5MV4GGKIHW7JN4.jpg' width=450></center>](https://www.infobae.com/politica/2021/03/13/el-mensaje-de-alberto-fernandez-tras-la-agresion-estoy-seguro-de-que-esa-violencia-no-es-compartida-por-el-pueblo-chubutense/)
-El mensaje de Alberto Fernández tras la agresión que sufrió en Chubut. Por Eduardo Menegazzi.
+[<center><img src='https://www.infobae.com/new-resizer/vmIHzGLb5f67x9_KqQJkFOROU_E=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/7C7NBMZUUJGI5NEQYIXLMAB2PM.jpg' width=450></center>](https://www.infobae.com/america/eeuu/2021/03/14/estados-unidos-aplico-45-millones-de-dosis-de-vacunas-contra-el-covid-19-en-un-dia/)
+Estados Unidos aplicó 4,5 millones de dosis de vacunas contra el COVID-19 en un día. Por Eduardo Menegazzi.
 
 [<center><img src='https://www.infobae.com/new-resizer/MjyoMQiW51_-rUkpDX7wR_BChTk=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/V32OH36YVNC5VJZWFJ6BVBROA4.jpg' width=450></center>](https://www.infobae.com/teleshow/2021/03/13/murio-maximiliano-djerfy-ex-guitarrista-de-la-banda-callejeros/)
 Murió Maximiliano Djerfy, ex guitarrista de la banda CallejerosVIDEO.
@@ -118,12 +118,12 @@ Carta. El mensaje al Papa que unió referentes de todo el arco político       D
 [<center><img src='https://bucket3.glanacion.com/anexos/fotos/86/3661986h186.jpg' width=450></center>](https://www.lanacion.com.ar/buenos-aires/coronavirus-un-vuelo-regreso-de-mexico-con-44-egresados-contagiados-nid13032021/)
 Coronavirus. Un vuelo regresó desde México con 44 egresados contagiados.
 
+[<center><img src='https://bucket3.glanacion.com/anexos/fotos/59/3662059h186.jpg' width=450></center>](https://www.lanacion.com.ar/sociedad/enojo-al-volver-al-pais-en-pandemia-en-ezeiza-nadie-nos-pidio-el-test-pcr-ni-nada-nid13032021/)
+En Ezeiza. Enojo al volver al país en pandemia. ''¡Nadie nos pidió nada!"     Por Pablo Mannino.
+
 Chubut. El vocero presidencial dijo que los atacantes eran infiltrados.
 
-VIDEO  Chubut. Manifestantes atacaron la camioneta que llevaba al Presidente     Por Ana Tronfi.
-
-[<center><img src='https://bucket2.glanacion.com/anexos/fotos/93/3661893h186.jpg' width=450></center>](https://www.lanacion.com.ar/politica/video-asi-fue-el-ataque-contra-la-camioneta-del-presidente-nid13032021/)
-VIDEO  Video. Así fue el ataque contra la camioneta del Presidente.
+En Twitter. El mensaje de Fernández tras el ataque que sufrió en Chubut.
 
 <a name='221Digital'></a>
 
@@ -131,17 +131,17 @@ VIDEO  Video. Así fue el ataque contra la camioneta del Presidente.
 <H3><center>221 Digital</center></H3>
  &nbsp;
 
+[<center><img src='https://pxb.cdn.0221.com.ar/0221/012021/1609767708076.jpg?x=0&y=103&width=1500&height=750&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=1000&&cw=288&ch=199' width=450></center>](https://www.0221.com.ar/nota/2021-3-13-21-26-0-coronavirus-en-la-plata-confirman-139-y-dos-nuevas-muertes)
+EMERGENCIA SANITARIA: COVID en La Plata: confirman 139 casos y dos muertes.
+
 [<center><img src='https://pxb.cdn.0221.com.ar/0221/012020/1578681356784.jpg?x=7&y=250&width=1487&height=743&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=1000&&cw=288&ch=199' width=450></center>](https://www.0221.com.ar/nota/2021-3-13-20-8-0-garro-hablo-del-incendio-en-el-parque-pereyra-y-pidio-que-la-justicia-investigue-que-paso)
 ALERTA EN LA REGIÓN: Garro habló del incendio en el Parque Pereyra y pidió que la Justicia investigue qué pasó.
 
 [<center><img src='https://pxb.cdn.0221.com.ar/0221/092019/1568830410704.jpeg?x=6&y=112&width=1221&height=611&rotate=0&scaleX=1&scaleY=1&ow=1232&oh=820&&cw=288&ch=199' width=450></center>](https://www.0221.com.ar/nota/2021-3-13-19-3-0-denuncian-que-el-peligroso-incendio-el-parque-pereyra-iraola-fue-intencional)
 ALARMA: Denuncian que el peligroso incendio el Parque Pereyra Iraola "fue intencional".
 
-[<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615669235006.jpg?x=15&y=3&width=1471&height=735&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=742&&cw=288&ch=199' width=450></center>](https://www.0221.com.ar/nota/2021-3-13-17-57-0-revuelo-en-el-centro-platense-por-un-indigente-herido-al-que-dejaron-tirado-en-la-calle)
-VECINOS INDIGNADOS: Revuelo en el centro platense por un indigente herido al que "dejaron tirado en la calle".
-
-[<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615153101122.jpg?x=2&y=6&width=976&height=488&rotate=0&scaleX=1&scaleY=1&ow=982&oh=619&&cw=288&ch=199' width=450></center>](https://www.0221.com.ar/nota/2021-3-13-9-42-0-estudiantes-recibe-a-colon-con-la-ilusion-de-llegar-a-la-punta)
-HORA, TV Y FORMACIONES: Estudiantes recibirá en UNO al invicto Colón.
+[<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615683320269.jpg?x=1&y=37&width=1499&height=749&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=996&&cw=288&ch=199' width=450></center>](https://www.0221.com.ar/nota/2021-3-13-9-42-0-estudiantes-recibe-a-colon-con-la-ilusion-de-llegar-a-la-punta)
+0 A 0: El Pincha ya se mide con Colón y se ilusiona con llegar a la punta.
 
 [<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615591338744.jpg?x=65&y=29&width=1201&height=601&rotate=0&scaleX=1&scaleY=1&ow=1276&oh=630&&cw=288&ch=199' width=450></center>](https://www.0221.com.ar/nota/2021-3-13-7-45-0-estudiantes-y-gimnasia-juntan-donaciones-para-los-afectados-por-los-incendios-en-el-sur)
 ¿CÓMO AYUDAR?: Estudiantes y Gimnasia juntan donaciones para los afectados por los incendios en el sur.
@@ -152,29 +152,14 @@ HORA, TV Y FORMACIONES: Estudiantes recibirá en UNO al invicto Colón.
 <H3><center>Google News</center></H3>
  &nbsp;
 
-[<center><img src='https://lh3.googleusercontent.com/KU66lIFdYuAh0eLcgmrUfttoFzPSv6ajK-hb3x4n4Ia85lGvzAclmOUE5IEgF7jOUfhdJTkX7HJmdk9KUeA=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEL5a-HYOtYqN331DMRnlgIwqGQgEKhAIACoHCAowwOWNCzDbmqADMNSCqgY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+[<center><img src='https://lh3.googleusercontent.com/VX8Q4Sqs999FTLNBrTm3oNX_j5rgbF0WwNbUO4NkVzy5CDqDl0rrKrZoOyF9VwOU382wpZvxspCuX_gToUQ=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEL5a-HYOtYqN331DMRnlgIwqGQgEKhAIACoHCAowwOWNCzDbmqADMNSCqgY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   3 claves que explican por qué China restringe sus préstamos a América Latina. BBC News Mundo Ayer.
 
 [<center><img src='https://lh4.googleusercontent.com/proxy/dEBpzx3PVENluR04petHKO0eDK-qmV6vNeEphIo3-p0eJPZQ02I8UFqKDgCCcVdD9qCCb5NKg8kM0_e63sA5wpkKPs7tmr2M6bij9ZPqG2YgI6cE0-Kt5RZj-dHgnMK0evSAlsMzUh0XXCAK_g=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMif2h0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvZWwtZ29iaWVybm8tbmFjaW9uYWwtYXZhbnpvLWVuLWVsLWFjdWVyZG8tY29uLWxhLWVtcHJlc2EtY2hpbmEtY21lYy1wYXJhLWNvbnRpbnVhci1jb24tbGHSAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  El Gobierno Nacional avanzó en el acuerdo con la empresa china CMEC para continuar con la modernización de la línea Belgrano de Trenes Argentinos Cargas. Argentina.gob.ar Presidencia de la Nación Hace 10 horas.
+  El Gobierno Nacional avanzó en el acuerdo con la empresa china CMEC para continuar con la modernización de la línea Belgrano de Trenes Argentinos Cargas. Argentina.gob.ar Presidencia de la Nación Hace 12 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/QQ9-sfBSump76GcnQlI1lIBAT41NfutWt_X4o-mcx_GHautAGYzpy8vBIZWSv_SZUULmPD3nk2-o_EAWjR0=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEC3OZgPAonXR-jYwTHdumQMqFwgEKg4IACoGCAowyPhzMO2BDDDCt60D?uo=CAUihQFodHRwczovL3d3dy5pbmZvYmFlLmNvbS9hbWVyaWNhL2FnZW5jaWFzLzIwMjEvMDMvMTMvdXJ1Z3VheS1jdW1wbGUtdW4tYW5vLWRlLXBhbmRlbWlhLWNvbi1zdS1zZWd1bmRhLW9sYS15LWNlbnRyYWRvLWVuLWxhLXZhY3VuYWNpb24v0gEA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Uruguay lanza paracaidistas desde sus nuevos aviones KC-130H Hercules - Noticias Infodefensa AmÃ©rica. Infodefensa.com Hace 12 horas.
-
-[<center><img src='https://lh4.googleusercontent.com/proxy/ibMXVnvzrpgm2fp8ogjI44GgA0GeIWQnCoPY8-TU0R0xhTiLhsHNeas64TXZd5K5mS-g0Za1IpZpzzjcmau9kV35fEZnK6DOStLS6odZm-zqgYDDjD8p5zxEvo7CMbLJr4x1PDkG5TyY9jg0lkz9i7Jw49BEpsKlAsn5_Ow=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LmJuYW1lcmljYXMuY29tL2VzL25vdGljaWFzL3RlbGVjb20tYXJnZW50aW5hLWNvbmRpY2lvbmEtZXhwYW5zaW9uLWVuLXVydWd1YXktYS1udWV2by1tYXJjby1yZWd1bGFkb3LSAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Uruguay cumple un aÃ±o de pandemia con su segunda ola y centrado en la vacunaciÃ³n. infobae Hace 5 horas.
-
-[<center><img src='https://lh3.googleusercontent.com/proxy/x59qS77Ac_cegiZgWCZPoMjta0sM6VZRLlr3lB6-rOrMl3C8tD-eTQbYY7jzUnwgnp1FlgTptkmVJEKopelsrEPJVSMr2q9ZdV0ojh7T2e1KYrwi81tK-1ODfGimFNhwqHilZQ=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiECGI-UZvItnucJBV6D4eFykqGQgEKhAIACoHCAowmYaVCzDS4KoDMNmTzwY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Paraguay analiza nuevas restricciones ante una situación de virtual colapso. Télam Ayer.
-
-[<center><img src='https://lh3.googleusercontent.com/U-s3Sx3tXMZppSVbIjBnRxib-45ScpWkKVM6g-MdST1iDgDGnZ0qBt54hjUmN_iMApUj35kHHBbGjVoq9lM=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEFvKWDJbl-uBCuXG1XvNt1MqGQgEKhAIACoHCAowwfehCTDkrpcCMJKcvwM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Detienen a Jeanine Áñez en Bolivia: qué es el "caso golpe de Estado" y por qué generó controversia en el país. BBC News Mundo Hace 35 minutos.
-
-[<center><img src='https://lh3.googleusercontent.com/F4GeAGxq2F_BrXmpr3EGQuqUYnqCj2Qa4b8m8YpkwxgP0vb01jJ-WcTFhpDDv4tFllI5rk_8OTwvFBS0WQ=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEPo6oJ4s5wrKmTw2SoftxYkqGQgEKhAIACoHCAowwfehCTDkrpcCMJKcvwM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Legalización de marihuana en México no afectará los negocios de los carteles de la droga. DW (Español) Ayer.
-
-[<center><img src='https://lh6.googleusercontent.com/proxy/Hd2LehnIdDwgtB5zdyKrTjICsFAWt2YwHGVduC7RopuTj8Z8avhioUz0zqVJbvTsF62IpqNeLda3-8dFXTdu62KPWtdDf0aePyOxYgeaw8cICyXZ_kZIihG6pCAn4tEwxOJwHIsRJfOoWj8_SRs1kfTA2RG_t8ANA1Uwt0UUkJ1u-NuUWAJ_sUFNEXiYK0A=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CBMiiQFodHRwczovL3d3dy5mcmFuY2UyNC5jb20vZXMvYW0lQzMlQTlyaWNhLWxhdGluYS8yMDIxMDMxMy1jb3ZpZDE5aG95LWJyYXNpbC1kZXRlY3RhLXVuYS1udWV2YS12YXJpYW50ZS1tJUMzJUExcy1jb250YWdpb3NhLWRlbC1jb3JvbmF2aXJ1c9IBiQFodHRwczovL2FtcC5mcmFuY2UyNC5jb20vZXMvYW0lQzMlQTlyaWNhLWxhdGluYS8yMDIxMDMxMy1jb3ZpZDE5aG95LWJyYXNpbC1kZXRlY3RhLXVuYS1udWV2YS12YXJpYW50ZS1tJUMzJUExcy1jb250YWdpb3NhLWRlbC1jb3JvbmF2aXJ1cw?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  #Covid19Hoy: la UE defiende su distribución de vacunas, tras quejas de inequidad. FRANCE 24 Hace 10 horas.
+[<center><img src='https://lh3.googleusercontent.com/vwjrPieB4-xlQHl0gMlZMYgdAYTjbbNZSd0zBb-oPo7HDKCN_vg3UEmIPoGnchMZGxqybcNLYJUzKVdMDiQ=-p-df-h800-w800' width=450></center>](https://news.google.com/articles/CAIiEC3OZgPAonXR-jYwTHdumQMqFwgEKg4IACoGCAowyPhzMO2BDDDCt60D?uo=CAUihQFodHRwczovL3d3dy5pbmZvYmFlLmNvbS9hbWVyaWNhL2FnZW5jaWFzLzIwMjEvMDMvMTMvdXJ1Z3VheS1jdW1wbGUtdW4tYW5vLWRlLXBhbmRlbWlhLWNvbi1zdS1zZWd1bmRhLW9sYS15LWNlbnRyYWRvLWVuLWxhLXZhY3VuYWNpb24v0gEA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Uruguay lanza paracaidistas desde sus nuevos aviones KC-130H Hercules - Noticias Infodefensa AmÃ©rica. Infodefensa.com Hace 14 horas.
 
 [<center><img src='https://lh3.googleusercontent.com/JDFOyo903E9WGstK0YhI2ZFOKR3h4qDxBngX5M8XJVBZFKzOBoxLmk3OVlgNw9SOE-HfkNgb=w32' width=450></center>](https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvbGEtdWlmLXByZXNlbnRvLXN1LXByb3B1ZXN0YS1wYXJhLWxhLWhpZHJvdmlh0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Meoni en el Consejo Federal Hidrovía: "El Presidente nos pidió desde el primer momento que la Hidrovía Paraná - Paraguay sea una hidrovía federal". Argentina.gob.ar Presidencia de la Nación 22 feb..
@@ -197,7 +182,7 @@ HORA, TV Y FORMACIONES: Estudiantes recibirá en UNO al invicto Colón.
 
  &nbsp;
 
-[<center><img src='https://i.pinimg.com/originals/74/a6/e3/74a6e30af664e72eed446f719393fdba.jpg' width=450></center>](#index)
+[<center>Volver al Inicio</center>](#index)[<center><img src='https://i.pinimg.com/originals/74/a6/e3/74a6e30af664e72eed446f719393fdba.jpg' width=450></center>](#index)
  &nbsp;
  &nbsp;
 [<center>Volver al Inicio</center>](#index)
