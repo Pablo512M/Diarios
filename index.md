@@ -13,34 +13,35 @@
 <H3><center>Página12</center></H3>
  &nbsp;
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147565-correo_0.jpg?itok=f-h8zjF6' width=850></center>](https://www.pagina12.com.ar/329320-el-escandalo-del-correo-empresas-flojas-de-papeles-y-afines-)
-La Inspección General de Justicia detectó irregularidades 
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/na01fo01_1664.jpg?itok=VKLvHLFb' width=850></center>](https://www.pagina12.com.ar/329374-incendios-en-chubut-a-las-familias-se-les-quemo-todo-es-deva)
+LAS COSAS QUE PERDIMOS EN EL FUEGO 
  
- El escándalo del Correo: Empresas flojas de papeles y afines al macrismo van por el salvataje 
+ Crónica desde el corazón de los incendios. La lucha de los pobladores y
+productores para salvar vidas, casas y emprendimientos que llevó décadas
+levantar. Desesperación y solidaridad en partes iguales, donde cada uno
+sabe que la sobrevivencia depende de la ayuda del vecino 
  
- El Grupo Macri pretende evitar la quiebra del Correo para no tener que responder con su patrimonio por la deuda multimillonaria de la compañía. Dos de las firmas que se presentaron para el rescate tienen vínculos con la concursada o con el propio Mauricio Macri. 
- 
- Por Gustavo Veiga.
+ Por María Fernanda Rezzano.
 
 
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147566-whatsapp-20image-202021-03-13-20at-2017-00-27.jpeg?itok=Rk_q8Rth' width=850></center>](https://www.pagina12.com.ar/329297-alberto-fernandez-afirmo-que-el-conflicto-por-la-mineria-lo-)
-“Estoy seguro que esa violencia tampoco es compartida por el pueblo chubutense" Alberto Fernández habló tras el ataque.
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147605-fmi-20lupa.jpg?itok=vT8U0RvN' width=850></center>](https://www.pagina12.com.ar/329336-quienes-se-quedaron-con-los-dolares-del-fm-igate)
+Quiénes se quedaron con los dólares del FMIgate Pedido de la Oficina Anticorrupción en la denuncia penal contra Macri y su equipo económico por el insólito crédito del Fondo. Por Alfredo Zaiat.
 
 
 
-[<center><img src='https://www.pagina12.com.ar/assets/media/assets/video-icon.svg' width=850></center>](https://www.pagina12.com.ar/329274-como-fueron-los-incidentes-durante-la-visita-de-alberto-fern)
-Cómo fueron los incidentes durante la visita de Alberto Fernández a Lago Puelo Algunos manifestantes atacaron la camioneta en que se trasladaba.
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147573-efe_0.jpg?itok=omqc7FJa' width=850></center>](https://www.pagina12.com.ar/329322-una-oleada-de-aire-fresco-en-el-vecindario)
+OpiniónUna oleada de aire fresco en el vecindario. Por Mario Wainfeld.
 
 
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147594-whatsapp-20image-202021-03-13-20at-2018-22-09.jpeg?itok=t1GMoLHX' width=850></center>](https://www.pagina12.com.ar/329314-murio-maximiliano-djerfy-ex-guitarrista-de-callejeros)
-Murió Maximiliano Djerfy, ex guitarrista de Callejeros Tenía 46 años.
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147293-docente-20var-c3-b3n-20vacun-c3-a1ndose.jpeg?itok=vvz9wFbu' width=850></center>](https://www.pagina12.com.ar/329318-vacunacion-a-docentes-del-conurbano-cronica-de-un-dia-de-ale)
+Vacunación a docentes del conurbano, crónica de un día de alegría, ansiedad y miedo La pregunta más frecuente fue cuándo les tocaba la segunda dosis . Por Romina Calderaro.
 
 
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147546-bolsa-mortuoria_0.jpg?itok=KDvVRZB5' width=850></center>](https://www.pagina12.com.ar/329275-el-ascenso-de-la-ultraderecha-argentina)
-OpiniónEl ascenso de la ultraderecha argentina. Por Jorge Alemán.
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147612-af-20helicoptero.jpeg?itok=fggpdC6P' width=850></center>](https://www.pagina12.com.ar/329344-incendios-en-chubut-el-presidente-sobrevolo-zonas-afectadas-)
+Incendios en Chubut: El Presidente sobrevoló zonas afectadas, anunció ayuda y condenó el uso de la violencia El Gobierno brindará asistencia en materia económica, de obra pública y vivienda.
 
 
 
@@ -50,20 +51,20 @@ OpiniónEl ascenso de la ultraderecha argentina. Por Jorge Alemán.
 <H3><center>Infobae</center></H3>
  &nbsp;
 
-[<center><img src='https://www.infobae.com/new-resizer/cpLIUVNh6k9GhZkHiNvOAQ4MB_I=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/MXFVZV55G5GDLIWOGMDMVHMVGA.jpg' width=850></center>](https://www.infobae.com/sociedad/2021/03/14/referentes-de-todo-el-arco-politico-y-social-empresarios-e-intelectuales-se-unieron-para-saludar-a-francisco-por-su-octavo-aniversario-de-papado/)
-Referentes de todo el arco político y social, empresarios e intelectuales se unieron para saludar a Francisco por su octavo aniversario“Queremos que sepas que los argentinos y las argentinas te valoramos mucho. Valoramos enormemente tu tenaz trabajo por la paz y la justicia en todo el mundo”, sostiene la cartaVIDEOS.
+[<center><img src='https://www.infobae.com/new-resizer/1OMsJsK1w3inC7XaVPND9ZgWRRE=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/HMEKISMFZJCBNKONGHDJO4JF5I.jpg' width=850></center>](https://www.infobae.com/politica/2021/03/14/mauricio-macri-en-su-libro-primer-tiempo-la-ex-presidenta-no-esta-bien-no-se-si-alguna-vez-lo-estuvo/)
+Mauricio Macri, en su libro Primer Tiempo: "La ex presidenta no está bien, no sé si alguna vez lo estuvo"En un adelanto exclusivo de sus memorias en la Casa Rosada, el ex jefe de Estado opina sobre la salud mental de la actual vicepresidenta y afirma que nunca incidió en los medios y en la Justicia Federal para acelerar sus causas penales por presunta corrupción pública. Por Román Lejtman.
 
-[<center><img src='https://www.infobae.com/new-resizer/vmIHzGLb5f67x9_KqQJkFOROU_E=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/7C7NBMZUUJGI5NEQYIXLMAB2PM.jpg' width=850></center>](https://www.infobae.com/america/eeuu/2021/03/14/estados-unidos-aplico-45-millones-de-dosis-de-vacunas-contra-el-covid-19-en-un-dia/)
-Estados Unidos aplicó 4,5 millones de dosis de vacunas contra el COVID-19 en un día. Por Eduardo Menegazzi.
+[<center><img src='https://www.infobae.com/new-resizer/dlQTp5yRU2fg18T6M4LgG-fNMdY=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/4T4R645E5NFQRPCTRBJH7HZWH4.jpg' width=850></center>](https://www.infobae.com/opinion/2021/03/14/el-golpe-palaciego-que-acorrala-al-presidente/)
+El golpe palaciego que acorrala al Presidente. Por Ernesto Tenembaum.
 
-[<center><img src='https://www.infobae.com/new-resizer/MjyoMQiW51_-rUkpDX7wR_BChTk=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/V32OH36YVNC5VJZWFJ6BVBROA4.jpg' width=850></center>](https://www.infobae.com/teleshow/2021/03/13/murio-maximiliano-djerfy-ex-guitarrista-de-la-banda-callejeros/)
-Murió Maximiliano Djerfy, ex guitarrista de la banda CallejerosVIDEO.
+[<center><img src='https://www.infobae.com/new-resizer/tydtvKY1v89PtZOREqxFHUcNcMU=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/72VRTYI7YRFTNIBVYK4HGUTX74.jpg' width=850></center>](https://www.infobae.com/opinion/2021/03/14/las-dudas-de-alberto-hacen-que-propios-y-extranos-ya-prefieran-a-cristina/)
+Las dudas de Alberto hacen que propios y extraños ya prefieran a Cristina. Por Nancy Pazos.
 
-[<center><img src='https://www.infobae.com/new-resizer/PoqLfFwJyZdWEJA_viETbIk9KGM=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/ZLPJWV2FFZE5ZNIPDJHLAXLGNQ.jpg' width=850></center>](https://www.infobae.com/politica/2021/03/13/atacaron-a-piedrazos-la-camioneta-que-transportaba-a-alberto-fernandez-en-su-recorrida-por-chubut/)
-Atacaron a piedrazos la camioneta que transportaba a Alberto Fernández en ChubutVIDEOS.
+[<center><img src='https://www.infobae.com/new-resizer/uz1hUbO8DNLeVpAjJRg7NpyjFzY=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/HDOCEQ2ZCDT7PZUPQ5E7RZDSMQ.jpg' width=850></center>](https://www.infobae.com/opinion/2021/03/14/los-incidentes-en-lago-puelo-marcan-un-punto-de-infeccion-la-desobediencia-civil-los-indignados-y-el-desbarranco-institucional-nos-alejan-de-la-utopia-de-ser-un-pais-normal/)
+Incidentes en Lago Puelo: la desobediencia civil, los indignados y el desbarranco institucional nos alejan de la utopía de ser un país normal. Por Jorge Grispo.
 
-[<center><img src='https://www.infobae.com/new-resizer/uz1hUbO8DNLeVpAjJRg7NpyjFzY=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/HDOCEQ2ZCDT7PZUPQ5E7RZDSMQ.jpg' width=850></center>](https://www.infobae.com/politica/2021/03/13/por-los-incidentes-fernandez-aparto-al-gobernador-de-chubut-de-la-comitiva-y-anticipo-su-regreso/)
-. Por los incidentes, Fernández apartó al gobernador de Chubut de la comitiva y anticipó su regresoVIDEOS.
+[<center><img src='https://www.infobae.com/new-resizer/NBO6SVcGOnPa83gsF1ma5Z7hhaU=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/VBS5CDYOA7AI5OY263CEKVW5W4.jpg' width=850></center>](https://www.infobae.com/politica/2021/03/14/el-ministro-de-seguridad-de-chubut-responsabilizo-a-nacion-por-el-ataque-al-presidente-los-llevaron-a-la-boca-del-lobo/)
+El ministro de seguridad de Chubut responsabilizó a Nación por el ataque al Presidente: "Los llevaron a la boca del lobo"VIDEOS.
 
 <a name='Nodal'></a>
 
@@ -153,17 +154,20 @@ HORA, TV Y FORMACIONES: Estudiantes recibe a Colón con la ilusión de llegar a 
 <H3><center>Google News</center></H3>
  &nbsp;
 
-[<center><img src='https://lh3.googleusercontent.com/i02DtOkIZERfGHQf4OTgjxeP9FsaXLaTgjb6QKIcaZ4Nc_G-IFzSL8-JAFqh2bBt1bM3eoioI4_zTI4yQTY=-p-df-h800-w800' width=850></center>](https://news.google.com/articles/CAIiEL5a-HYOtYqN331DMRnlgIwqGQgEKhAIACoHCAowwOWNCzDbmqADMNSCqgY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+[<center><img src='https://lh3.googleusercontent.com/xeeExkRSMiZac1zM-OrcRiAKC_tWTZhX6Tf9R5Kv-56djRWoBlDjFk0Oz3k_G0v2P-fBfkIpArRIHFRym90=-p-df-h800-w800' width=850></center>](https://news.google.com/articles/CAIiEL5a-HYOtYqN331DMRnlgIwqGQgEKhAIACoHCAowwOWNCzDbmqADMNSCqgY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   3 claves que explican por qué China restringe sus préstamos a América Latina. BBC News Mundo Hace 2 días.
 
 [<center><img src='https://lh4.googleusercontent.com/proxy/dEBpzx3PVENluR04petHKO0eDK-qmV6vNeEphIo3-p0eJPZQ02I8UFqKDgCCcVdD9qCCb5NKg8kM0_e63sA5wpkKPs7tmr2M6bij9ZPqG2YgI6cE0-Kt5RZj-dHgnMK0evSAlsMzUh0XXCAK_g=-p-df-h800-w800' width=850></center>](https://news.google.com/articles/CBMif2h0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvZWwtZ29iaWVybm8tbmFjaW9uYWwtYXZhbnpvLWVuLWVsLWFjdWVyZG8tY29uLWxhLWVtcHJlc2EtY2hpbmEtY21lYy1wYXJhLWNvbnRpbnVhci1jb24tbGHSAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  El Gobierno Nacional avanzó en el acuerdo con la empresa china CMEC para continuar con la modernización de la línea Belgrano de Trenes Argentinos Cargas. Argentina.gob.ar Presidencia de la Nación Hace 14 horas.
+  El Gobierno Nacional avanzó en el acuerdo con la empresa china CMEC para continuar con la modernización de la línea Belgrano de Trenes Argentinos Cargas. Argentina.gob.ar Presidencia de la Nación Hace 15 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/w2SlxZ-sgQ-m0faHNQ5lhhpROEb-8fuA7LMA6RvTcT6bTkfKYseiiMbLImwTkRUbySOvnNOfEvF3l5T0qy8=-p-df-h800-w800' width=850></center>](https://news.google.com/articles/CAIiEC3OZgPAonXR-jYwTHdumQMqFwgEKg4IACoGCAowyPhzMO2BDDDCt60D?uo=CAUihQFodHRwczovL3d3dy5pbmZvYmFlLmNvbS9hbWVyaWNhL2FnZW5jaWFzLzIwMjEvMDMvMTMvdXJ1Z3VheS1jdW1wbGUtdW4tYW5vLWRlLXBhbmRlbWlhLWNvbi1zdS1zZWd1bmRhLW9sYS15LWNlbnRyYWRvLWVuLWxhLXZhY3VuYWNpb24v0gEA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Uruguay lanza paracaidistas desde sus nuevos aviones KC-130H Hercules - Noticias Infodefensa AmÃ©rica. Infodefensa.com Hace 16 horas.
+[<center><img src='https://lh3.googleusercontent.com/MNrWqzzQOzHKJp16Ik-WN0xHGOS3fWYuVf-j190NyVSQoekAQmwOyNkZEBMdoJ5c6yoqEwg1oiHyWNGWeck=-p-df-h800-w800' width=850></center>](https://news.google.com/articles/CAIiEC3OZgPAonXR-jYwTHdumQMqFwgEKg4IACoGCAowyPhzMO2BDDDCt60D?uo=CAUihQFodHRwczovL3d3dy5pbmZvYmFlLmNvbS9hbWVyaWNhL2FnZW5jaWFzLzIwMjEvMDMvMTMvdXJ1Z3VheS1jdW1wbGUtdW4tYW5vLWRlLXBhbmRlbWlhLWNvbi1zdS1zZWd1bmRhLW9sYS15LWNlbnRyYWRvLWVuLWxhLXZhY3VuYWNpb24v0gEA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Uruguay lanza paracaidistas desde sus nuevos aviones KC-130H Hercules - Noticias Infodefensa AmÃ©rica. Infodefensa.com Hace 17 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/g92fQKfk_-ACSvlKlDqNWg5RLQBn2JOVDEb5PE2bEOzWf5RoazX9ksNfqT-hQmTIIW98sr9pqtIjuCPqAWI=-p-df-h800-w800' width=850></center>](https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LmVsY29uZmlkZW5jaWFsLmNvbS90ZWNub2xvZ2lhL25vdmFjZW5vLzIwMjEtMDMtMTMvdGVzbGEtc3BhY2V4LWh5dW5kYWktc3RhcmlhLWNvY2hlLWVsZWN0cmljb18yOTg5OTIwL9IBdmh0dHBzOi8vd3d3LmVsY29uZmlkZW5jaWFsLmNvbS9hbXAvdGVjbm9sb2dpYS9ub3ZhY2Vuby8yMDIxLTAzLTEzL3Rlc2xhLXNwYWNleC1oeXVuZGFpLXN0YXJpYS1jb2NoZS1lbGVjdHJpY29fMjk4OTkyMC8?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+[<center><img src='https://lh3.googleusercontent.com/xeWVc7Xpa7ueO8gImOoWxHZrLvhDs8R47JxSaDbJiBx9uNcEcNCB_e8mzQNUyZNbvil-Fyy5WuADLiafs18=-p-df-h800-w800' width=850></center>](https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LmVsY29uZmlkZW5jaWFsLmNvbS90ZWNub2xvZ2lhL25vdmFjZW5vLzIwMjEtMDMtMTMvdGVzbGEtc3BhY2V4LWh5dW5kYWktc3RhcmlhLWNvY2hlLWVsZWN0cmljb18yOTg5OTIwL9IBdmh0dHBzOi8vd3d3LmVsY29uZmlkZW5jaWFsLmNvbS9hbXAvdGVjbm9sb2dpYS9ub3ZhY2Vuby8yMDIxLTAzLTEzL3Rlc2xhLXNwYWNleC1oeXVuZGFpLXN0YXJpYS1jb2NoZS1lbGVjdHJpY29fMjk4OTkyMC8?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Starship de SpaceX: el prototipo de nave espacial de Elon Musk consigue aterrizar pero poco después se incendió y explotó. BBC News Mundo Hace 10 días.
+
+[<center><img src='https://lh5.googleusercontent.com/proxy/pTsyJSMexRVOexvTPiBI18mtNdHPBB8VqKGIrQ211WXmN5btVZ8Ad2FlLG-KeO-zxfeHIqt0fCuCfKC-8d3m_zLUxOsKhl1622qv-PNeU1hqYPzNYahFTpsk8p8=-p-df-h800-w800' width=850></center>](https://news.google.com/articles/CBMiKGh0dHBzOi8vd3d3LmVsY29oZXRlYWxhbHVuYS5jb20vcmF5YWR4cy_SAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Rayadxs. elcohetealaluna.com Hace 1 hora.
 
  &nbsp;
 
@@ -185,43 +189,43 @@ HORA, TV Y FORMACIONES: Estudiantes recibe a Colón con la ilusión de llegar a 
 <H3><center>Más</center></H3>
  &nbsp;
 
-[LINK](https://news.google.com/articles/CBMiPGh0dHBzOi8vcmViZWxpb24ub3JnL2x1bGEtZWwtdHN1bmFtaS1xdWUtdmluby1wYXJhLXF1ZWRhcnNlL9IBAA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) Lula: el tsunami que vino para quedarse – Rebelion. Rebelión Hace 20 horas.
+[LINK](https://news.google.com/articles/CBMiSWh0dHBzOi8vcmViZWxpb24ub3JnL2Vycm9yLWRlLXByb2NlZGltaWVudG8tcG9yLWluY29tcGV0ZW5jaWEtbHVsYS1saWJyZS_SAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) Error de procedimiento por «incompetencia», Lula libre – Rebelion. Rebelión Hace 22 horas.
 
-[LINK](https://news.google.com/articles/CBMiSWh0dHBzOi8vcmViZWxpb24ub3JnL2Vycm9yLWRlLXByb2NlZGltaWVudG8tcG9yLWluY29tcGV0ZW5jaWEtbHVsYS1saWJyZS_SAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) Error de procedimiento por «incompetencia», Lula libre – Rebelion. Rebelión Hace 21 horas.
+[LINK](https://news.google.com/articles/CBMiPGh0dHBzOi8vcmViZWxpb24ub3JnL2x1bGEtZWwtdHN1bmFtaS1xdWUtdmluby1wYXJhLXF1ZWRhcnNlL9IBAA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) Lula: el tsunami que vino para quedarse – Rebelion. Rebelión Hace 22 horas.
+
+[LINK](https://news.google.com/articles/CBMiLWh0dHBzOi8vcmViZWxpb24ub3JnL2x1bGEtZGUtdnVlbHRhLWFsLXJ1ZWRvL9IBAA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) Lula de vuelta al ruedo – Rebelion. Rebelión Hace 2 días.
 
 [LINK](https://news.google.com/articles/CBMiS2h0dHBzOi8vcmViZWxpb24ub3JnL2VsLW11eS1wb2xpdGljby1wZXJlZ3JpbmFqZS1kZWwtcGFwYS1mcmFuY2lzY28tYS1pcmFrL9IBAA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) El muy político peregrinaje del papa Francisco a Irak – Rebelion. Rebelión Hace 6 días.
 
 [LINK](https://news.google.com/articles/CBMifGh0dHBzOi8vcmViZWxpb24ub3JnL2VsLXByZXNpZGVudGUtZGUtaG9uZHVyYXMtYXl1ZG8tYS10cmFmaWNhci10b25lbGFkYXMtZGUtY29jYWluYS1oYWNpYS1lZS11dS1zZWd1bi1maXNjYWwtZGUtbnVldmEteW9yay_SAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) El presidente de Honduras ayudó a traficar toneladas de cocaína hacia EE.UU. según fiscal de Nueva York – Rebelion. Rebelión Hace 3 días.
 
-[LINK](https://news.google.com/articles/CBMiQGh0dHBzOi8vcmViZWxpb24ub3JnL2VsLWRpYS1hLWRpYS1kZS1sb3MtZXN0dWRpYW50ZXMtcGFsZXN0aW5vcy_SAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) Impulsar la unidad latinoamericana desde Bolivia – Rebelion. Rebelión Hace 19 horas.
+[LINK](https://news.google.com/articles/CBMiamh0dHBzOi8vcmViZWxpb24ub3JnL2xhLWNvdmlkLTE5LXktbGEtY3Jpc2lzLWVjb25vbWljYS1tYXJjYW4tZWwtZGVjaW1vLWFuaXZlcnNhcmlvLWRlLWxhLWd1ZXJyYS1lbi1zaXJpYS_SAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) La COVID-19 y la crisis económica marcan el décimo aniversario de la guerra en Siria – Rebelion. Rebelión Hace 3 días.
+
+[LINK](https://news.google.com/articles/CBMiQGh0dHBzOi8vcmViZWxpb24ub3JnL2VsLWRpYS1hLWRpYS1kZS1sb3MtZXN0dWRpYW50ZXMtcGFsZXN0aW5vcy_SAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) Impulsar la unidad latinoamericana desde Bolivia – Rebelion. Rebelión Hace 20 horas.
 
 [LINK](https://news.google.com/articles/CBMiPWh0dHBzOi8vcmViZWxpb24ub3JnL2F1c2VuY2lhLXktcHJlc2VuY2lhLWRlLW1hcmllbGxlLWZyYW5jby_SAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) ¿Hasta cuándo el fantasma de Trump? – Rebelion. Rebelión Hace 3 días.
 
-[LINK](https://news.google.com/articles/CBMiamh0dHBzOi8vcmViZWxpb24ub3JnL2xhLWNvdmlkLTE5LXktbGEtY3Jpc2lzLWVjb25vbWljYS1tYXJjYW4tZWwtZGVjaW1vLWFuaXZlcnNhcmlvLWRlLWxhLWd1ZXJyYS1lbi1zaXJpYS_SAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) El día a día de los estudiantes palestinos – Rebelion. Rebelión Hace 21 horas.
+[LINK](https://news.google.com/articles/CBMidWh0dHBzOi8vcmViZWxpb24ub3JnL3BhbmFtYS1uZWNlc2l0YS11bmEtbnVldmEtcG9saXRpY2EtZGUtc2FsdWQtcHVibGljYS15LWRlLWZvcm1hY2lvbi1kZS1wcm9mZXNpb25hbGVzLWRlLWxhLXNhbHVkL9IBAA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) El día a día de los estudiantes palestinos – Rebelion. Rebelión Hace 22 horas.
 
-[LINK](https://news.google.com/articles/CBMidWh0dHBzOi8vcmViZWxpb24ub3JnL3BhbmFtYS1uZWNlc2l0YS11bmEtbnVldmEtcG9saXRpY2EtZGUtc2FsdWQtcHVibGljYS15LWRlLWZvcm1hY2lvbi1kZS1wcm9mZXNpb25hbGVzLWRlLWxhLXNhbHVkL9IBAA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) Ausencia y presencia de Marielle Franco – Rebelion. Rebelión Hace 21 horas.
+[LINK](https://news.google.com/articles/CBMiMmh0dHBzOi8vcmViZWxpb24ub3JnL2xhLXZvY2VyYS1mYWx0YS1sby1xdWUtZmFsdGEv0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) Ausencia y presencia de Marielle Franco – Rebelion. Rebelión Hace 22 horas.
 
-[LINK](https://news.google.com/articles/CBMiMmh0dHBzOi8vcmViZWxpb24ub3JnL2xhLXZvY2VyYS1mYWx0YS1sby1xdWUtZmFsdGEv0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) La COVID-19 y la crisis económica marcan el décimo aniversario de la guerra en Siria – Rebelion. Rebelión Hace 3 días.
-
-[LINK](https://news.google.com/articles/CBMiN2h0dHBzOi8vcmViZWxpb24ub3JnL2xhLWluZmxhY2lvbi1lbi1lbC1kZWJhdGUtdGVvcmljby_SAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) Ocho años sin el presidente Chávez – Rebelion. Rebelión Hace 18 horas.
+[LINK](https://news.google.com/articles/CBMiN2h0dHBzOi8vcmViZWxpb24ub3JnL2xhLWluZmxhY2lvbi1lbi1lbC1kZWJhdGUtdGVvcmljby_SAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) Ocho años sin el presidente Chávez – Rebelion. Rebelión Hace 20 horas.
 
 [LINK](https://news.google.com/articles/CBMiP2h0dHBzOi8vcmViZWxpb24ub3JnL3NvYnJlLWVsLXBvZGVyLXBlcm1hbmVudGUtZW4tbGEtYXJnZW50aW5hL9IBAA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) Panamá necesita una nueva política de salud pública y de formación de profesionales de la salud – Rebelion. Rebelión Hace 2 días.
 
-[LINK](https://news.google.com/articles/CBMiRmh0dHBzOi8vcmViZWxpb24ub3JnL2V4cGVydGFzLWVuLWdlbmVyby15LWVsLWJvcnJhZG9yLWRlLWxhLWxleS10cmFucy_SAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) La ultraderecha uruguaya, de la pantalla a la realidad – Rebelion. Rebelión Hace 19 horas.
+[LINK](https://news.google.com/articles/CBMiRmh0dHBzOi8vcmViZWxpb24ub3JnL2V4cGVydGFzLWVuLWdlbmVyby15LWVsLWJvcnJhZG9yLWRlLWxhLWxleS10cmFucy_SAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) La ultraderecha uruguaya, de la pantalla a la realidad – Rebelion. Rebelión Hace 20 horas.
 
-[LINK](https://news.google.com/articles/CBMibmh0dHBzOi8vcmViZWxpb24ub3JnL2ZpbmxhbmRpYS10aWVuZS11bmEtdmFjdW5hLXBhcmEtbGEtY292aWQtZGVzZGUtaGFjZS1udWV2ZS1tZXNlcy15LW9wdG8tcG9yLWxhLWJpZy1waGFybWEv0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) Iskay Uya – Rebelion. Rebelión Hace 19 horas.
+[LINK](https://news.google.com/articles/CBMibmh0dHBzOi8vcmViZWxpb24ub3JnL2ZpbmxhbmRpYS10aWVuZS11bmEtdmFjdW5hLXBhcmEtbGEtY292aWQtZGVzZGUtaGFjZS1udWV2ZS1tZXNlcy15LW9wdG8tcG9yLWxhLWJpZy1waGFybWEv0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) Iskay Uya – Rebelion. Rebelión Hace 20 horas.
 
-[LINK](https://news.google.com/articles/CBMicWh0dHBzOi8vcmViZWxpb24ub3JnL25pbm9zLWRlLWxhLWd1ZXJyYS1sb3MtNS0wMDAtbWVub3Jlcy1xdWUtZnVlcm9uLWV2YWN1YWRvcy1hLWJlbGdpY2EtZHVyYW50ZS1sYS1ndWVycmEtY2l2aWwv0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) “La vocera”… falta lo que falta – Rebelion. Rebelión Hace 19 horas.
+[LINK](https://news.google.com/articles/CBMicWh0dHBzOi8vcmViZWxpb24ub3JnL25pbm9zLWRlLWxhLWd1ZXJyYS1sb3MtNS0wMDAtbWVub3Jlcy1xdWUtZnVlcm9uLWV2YWN1YWRvcy1hLWJlbGdpY2EtZHVyYW50ZS1sYS1ndWVycmEtY2l2aWwv0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) “La vocera”… falta lo que falta – Rebelion. Rebelión Hace 20 horas.
 
-[LINK](https://news.google.com/articles/CBMiU2h0dHBzOi8vcmViZWxpb24ub3JnL3Rlc3MtMTk3OS1lbC1pbmV4b3JhYmxlLXBlc28tZGUtbG9zLWF0YXZpc21vcy1maWxtZS1paWktcGFydGUv0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) «Hay pibas asesinadas que tenían la perimetral en el bolsillo o el brazalete antipánico» – Rebelion. Rebelión Hace 19 horas.
+[LINK](https://news.google.com/articles/CBMiU2h0dHBzOi8vcmViZWxpb24ub3JnL3Rlc3MtMTk3OS1lbC1pbmV4b3JhYmxlLXBlc28tZGUtbG9zLWF0YXZpc21vcy1maWxtZS1paWktcGFydGUv0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) «Hay pibas asesinadas que tenían la perimetral en el bolsillo o el brazalete antipánico» – Rebelion. Rebelión Hace 20 horas.
 
-[LINK](https://news.google.com/articles/CBMiTGh0dHBzOi8vcmViZWxpb24ub3JnL2RpbG1hLXktbWFudWVsYS1mZW1pbmlzdGFzLXktYWxpYWRhcy1lbi1sYS1taXNtYS1sdWNoYS_SAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) La inflación en el debate teórico – Rebelion. Rebelión Hace 19 horas.
+[LINK](https://news.google.com/articles/CBMiTGh0dHBzOi8vcmViZWxpb24ub3JnL2RpbG1hLXktbWFudWVsYS1mZW1pbmlzdGFzLXktYWxpYWRhcy1lbi1sYS1taXNtYS1sdWNoYS_SAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) La inflación en el debate teórico – Rebelion. Rebelión Hace 20 horas.
 
-[LINK](https://news.google.com/articles/CBMiHmh0dHBzOi8vcmViZWxpb24ub3JnLzY2NTIxNC0yL9IBAA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) Sobre el poder permanente en la Argentina – Rebelion. Rebelión Hace 19 horas.
+[LINK](https://news.google.com/articles/CBMiHmh0dHBzOi8vcmViZWxpb24ub3JnLzY2NTIxNC0yL9IBAA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) Sobre el poder permanente en la Argentina – Rebelion. Rebelión Hace 20 horas.
 
-[LINK](https://news.google.com/articles/CBMiX2h0dHBzOi8vcmViZWxpb24ub3JnL3Byb3B1ZXN0YXMtZGUtZGVjcmVjaW1pZW50by1lbC1wZW5zYW1pZW50by1tYWdpY28tbm8tcmVzb2x2ZXJhLWVsLWltcGFzc2Uv0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) Expertas en género y el borrador de la Ley Trans – Rebelion. Rebelión Hace 20 horas.
+[LINK](https://news.google.com/articles/CBMiX2h0dHBzOi8vcmViZWxpb24ub3JnL3Byb3B1ZXN0YXMtZGUtZGVjcmVjaW1pZW50by1lbC1wZW5zYW1pZW50by1tYWdpY28tbm8tcmVzb2x2ZXJhLWVsLWltcGFzc2Uv0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) Expertas en género y el borrador de la Ley Trans – Rebelion. Rebelión Hace 21 horas.
 
-[LINK](https://news.google.com/articles/CBMiUWh0dHBzOi8vcmViZWxpb24ub3JnL2d1ZXJyaWxsZXJhcy1kZWwtZWxuLWNvbnZlcnNhbi1zb2JyZS1sYXMtbHVjaGFzLWRlLWxhLW11amVyL9IBAA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) Finlandia tiene una vacuna para la covid desde hace nueve meses y optó por la «Big Pharma» – Rebelion. Rebelión Hace 20 horas.
-
-[LINK](https://news.google.com/articles/CBMiPmh0dHBzOi8vcmViZWxpb24ub3JnL2VsLXZpcnVzLXF1ZS1oaXpvLWNyb25pY2EtbGEtZGVzaWd1YWxkYWQv0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) La gran política y la revolución digital – Rebelion. Rebelión Hace 20 horas.
+[LINK](https://news.google.com/articles/CBMiUWh0dHBzOi8vcmViZWxpb24ub3JnL2d1ZXJyaWxsZXJhcy1kZWwtZWxuLWNvbnZlcnNhbi1zb2JyZS1sYXMtbHVjaGFzLWRlLWxhLW11amVyL9IBAA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419) Finlandia tiene una vacuna para la covid desde hace nueve meses y optó por la «Big Pharma» – Rebelion. Rebelión Hace 21 horas.
 
