@@ -23,16 +23,16 @@
  &nbsp;
 
 [<center><img src='https://lh5.googleusercontent.com/proxy/pTsyJSMexRVOexvTPiBI18mtNdHPBB8VqKGIrQ211WXmN5btVZ8Ad2FlLG-KeO-zxfeHIqt0fCuCfKC-8d3m_zLUxOsKhl1622qv-PNeU1hqYPzNYahFTpsk8p8=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMiKGh0dHBzOi8vd3d3LmVsY29oZXRlYWxhbHVuYS5jb20vcmF5YWR4cy_SAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Rayadxs. elcohetealaluna.com Hace 20 horas.
+  Rayadxs. elcohetealaluna.com Hace 21 horas.
 
 [<center><img src='https://lh6.googleusercontent.com/proxy/XuPFvL-GQtV2Uh19xvSgf7y4mYuluOv6gG-LlevWNXjDIEbhsSQuvajy7vooyThBeQhIhQeaSxnXUtyCxFytnmOajUgUNLzz19nZKEcMPDMPQenektUOV5p2LlWc1yRWVypW=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LmVsY29oZXRlYWxhbHVuYS5jb20vZXNjb25kZXItbGEtbWFuby_SAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  ESCONDER LA MANO. elcohetealaluna.com Hace 20 horas.
+  ESCONDER LA MANO. elcohetealaluna.com Hace 21 horas.
 
 [<center><img src='https://lh6.googleusercontent.com/proxy/INFLACY8v4hYSOZmKRDesEGHe-iX9kWYZTpxh1u8lyuFFwH4ao1LIxBwW3dPUjIPHG_-KXCN1d76WzghyCso4SZdsM_Z1T36YVT-2UZO_NeTIvWzCBpUM7PjWmO3XlV8gtOlaElP3jlThqw=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMiNGh0dHBzOi8vd3d3LmVsY29oZXRlYWxhbHVuYS5jb20vbGEtZ3VlcnJhLW11Z3JpZW50YS_SAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  LA GUERRA MUGRIENTA. elcohetealaluna.com Hace 20 horas.
+  LA GUERRA MUGRIENTA. elcohetealaluna.com Hace 21 horas.
 
 [<center><img src='https://lh5.googleusercontent.com/proxy/-w5teNVLnRe1bE3nGTauZjDyxXDeq2q9v5jztZ2weSJho5a1SF5DIK9eWtUk8MprZc8swPO2HwIEGeKYt9m7AyVgbjbMwkSnoQ8g7Eq7uLUmsSKJNtsFWSLaT9ShA0KiPdgmOP5nZDBf=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMiRGh0dHBzOi8vd3d3LmVsY29oZXRlYWxhbHVuYS5jb20vZm9ybW9zYS10YW4tc29saXRhcmlhLXRhbi1zb2xpZGFyaWEv0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Formosa: tan solitaria, tan solidaria. elcohetealaluna.com Hace 20 horas.
+  Formosa: tan solitaria, tan solidaria. elcohetealaluna.com Hace 21 horas.
 
  &nbsp;
 
@@ -88,11 +88,11 @@ Con más de 80 vuelos programados, mañana reabrirá Aeroparque luego de una amp
 [<center><img src='https://www.infobae.com/new-resizer/twOuYDEFEDgGfQUbDf_VIudt6ZY=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/7EVHF63FXJG5HBAJJ4EN6WIIHY.jpg' width=650></center>](https://www.infobae.com/america/deportes/2021/03/14/angel-di-maria-abandono-de-urgencia-el-partido-del-psg-por-un-robo-y-secuestro-de-un-familiar-en-su-hogar/)
 Di María abandonó de urgencia el partido del PSG por un robo y secuestro de un familiar en su hogarVIDEO.
 
-[<center><img src='https://www.infobae.com/new-resizer/fKGGbnTggzxAYLSPBydvlNNJpzg=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/UC56TAQ6UJAY3OV4234QUBHIVM.jpg' width=650></center>](https://www.infobae.com/america/deportes/espn/2021/03/14/que-paso-en-el-banco-de-suplentes-de-river-con-un-microfono-y-la-charla-tecnica-a-segundos-de-comenzar-el-partido-de-gallardo/)
-Qué pasó en el banco de suplentes de River con un micrófono y qué dijo Gallardo antes del partido VIDEO.
+[<center><img src='https://www.infobae.com/new-resizer/kEMHlPSmH9XtnL21yIDN1ysEZJc=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/SUEJDH7SXMDZCE6UF4ND5BZH5A.jpg' width=650></center>](https://www.infobae.com/deportes/2021/03/14/con-tevez-villa-y-capaldo-como-puntos-altos-los-puntajes-de-boca-en-el-superclasico-con-river/)
+Con Tevez, Villa y Capaldo como puntos altos: las calificaciones de Boca en el Superclásico. Por Federico Cristofanelli.
 
-[<center><img src='https://www.infobae.com/new-resizer/2U8AOyAJhMkVpDHVhIDDhTJESes=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/UQQF5A5EIBFHJHCROYW37GLCBE.jpg' width=650></center>](https://www.infobae.com/america/deportes/espn/2021/03/14/franco-armani-le-tapo-un-mano-a-mano-imposible-a-carlos-tevez-en-el-superclasico/)
-Las dos atajadas imposibles de Franco Armani en el SuperclásicoVIDEO.
+[<center><img src='https://www.infobae.com/new-resizer/LScyl6G9489-iC03l-BCvqDxa7E=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/IBHUNU2QFBAUXBLW2R3AHXSXGU.jpg' width=650></center>](https://www.infobae.com/deportes/2021/03/14/con-armani-como-figura-y-la-aparicion-de-palavecino-los-puntajes-de-river-en-el-superclasico-ante-boca/)
+Con Armani como figura y la aparición de Palavecino: los puntajes de River . Por Juan Franco Gagliardi.
 
  &nbsp;
 
@@ -156,8 +156,8 @@ VIDEO  Boca-River. La salvada milagrosa, la tapada de Armani y el reclamo de Gal
 
 AstraZeneca. Holanda suspende el uso de la vacuna por sus efectos secundarios.
 
-[<center><img src='https://bucket2.glanacion.com/anexos/fotos/23/3663223h186.jpg' width=650></center>](https://www.lanacion.com.ar/politica/reaparecera-en-publico-mauricio-macri-hara-una-gira-por-cuatro-provincias-tras-un-ano-sin-actos-nid14032021/)
-Tras un año. Por qué Macri vuelve al ruedo y hará una gira por provincias.
+[<center><img src='https://bucket2.glanacion.com/anexos/fotos/74/3663174h186.jpg' width=650></center>](https://www.lanacion.com.ar/cultura/efecto-streisand-con-primer-tiempo-crece-el-interes-en-las-memorias-de-mauricio-macri-nid14032021/)
+''Primer tiempo''. Efecto Streisand: crece el interés en las memorias de Macri     Por Daniel Gigena.
 
 El Calafate. Cacerolazo en la casa de Cristina Kirchner     Por Mariela Arias.
 
@@ -170,13 +170,13 @@ El Calafate. Cacerolazo en la casa de Cristina Kirchner     Por Mariela Arias.
  &nbsp;
 
 [<center><img src='https://lh5.googleusercontent.com/proxy/p-pYK8QkXmnY0IMLahonsh5sVBchmvD2LjTrSX6kDYOXAm3Cw6fTQXK21RcdlAho3A6y6BisvVuT_0Z3fX9bu4bs3cmVBaZ5pXFLYc4D7kvO7ZBJ2StdZWpfsa2A1T_PlnxeaVewOQ_Xuo7NrWCAkV_CUn6BXWLRXswYi7Q8Jwz9VpK6TjOwPZ2WBANtsNXQq2YNmIyWEiVt9t8hX0PvNPXdr6ijkPZMiepD-1khRd4=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEAoz-SmCHCptK_Uc1LRmVxEqFwgEKg4IACoGCAow1P5zML2BDDCAndED?uo=CAUijwFodHRwczovL3d3dy5sYW5hY2lvbi5jb20uYXIvZXNwZWN0YWN1bG9zL3BlcnNvbmFqZXMvZGUtZW5zdWVuby1lbC1pbmNyZWlibGUtamFyZGluLWRlLWxhLWNhc2EtZGUtbGEtY2hpbmEtc3VhcmV6LXktYmVuamFtaW4tdmljdW5hLW5pZDE0MDMyMDIxL9IBAA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Nuevos desafíos para América Latina y China en la postpandemia. Página 12 Hace 1 hora.
+  Nuevos desafíos para América Latina y China en la postpandemia. Página 12 Hace 2 horas.
 
 [<center><img src='https://lh3.googleusercontent.com/JDFOyo903E9WGstK0YhI2ZFOKR3h4qDxBngX5M8XJVBZFKzOBoxLmk3OVlgNw9SOE-HfkNgb=w32' width=650></center>](https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LjE2dmFsdnVsYXMuY29tLmFyL3ZvbGtzd2FnZW4tdGFsYWdvbi1hc2ktZXMtZWwtZW5vcm1lLXN1di1kZS01MTUtbWV0cm9zLWRlLWxhcmdvLWV4Y2x1c2l2by1wYXJhLWNoaW5hL9IBAA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Llega un millón de vacunas de la china Sinovac. La Jornada Hace 9 horas.
+  Llega un millón de vacunas de la china Sinovac. La Jornada Hace 10 horas.
 
 [<center><img src='https://lh3.googleusercontent.com/dp0Y2_7fSoh2H5smXADvkL44jOEcGdXLav9lNOEWYXs0E1HU6XxuXEmlDpJ6E2I-wNclfKQ8LPcmokBYzw=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEJZaMK3MgC2GnssHCZzM5ygqFwgEKg4IACoGCAowyPhzMO2BDDDCt60D?uo=CAUidGh0dHBzOi8vd3d3LmluZm9iYWUuY29tL2FtZXJpY2EvYWdlbmNpYXMvMjAyMS8wMy8xNC91cnVndWF5LWFsY2FuemEtdW4tbnVldm8tcmVjb3JkLWRlLWNhc29zLWRpYXJpb3MtZGUtbGEtY292aWQtMTkv0gEA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Uruguay entre los diez países del mundo que más dosis diarias dieron cada 100 personas. El País Uruguay  Hace 3 horas.
+  Uruguay entre los diez países del mundo que más dosis diarias dieron cada 100 personas. El País Uruguay  Hace 4 horas.
 
 [<center><img src='https://lh6.googleusercontent.com/proxy/HWxMZHItTQ2JrBE-3z8GV-N09_xKvS1SGOZmrEOAw4y0uMWE30LtKQ8Jlu5QP-01qAaleDkWjXJXovALy4cAzFtrWaleoVT-m9zx_R7w5wXfj2Oc9HGolrw14VI=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMibGh0dHBzOi8vY2hlcXVlYWRvLmNvbS9lbC1leHBsaWNhZG9yL3ZlaW50ZS1wcmVndW50YXMteS1yZXNwdWVzdGFzLXNvYnJlLWxhLXZhY3VuYWNpb24tY29udHJhLWVsLWNvcm9uYXZpcnVzL9IBcGh0dHBzOi8vY2hlcXVlYWRvLmNvbS9lbC1leHBsaWNhZG9yL3ZlaW50ZS1wcmVndW50YXMteS1yZXNwdWVzdGFzLXNvYnJlLWxhLXZhY3VuYWNpb24tY29udHJhLWVsLWNvcm9uYXZpcnVzL2FtcC8?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Veinte preguntas y respuestas sobre la vacunación contra el coronavirus. Chequeado Hace 8 horas.
@@ -192,23 +192,23 @@ El Calafate. Cacerolazo en la casa de Cristina Kirchner     Por Mariela Arias.
 <H3><center>La Plata</center></H3>
  &nbsp;
 
+[<center><img src='https://pxb.cdn.0221.com.ar/0221/022021/1614120776082.jpg?x=9&y=24&width=1484&height=742&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=1000&&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-14-20-0-0-confirman-53-nuevos-casos-de-coronavirus-y-ninguna-muerte-en-la-plata)
+PANDEMIA: Confirman 53 nuevos casos de coronavirus y ninguna muerte en La Plata.
+
 [<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615761161736.jpg?x=6&y=173&width=1488&height=744&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=1000&&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-14-19-22-0-se-realizo-la-segunda-edicion-de-la-expo-mujer-saludable-en-la-plata)
 EN LA CASONA DE UNIVERSITARIO: Se realizó la segunda edición de la Expo Mujer Saludable en La Plata.
 
 [<center><img src='https://pxb.cdn.0221.com.ar/0221/012021/1609986422546.jpg?x=9&y=27&width=1483&height=741&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=905&&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-14-18-9-0--es-posible-que-la-plata-y-la-provincia-vuelvan-a-fase-1)
-PANDEMIA: ¿Es posible que La Plata y la provincia vuelvan a Fase 1?.
+COVID-19: ¿Es posible que La Plata y la provincia vuelvan a Fase 1?.
 
-[<center><img src='https://pxb.cdn.0221.com.ar/0221/022021/1614014341509.jpeg?&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-14-17-35-0-dia-por-dia-asi-va-a-estar-el-clima-durante-la-semana-en-la-plata)
-PRONÓSTICO EXTENDIDO: Día por día, así va a estar el clima durante la semana en La Plata.
-
-[<center><img src='https://lh3.googleusercontent.com/jzKGPFJlDRhHHcdcV60RrhN4CEMcPd0AOtkCOQBIQFQW3GBvVjS4C14W2rG1sTat2Jc2nuvmyvMDFtJdGPU=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEOmFYvR2iBEA9ilpD0U622QqGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?uo=CAUikQFodHRwczovL3d3dy5lbGRpYS5jb20vbm90YS8yMDIxLTMtMTQtMTUtNTEtMC12aWRlby0tLWFzaS1kZXNhcnRpY3VsYWJhbi1sYXMtZmllc3Rhcy1jbGFuZGVzdGluYXMtZW4tbGEtcGxhdGEtZW5vcm1lLWNhbnRpZGFkLWRlLWpvdmVuZXMtbGEtY2l1ZGFk0gEA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Así desarticularon las fiestas clandestinas en La Plata: video de la salida de los jóvenes. Diario El Dia Hace 40 minutos.
+[<center><img src='https://lh3.googleusercontent.com/QxUJe7VzpSiN9AMb6aL-pwP_edaOLuAn9gOHdVoraTEeRhKn9zqaD3XAmNgPBVZe-40QfTnRuAIDHx7FK6c=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEOmFYvR2iBEA9ilpD0U622QqGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?uo=CAUikQFodHRwczovL3d3dy5lbGRpYS5jb20vbm90YS8yMDIxLTMtMTQtMTUtNTEtMC12aWRlby0tLWFzaS1kZXNhcnRpY3VsYWJhbi1sYXMtZmllc3Rhcy1jbGFuZGVzdGluYXMtZW4tbGEtcGxhdGEtZW5vcm1lLWNhbnRpZGFkLWRlLWpvdmVuZXMtbGEtY2l1ZGFk0gEA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Así desarticularon las fiestas clandestinas en La Plata: video de la salida de los jóvenes. Diario El Dia Hace 23 minutos.
 
 [<center><img src='https://lh3.googleusercontent.com/proxy/VDF8D5addjhpayKlnIN3YLUIsalp-sk6dthdM-w1PLrjIKlVjICmGMrRDD8V3QZOZMpCwZkuoWu4Dwo9VtuS6yDKQQk3V6FKmNA=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LmVsZGlhLmNvbS9ub3RhLzIwMjEtMy0xNC03LTU2LTAtZWwtZG9taW5nby1lbi1sYS1wbGF0YS1jb24tdGVtcGVyYXR1cmEtYWdyYWRhYmxlLXktY2llbG8tbnVib3NvLWxhLWNpdWRhZNIBeWh0dHBzOi8vd3d3LmVsZGlhLmNvbS9ub3RhLzIwMjEtMy0xNC03LTU2LTAtZWwtZG9taW5nby1lbi1sYS1wbGF0YS1jb24tdGVtcGVyYXR1cmEtYWdyYWRhYmxlLXktY2llbG8tbnVib3NvLWxhLWNpdWRhZC9hbXA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  El domingo en La Plata, con temperatura agradable y cielo nuboso. Diario El Día Hace 12 horas.
+  El domingo en La Plata, con temperatura agradable y cielo nuboso. Diario El Día Hace 13 horas.
 
 [<center><img src='https://lh3.googleusercontent.com/92ePSWPVIorRY5i_TrUoDwCpZTn24WCzfZhpTa3yAYO0cXHo2rcitQQ922lD3IIi8-QadtfMUOiLGomsrN4=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiENpCGYw9whh89PDROEZ6yNIqGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?uo=CAUia2h0dHBzOi8vd3d3LmVsZGlhLmNvbS9ub3RhLzIwMjEtMy0xNC02LTAtMzctcGxhbnRhcm9uLW51ZXZvcy10aWxvcy1lbi1sYS1hdmVuaWRhLTEzLWRlc2RlLTcyLWEtNzYtbGEtY2l1ZGFk0gEA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Plantaron nuevos tilos en la avenida 13 desde 72 a 76. Diario El Dia Hace 40 minutos.
+  Plantaron nuevos tilos en la avenida 13 desde 72 a 76. Diario El Dia Hace 23 minutos.
 
  &nbsp;
 
@@ -223,4 +223,4 @@ PRONÓSTICO EXTENDIDO: Día por día, así va a estar el clima durante la semana
  &nbsp;
 
 [<center>Volver al Inicio</center>](#index) &nbsp;
-[<center><img src='https://media1.tenor.com/images/976701e0ec872990cea93b1c44aaa3cf/tenor.gif' width=150></center>](#index)
+[<center><img src='https://media1.tenor.com/images/976701e0ec872990cea93b1c44aaa3cf/tenor.gif' width=200></center>](#index)
