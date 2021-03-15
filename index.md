@@ -22,32 +22,32 @@
 <H3><center>Página12</center></H3>
  &nbsp;
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147820-reporte_0.jpg?itok=ju80JyNR' width=650></center>](https://www.pagina12.com.ar/329497-coronavirus-en-argentina-se-registraron-3-697-casos-y-24-mue)
-Los números de la pandemia 
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/na01fo01_1665.jpg?itok=4gjOjsqw' width=650></center>](https://www.pagina12.com.ar/329561-el-espionaje-ilegal-macrista-tambien-paso-por-migraciones)
+TODO BAJO CONTROL 
  
- Coronavirus en Argentina: se registraron 3.697 casos y 24 muertes en las últimas 24 horas 
+ Exclusivo: El rol de la Dirección Nacional de Migraciones en el espionaje macrista sobre empresarios y opositores. Controlaron los egresos e ingresos al país de una enorme lista de protagonistas que fueron desde Cristina Kirchner a Hugo Moyano, pasando por ministros de la Corte y gobernadores. La relación con la AFI, la UIF y la Policía de la Ciudad 
  
- El número de casos desde el comienzo de la pandemia asciende a 2.195.722 y los fallecidos son en total 53.670. Hay 3.479 internados en terapia intensiva. Ya fueron vacunadas 2.394.800 personas..
+ Por Luciana Bertoia.
 
 
 
-[<center><img src='https://www.pagina12.com.ar/assets/media/assets/video-icon.svg' width=650></center>](https://www.pagina12.com.ar/329475-boca-y-river-empataron-en-un-superclasico-que-fue-de-menor-a)
-Un Superclásico que fue de menor a mayor Boca y River empataron 1-1 en la Bombonera.
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147801-whatsapp-20image-202021-03-14-20at-206-19-20-20pm.jpeg?itok=vyQ4SXtM' width=650></center>](https://www.pagina12.com.ar/329491-un-pais-de-enroscados-mediaticos)
+Opinión¿Un país de enroscados mediáticos?. Por Eduardo Aliverti.
 
 
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147574-noche-20tribunales.jpeg?itok=lhBbr3qJ' width=650></center>](https://www.pagina12.com.ar/329393-cuales-son-los-desafios-del-futuro-ministro-de-justicia)
-¿Cuáles son los desafíos del futuro ministro de Justicia? Expectativa por la designación de quien ocupará el lugar de Marcela Losardo. Por Irina Hauser.
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147747-whatsapp-20image-202021-03-14-20at-2019-49-40.jpeg?itok=Drl9Ybrj' width=650></center>](https://www.pagina12.com.ar/329509-coronavirus-por-que-el-incremento-de-casos-en-paises-limitro)
+Coronavirus: ¿por qué el incremento de casos en países limítrofes podría afectar a Argentina? El foco en la variante P.1 de Brasil y en el relajamiento de los cuidados.
 
 
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/banda_0.jpg?itok=aRoBY56S' width=650></center>](https://www.pagina12.com.ar/329434-el-libro-de-macri-un-primer-tiempo-sin-ninguna-autocritica-y)
-Un "Primer tiempo" sin ninguna autocrítica y que culpabiliza hasta a sus propios votantes Adelanto del libro de Macri: qué dice sobre Cristina Kirchner y Vidal.
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147837-whatsapp-20image-202021-03-14-20at-2010-12-22-20pm.jpeg?itok=2OUHD94Z' width=650></center>](https://www.pagina12.com.ar/329522-las-palabras-y-las-guerras)
+OpiniónLas palabras y las guerras. Por Mempo Giardinelli.
 
 
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147577-gianfranco-20y-20mauricio.jpeg?itok=mZZwwGlu' width=650></center>](https://www.pagina12.com.ar/329370-la-disputa-judicial-por-los-540-millones-de-dolares-de-la-he)
-La disputa judicial por los 540 millones de dólares de la herencia de Franco Macri La batalla en el seno de la famiglia Macri. Por Santiago O'Donnell.
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/147834-whatsapp-20image-202021-03-14-20at-2018-23-35.jpeg?itok=99zRjBU4' width=650></center>](https://www.pagina12.com.ar/329508-comienzan-las-audiencias-para-definir-las-tarifas-del-gas)
+Comienzan las audiencias para definir las tarifas del gas Serán virtuales y se extenderán durante lunes y martes.
 
 
 
@@ -59,20 +59,20 @@ La disputa judicial por los 540 millones de dólares de la herencia de Franco Ma
 <H3><center>Infobae</center></H3>
  &nbsp;
 
-[<center><img src='https://www.infobae.com/new-resizer/jAN7vh_fmsY3Dq7Hxdt1E6_RaeM=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/NLMMFWROWFAUHMYADMSDZCOYCE.jpg' width=650></center>](https://www.infobae.com/economia/2021/03/14/avanzan-cambios-en-ganancias-que-beneficiaran-a-12-millones-de-contribuyentes-como-fue-el-debate-y-cuando-se-aprobarian/)
-Avanzan los cambios en Ganancias que beneficiarán a 1,2 millones de contribuyentes: cuándo se aprobaríanLa semana próxima tendrá despacho de Comisión y siete días más tarde se tratará en Diputados. Los cambios que se introdujeron y los que propuso la oposición. Por David Cayón.
+[<center><img src='https://www.infobae.com/new-resizer/_SSiJVf-PmmlxOCQWAtE13nCqoo=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/N4GQOITWNJFCTKY5GQCMBXSUIA.jpg' width=650></center>](https://www.infobae.com/politica/2021/03/15/a-una-semana-de-anunciar-la-salida-de-losardo-alberto-fernandez-negocia-con-cristina-kirchner-el-nombre-del-reemplazante-en-el-ministerio-de-justicia/)
+A una semana de anunciar la salida de Losardo, Alberto Fernández negocia con Cristina Kirchner el nombre del reemplazante en el Ministerio de JusticiaEl Presidente analiza quién estará a cargo de la cartera judicial en la nueva etapa que encara el Gobierno. El anuncio sería entre hoy y mañana. El poder de veto de la vicepresidenta ante la danza de nombres que circularon en las últimas horas. Por Matías Russo Coroman.
 
-[<center><img src='https://www.infobae.com/new-resizer/ESVoc4dUMejwHCdbc9c0Bb_7iS4=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/IMBQ4WMO6NC5HNIAWTWDJYHBFQ' width=650></center>](https://www.infobae.com/america/deportes/2021/03/14/boca-river-un-superclasico-clave-para-la-copa-de-la-liga-hora-tv-y-formaciones/)
-Boca y River protagonizaron un Superclásico apasionante y empataron en la BomboneraVIDEO.
+[<center><img src='https://www.infobae.com/new-resizer/KBmfiujsOgEYMBFA1ugc5oHDCNA=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/IEVP6IGTUZAENLE7DQLX5WXKBI.jpg' width=650></center>](https://www.infobae.com/politica/2021/03/15/la-ofensiva-oficial-ahora-apunta-a-la-camara-federal-de-casacion-penal-el-tribunal-que-revisa-causas-clave-contra-cristina-kirchner/)
+La ofensiva oficial ahora apunta a la Cámara Federal de Casación Penal, el tribunal que revisa causas clave contra Cristina Kirchner. Por Matías Russo Coroman.
 
-[<center><img src='https://www.infobae.com/new-resizer/twOuYDEFEDgGfQUbDf_VIudt6ZY=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/7EVHF63FXJG5HBAJJ4EN6WIIHY.jpg' width=650></center>](https://www.infobae.com/america/deportes/2021/03/14/angel-di-maria-abandono-de-urgencia-el-partido-del-psg-por-un-robo-y-secuestro-de-un-familiar-en-su-hogar/)
-Di María tuvo que abandonar de urgencia el partido del PSG por un robo y secuestro de un familiarVIDEO.
+[<center><img src='https://www.infobae.com/new-resizer/kvdRrfzzyC5U3Pl9YkgEiDrN0vY=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/RB6QWUAWRJBXNBVRRRHDNX3LEA.jpg' width=650></center>](https://www.infobae.com/historias/2021/03/15/tomo-carrera-salto-el-muro-y-lo-capturaron-hoy-es-una-mente-brillante-mundial-y-brad-pitt-filmara-su-historia/)
+Tomó carrera, saltó el muro y lo capturaron: hoy es una "mente brillante" y Brad Pitt filmará su historia. Por Gisele Sousa.
 
-[<center><img src='https://www.infobae.com/new-resizer/WRIM8o9jpM_Yxlst5vxi3H9f9h8=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/6Z4KSUEJGRCY3LJOQQXQW7LCX4.jpg' width=650></center>](https://www.infobae.com/deportes/2021/03/14/la-jugada-milagrosa-del-superclasico-entre-boca-y-river-que-dejo-estupefacto-a-riquelme/)
-El gol que no pudo concretar River al final del partido y cómo lo vivieron Riquelme y GallardoVIDEO.
+[<center><img src='https://www.infobae.com/new-resizer/qev2eZrOuXLR5O6NNcfXsB5zmmw=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/N6Q7OU47NVALHI2WRI55VIA3IQ.jpg' width=650></center>](https://www.infobae.com/economia/2021/03/15/deja-vu-economico-un-estudio-muestra-que-la-economia-argentina-tiene-una-oportunidad-similar-a-2012-pero-podria-volver-a-perderla/)
+¿Déjà vu económico? la Argentina tiene una oportunidad similar a 2012, pero podría perderla. Por Sergio Serrichio.
 
-[<center><img src='https://www.infobae.com/new-resizer/DKqLJB4z7OY2Sb7YePnpladmeh4=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/23H2DG3CJVBJTEDN6XQQX5Q65A' width=650></center>](https://www.infobae.com/deportes/2021/03/15/15-frases-de-marcelo-gallardo-que-lo-sorprendio-del-planteo-de-russo-y-el-respeto-que-boca-le-tiene-a-river/)
-15 frases de Gallardo: qué lo sorprendió del planteo de Russo y el respeto que Boca le tiene a RiverVIDEO.
+[<center><img src='https://www.infobae.com/new-resizer/0cqwAmmNxeoycVp443ht-KZKGKQ=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/PU4KU7V3RJFK5AQNWHYCOCXFVQ.jpg' width=650></center>](https://www.infobae.com/sociedad/2021/03/15/los-bomberos-siguen-luchando-contra-los-incendios-en-la-patagonia-y-ya-son-dos-las-victimas-fatales/)
+Los bomberos siguen luchando contra los incendios en la Patagonia y ya son dos las víctimas fatales. Por Juan Franco Gagliardi.
 
  &nbsp;
 
@@ -108,17 +108,17 @@ Paraguay  Tras una semana de protestas, la oposición confirma que pedirá el ju
 [<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604ec8c059bf5b1025246272.JPG' width=650></center>](https://actualidad.rt.com//actualidad/386423-decretar-detencion-preventiva-4-meses-anez)
 Decretan detención preventiva de 4 meses para Jeanine Áñez y dos de sus exministros en Bolivia.
 
-[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604e63d0e9ff7152c027e5ad.JPG' width=650></center>](https://actualidad.rt.com//actualidad/386399-astrazeneca-comenta-informes-vacuna-provoca-riesgo-coagulos)
-AstraZeneca se pronuncia luego de que varios países suspendieran el uso de su vacuna por informes de provocar trombos como efecto secundario.
-
 [<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604e8f22e9ff7152c027e5c9.JPG' width=650></center>](https://actualidad.rt.com//actualidad/386408-paises-bajos-suspenden-uso-farmaco)
 Los Países Bajos suspenden el uso del fármaco de AstraZeneca tras los informes sobre coágulos de sangre en personas vacunadas.
 
-[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604ea69759bf5b731b13fbe2.JPG' width=650></center>](https://actualidad.rt.com//actualidad/386414-pandemia-coronavirus-impedir-brote-enfermedad-neurologica)
-La pandemia de coronavirus probablemente impidió el brote de una rara enfermedad neurológica que puede provocar parálisis.
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604ed1c559bf5b7c4e0f9441.JPG' width=650></center>](https://actualidad.rt.com//actualidad/386422-100-detenidos-2-policias-heridos-playas-miami-llenasen)
+Al menos 100 detenidos, 2 policías heridos y playas llenas: así comienzan las vacaciones de primavera en Miami Beach (VIDEOS).
 
 [<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604e778559bf5b731b13fbc7.jpg' width=650></center>](https://actualidad.rt.com//actualidad/386402-video-israel-presentar-municion-mortero)
 VIDEO: Israel presenta una munición de mortero guiada por láser y GPS que "va a revolucionar la guerra en tierra".
+
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/604dec7f59bf5b708c2c2f4c.jpg' width=650></center>](https://actualidad.rt.com//programas/documentales/386294-censura-duenos-algoritmo)
+"Así cayeron los grandes imperios de todos los tiempos": ¿Cómo será el Internet del futuro y a cambio de qué?.
 
  &nbsp;
 
@@ -130,16 +130,15 @@ VIDEO: Israel presenta una munición de mortero guiada por láser y GPS que "va 
 
 Covid. Se gastó la mitad del presupuesto y sólo se vacunó al 0,99% de la población       El Ministerio de Salud informó que se reforzará la partida en $61 mil millones y que se compraron 15,5 millones de dosis; hasta ahora sólo llegaron 4 millones de vacunas al país          Por Laura Serra.
 
-[<center><img src='https://bucket2.glanacion.com/anexos/fotos/94/3663194h186.jpg' width=650></center>](https://www.lanacion.com.ar/deportes/futbol/boca-river-en-la-copa-de-la-liga-nid12032021/)
-Superclásico. Boca y River empataron 1-1 en un duelo intenso en la Bombonera     Por Pablo Lisotto.
+Vacunas. Distribuyen las últimas 399.000 dosis disponibles     Por Fabiola Czubaj.
 
-[<center><img src='https://bucket3.glanacion.com/anexos/fotos/17/3663317h186.jpg' width=650></center>](https://www.lanacion.com.ar/deportes/angel-di-maria-obligado-de-dejar-la-cancha-por-un-robo-en-su-casa-nid15032021/)
-PSG. El drama de Di María: debió irse del partido por un robo en su casa.
+[<center><img src='https://bucket3.glanacion.com/anexos/fotos/07/3663407h186.jpg' width=650></center>](https://www.lanacion.com.ar/politica/alberto-fernandez-se-autodesluce-y-sergio-massa-saca-ventaja-nid15032021/)
+Análisis. Alberto Fernández se autodesluce  y Sergio Massa saca ventaja         Por Claudio Jacquelin.
 
-[<center><img src='https://bucket3.glanacion.com/anexos/fotos/07/3663307h186.jpg' width=650></center>](https://www.lanacion.com.ar/sociedad/covid-los-infectados-deberian-esperar-siete-semanas-antes-de-someterse-a-una-cirugia-nid15032021/)
-Covid. Cuánto deberían esperar los infectados para someterse a una cirugía     Por Alejandra Folgarait.
+[<center><img src='https://bucket3.glanacion.com/anexos/fotos/08/3663408h186.jpg' width=650></center>](https://www.lanacion.com.ar/politica/anibal-fernandez-se-ofrece-como-salvador-con-una-condicion-nid15032021/)
+En off. Aníbal Fernández se ofrece como salvador, con una condición     Por Jaime Rosemberg.
 
-AstraZeneca. Holanda suspende el uso de la vacuna por sus efectos secundarios.
+A FONDO  Reglas. Cómo se vive en el último colegio privado y pupilo de la Argentina     Por Alejandro Horvat.
 
  &nbsp;
 
@@ -149,23 +148,23 @@ AstraZeneca. Holanda suspende el uso de la vacuna por sus efectos secundarios.
 <H3><center>Google News</center></H3>
  &nbsp;
 
-[<center><img src='https://lh5.googleusercontent.com/proxy/p-pYK8QkXmnY0IMLahonsh5sVBchmvD2LjTrSX6kDYOXAm3Cw6fTQXK21RcdlAho3A6y6BisvVuT_0Z3fX9bu4bs3cmVBaZ5pXFLYc4D7kvO7ZBJ2StdZWpfsa2A1T_PlnxeaVewOQ_Xuo7NrWCAkV_CUn6BXWLRXswYi7Q8Jwz9VpK6TjOwPZ2WBANtsNXQq2YNmIyWEiVt9t8hX0PvNPXdr6ijkPZMiepD-1khRd4=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMigQFodHRwczovL3BvcnRhbHBvcnR1YXJpby5jbC9hcmdlbnRpbmEtZ29iaWVybm8tYXZhbnphLWVuLWFjdWVyZG8tY29uLWVtcHJlc2EtY2hpbmEtcGFyYS1jb250aW51YXItbW9kZXJuaXphY2lvbi1kZS1saW5lYS1iZWxncmFuby_SAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Nuevos desafíos para América Latina y China en la postpandemia. Página 12 Hace 4 horas.
+[<center><img src='https://lh5.googleusercontent.com/proxy/p-pYK8QkXmnY0IMLahonsh5sVBchmvD2LjTrSX6kDYOXAm3Cw6fTQXK21RcdlAho3A6y6BisvVuT_0Z3fX9bu4bs3cmVBaZ5pXFLYc4D7kvO7ZBJ2StdZWpfsa2A1T_PlnxeaVewOQ_Xuo7NrWCAkV_CUn6BXWLRXswYi7Q8Jwz9VpK6TjOwPZ2WBANtsNXQq2YNmIyWEiVt9t8hX0PvNPXdr6ijkPZMiepD-1khRd4=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LnBhZ2luYTEyLmNvbS5hci8zMjk0ODQtbnVldm9zLWRlc2FmaW9zLXBhcmEtYW1lcmljYS1sYXRpbmEteS1jaGluYS1lbi1sYS1wb3N0cGFuZGVt0gFfaHR0cHM6Ly93d3cucGFnaW5hMTIuY29tLmFyLzMyOTQ4NC1udWV2b3MtZGVzYWZpb3MtcGFyYS1hbWVyaWNhLWxhdGluYS15LWNoaW5hLWVuLWxhLXBvc3RwYW5kZW0?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Nuevos desafíos para América Latina y China en la postpandemia. Página 12 Hace 10 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/JDFOyo903E9WGstK0YhI2ZFOKR3h4qDxBngX5M8XJVBZFKzOBoxLmk3OVlgNw9SOE-HfkNgb=w32' width=650></center>](https://news.google.com/articles/CAIiEAoz-SmCHCptK_Uc1LRmVxEqFwgEKg4IACoGCAow1P5zML2BDDCAndED?uo=CAUijwFodHRwczovL3d3dy5sYW5hY2lvbi5jb20uYXIvZXNwZWN0YWN1bG9zL3BlcnNvbmFqZXMvZGUtZW5zdWVuby1lbC1pbmNyZWlibGUtamFyZGluLWRlLWxhLWNhc2EtZGUtbGEtY2hpbmEtc3VhcmV6LXktYmVuamFtaW4tdmljdW5hLW5pZDE0MDMyMDIxL9IBAA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Llega un millón de vacunas de la china Sinovac. La Jornada Hace 12 horas.
+[<center><img src='https://lh3.googleusercontent.com/_LQ6Wdpj5CItorUv55D_hC67Y8LebunRzTmb2CrOmDz8IopJQwjtjZ3dAZt7As9E6Cb0Q0eGzCJmLRcV59o=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEO6lZCIDcLGcxdA3C_ZJ6xsqFwgEKg4IACoGCAowyPhzMO2BDDDCt60D?uo=CAUidmh0dHBzOi8vd3d3LmluZm9iYWUuY29tL2FtZXJpY2EvYWdlbmNpYXMvMjAyMS8wMy8xNS9jaGluYS1kZXRlY3RhLTUtbnVldm9zLWNvbnRhZ2lvcy10b2Rvcy1wcm9jZWRlbnRlcy1kZWwtZXh0cmFuamVyby_SAQA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  China detecta 5 nuevos contagios, todos procedentes del extranjero. infobae Hace 6 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/ZF0f0gQHEKBrS10-dRU-wLRlu9PXHfEg_wtcGTh1Tnc9BNAozg_UMDwTobYXFHRSnFa_4QsQC1Dmwu6Z8g=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEJZaMK3MgC2GnssHCZzM5ygqFwgEKg4IACoGCAowyPhzMO2BDDDCt60D?uo=CAUidGh0dHBzOi8vd3d3LmluZm9iYWUuY29tL2FtZXJpY2EvYWdlbmNpYXMvMjAyMS8wMy8xNC91cnVndWF5LWFsY2FuemEtdW4tbnVldm8tcmVjb3JkLWRlLWNhc29zLWRpYXJpb3MtZGUtbGEtY292aWQtMTkv0gEA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Uruguay entre los diez países del mundo que más dosis diarias dieron cada 100 personas. El País Uruguay  Hace 7 horas.
+[<center><img src='https://lh3.googleusercontent.com/vh7E8f1HJBkTTKDrKxbBneYeKKLJisFDdIEOXjQidm_lwDXPCei-jMXw56NsM0nkR7RmuRH9hgwaGHHNsw=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEJZaMK3MgC2GnssHCZzM5ygqFwgEKg4IACoGCAowyPhzMO2BDDDCt60D?uo=CAUidGh0dHBzOi8vd3d3LmluZm9iYWUuY29tL2FtZXJpY2EvYWdlbmNpYXMvMjAyMS8wMy8xNC91cnVndWF5LWFsY2FuemEtdW4tbnVldm8tcmVjb3JkLWRlLWNhc29zLWRpYXJpb3MtZGUtbGEtY292aWQtMTkv0gEA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Uruguay entre los diez países del mundo que más dosis diarias dieron cada 100 personas. El País Uruguay  Hace 12 horas.
 
 [<center><img src='https://lh6.googleusercontent.com/proxy/HWxMZHItTQ2JrBE-3z8GV-N09_xKvS1SGOZmrEOAw4y0uMWE30LtKQ8Jlu5QP-01qAaleDkWjXJXovALy4cAzFtrWaleoVT-m9zx_R7w5wXfj2Oc9HGolrw14VI=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMibGh0dHBzOi8vY2hlcXVlYWRvLmNvbS9lbC1leHBsaWNhZG9yL3ZlaW50ZS1wcmVndW50YXMteS1yZXNwdWVzdGFzLXNvYnJlLWxhLXZhY3VuYWNpb24tY29udHJhLWVsLWNvcm9uYXZpcnVzL9IBcGh0dHBzOi8vY2hlcXVlYWRvLmNvbS9lbC1leHBsaWNhZG9yL3ZlaW50ZS1wcmVndW50YXMteS1yZXNwdWVzdGFzLXNvYnJlLWxhLXZhY3VuYWNpb24tY29udHJhLWVsLWNvcm9uYXZpcnVzL2FtcC8?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Veinte preguntas y respuestas sobre la vacunación contra el coronavirus. Chequeado Hace 11 horas.
+  Veinte preguntas y respuestas sobre la vacunación contra el coronavirus. Chequeado Hace 17 horas.
 
 [<center><img src='https://lh5.googleusercontent.com/proxy/l3QDhT85jNbY9u54LshxWNaCf9YX58UvaAuOya8nXr8YPRGjkjxOYyr0KvhRv_d30pEQ4kEt6Iv3FQ1q87ixSMDsqQrI-sQyBArht7S5WF-zXTBxl2p44Zx1QQ=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMia2h0dHA6Ly9nYW1tYWJveHRlY2guY29tL2ktZC1kZS1kcm9nYXMtZGUtaW50ZWxpZ2VuY2lhLWFydGlmaWNpYWwtcGxhbmlmaWNhY2lvbi1kZS1sYS1lc3RyYXRlZ2lhLWRlLW1lcmNhZG8v0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   I + D de drogas de inteligencia artificial El Mercado Crecerá Alto En 2021, IBM Watson, BioXel, Insilico Medicine, Gatehouse Bio Como Contribuyentes Clave Al Crecimiento | Market.Biz - Gammabox Tech. Gammabox Tech Hace 5 días.
 
-[<center><img src='https://lh3.googleusercontent.com/N9sKoeO_U_0rst5CTh8mV1XAN0-i0nWp42l3a_W_yiBUTdGjCAbcmI0bqD6KNrX7K6t_FVpcnXw6HXSVUA=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEOU2sUyyVpNmKE2Sl0ANmq0qGQgEKhAIACoHCAowwOWNCzDbmqADMNSCqgY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  "En México podías ser libre. A ellos no les importaba de qué color fuera tu piel": la poco conocida historia de la ruta de escape de los esclavos estadounidenses hacia el sur. BBC News Mundo Hace 16 horas.
+[<center><img src='https://lh3.googleusercontent.com/cOD7lzdkd31kMzHqe00JEvq7r49TaE9JGxwrJrk5J7J8CDmny0zNBbKfuuvEIwNKrB3M9KUrqplY6iMe7aY=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEOU2sUyyVpNmKE2Sl0ANmq0qGQgEKhAIACoHCAowwOWNCzDbmqADML6JqgY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  "En México podías ser libre. A ellos no les importaba de qué color fuera tu piel": la poco conocida historia de la ruta de escape de los esclavos estadounidenses hacia el sur. BBC News Mundo Hace 22 horas.
 
  &nbsp;
 
@@ -184,14 +183,14 @@ EN LA CASONA DE UNIVERSITARIO: Se realizó la segunda edición de la Expo Mujer 
 [<center><img src='https://pxb.cdn.0221.com.ar/0221/012021/1609986422546.jpg?x=9&y=27&width=1483&height=741&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=905&&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-14-18-9-0--es-posible-que-la-plata-y-la-provincia-vuelvan-a-fase-1)
 COVID-19: ¿Es posible que La Plata y la provincia vuelvan a Fase 1?.
 
-[<center><img src='https://lh3.googleusercontent.com/F8vIZ_NTZNDqpAZHP0UgEIO13kSGngnj49EITTfe_yryF6zq0S_rn_Q19-0_9E8u4KH_WUo3v2j_KJHLufA=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEOmFYvR2iBEA9ilpD0U622QqGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?uo=CAUikQFodHRwczovL3d3dy5lbGRpYS5jb20vbm90YS8yMDIxLTMtMTQtMTUtNTEtMC12aWRlby0tLWFzaS1kZXNhcnRpY3VsYWJhbi1sYXMtZmllc3Rhcy1jbGFuZGVzdGluYXMtZW4tbGEtcGxhdGEtZW5vcm1lLWNhbnRpZGFkLWRlLWpvdmVuZXMtbGEtY2l1ZGFk0gEA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Así desarticularon las fiestas clandestinas en La Plata: video de la salida de los jóvenes. Diario El Dia Hace 2 horas.
+[<center><img src='https://lh3.googleusercontent.com/yXbTZaa_fzWSWW08nIlgXzORrJqs_QFJ2mhQmX3LSp6oe5P5cnZhj9ZQmI8k0v6MrUw9id2I9evpcds7sAg=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEOmFYvR2iBEA9ilpD0U622QqGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?uo=CAUikQFodHRwczovL3d3dy5lbGRpYS5jb20vbm90YS8yMDIxLTMtMTQtMTUtNTEtMC12aWRlby0tLWFzaS1kZXNhcnRpY3VsYWJhbi1sYXMtZmllc3Rhcy1jbGFuZGVzdGluYXMtZW4tbGEtcGxhdGEtZW5vcm1lLWNhbnRpZGFkLWRlLWpvdmVuZXMtbGEtY2l1ZGFk0gEA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Así desarticularon las fiestas clandestinas en La Plata: video de la salida de los jóvenes. Diario El Dia Hace 8 horas.
 
 [<center><img src='https://lh3.googleusercontent.com/proxy/VDF8D5addjhpayKlnIN3YLUIsalp-sk6dthdM-w1PLrjIKlVjICmGMrRDD8V3QZOZMpCwZkuoWu4Dwo9VtuS6yDKQQk3V6FKmNA=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LmVsZGlhLmNvbS9ub3RhLzIwMjEtMy0xNC03LTU2LTAtZWwtZG9taW5nby1lbi1sYS1wbGF0YS1jb24tdGVtcGVyYXR1cmEtYWdyYWRhYmxlLXktY2llbG8tbnVib3NvLWxhLWNpdWRhZNIBeWh0dHBzOi8vd3d3LmVsZGlhLmNvbS9ub3RhLzIwMjEtMy0xNC03LTU2LTAtZWwtZG9taW5nby1lbi1sYS1wbGF0YS1jb24tdGVtcGVyYXR1cmEtYWdyYWRhYmxlLXktY2llbG8tbnVib3NvLWxhLWNpdWRhZC9hbXA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  El domingo en La Plata, con temperatura agradable y cielo nuboso. Diario El Día Hace 16 horas.
+  El domingo en La Plata, con temperatura agradable y cielo nuboso. Diario El Día Hace 21 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/TgjenR-bJj9HbwMX6GBM0zk5D3n1S-zUXM6e1B3bTUft2uZEm-Tz84QMqszVRRk2z9lOQqfMGO5yBTRof8c=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiENpCGYw9whh89PDROEZ6yNIqGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?uo=CAUia2h0dHBzOi8vd3d3LmVsZGlhLmNvbS9ub3RhLzIwMjEtMy0xNC02LTAtMzctcGxhbnRhcm9uLW51ZXZvcy10aWxvcy1lbi1sYS1hdmVuaWRhLTEzLWRlc2RlLTcyLWEtNzYtbGEtY2l1ZGFk0gEA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Plantaron nuevos tilos en la avenida 13 desde 72 a 76. Diario El Dia Hace 2 horas.
+[<center><img src='https://lh3.googleusercontent.com/l4pHR7TXUnKgVLGLcaH-qF9aRbinRT1ilfvNGl22nNBwcNpfYpSR5NVRuJnbIX4GiojfAC5OdKQEUYrLDA=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEPsYYxTLX66o3Bm9mioXiOYqGQgEKhAIACoHCAow8q_1CjCQm9wCMP2IuAM?uo=CAUid2h0dHBzOi8vd3d3LmVsZGlhLmNvbS9ub3RhLzIwMjEtMy0xNC02LTE2LTExLW1hbmVzLXNlLW1ldGUtZW4tbGEtaW50ZXJuYS1yYWRpY2FsLXktbGxlZ2EtYS1sYS1wbGF0YS1wb2xpdGljYS15LWVjb25vbWlh0gEA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Manes se mete en la interna radical y llega a La Plata. Diario El Dia Hace 8 horas.
 
  &nbsp;
 
