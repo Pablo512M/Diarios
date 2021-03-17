@@ -22,32 +22,34 @@
 <H3><center>Página12</center></H3>
  &nbsp;
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/148168-soria-20vrai.jpeg?itok=jtKZ_PbZ' width=650></center>](https://www.pagina12.com.ar/329809-martin-soria-el-desafio-es-desarmar-el-lawfare-y-la-mesa-jud)
-Primeras definiciones de Soria 
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/148372-sputnik2_0.jpg?itok=yU3tJQaZ' width=650></center>](https://www.pagina12.com.ar/329968-vuelo-a-rusia-para-buscar-mas-vacunas)
+Nueva entrega de las Sputnik V 
  
- "Hay que desarmar la mesa judicial que atendía en el despacho de Macri" 
+ Vuelo a Rusia para buscar más vacunas  
  
- Tras el anuncio de su designación, el nuevo ministro de Justicia repasó la tarea que tiene por delante y remarcó la necesidad de desmontar la estructura de persecución que armó el macrismo y terminar con el lawfare. Fue crítico con la Corte Suprema y prometió "trabajar para que los servicios de justicia sean más eficientes"..
+ El Gobierno y Aerolíneas Argentinas están dando las últimas puntadas a un nuevo viaje en busca de cientos de miles de dosis de la vacuna Sputnik. Los detalles se conocerán en la mañana de este miércoles. Servirán de puente hasta la llegada de los 3 millones de dosis de Sinopharm 
+ 
+ Por Raúl Kollmann.
 
 
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/148172-luana-20denuncia.jpeg?itok=GLwb6E4F' width=650></center>](https://www.pagina12.com.ar/329814-clausuran-el-hospital-espanol-volnovich-critico-al-gobierno-)
-Clausuran el Hospital Español: Volnovich criticó al Gobierno porteño Lo responsabilizó por las posibles consecuencias.
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/148317-gemig_0.jpg?itok=oGAqZ8V2' width=650></center>](https://www.pagina12.com.ar/329934-la-amenaza-de-juan-carlos-gemignani-y-un-nuevo-pedido-de-ren)
+La amenaza de Gemignani y un nuevo pedido de renuncia para Hornos Crece el escándalo en la Cámara Federal de Casación.
 
 
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/148058-whatsapp-20image-202021-03-15-20at-2017-42-54.jpeg?itok=5RZ6jb1R' width=650></center>](https://www.pagina12.com.ar/329731-fernando-iglesias-quedo-en-ridiculo-frente-a-pinon-fijo)
-Fernando Iglesias quedó en ridículo frente a Piñón Fijo El famoso payaso respondió a un ataque del diputado de Cambiemos.
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/148229-7-a.jpg?itok=kk9sdIWU' width=650></center>](https://www.pagina12.com.ar/329916-el-hermano-mariano-macri-se-hizo-el-distraido-por-los-parque)
+El hermano Mariano Macri se hizo el distraído por los parques eólicos  Fue citado a declarar porque había involucrado a Mauricio Macri . Por Raúl Kollmann.
 
 
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/148021-21-a-na.jpg?itok=_3zM_Rcw' width=650></center>](https://www.pagina12.com.ar/329702-carla-vizzotti-la-segunda-ola-es-una-realidad-es-muy-dificil)
-Carla Vizzotti: “La segunda ola es una realidad, es muy difícil que pueda evitarse” La situación en Argentina, ante el incremento de contagios en los países de la región. Por Pablo Esteban.
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/148352-6-p1.jpg?itok=cAOOutnc' width=650></center>](https://www.pagina12.com.ar/329942-la-refutacion-de-daniel-arroyo-a-miguel-pichetto)
+La refutación de Daniel Arroyo a Pichetto Los mitos sobre la Asignación Universal por Hijo.
 
 
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/148176-cilda-c3-b1ez.JPG?itok=6RjjtgOM' width=650></center>](https://www.pagina12.com.ar/329817-buscan-intesamente-a-una-nina-de-7-anos-en-parque-avellaneda)
-Buscan intesamente a una niña de 7 años en Parque Avellaneda Se fue con un hombre a cambiar su bicicleta y no volvió.
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/148297-lula-20efe.jpg?itok=rWrklreQ' width=650></center>](https://www.pagina12.com.ar/329905-la-reaparicion-de-lula-obligo-a-bolsonaro-a-cambiar-el-minis)
+OpiniónLa reaparición de Lula obligó a Bolsonaro a cambiar el ministro de Salud . Por Emir Sader.
 
 
 
@@ -59,20 +61,20 @@ Buscan intesamente a una niña de 7 años en Parque Avellaneda Se fue con un hom
 <H3><center>Infobae</center></H3>
  &nbsp;
 
-[<center><img src='https://www.infobae.com/new-resizer/mxE8U7f6Ez2infWFZ6zswTSKMFw=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/ORDFVC6KHRAQVKWZDHXMJ2FFSU.jpg' width=650></center>](https://www.infobae.com/politica/2021/03/16/martin-soria-la-vicepresidenta-quiere-que-la-misma-justicia-la-libere-de-culpa-y-cargo/)
-Martín Soria: "La vicepresidenta quiere que la misma Justicia la libere de culpa y cargo"El designado ministro de Justicia dijo que está preocupado por el funcionamiento de la Corte Suprema. Afirmó que algunos integrantes del Poder Judicial "se pasaron de la raya", y cuestionó al procurador general Eduardo Casal. Por Martín Kanenguiser.
+[<center><img src='https://www.infobae.com/new-resizer/u1MYZdgha89XyAfg4MpTYKAHtqM=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/QEBWZHCHERFIJAYAS7LNWFISZ4.jpg' width=650></center>](https://www.infobae.com/america/america-latina/2021/03/17/brasil-registro-un-nuevo-record-de-2841-muertos-por-covid-19-en-las-ultimas-24-horas/)
+Brasil registró un nuevo récord de 2.841 muertos por COVID-19 en las últimas 24 horas y genera preocupación en la regiónLas autoridades brasileñas informaron que ya son 282.127 los fallecidos por coronavirus, una cifra superada solo por Estados Unidos. Por Nicolás Pizzi.
 
-[<center><img src='https://www.infobae.com/new-resizer/dyNMRHKy56sbm76WopSveaozX3M=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/IRNNL4WNKZBEFCX7FTVZQIDUPQ.jpg' width=650></center>](https://www.infobae.com/america/mundo/2021/03/16/el-reino-unido-advirtio-que-mantendra-presencia-militar-en-las-islas-malvinas-para-protegerla-de-ataques-externos/)
-El Reino Unido advirtió que mantendrá presencia militar en las Islas Malvinas para protegerla de ataques externosVIDEO.
+[<center><img src='https://www.infobae.com/new-resizer/-dlVnuupX6wXmhXFVwOaMLOUtH4=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/WLES4D5QZRB4NDITQPDDGDB43U.jpg' width=650></center>](https://www.infobae.com/politica/2021/03/17/diputados-de-juntos-por-el-cambio-denunciaron-que-la-policia-de-formosa-intento-impedir-que-lleguen-a-clorinda-es-un-avasallamiento-absoluto/)
+Diputados de Juntos por el Cambio denunciaron que la policía de Insfrán no los dejaba llegar a ClorindaVIDEO.
 
-[<center><img src='https://www.infobae.com/new-resizer/ZCh2-XPPgCKicbeac05lzjQMUV4=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/ILPI24AMVBG6XENDGBZD6S7BOQ.jpg' width=650></center>](https://www.infobae.com/sociedad/policiales/2021/03/16/el-desgarrador-mensaje-para-los-adolescentes-del-papa-de-la-joven-baleada-en-cordoba-haganle-caso-a-sus-padres-no-son-invencibles/)
-El desgarrador mensaje del padre de la joven baleada en Córdoba: "Chicos, no son invencibles"VIDEO.
+[<center><img src='https://www.infobae.com/new-resizer/d9tZG9lUVpVufQh0PEQ2-70maL0=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/QJTKVAD3S5AEDEWF2SVQXNWQTU.jpg' width=650></center>](https://www.infobae.com/sociedad/policiales/2021/03/16/balvanera-una-joven-fue-golpeada-y-sufrio-un-ataque-antisemita-tras-un-accidente-de-transito/)
+Balvanera: una joven fue golpeada y sufrió un ataque antisemita tras un accidente de tránsitoVIDEO.
 
-[<center><img src='https://www.infobae.com/new-resizer/3ywJZDnK63Xj7l36fc6tW075dZI=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/IDO4UA2CZNFPTBG73HRA2U3RVI.jpg' width=650></center>](https://www.infobae.com/politica/2021/03/15/en-la-corte-y-comodoro-py-asumen-que-la-designacion-de-soria-es-una-mala-senal-y-un-triunfo-politico-de-cfk/)
-En la Corte y Comodoro Py asumen que la designación de Soria es una mala señal y un triunfo político de Cristina Kirchner. Por Román Lejtman.
+[<center><img src='https://www.infobae.com/new-resizer/fthAX_gbObVBcddiGBCv_auWVBo=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/GODNSYSYYPKVWVAMQX4OGB2DWM.jpg' width=650></center>](https://www.infobae.com/salud/2021/03/17/problemas-con-el-ritmo-de-vacunacion-en-argentina-cinco-claves-para-entender-el-proceso-de-inoculacion/)
+Problemas con el ritmo de vacunación en Argentina: cinco claves para entender el proceso de inoculación. Por Camila Otaño.
 
-[<center><img src='https://www.infobae.com/new-resizer/jfMzd9_12caTIeSBdtplzrQaTIY=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/AWOOFAH3RBHZ7CIR7QIKQQDXPA.jpg' width=650></center>](https://www.infobae.com/historias/2021/03/16/josef-mengele-el-monstruo-de-auschwitz-uso-seres-humanos-como-cobayos-y-encontro-refugio-en-argentina-protegido-por-peron/)
-Josef Mengele, el monstruo de Auschwitz: usó seres humanos como cobayos y encontró refugio en Argentina protegido por Perón. Por Alberto Amato.
+[<center><img src='https://www.infobae.com/new-resizer/WZoDSZB1Skw6IIsjIpDgRpUbWEA=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/4O66NGLF7VERZDFYF5FAX2KOHM.jpg' width=650></center>](https://www.infobae.com/america/tendencias-america/2021/03/16/cuales-son-las-nueve-actividades-que-antes-de-la-pandemia-no-daban-miedo-y-ahora-si/)
+Cuáles son las nueve actividades que antes de la pandemia no daban miedo y ahora sí. Por Martín Kanenguiser.
 
  &nbsp;
 
@@ -82,17 +84,17 @@ Josef Mengele, el monstruo de Auschwitz: usó seres humanos como cobayos y encon
 <H3><center>Nodal</center></H3>
  &nbsp;
 
-[<center><img src='https://www.nodal.am/wp-content/uploads/2021/02/almagro-357x210.jpg' width=650></center>](https://www.nodal.am/2021/03/causa-golpe-de-estado-en-bolivia-almagro-y-eeuu-expresan-preocupacion-por-la-detencion-de-anez/)
-Causa “Golpe de Estado” en Bolivia  Almagro y EEUU expresan “preocupación” por la detención de Áñez.
+[<center><img src='https://www.nodal.am/wp-content/uploads/2020/12/bolsonaro-357x210.jpg' width=650></center>](https://www.nodal.am/2021/03/bolivia-bolsonaro-considera-irrazonable-que-se-acuse-a-anez-de-golpe-de-estado/)
+Bolivia  Bolsonaro considera “irrazonable” que se acuse a Áñez de “golpe de Estado”.
 
-[<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/Mendieta-Bolivia-357x210.jpg' width=650></center>](https://www.nodal.am/2021/03/bolivia-detienen-a-otro-excomandante-del-ejercito-y-sectores-de-la-oposicion-amenazan-a-luis-arce/)
-Bolivia  Detienen a otro excomandante del Ejército por el golpe de Estado y sectores opositores amenazan a Arce.
+[<center><img src='https://www.nodal.am/wp-content/uploads/2020/12/Islas-Malvinas-357x210.jpg' width=650></center>](https://www.nodal.am/2021/03/cuestion-malvinas-argentina-llama-al-dialogo-y-pide-el-fin-del-colonialismo-tras-dichos-del-primer-ministro-del-reino-unido/)
+Cuestión Malvinas  Argentina llama al diálogo y pide el fin del colonialismo tras dichos del primer ministro del Reino Unido.
 
-[<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/ecuador-conaie-210x136.jpg' width=650></center>](https://www.nodal.am/2021/03/ecuador-la-conaie-anuncia-un-voto-nulo-ideologico-y-arranca-formalmente-la-campana-para-el-balotaje/)
-Ecuador  La CONAIE anuncia un “voto nulo ideológico” y arranca formalmente la campaña para el balotaje.
+[<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/Prosur-210x136.jpg' width=650></center>](https://www.nodal.am/2021/03/colombia-lidero-la-vi-reunion-de-presidentes-prosur-con-la-ausencia-de-argentina/)
+Colombia lideró la VI Reunión de presidentes PROSUR con la ausencia de Argentina.
 
-[<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/brasil-2-210x136.jpg' width=650></center>](https://www.nodal.am/2021/03/brasil-bolsonaro-nombra-al-cuarto-ministro-de-salud-en-la-pandemia-y-el-gobernador-de-san-pablo-lo-denuncia-por-genocidio/)
-Brasil  Bolsonaro nombra a su cuarto ministro de Salud y el gobernador de San Pablo lo denuncia por genocidio.
+[<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/Moise-210x136.jpg' width=650></center>](https://www.nodal.am/2021/03/haiti-jovenel-moise-pide-ayuda-a-la-oea-para-luchar-contra-la-rebelion-policial/)
+Haití  Jovenel Moïse pide ayuda a la OEA para luchar contra la rebelión policial.
 
 [<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/chile-elecciones-357x210.jpg' width=650></center>](https://www.nodal.am/category/suramerica/chile/)
 Chile  Por la escalada de contagios, el ministro de Salud pide evaluar la postergación de las elecciones.
@@ -105,20 +107,20 @@ Chile  Por la escalada de contagios, el ministro de Salud pide evaluar la poster
 <H3><center>RT</center></H3>
  &nbsp;
 
-[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/6050b72559bf5b49c951779e.JPG' width=650></center>](https://actualidad.rt.com//actualidad/386591-agencia-medicamentos-europea-vacuna-astrazeneca)
-La Agencia Europea de Medicamentos concluye que los beneficios de la vacuna de AstraZeneca prevalecen sobre los riesgos.
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/6050dd0759bf5b3817264051.JPG' width=650></center>](https://actualidad.rt.com//actualidad/386599-ecuador-vacunacion-vip-club-rotario-guayas)
+¿El club de los privilegiados? Nuevo escándalo por una 'vacunación VIP' contra el covid-19 en Ecuador.
 
-[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/60508c46e9ff717e114828a7.JPG' width=650></center>](https://actualidad.rt.com//actualidad/386569-sputnik-v-no-hubo-muertes-vacunados)
-Creadores de Sputnik V aseguran que no hubo muertes ni casos graves de covid-19 entre los vacunados con su producto.
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/60510ce959bf5b09536404a2.JPG' width=650></center>](https://actualidad.rt.com//actualidad/386623-legado-anez-bolivia-caceria-judicial-evo-golpe)
+El legado de Áñez: cómo operó la 'cacería' judicial contra Evo Morales y un centenar de exfuncionarios después del golpe de Estado en Bolivia.
 
-[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/6050a6d659bf5b0afc4e916d.JPG' width=650></center>](https://actualidad.rt.com//actualidad/386577-reino-unido-expandira-arsenal-ojivas-nucleares)
-Reino Unido expandirá su arsenal de ojivas nucleares en más del 40 %.
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/605109b559bf5b06307c4962.jpg' width=650></center>](https://actualidad.rt.com//actualidad/386615-reino-unido-ratificar-presencia-militar-malvinas-argentina-colonialismo)
+Reino Unido ratifica su presencia militar en las Islas Malvinas y Argentina pide poner fin al colonialismo.
 
-[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/60500a5de9ff717e11482855.JPG' width=650></center>](https://actualidad.rt.com//actualidad/386546-corea-norte-advertir-eeuu-paz)
-Corea del Norte advierte a EE.UU. que "no cause hedor" a pólvora si quiere "dormir en paz".
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/6050af4d59bf5b4ace3a27ba.jpg' width=650></center>](https://actualidad.rt.com//actualidad/386575-peticiones-oea-bolivia-respuesta-ministro-justicia)
+Las inusuales peticiones de la OEA a Bolivia a más de un año de su dudoso papel en el golpe de Estado (y la dura respuesta del Ministerio de Justicia).
 
-[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/60509f55e9ff710701640e84.JPG' width=650></center>](https://actualidad.rt.com//opinion/alberto-rodriguez-garcia/386572-genocidio-uyghur-propaganda-china-preguntas-conflicto)
-¿Genocidio uyghur o propaganda contra China? Las preguntas que surgen sobre el 'conflicto'.
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/605161fb59bf5b06307c49ce.jpg' width=650></center>](https://actualidad.rt.com//actualidad/386647-varios-muertos-tiroteos-salones-atlanta)
+Tiroteos en tres salones de masaje en Atlanta dejan al menos 8 muertos.
 
  &nbsp;
 
@@ -128,20 +130,20 @@ Corea del Norte advierte a EE.UU. que "no cause hedor" a pólvora si quiere "dor
 <H3><center>La Nación</center></H3>
  &nbsp;
 
-[<center><img src='https://bucket3.glanacion.com/anexos/fotos/86/3665586h373.jpg' width=650></center>](https://www.lanacion.com.ar/politica/martin-soria-el-poder-judicial-y-la-corte-suprema-como-su-cabeza-nos-preocupan-nid16032021/)
-Soria. "La vicepresidenta quiere que la misma Justicia la libere de culpa y cargo"       “El Poder Judicial, y la Corte Suprema como su cabeza, nos preocupan”, señaló el nuevo ministro de Justicia, en sus primeras definiciones al frente de la cartera.
+[<center><img src='https://bucket1.glanacion.com/anexos/fotos/20/3666120h373.jpg' width=650></center>](https://www.lanacion.com.ar/politica/martin-soria-a-justicia-ganadores-y-heridos-por-la-decision-del-presidente-nid16032021/)
+Martín Soria a Justicia. Ganadores y heridos por la decisión del Presidente       El kirchnerismo celebró la decisión y Wado De Pedro, sin participar, logró alinear a su tropa con el nuevo ministro          Por Maia Jastreblansky.
 
-[<center><img src='https://bucket1.glanacion.com/anexos/fotos/82/3664682h186.jpg' width=650></center>](https://www.lanacion.com.ar/politica/alberto-fernandez-eligio-el-ministro-de-la-confrontacion-nid16032021/)
-Análisis. Martín Soria, un general para la batalla K contra la Justicia         Por Hernán Cappiello.
+[<center><img src='https://bucket3.glanacion.com/anexos/fotos/86/3666286h186.jpg' width=650></center>](https://www.lanacion.com.ar/politica/horacio-rodriguez-larreta-el-panorama-es-preocupante-si-no-entran-mas-vacunas-nid16032021/)
+VIDEO  Covid. Larreta: "Si no llegan más vacunas, este fin de semana las agotamos".
 
-[<center><img src='https://bucket2.glanacion.com/anexos/fotos/84/3665584h186.jpg' width=650></center>](https://www.lanacion.com.ar/politica/horacio-rodriguez-larreta-preocupado-por-el-nombramiento-de-martin-soria-vi-declaraciones-suyas-nid16032021/)
-Preocupado por Soria. Larreta criticó al nuevo ministro de Justicia.
+[<center><img src='https://bucket3.glanacion.com/anexos/fotos/87/3666287h186.jpg' width=650></center>](https://www.lanacion.com.ar/politica/los-diputados-alfredo-cornejo-y-mario-negri-fueron-retenidos-al-querer-ingresar-a-formosa-nid17032021/)
+VIDEO  Formosa. Legisladores opositores fueron retenidos al querer ingresar a Clorinda.
 
-[<center><img src='https://bucket3.glanacion.com/anexos/fotos/89/3665589h186.jpg' width=650></center>](https://www.lanacion.com.ar/sociedad/choque-fatal-en-la-ruta-nacional-7-murieron-tres-hombres-nid16032021/)
-Murieron tres hombres. Choque fatal en la ruta nacional 7.
+[<center><img src='https://bucket1.glanacion.com/anexos/fotos/11/3665911h186.jpg' width=650></center>](https://www.lanacion.com.ar/politica/martin-soria-apuesta-a-sacar-al-procurador-eduardo-casal-como-primer-logro-de-gestion-nid16032021/)
+Justicia. Soria apuesta a sacar a Casal como primer objetivo de gestión         Por Paz Rodríguez Niell.
 
-[<center><img src='https://bucket2.glanacion.com/anexos/fotos/04/3664704h186.jpg' width=650></center>](https://www.lanacion.com.ar/economia/se-inauguro-la-nueva-pista-del-aeroparque-pero-una-manifestacion-de-exempleados-de-latam-empano-la-nid16032021/)
-Aeroparque. Se inauguró la nueva pista, pero la fiesta no fue completa     Por Sofía Diamante.
+[<center><img src='https://bucket3.glanacion.com/anexos/fotos/17/3666217h186.jpg' width=650></center>](https://www.lanacion.com.ar/el-mundo/insolita-propuesta-sugieren-en-brasil-rociar-alcohol-en-gel-desde-un-avion-nid16032021/)
+Insólita propuesta. Sugieren en Brasil rociar alcohol en gel desde un avión.
 
  &nbsp;
 
@@ -151,17 +153,17 @@ Aeroparque. Se inauguró la nueva pista, pero la fiesta no fue completa     Por 
 <H3><center>Google News</center></H3>
  &nbsp;
 
-[<center><img src='https://lh3.googleusercontent.com/FkWydC66DgVttQ3nd2iaqgAg4YXZtEH18rkfT01T6zXCHWYllykwpCN6sTs-hN7kEmOownJAeKOBEKxss0s=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEOSqsPDPdN5HUeWb_slGcmoqGQgEKhAIACoHCAowwfehCTDkrpcCMLfevwM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Japón y EE.UU.: “Si China usa la fuerza, nosotros responderemos”. DW (Español) Hace 4 horas.
+[<center><img src='https://lh5.googleusercontent.com/proxy/MUu2VZdABCXJnTaHZAv9QuMa1t0i5qEZh1uGLLJlDOXdyMT4n0aXOw7V7WpIDPm4fqSSTznZ6TTRIrUoQDC0x53A3GM3UxXXGbBp7fb3dLigJL9MLBWdsAWg8TfXp43YZldNyA=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEO_kpTEpyp1xs7bPs7pfkIsqGQgEKhAIACoHCAowwOWNCzDbmqADMNSCqgY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  China aprobó una quinta vacuna de fabricación nacional. Télam Hace 13 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/JDFOyo903E9WGstK0YhI2ZFOKR3h4qDxBngX5M8XJVBZFKzOBoxLmk3OVlgNw9SOE-HfkNgb=w32' width=650></center>](https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3Lm1ldGVvcmVkLmNvbS5hci9ub3RpY2lhcy9hY3R1YWxpZGFkL3Blb3ItdG9ybWVudGEtYXJlbmEtZGVjYWRhLWdvbHBlYS1jaGluYS1tb25nb2xpYS0xMC1hbm9zLmh0bWzSAXFodHRwczovL3d3dy5tZXRlb3JlZC5jb20uYXIvbm90aWNpYXMvYWN0dWFsaWRhZC9wZW9yLXRvcm1lbnRhLWFyZW5hLWRlY2FkYS1nb2xwZWEtY2hpbmEtbW9uZ29saWEtMTAtYW5vc19hbXAuaHRtbA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Japón y EEUU amenazan con responder a China por sus coerciones en Asia. El Confidencial Hace 1 hora.
+[<center><img src='https://lh3.googleusercontent.com/JDFOyo903E9WGstK0YhI2ZFOKR3h4qDxBngX5M8XJVBZFKzOBoxLmk3OVlgNw9SOE-HfkNgb=w32' width=650></center>](https://news.google.com/articles/CAIiEOSqsPDPdN5HUeWb_slGcmoqGQgEKhAIACoHCAowwfehCTDkrpcCMLfevwM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  China aprueba una vacuna 'low cost'. AS  Hace 17 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/vxNHi1PJLEdaTVmbeAzDor1_SFCUVnKEpZ-AEUAZXOtLhnQtiEA8X3bKKS2z8DG_4oTKTZMGis85-S4BsQ=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEAqv17AQ5xaDndBvunfNpPcqFwgEKg4IACoGCAow1P5zML2BDDCAndED?uo=CAUiiQFodHRwczovL3d3dy5sYW5hY2lvbi5jb20uYXIvcHJvcGllZGFkZXMvaW52ZXJzaW9uZXMvdXJ1Z3VheS1jcmVjZS1sYS1jYW50aWRhZC1kZS1hcmdlbnRpbm9zLXF1ZS1zZS1yYWRpY2FuLWVuLWVsLXBhaXMtdmVjaW5vLW5pZDE1MDMyMDIxL9IBAA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Cómo Uruguay pasó de ser una excepción en covid-19 al país con mayor tasa de casos nuevos en América Latina. BBC News Mundo Hace 39 minutos.
+[<center><img src='https://lh3.googleusercontent.com/0QAKVHTWiXzY9qZd258lY3uHzQC9vGRHX6za0gINdJJHeGnWOYNDG934M2fz7L2ckzq5nhk0cvcQjJwJSA=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMidmh0dHBzOi8vd3d3LmxhbmFjaW9uLmNvbS5hci9lbC1tdW5kby9jb3JvbmF2aXJ1cy1ob3ktZW4tdXJ1Z3VheS1jdWFudG9zLWNhc29zLXNlLXJlZ2lzdHJhbi1hbC0xNi1kZS1tYXJ6by1uaWQxNjAzMjAyMS_SAYUBaHR0cHM6Ly93d3cubGFuYWNpb24uY29tLmFyL2VsLW11bmRvL2Nvcm9uYXZpcnVzLWhveS1lbi11cnVndWF5LWN1YW50b3MtY2Fzb3Mtc2UtcmVnaXN0cmFuLWFsLTE2LWRlLW1hcnpvLW5pZDE2MDMyMDIxLz9vdXRwdXRUeXBlPWFtcA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Cómo Uruguay pasó de ser una excepción en la pandemia de coronavirus al país con mayor tasa de casos nuevos en América Latina. BBC News Mundo Hace 10 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/proxy/f69_BhNiQ18lyrB8X7JHKtkZdEywvjIhVEkARxmr9-WqmiDpvXZSvaHqdho0M7Ly27zDpaBVFMgp2dBAP8yZ7m5102mFwICK0Lo6Pbi15fbaDGzWRbstJnxbkuSlIeoBkNLueA0xLQRO-dXvtz_a0vsAoigfoRAs=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMitAFodHRwczovL2NoZXF1ZWFkby5jb20vY2hlcXVlYWRvLWNvb3JkaW5hcmEtbGEtYWxpYW56YS1sYXRhbWNoZXF1ZWEtcGFyYS1jb250cmFycmVzdGFyLWxhcy1kZXNpbmZvcm1hY2lvbmVzLXNvYnJlLXZhY3VuYXMtY29uLTIyLW9yZ2FuaXphY2lvbmVzLXktZWwtYXBveW8tZGUtZ29vZ2xlLW5ld3MtaW5pdGlhdGl2ZS_SAbgBaHR0cHM6Ly9jaGVxdWVhZG8uY29tL2NoZXF1ZWFkby1jb29yZGluYXJhLWxhLWFsaWFuemEtbGF0YW1jaGVxdWVhLXBhcmEtY29udHJhcnJlc3Rhci1sYXMtZGVzaW5mb3JtYWNpb25lcy1zb2JyZS12YWN1bmFzLWNvbi0yMi1vcmdhbml6YWNpb25lcy15LWVsLWFwb3lvLWRlLWdvb2dsZS1uZXdzLWluaXRpYXRpdmUvYW1wLw?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Chequeado coordinará la alianza LatamChequea para contrarrestar las desinformaciones sobre vacunas con 22 organizaciones y el apoyo de Google News Initiative. Chequeado Hace 1 hora.
+[<center><img src='https://lh5.googleusercontent.com/proxy/zFyOR_3ZuxIQ7-rWWZ-eMAkQuGUU5fykOIxvEQxOmuuyg68RbI7lMIyTvFeT-fWo1HDSkhETMhYvT2m9H9rt_JFXDWcCIcRV3vdDuk3lxhk6WWbUHvLQpNEznrVNL70=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMibWh0dHBzOi8vY2hlcXVlYWRvLmNvbS9oaWxhbmRvLWZpbm8vZWxlY2Npb25lcy1sYXMtcGFzby1zZXJhbi1lbC04LWRlLWFnb3N0by15LWxhcy1nZW5lcmFsZXMtZWwtMjQtZGUtb2N0dWJyZS_SAXFodHRwczovL2NoZXF1ZWFkby5jb20vaGlsYW5kby1maW5vL2VsZWNjaW9uZXMtbGFzLXBhc28tc2VyYW4tZWwtOC1kZS1hZ29zdG8teS1sYXMtZ2VuZXJhbGVzLWVsLTI0LWRlLW9jdHVicmUvYW1wLw?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Elecciones: las PASO serán el 8 de agosto y las generales, el 24 de octubre. Chequeado Hace 6 horas.
 
  &nbsp;
 
@@ -171,23 +173,23 @@ Aeroparque. Se inauguró la nueva pista, pero la fiesta no fue completa     Por 
 <H3><center>La Plata</center></H3>
  &nbsp;
 
-[<center><img src='https://pxb.cdn.0221.com.ar/0221/122020/1606848023386.jpg?x=11&y=191&width=1479&height=739&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=996&&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-16-9-53-0-denuncian-que-el-perro-que-ataco-al-nene-en-la-plata-sigue-suelto-anda-como-si-nada)
-EN VILLA ELVIRA : Denuncian que el perro que atacó al nene en La Plata sigue suelto: "Anda como si nada".
+[<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615928329693.jpg?x=8&y=146&width=1260&height=630&rotate=0&scaleX=1&scaleY=1&ow=1280&oh=854&&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-16-17-57-0-tucho-fernandez-se-reunio-con-florencia-tizio-y-haran-tareas-sociales-en-la-ciudad)
+ESTE LUNES: Tucho Fernández se reunió con Florencia Tizio y harán tareas sociales en la ciudad.
 
-[<center><img src='https://pxb.cdn.0221.com.ar/0221/042019/1556116274052.jpg?x=7&y=205&width=1486&height=743&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=997&&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-16-9-9-0-terminan-los-descuentos-en-super-con-cuenta-dni-del-banco-provincia-donde-aprovecharlos)
-REBAJA DEL 25%: Terminan los descuentos en super con Cuenta DNI del Banco Provincia: ¿dónde aprovecharlos?.
+[<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615403790098.jpg?x=30&y=13&width=1440&height=720&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=742&&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-16-16-18-0-aparecio-muerto-el-mono-que-fue-visto-dias-atras-en-la-zona-oeste-de-la-plata)
+TRISTEZA: Apareció muerto el mono que fue visto días atrás en la zona oeste de La Plata.
 
-[<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615850888885.jpeg?x=0&y=18&width=1024&height=512&rotate=0&scaleX=1&scaleY=1&ow=1024&oh=576&&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-16-8-40-0-les-asfaltaron-la-calle-de-tierra-despues-de-50-anos-y-lo-festejaron-con-un-choripaneada)
-121 entre 62 y 64: Les asfaltaron la calle de tierra después de 50 años y lo festejaron con un choripaneada.
+[<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1614969880382.jpg?x=7&y=224&width=1486&height=743&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=1190&&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-16-15-48-0-un-vacunatorio-de-la-plata-se-quedo-sin-dosis-y-advierten-que-cancelaron-los-turnos)
+PANDEMIA: Un vacunatorio de La Plata se quedó sin dosis y advierten que cancelaron los turnos.
 
-[<center><img src='https://lh3.googleusercontent.com/tdC_Pxw0cRfkawBUqh3h3dXTUFhEk4wuHfvUk5nVI8wj0H_dQ72-UdguVRUSfociAmOLSgBU-bIgC_5HTw=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEM2KZEMVCJBcWZOC6mTQrhcqGQgEKhAIACoHCAow8q_1CjCQm9wCMNiM1AM?uo=CAUif2h0dHBzOi8vd3d3LmVsZGlhLmNvbS9ub3RhLzIwMjEtMy0xNi01LTI0LTE2LWxhLWNvbm1lYm9sLWRlam8tYWZ1ZXJhLWEtbGEtcGxhdGEtZW4tZWwtbnVldm8tZml4dHVyZS1kZS1sYS1jb3BhLWFtZXJpY2EtZGVwb3J0ZXPSAQA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  La Conmebol dejó afuera a La Plata en el nuevo fixture de la Copa América. Diario El Dia Hace 3 horas.
+[<center><img src='https://lh3.googleusercontent.com/j2dYJ6f43DwdQTXYId2zzxzEhPZnExwCkSWcSVzewpSQIz5RPEzHraMrzw4zngjnjXM18ZI4HQeEKXklSVJC=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEObXoGB72IBPt595IWK1qVUqGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?uo=CAUie2h0dHBzOi8vd3d3LmVsZGlhLmNvbS9ub3RhLzIwMjEtMy0xNi0yMS0zLTAtY2luY28tYnVyYnVqYXMtYWZlY3RhZGFzLXBvci1jb3JvbmF2aXJ1cy1lbi1sYS1lc2N1ZWxhLTEwLWRlLWxhLXBsYXRhLWxhLWNpdWRhZNIBAA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Cinco burbujas afectadas por coronavirus en la Escuela 10 de La Plata. Diario El Dia Hace 1 hora.
 
-[<center><img src='https://lh3.googleusercontent.com/RaXgip72jukgx5yX3B7UWkyjc6LClzAbKH6WyKoLgQUMisLdcIVRmsQgsAGiRugbKFpaJzWDu3u7PnUILHA=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEFhqOMbn4jO1NALLqmyauO8qGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?uo=CAUidGh0dHBzOi8vd3d3LmVsZGlhLmNvbS9ub3RhLzIwMjEtMy0xNS0yMS00LTAtY29yb25hdmlydXMtZW4tbGEtcGxhdGEtNy1tdWVydG9zLXktOTctbnVldm9zLWNhc29zLWVzdGUtbHVuZXMtbGEtY2l1ZGFk0gEA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Coronavirus en La Plata: 7 muertos y 97 nuevos casos este lunes. Diario El Dia Hace 13 horas.
+[<center><img src='https://lh3.googleusercontent.com/L39Mb0qZH8Y2ahSpNyf34K6ob6duG8NrrOjRhDHg1mUpMTtVaTEQ8_TNVgg1T4x2RLgMeP2BHLaYQJizfg=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEL2O_S48X5JogXCKftzYVwgqGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?uo=CAUikAFodHRwczovL3d3dy5lbGRpYS5jb20vbm90YS8yMDIxLTMtMTYtMTctOC0wLXRlbmlhbi10dXJuby1wYXJhLXNlci12YWN1bmFkb3MtZW4tbGEtcGxhdGEteS1zZS1sb3MtY2FuY2VsYXJvbi11bmFzLWhvcmFzLWFudGVzLXBvci1lbWFpbC1sYS1jaXVkYWTSAQA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Tenían turno para ser vacunados en La Plata y se los cancelaron unas horas antes por email. Diario El Dia Hace 2 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/q4wnJSSjbM0fPAWHdybJ_vGgmDhpFmLdFxSthgWtCUoz9H8Z8vs7DzGcIfGwSANvAZK5wchxZYUZi96l4y4=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiELm4YRSgb61OWFbvNJdEorAqGQgEKhAIACoHCAow8q_1CjCQm9wCMP2IuAM?uo=CAUic2h0dHBzOi8vd3d3LmVsZGlhLmNvbS9ub3RhLzIwMjEtMy0xNi03LTQxLTAtZW1wZXpvLWEtcmVnaXItZWwtYXVtZW50by1kZS1sYXMtbmFmdGFzLWVuLWxhLXBsYXRhLXBvbGl0aWNhLXktZWNvbm9taWHSAQA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Empezó a regir el aumento de las naftas en La Plata y es mayor al esperado. Diario El Dia Hace 19 minutos.
+[<center><img src='https://lh3.googleusercontent.com/lt0ATGm6jByn6jwv2xSXSckVaV75LBNeQ2jUE5s_2C7OReknoY-Feng9dk6pRP3LVKeToaXQpgZ4DUWRm5xI=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEDsXHtKonKpcvXoGIXMUj8AqGQgEKhAIACoHCAow8q_1CjCQm9wCMK2IuAM?uo=CAUifGh0dHBzOi8vd3d3LmVsZGlhLmNvbS9ub3RhLzIwMjEtMy0xNi0xMC00OS0wLWNheW8tdW5hLWJhbmRhcy1kZS10cmF2ZXN0aXMtbmFyY29zLXZpcC1lbi1sYS1wbGF0YS1zb2hvLXktY2l0eS1iZWxsLXBvbGljaWFsZXPSAQA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Cayó una banda de travestis "narcos VIP" en La Plata Soho y City Bell. Diario El Dia Hace 2 horas.
 
  &nbsp;
 
