@@ -16,22 +16,23 @@
 
  &nbsp;
 
-<a name='Página12'></a>
+<a name='Página_12'></a>
 
 ---------------------
-<H3><center>Página12</center></H3>
+<H3><center>Página_12</center></H3>
  &nbsp;
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/148711-whatsapp-20image-202021-03-17-20at-2020-34-58.jpeg?itok=tNLxQSM4' width=650></center>](https://www.pagina12.com.ar/330217-la-busqueda-de-maia-yael-beloso-y-el-show-mediatico)
-Critican al Gobierno porteño por la responsabilidad que le atribuyó a la madre 
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/tapa-web-18-03-2021_0.jpg?itok=xvg1MjfW' width=650></center>](https://www.pagina12.com.ar/330190-coronavirus-alertan-sobre-la-inminencia-de-la-segunda-ola)
+LA SEGUNDA OLA 
  
- La búsqueda de Maia Yael Beloso y el show mediático 
+ En la última semana los casos de coronavirus subieron un 11 por ciento a nivel nacional y un 19 en CABA. Los especialistas alertan sobre la propagación de nuevas variantes, más contagiosas. El Gobierno convocó a una reunión con los gobernadores para analizar la situación. La buena noticia es la llegada de más dosis de vacunas 
  
- “El show mediático deja de lado a veces el
-interés público y se termina señalando a las víctimas como victimarios.” Los
-especialistas cuestionan al Gobierno porteño que apuntó a la madre por la supuesta demora en presentar la denuncia policial. Para el Defensor de Niños y Niñas es "intolerable" que una niña y su madre carezcan de vivienda. 
- 
- Por Carlos Rodríguez.
+ Por Pablo Esteban.
+
+
+
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/148402-whatsapp-20image-202021-03-17-20at-209-10-53-20am.jpeg?itok=bfofdlMH' width=650></center>](https://www.pagina12.com.ar/330044-covid-gripe-y-neumonia-en-que-orden-hay-que-aplicarse-las-va)
+Covid, gripe y neumonía: en qué orden hay que aplicarse las vacunas  La advertencia sobre el llamado "resfrío común". Por Alejandra Hayon.
 
 
 
@@ -50,11 +51,6 @@ Avelluto promocionó el libro de Macri con una foto que lo dejó mal parado El e
 
 
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/148519-whatsapp-20image-202021-03-17-20at-2016-21-56.jpeg?itok=63pxOytq' width=650></center>](https://www.pagina12.com.ar/330116-el-desenfreno-sexual-y-el-despilfarro-que-un-experto-de-yale)
-Un experto de Yale pronostica desenfreno sexual y despilfarro tras la pandemia "El mundo poscoronavirus será como los 'locos años 20' del siglo pasado".
-
-
-
  &nbsp;
 
 <a name='Infobae'></a>
@@ -63,20 +59,20 @@ Un experto de Yale pronostica desenfreno sexual y despilfarro tras la pandemia "
 <H3><center>Infobae</center></H3>
  &nbsp;
 
-[<center><img src='https://www.infobae.com/new-resizer/GsMQJzVBAufTnarCBt9GBFU7c9E=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/JQYY43CCIRD7RNNQHWNEF4TQXE.jpg' width=650></center>](https://www.infobae.com/politica/2021/03/18/alberto-fernandez-le-acepto-la-renuncia-a-marcela-losardo-y-agradecio-los-valiosos-servicios-prestados-en-el-desempeno-de-su-cargo/)
-Alberto Fernández le aceptó la renuncia a Losardo y agradeció "los valiosos servicios prestados en el desempeño de su cargo"El decreto que oficializa su salida fue publicado hoy en el Boletín Oficial, allí le agradece por “los valiosos servicios prestados en el desempeño de su cargo”. Hasta que Martín Soria pueda asumir en su lugar, la cartera quedará a cargo del secretario de Justicia, Juan Martín Mena. Por Eduardo Menegazzi.
+[<center><img src='https://www.infobae.com/new-resizer/3bYMXaK0qru11UcwiADkty9j0Zc=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/K2F74DJ2NZHFDEHU4AR5R4HHZY.jpg' width=650></center>](https://www.infobae.com/politica/2021/03/18/alberto-fernandez-convoco-a-los-gobernadores-a-una-reunion-por-videoconferencia-para-evaluar-el-avance-del-coronavirus/)
+El Presidente convocó a los gobernadores a una reunión por videoconferencia para evaluar el avance del coronavirusEn el encuentro por Zoom se debatirá la necesidad de tomar medidas para contener los efectos de una inminente segunda ola en la Argentina. Por Daniel Abba.
 
 [<center><img src='https://www.infobae.com/new-resizer/JAZmdRQ5lZOGlQ7Djm5ni2D18Ek=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/AXQXMA76UVF7DN5PUQIX3ZGDWE.jpg' width=650></center>](https://www.infobae.com/sociedad/policiales/2021/03/17/el-secuestrador-de-maia-fue-acusado-de-abusar-de-la-hija-de-su-pareja-el-ano-pasado/)
 El secuestrador de Maia fue denunciado en la Justicia el año pasado por abusar de una nena de su familia. Por Leonardo Scannone.
 
 [<center><img src='https://www.infobae.com/new-resizer/jWsMAKK68ukmkSmeVDwtsDKJrWU=/420x236/filters:format(jpg):quality(85)//arc-anglerfish-arc2-prod-infobae/public/UW35XUISXNC6NNQGF6ZNZ4PHJY.jpeg' width=650></center>](https://www.infobae.com/sociedad/policiales/2021/03/17/articularon-un-comando-unificado-para-encontrar-a-maia-no-descartan-ninguna-hipotesis-y-analizan-ofrecer-una-recompensa/)
-Encontraron una bicicleta y creen que el sospechoso del secuestro de Maia no sabe que lo están buscandoVIDEO.
-
-[<center><img src='https://www.infobae.com/new-resizer/ma5480ZnDztFNZXIhrcJd_9qwwQ=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/NLQFQTJILJB3XBGI7E4CSAM6A4.jpg' width=650></center>](https://www.infobae.com/america/america-latina/2021/03/17/brasil-registro-mas-de-90000-casos-positivos-de-covid-19-en-las-ultimas-24-horas-un-nuevo-record-diario/)
-Brasil registró más de 90.000 casos positivos de COVID-19 en las últimas 24 horas, un nuevo récord diario. Por Ayelén Zabaleta.
+Encontraron una bicicleta y creen que el secuestrador de Maia no sabe que lo están buscando. Por Daniel Abba.
 
 [<center><img src='https://www.infobae.com/new-resizer/P3G9d4grAH1mxJGQq8GOnv-ot6g=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/NFK3MXD4IBDHZJP2UKOHBMGGHE.jpg' width=650></center>](https://www.infobae.com/sociedad/policiales/2021/03/17/caso-maia-el-video-del-misterioso-cruce-entre-el-secuestrador-y-un-auto-de-color-rojo-en-moreno/)
 Caso Maia: el video del misterioso cruce entre el secuestrador y un auto de color rojo en MorenoVIDEO.
+
+[<center><img src='https://www.infobae.com/new-resizer/XVHp94b0SfJBku0XRb7j6Sm6EFo=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/25N2U54FGZDWROEB3MDX75VX2Y.jpg' width=650></center>](https://www.infobae.com/sociedad/2021/03/17/video-el-desesperado-reencuentro-de-dos-ninos-con-su-madre-en-la-frontera-con-formosa/)
+Video: el desesperado reencuentro de dos niños con su madre en la frontera con FormosaVIDEO.
 
  &nbsp;
 
@@ -109,21 +105,6 @@ Haití  Los “Fantasmas” de Puerto Príncipe: grupos armados y rebelión poli
 <H3><center>RT</center></H3>
  &nbsp;
 
-[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/60522d5ce9ff71037a5c159b.jpg' width=650></center>](https://actualidad.rt.com//actualidad/386703-pasaporte-covid-ue-viajar-criticas)
-Todo lo que se sabe sobre el pasaporte Covid que implementará la UE para viajar (y las principales críticas).
-
-[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/60523f28e9ff717a247c48a3.JPG' width=650></center>](https://actualidad.rt.com//actualidad/386723-rusia-relaciones-eeuu)
-Rusia llama a Moscú a su embajador en Washington para consultas sobre el rumbo de las relaciones con EE.UU..
-
-[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/605285d759bf5b47a4095490.JPG' width=650></center>](https://actualidad.rt.com//actualidad/386754-cancilleria-mexico-acusar-oea-intervenir-bolivia)
-"Un peligroso precedente": México acusa a la OEA de intervenir en los asuntos internos de Bolivia tras el polémico comunicado de Almagro.
-
-[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/60524882e9ff71770f0608bf.JPG' width=650></center>](https://actualidad.rt.com//actualidad/386714-ecuador-comision-verdad-protestas-octubre-2019)
-Ejecuciones extrajudiciales y represión: Determinan la responsabilidad del Estado ecuatoriano en las violaciones de DDHH durante las protestas de 2019.
-
-[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/thumbnail/60528ebce9ff71629e267e28.JPG' width=650></center>](https://actualidad.rt.com//actualidad/386756-corea-norte-rechazar-contacto-eeuu)
-Corea del Norte advierte que renunciará a mantener cualquier contacto con EE.UU. a menos que Washington renuncie a su "política hostil".
-
  &nbsp;
 
 <a name='LaNación'></a>
@@ -132,20 +113,20 @@ Corea del Norte advierte que renunciará a mantener cualquier contacto con EE.UU
 <H3><center>La Nación</center></H3>
  &nbsp;
 
-[<center><img src='https://bucket2.glanacion.com/anexos/fotos/63/3667863h373.jpg' width=650></center>](https://www.lanacion.com.ar/economia/guzman-ira-a-nueva-york-antes-de-viajar-a-washington-nid17032021/)
-Vuela esta noche. Guzmán inicia una gira por EE.UU.: busca un acuerdo con el FMI       El jefe del Palacio de Hacienda tendrá en Washington su primer encuentro cara a cara este año con el staff del organismo internacional          Por R. Mathus Ruiz y F. Jueguen.
+[<center><img src='https://bucket1.glanacion.com/anexos/fotos/62/3668162h373.jpg' width=650></center>](https://www.lanacion.com.ar/politica/coronavirus-el-presidente-se-reune-con-los-gobernadores-para-evaluar-restricciones-nid18032021/)
+Covid. Fernández convocó a los gobernadores: lo que viene       Por el momento, no habrá un endurecimiento de la cuarentena          Por Santiago Dapelo.
+
+[<center><img src='https://bucket2.glanacion.com/anexos/fotos/05/3668205h186.jpg' width=650></center>](https://www.lanacion.com.ar/seguridad/buscan-a-maia-en-lujan-y-crece-el-misterio-de-su-desaparicion-nid18032021/)
+En vivo. Buscan a Maia en Luján y crece el misterio de su desaparición     Por Gustavo Carabajal.
+
+[<center><img src='https://bucket1.glanacion.com/anexos/fotos/21/3668221h186.jpg' width=650></center>](https://www.lanacion.com.ar/politica/boletin-oficial-alberto-fernandez-le-acepto-la-renuncia-a-marcela-losardo-nid18032021/)
+Boletín Oficial. Alberto Fernández le aceptó la renuncia a Marcela Losardo.
+
+[<center><img src='https://bucket1.glanacion.com/anexos/fotos/51/3668251h186.jpg' width=650></center>](https://www.lanacion.com.ar/deportes/nba-facundo-campazzo-hizo-dos-joyas-de-pases-gol-y-logro-dos-records-personales-en-la-victoria-de-nid18032021/)
+VIDEO  Ganó Denver. Campazzo: dos joyas de pases-gol y dos récords personales en la NBA.
 
 [<center><img src='https://bucket3.glanacion.com/anexos/fotos/57/3668157h186.jpg' width=650></center>](https://www.lanacion.com.ar/seguridad/sergio-berni-sobre-el-caso-maia-encontramos-una-bicicleta-nid17032021/)
-VIDEO  Caso Maia. Encontraron la bicicleta de la niña.
-
-[<center><img src='https://bucket2.glanacion.com/anexos/fotos/43/3667843h186.jpg' width=650></center>](https://www.lanacion.com.ar/sociedad/covid-sin-certezas-sobre-la-cantidad-las-vacunas-del-proximo-vuelo-a-moscu-seran-para-los-mayores-nid17032021/)
-Coronavirus. Las vacunas que llegarán de Moscú serán para los mayores     Por Fabiola Czubaj.
-
-[<center><img src='https://bucket2.glanacion.com/anexos/fotos/84/3667884h186.jpg' width=650></center>](https://www.lanacion.com.ar/seguridad/la-busqueda-de-maia-si-puede-abusar-de-las-criaturas-abusa-dijo-el-hermano-del-cartonero-sobre-el-nid17032021/)
-La búsqueda de Maia. ''Si puede abusar de las criaturas, abusa'', dijo el hermano.
-
-[<center><img src='https://bucket1.glanacion.com/anexos/fotos/22/3667322h186.jpg' width=650></center>](https://www.lanacion.com.ar/seguridad/paso-a-paso-que-se-sabe-de-la-busqueda-de-maia-nid17032021/)
-En vivo. La búsqueda de Maia: el paso a paso y la última imagen.
+VIDEO  Búsqueda desesperada. Berni, sobre el caso Maia: ''Encontramos una bicicleta''.
 
  &nbsp;
 
@@ -155,23 +136,23 @@ En vivo. La búsqueda de Maia: el paso a paso y la última imagen.
 <H3><center>Google News</center></H3>
  &nbsp;
 
-[<center><img src='https://lh3.googleusercontent.com/ONjvuxpxbCgqkBax4s73BhM93iGxMYU8pPot3VVHCfObXxCxjZ-Y6WKDVmd67E8_E-YLpTTwVRJ-WkmEHg=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEKExZAwu1A7BimxmaKaj388qGQgEKhAIACoHCAowwOWNCzDbmqADMNSCqgY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  La "diplomacia de la deuda": cómo China está expandiendo su influencia en el Pacífico Sur y desafía a Australia. BBC News Mundo Hace 11 horas.
+[<center><img src='https://lh3.googleusercontent.com/Q8wkLo58cYdYNKbdT_Sw7FTB1mVFY2fCuOxPdb1V-HYTzZ1kq7h3OxqrOtONH2L_bIz3308Daj-eD4UVEg=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEKExZAwu1A7BimxmaKaj388qGQgEKhAIACoHCAowwOWNCzDbmqADMNSCqgY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  La "diplomacia de la deuda": cómo China está expandiendo su influencia en el Pacífico Sur y desafía a Australia. BBC News Mundo Hace 14 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/Vo_lODPPBFJl082nXJCM8IuTiQ6p0xUJkQFy2uFDCKvAO0uk-Z5Qy8AlwjbZov1n9KerTlu8TLbdhIJ1-g4F=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEEDbgHGTVKA6lsS2xiUAZGIqGQgEKhAIACoHCAow2PKfCzDl_LcDMLPRgAc?uo=CAUiW2h0dHBzOi8vZWxlY29ub21pc3RhLmNvbS5hci8yMDIxLTAzLWNoaW5hLWJsb3F1ZW8tbGEtYXBwLXNpZ25hbC15LW1vc2N1LXByZXNpb25hLWEtdHdpdHRlci_SAQA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  China bloqueó la app Signal y Moscú presiona a Twitter. El Economista Hace 14 horas.
+[<center><img src='https://lh3.googleusercontent.com/vQmJv0xLj5BdhmyqrOsQjx7vWgfpWNs0p0CIgnTCLAzUTK5OAlTTeQaTmzk5sR124BRmeCmlu9mNyJbcpXWJ=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEEDbgHGTVKA6lsS2xiUAZGIqGQgEKhAIACoHCAow2PKfCzDl_LcDMLPRgAc?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  China bloqueó la app Signal y Moscú presiona a Twitter. El Economista Hace 17 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/proxy/zuOXm9wYh-TooqDtIpE5jq4P9UnKPxwy01dVf9MDTrDojV5cFxFprmDHcf8KBQwy-XL7V-zcPrLaAjl4vqO9H-D19WAR3crdpjwYnSz6Qh4YMCI09gGVUnfB7Yl3AQXgh4Tv6PuRfQoA9sSSawjhu0dyyffWQoE0neJIrtFw_Xf4BwKK631kHT3iIu_-hr3ytY2IkRtDBKsXFCd6IyN73Z4jTJ4=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LmJuYW1lcmljYXMuY29tL2VzL25vdGljaWFzL2NhZi1wYXJ0aWNpcGFyYS1lbi1maW5hbmNpYW1pZW50by1kZS1hcHAtdmlhbC1lbi11cnVndWF50gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Coronavirus: Uruguay anunció medidas ante el aumento de casos. Página 12 Hace 2 horas.
+[<center><img src='https://lh3.googleusercontent.com/proxy/zuOXm9wYh-TooqDtIpE5jq4P9UnKPxwy01dVf9MDTrDojV5cFxFprmDHcf8KBQwy-XL7V-zcPrLaAjl4vqO9H-D19WAR3crdpjwYnSz6Qh4YMCI09gGVUnfB7Yl3AQXgh4Tv6PuRfQoA9sSSawjhu0dyyffWQoE0neJIrtFw_Xf4BwKK631kHT3iIu_-hr3ytY2IkRtDBKsXFCd6IyN73Z4jTJ4=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3Lm9sZS5jb20uYXIvZnV0Ym9sLWludGVybmFjaW9uYWwvYW1lcmljYS9kaWVnby1mb3JsYW4tdGVjbmljby1hdGVuYXMtdXJ1Z3VheV8wX3BhMVdQQzM3cy5odG1s0gFsaHR0cHM6Ly93d3cub2xlLmNvbS5hci9mdXRib2wtaW50ZXJuYWNpb25hbC9hbWVyaWNhL2RpZWdvLWZvcmxhbi10ZWNuaWNvLWF0ZW5hcy11cnVndWF5XzBfcGExV1BDMzdzLmFtcC5odG1s?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Coronavirus: Uruguay anunció medidas ante el aumento de casos. Página 12 Hace 5 horas.
 
 [<center><img src='https://lh4.googleusercontent.com/proxy/_IJLWCQG35OsUtV8FQ83Ae8quMeHM2AzRvEyLjV47PG-4PCrNsI1k8rY812sfSWhjJF5AwYPFNScxkg-gEz1aXDVDSfdUOO5-HXNlfeeo0_fBlRIWIdcoxCT=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMiyQFodHRwczovL2NoZXF1ZWFkby5jb20vaGlsYW5kby1maW5vL2xhZ28tcHVlbG8tbG9zLWF1dG9zLXNlbmFsYWRvcy1wZXJ0ZW5lY2VuLWEtbGEtcG9saWNpYS1wcm92aW5jaWFsLXBlcm8tbGEtcGFydGljaXBhY2lvbi1kZS1zdXMtb2N1cGFudGVzLWVuLWxhcy1hZ3Jlc2lvbmVzLWFsLXByZXNpZGVudGUtdG9kYXZpYS1zZS1lc3RhLWludmVzdGlnYW5kby_SAc0BaHR0cHM6Ly9jaGVxdWVhZG8uY29tL2hpbGFuZG8tZmluby9sYWdvLXB1ZWxvLWxvcy1hdXRvcy1zZW5hbGFkb3MtcGVydGVuZWNlbi1hLWxhLXBvbGljaWEtcHJvdmluY2lhbC1wZXJvLWxhLXBhcnRpY2lwYWNpb24tZGUtc3VzLW9jdXBhbnRlcy1lbi1sYXMtYWdyZXNpb25lcy1hbC1wcmVzaWRlbnRlLXRvZGF2aWEtc2UtZXN0YS1pbnZlc3RpZ2FuZG8vYW1wLw?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Lago Puelo: los autos señalados pertenecen a la policía provincial pero la participación de sus ocupantes en las agresiones al Presidente todavía se está investigando. Chequeado Hace 4 horas.
+  Lago Puelo: los autos señalados pertenecen a la policía provincial pero la participación de sus ocupantes en las agresiones al Presidente todavía se está investigando. Chequeado Hace 7 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/proxy/9uc1GKwRicbwUg-83gVdn0SZgSC313C25sxX6m0KXks0Vbrfx8qoDky-w1ztGr0MOSHwjOO8NdPmA_dyQwGt9yZqq6tzMV5kZ7k7o9KJW11ef3HiNCxMF5OHr5DlC4a8LdSdrA=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMidmh0dHBzOi8vd3d3LnZhdGljYW5uZXdzLnZhL2VzL2lnbGVzaWEvbmV3cy8yMDIxLTAzL2xhaWNvcy1kZS1ib2xpdmlhLWRlamFyLWxhLXBvbGl0aWNhLWRlLWxhLXJldmFuY2hhLXktZWwtcmVuY29yLmh0bWzSAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Bolivia impulsa un juicio contra Luis Almagro por el rol de la OEA en el golpe de 2019. Télam Ayer.
+[<center><img src='https://lh3.googleusercontent.com/proxy/mRuoOztHxTErZ9fiDaUqgkN8fFYeXMf4Q1zmirttEZdIc6fawdJs0evJBqMAgRietZ7IRmLLCv3vkrIPYj2Oy6CBfGuyHIsNIRJA1jwI869apn4t-7GKSDSqkdoGuMCA=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LmlzbGFiaXQuY29tLzExNDA2Ny9lbG9uLW11c2stdmVuZGUtdW5hLWNhbmNpb24tc29icmUtbmZ0cy1lbi1mb3JtYS1kZS1uZnQuaHRtbNIBAA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Elon Musk vende una canción sobre NFTs en forma de NFT. islaBit Hace 2 días.
 
-[<center><img src='https://lh4.googleusercontent.com/proxy/QLukF9jvpc6hMEzjOw1AHlwoHQPf_hm_PSSmSlZSsE7O6ntvKM18gifnesrbr9obysQHILo3IJi4KxssltMamSwUhkcd_amgo9X_tx9ntIgPgVYaMfRhiwFAXdfArXM4VZq0DD2ZVqb0ljsJfEkXpxcsGLmIUbSh3BlFRkWIclVS7Al8aqYKSNbdsjy3z47MjTZ5-i702EMS9-NluEf5YvOpiLgg-eLwQQ=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMiX2h0dHBzOi8vdGhlY29udmVyc2F0aW9uLmNvbS9jYW1iaW8tY2xpbWF0aWNvLXBvci1xdWUtZXN0YS1mcmFjYXNhbmRvLWVsLWFjdWVyZG8tZGUtcGFyaXMtMTU3MjA00gFjaHR0cHM6Ly90aGVjb252ZXJzYXRpb24uY29tL2FtcC9jYW1iaW8tY2xpbWF0aWNvLXBvci1xdWUtZXN0YS1mcmFjYXNhbmRvLWVsLWFjdWVyZG8tZGUtcGFyaXMtMTU3MjA0?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Cambio climático: Por qué está fracasando el Acuerdo de París. The Conversation Spain Ayer.
+[<center><img src='https://lh5.googleusercontent.com/proxy/jpGMMwmQ_lHsjypBxut3uemiaePjELevmINbJUYnPPcpp7uYyDgloYbwH0y9mGBvEz_mmpfowVqQAVjsXZ6IRK0vwA8SsIrHZG5rnEvQV6qTSbWFa58TwEpwn5vkkCyePpznOdkqdF08HfhXFvNbPKyNWShkhH3iku_i=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LnZhdGljYW5uZXdzLnZhL2VzL3BhcGEvbmV3cy8yMDIxLTAzL3BhcGEtcGFyYWd1YXktdmlvbGVuY2lhLWF1dG9kZXN0cnVjdGl2YS1zb2x1Y2lvbmVzLWFkZWN1YWRhcy5odG1s0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Paraguay: el Parlamento rechaza el juicio político contra el presidente Abdo Benítez. FRANCE 24 Hace 3 horas.
 
  &nbsp;
 
@@ -190,14 +171,14 @@ LUCHINA: Buscan personal para cubrir puestos en una pizzería de La Plata.
 [<center><img src='https://pxb.cdn.0221.com.ar/0221/102020/1603205525228.jpeg?x=3&y=73&width=1273&height=637&rotate=0&scaleX=1&scaleY=1&ow=1280&oh=850&&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-17-15-42-0-hay-alerta-por-crecida-en-el-rio-de-la-plata-y-asi-va-a-seguir-el-clima-en-la-ciudad)
 PRONÓSTICO: Hay alerta por crecida en el río y así seguirá el clima.
 
-[<center><img src='https://lh3.googleusercontent.com/QF5Aoz14bL8_sUto71Ag8IkSRrRRMdHk0c9MTvi1bAUzl_KQc8B0XI5yOwdxN_-bRFyzhkvfmi6y_7eohGw=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEDgLRGqqZniL_LqmPICTumwqGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?uo=CAUibmh0dHBzOi8vd3d3LmVsZGlhLmNvbS9ub3RhLzIwMjEtMy0xNy0xNi01Ni0wLWFsZXJ0YS1wb3ItY3JlY2lkYS1kZWwtcmlvLWVuLWxhLXJlZ2lvbi1wYXJhLWVzdGEtbm9jaGUtbGEtY2l1ZGFk0gEA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Alerta por crecida del río en la Región para esta noche. Diario El Dia Hace 36 minutos.
+[<center><img src='https://lh3.googleusercontent.com/s91PCxwNvupgZx1U4BQXAFBwEKXE41gK_sYCxVXYSC-MHyhcAxJOphkQLINJ9T_mqBriQ-YtT18xAtwJ94BP=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEBdVaH7Cn0pjVnVVCf1x3k0qGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Crece el coronavirus en La Plata: 163 casos y 8 muertes en las últimas 24 horas. Diario El Dia Hace 3 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/MMRKAY2Q-Gi2KK07CG1ty3pXxuMd9NL26jVEr7j_0I91IFq33HMILVJ5DN0VfTn-iWOJHCbm9M7rgBq1_Q=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEH9xZTPVsM0PyHipKPXfT3IqGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?uo=CAUihgFodHRwczovL3d3dy5lbGRpYS5jb20vbm90YS8yMDIxLTMtMTctMTEtNTItMC0taW5taW5lbnRlLXZ1ZWx0YS1kZS1sYXMtZ3J1YXMtZGUtYWNhcnJlby1lbi1sYS1wbGF0YS15YS1jb21lbnphcm9uLWxhcy1wcnVlYmFzLWxhLWNpdWRhZNIBAA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  "Inminente" vuelta de las grúas de acarreo en La Plata: ya comenzaron las pruebas. Diario El Dia Hace 13 minutos.
+[<center><img src='https://lh3.googleusercontent.com/dWRM5KaGPP3U2oPrlb8--XSeazY4pHNetdGKLDKDvPPOX6AyktyYCa2lvlxZ8yZoxvYb48tXOc-Z0A6pLA=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEH9xZTPVsM0PyHipKPXfT3IqGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  "Inminente" vuelta de las grúas de acarreo en La Plata: ya comenzaron las pruebas. Diario El Dia Hace 3 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/3QJn2xFbYOSETeD8zdG1lecCJ3bGBM_NbtxkQcItxLTF6vZeEfYLppvZ5hap0YtO0RwQGR2YbDjAnZW_f8c=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEPKNe6jJxGfCLX4-kP_eTSEqGQgEKhAIACoHCAow8q_1CjCQm9wCMNiM1AM?uo=CAUieWh0dHBzOi8vd3d3LmVsZGlhLmNvbS9ub3RhLzIwMjEtMy0xNy00LTE3LTM1LXppZWxpbnNraS1ldmFsdWEtYWx0ZXJuYXRpdmFzLWF5YWxhLXktY2FzdHJvLXBlbGVhcmlhbi1wb3ItdW4tbHVnYXItZGVwb3J0ZXPSAQA&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Zielinski evalúa alternativas: Ayala y Castro, pelearían por un lugar. Diario El Dia Hace 18 horas.
+[<center><img src='https://lh3.googleusercontent.com/irmoSAjsK4YGpu4vmNMfMf2vgPPIkDwpG3hbUtG1QIF-G5co2YSfGmWbjOWGHaPK4VGtNSX2KX4tMTLFJMk=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEDgLRGqqZniL_LqmPICTumwqGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Alerta por crecida del río en la Región para esta noche. Diario El Dia Hace 3 horas.
 
  &nbsp;
 
