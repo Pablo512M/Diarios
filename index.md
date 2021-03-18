@@ -22,32 +22,32 @@
 <H3><center>Página_12</center></H3>
  &nbsp;
 
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/maia-pixelada.jpg?itok=jgMskARa' width=650></center>](https://www.pagina12.com.ar/330268-encontraron-con-vida-a-maia-yael-beloso)
+Su captor fue detenido 
+ 
+ Encontraron con vida a Maia Yael Beloso 
+ 
+ Tras un intenso rastrillaje en el que participaron diversas fuerzas de seguridad, la nena de 7 años, que había sido secuestrada el lunes en Villa Cildañez, fue hallada en Luján. Fueron claves las cámaras de seguridad que registraron su presencia en zona oeste del conurbano junto al hombre que se la llevó.
+
+
+
+[<center><img src='https://www.pagina12.com.ar/assets/media/assets/video-icon.svg' width=650></center>](https://www.pagina12.com.ar/330274-asi-fue-el-momento-en-el-que-encontraron-a-maia-yael-beloso)
+Así fue el momento en el que encontraron a Maia Yael Beloso El video del instante en que la policía la recupera.
+
+
+
+[<center><img src='https://www.pagina12.com.ar/assets/media/assets/video-icon.svg' width=650></center>](https://www.pagina12.com.ar/330279-vladimir-putin-le-respondio-a-joe-biden-el-que-lo-dice-lo-es)
+Putin le respondió a Biden: "El que lo dice lo es" El presidente de Estados Unidos lo había calificado de "asesino" .
+
+
+
 [<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/tapa-web-18-03-2021_0.jpg?itok=xvg1MjfW' width=650></center>](https://www.pagina12.com.ar/330190-coronavirus-alertan-sobre-la-inminencia-de-la-segunda-ola)
-LA SEGUNDA OLA 
- 
- En la última semana los casos de coronavirus subieron un 11 por ciento a nivel nacional y un 19 en CABA. Los especialistas alertan sobre la propagación de nuevas variantes, más contagiosas. El Gobierno convocó a una reunión con los gobernadores para analizar la situación. La buena noticia es la llegada de más dosis de vacunas 
- 
- Por Pablo Esteban.
+La segunda ola Las autoridades sanitarias analizan la propagación de las nuevas variantes. Por Pablo Esteban.
 
 
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/148402-whatsapp-20image-202021-03-17-20at-209-10-53-20am.jpeg?itok=bfofdlMH' width=650></center>](https://www.pagina12.com.ar/330044-covid-gripe-y-neumonia-en-que-orden-hay-que-aplicarse-las-va)
-Covid, gripe y neumonía: en qué orden hay que aplicarse las vacunas  La advertencia sobre el llamado "resfrío común". Por Alejandra Hayon.
-
-
-
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/148578-zerosputink_0.jpg?itok=LmdbAObh' width=650></center>](https://www.pagina12.com.ar/330191-mas-vacunas-sputnik-con-la-mira-en-la-dosis-1)
-Más vacunas Sputnik, con la mira en la primera dosis Esta madrugada partió el avión rumbo a Moscú. Por Raúl Kollmann.
-
-
-
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/rest_images/cfk-na.jpg?itok=cOO7hAtk' width=650></center>](https://www.pagina12.com.ar/330192-cristina-kirchner-renuncio-a-su-sueldo-como-vicepresidenta)
-Cristina Kirchner renunció a su sueldo como vicepresidenta Recordó, además, que rechazó el privilegio de no pagar ganancias.
-
-
-
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/148587-primer-20tiempo-avelluto-ii.jpg?itok=X2F1r6Vl' width=650></center>](https://www.pagina12.com.ar/330150-avelluto-promociono-el-libro-de-macri-con-una-foto-que-lo-de)
-Avelluto promocionó el libro de Macri con una foto que lo dejó mal parado El exsecretario de Cultura de Cambiemos acumula burlas en las redes sociales .
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/148766-lt6o5wcdsvcqhnqjlur4x3vzgu.jpg?itok=MmaRlLYs' width=650></center>](https://www.pagina12.com.ar/330294-el-reencuentro-de-maia-yael-beloso-con-su-madre-y-lo-primero)
+El reencuentro de Maia con su madre y lo primero que le dijo Tras un diálogo telefónico pudieron abrazarse.
 
 
 
@@ -59,20 +59,20 @@ Avelluto promocionó el libro de Macri con una foto que lo dejó mal parado El e
 <H3><center>Infobae</center></H3>
  &nbsp;
 
-[<center><img src='https://www.infobae.com/new-resizer/feVdQpQT71WjFK_zxqNU-s3WpUI=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/CJBRQPW4J5BUXACBS2QA4OJJSA.jpg' width=650></center>](https://www.infobae.com/politica/2021/03/18/martin-soria-anticipo-su-ofensiva-surge-como-un-plan-de-gobierno-complica-al-congreso-y-agudiza-tensiones-con-la-justicia/)
-Soria anticipó su ofensiva: surge como un plan de Gobierno, complica al Congreso y agudiza tensiones con la JusticiaEl nuevo ministro quiere reimpulsar la reforma del fuero federal y, sobre todo, el cambio de reglas para elegir y remover al jefe de los fiscales. Sigue siendo un objetivo central desplazar al procurador interino. Por Eduardo Aulicino.
+[<center><img src='https://www.infobae.com/new-resizer/Jm7UCpoCDikRark3qf9IgkpN2t8=/420x236/filters:format(jpg):quality(85)//arc-anglerfish-arc2-prod-infobae/public/3H53OVLL6RBK3GQHDQB3EPXDHA.jpg' width=650></center>](https://www.infobae.com/sociedad/policiales/2021/03/18/caso-maia-el-ultimo-video-minutos-antes-del-hallazgo-y-el-misterio-de-la-caja-de-carton/)
+Caso Maia: el último video minutos antes del hallazgo con vida y el misterio de la caja de cartónLas cámaras de la Municipalidad de Luján siguieron el rastro del cartonero Savanz y la nena de 7 años poco antes de ser encontrados por la policíaVIDEO.
 
-[<center><img src='https://www.infobae.com/new-resizer/3bYMXaK0qru11UcwiADkty9j0Zc=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/K2F74DJ2NZHFDEHU4AR5R4HHZY.jpg' width=650></center>](https://www.infobae.com/politica/2021/03/18/alberto-fernandez-convoco-a-los-gobernadores-a-una-reunion-por-videoconferencia-para-evaluar-el-avance-del-coronavirus/)
-El Presidente convocó a los gobernadores a una reunión para evaluar el avance del coronavirus. Por Daniel Abba.
+[<center><img src='https://www.infobae.com/new-resizer/pCvHA7B_B3iRs8J0FIKIWYqNZPc=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/T6NG7PH6ENF7HLS3X5LK57WSWI.jpg' width=650></center>](https://www.infobae.com/sociedad/policiales/2021/03/18/el-testimonio-de-la-vecina-que-llamo-al-911-y-fue-clave-para-rescatar-a-maia/)
+El testimonio de la vecina que llamó al 911 y fue clave para rescatar a la niña de siete añosVIDEO.
 
-[<center><img src='https://www.infobae.com/new-resizer/jWsMAKK68ukmkSmeVDwtsDKJrWU=/420x236/filters:format(jpg):quality(85)//arc-anglerfish-arc2-prod-infobae/public/UW35XUISXNC6NNQGF6ZNZ4PHJY.jpeg' width=650></center>](https://www.infobae.com/sociedad/policiales/2021/03/18/la-busqueda-de-maia-no-se-detiene-y-la-policia-hace-un-barrido-por-distintos-barrios-de-lujan/)
-La búsqueda de Maia no se detiene y la Policía hace un barrido por distintos barrios de Luján.
+[<center><img src='https://www.infobae.com/new-resizer/aKBxX2Iy0rUw5uYHhBMpogNsaVI=/420x236/filters:format(jpg):quality(85)//arc-anglerfish-arc2-prod-infobae/public/4COQXXSFPJCDPIPR2I7X2XJQRI.jpg' width=650></center>](https://www.infobae.com/sociedad/policiales/2021/03/18/que-le-dijo-maia-beloso-a-su-mama-luego-de-haber-sido-encontrada-por-la-policia/)
+Qué le dijo Maia a su mamá luego de haber sido encontrada por la Policía. Por Daniela Blanco.
 
-[<center><img src='https://www.infobae.com/new-resizer/JAZmdRQ5lZOGlQ7Djm5ni2D18Ek=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/AXQXMA76UVF7DN5PUQIX3ZGDWE.jpg' width=650></center>](https://www.infobae.com/sociedad/policiales/2021/03/17/el-secuestrador-de-maia-fue-acusado-de-abusar-de-la-hija-de-su-pareja-el-ano-pasado/)
-El secuestrador de Maia fue denunciado en la Justicia el año pasado por abusar de una nena de su familia. Por Leonardo Scannone.
+[<center><img src='https://www.infobae.com/new-resizer/ajNuK7n-JEjOVTmKu0yxZIHMAbA=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/XUKQ6IDSCBCLFKO2XFHSBO5AUA.jpg' width=650></center>](https://www.infobae.com/sociedad/policiales/2021/03/18/encontraron-a-maia-beloso-con-vida-en-lujan-luego-de-tres-dia-de-busqueda/)
+Encontraron a Maia con vida en Luján luego de tres días de búsqueda. Por Eduardo Aulicino.
 
-[<center><img src='https://www.infobae.com/new-resizer/P3G9d4grAH1mxJGQq8GOnv-ot6g=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/NFK3MXD4IBDHZJP2UKOHBMGGHE.jpg' width=650></center>](https://www.infobae.com/sociedad/policiales/2021/03/17/caso-maia-el-video-del-misterioso-cruce-entre-el-secuestrador-y-un-auto-de-color-rojo-en-moreno/)
-Caso Maia: el video del misterioso cruce entre el secuestrador y un auto de color rojo en MorenoVIDEO.
+[<center><img src='https://www.infobae.com/new-resizer/MvqlrILxFcv-fpASX0QH3HKtpwM=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/6NSIORSNCBDKXJFPFLE5TWRCU4.jpg' width=650></center>](https://www.infobae.com/sociedad/policiales/2021/03/18/video-asi-aparecio-maia-en-lujan-junto-a-su-secuestrador/)
+Video: así apareció la menor junto al hombre que la secuestroVIDEO.
 
  &nbsp;
 
@@ -81,21 +81,6 @@ Caso Maia: el video del misterioso cruce entre el secuestrador y un auto de colo
 ---------------------
 <H3><center>Nodal</center></H3>
  &nbsp;
-
-[<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/diputados-paraguay-1-357x210.jpg' width=650></center>](https://www.nodal.am/2021/03/paraguay-diputados-rechazan-juicio-politico-a-abdo-y-la-policia-reprime-a-manifestantes/)
-Paraguay  Diputados rechazan juicio político a Abdo y la policía reprime a manifestantes.
-
-[<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/brasil-muertes-covid-19-357x210.jpg' width=650></center>](https://www.nodal.am/2021/03/nuevo-record-de-muertes-y-contagios-diarios-marcan-el-colapso-sanitario-en-brasil/)
-Nuevo récord de muertes y contagios diarios marcan el colapso sanitario en Brasil.
-
-[<center><img src='https://www.nodal.am/wp-content/uploads/2020/11/eeuu-china-latinoamerica-210x136.jpg' width=650></center>](https://www.nodal.am/2021/03/estados-unidos-considera-que-la-region-esta-bajo-asedio-de-china-y-rusia/)
-Estados Unidos considera que la región está bajo asedio de China y Rusia.
-
-[<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/Represion-Ecuador-210x136.jpg' width=650></center>](https://www.nodal.am/2021/03/ecuador-la-defesoria-del-pueblo-presento-un-informe-donde-denuncia-violaciones-a-los-ddhh-en-la-represion-de-2019/)
-Ecuador  La Defensoría del Pueblo presentó un informe donde denuncia violaciones a los DDHH en la represión de 2019.
-
-[<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/fantom-509-357x210.jpg' width=650></center>](https://www.nodal.am/category/caribe/haiti/)
-Haití  Los “Fantasmas” de Puerto Príncipe: grupos armados y rebelión policial.
 
  &nbsp;
 
@@ -113,19 +98,20 @@ Haití  Los “Fantasmas” de Puerto Príncipe: grupos armados y rebelión poli
 <H3><center>La Nación</center></H3>
  &nbsp;
 
-[<center><img src='https://bucket2.glanacion.com/anexos/fotos/53/3668153h186.jpg' width=650></center>](https://www.lanacion.com.ar/politica/alberto-fernandez-entra-a-la-campana-envuelto-en-las-banderas-del-populismo-nid18032021/)
-Análisis. Fernández entra a la campaña envuelto en las banderas del populismo       El ataque a la independencia de la Justicia y la prensa se combina con el sacrificio de la inversión       Por Carlos Pagni.
+[<center><img src='https://bucket2.glanacion.com/anexos/fotos/94/3669094h373.jpg' width=650></center>](https://www.lanacion.com.ar/seguridad/aparecio-maia-asi-fue-el-dialogo-entre-la-nina-y-su-madre-tras-el-hallazgo-nid18032021/)
+VIDEO   Apareció Maia. La niña de 7 años se reencontró con su madre en Luján       El abogado de la familia, Rodolfo Baqué, señaló que la menor ''tenía hambre y algo de frío'' cuando fue hallada por la policía.
 
-[<center><img src='https://bucket2.glanacion.com/anexos/fotos/05/3668205h373.jpg' width=650></center>](https://www.lanacion.com.ar/seguridad/buscan-a-maia-en-lujan-y-crece-el-misterio-de-su-desaparicion-nid18032021/)
-Horas críticas. Buscan a Maia en Luján y crece el misterio de su desaparición    Por Gustavo Carabajal.
+[<center><img src='https://bucket2.glanacion.com/anexos/fotos/23/3669023h186.jpg' width=650></center>](https://www.lanacion.com.ar/seguridad/aparecio-maia-asi-fue-el-momento-del-hallazgo-nid18032021/)
+VIDEO  Video. El momento en el que la policía encontró a Maia.
 
-A FONDO  Secuelas. Detectan síntomas inesperados en pacientes que padecieron Covid     Por Martín De Ambrosio.
+[<center><img src='https://bucket3.glanacion.com/anexos/fotos/97/3668997h186.jpg' width=650></center>](https://www.lanacion.com.ar/seguridad/encontraron-a-maia-la-hallaron-con-vida-en-la-estacion-de-lujan-y-detuvieron-al-secuestrador-nid18032021/)
+En Luján. Encontraron a Maia con vida y detuvieron al hombre que estaba con ella     Por G. Di Nicola y G. Carabajal.
 
-[<center><img src='https://bucket1.glanacion.com/anexos/fotos/62/3668162h186.jpg' width=650></center>](https://www.lanacion.com.ar/politica/coronavirus-el-presidente-se-reune-con-los-gobernadores-para-evaluar-restricciones-nid18032021/)
-Covid. El Presidente convocó a los gobernadores: nuevas medidas     Por Santiago Dapelo.
+[<center><img src='https://bucket1.glanacion.com/anexos/fotos/62/3669062h186.jpg' width=650></center>](https://www.lanacion.com.ar/seguridad/aparecio-maia-el-mensaje-de-maria-eugenia-vidal-tras-el-hallazgo-de-la-nina-nid18032021/)
+Tras el hallazgo. El mensaje de María Eugenia Vidal sobre la niña.
 
-[<center><img src='https://bucket3.glanacion.com/anexos/fotos/57/3668157h186.jpg' width=650></center>](https://www.lanacion.com.ar/seguridad/sergio-berni-sobre-el-caso-maia-encontramos-una-bicicleta-nid17032021/)
-VIDEO  Operativo policial. Sergio Berni, sobre Maia: ''Es como la búsqueda del tesoro".
+[<center><img src='https://bucket2.glanacion.com/anexos/fotos/25/3669125h186.jpg' width=650></center>](https://www.lanacion.com.ar/seguridad/encontraron-a-maia-yael-beloso-su-captor-la-llevaba-escondida-en-una-caja-nid18032021/)
+En una caja. El hombre que se llevó a Maia la tenía escondida.
 
  &nbsp;
 
@@ -135,23 +121,23 @@ VIDEO  Operativo policial. Sergio Berni, sobre Maia: ''Es como la búsqueda del 
 <H3><center>Google News</center></H3>
  &nbsp;
 
-[<center><img src='https://lh3.googleusercontent.com/4Yji5XSPR9inJwKU7Q_d_Ajri4Co36x-ECv3_fr6tlbBaPZM_XVgaH50ncksd29q4gdiFtmgSAuO_XGzEds=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEEDbgHGTVKA6lsS2xiUAZGIqGQgEKhAIACoHCAow2PKfCzDl_LcDMLPRgAc?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Por qué hablar de "Guerra Fría" entre EE.UU. y China "es profundamente peligroso". BBC News Mundo Hace 49 minutos.
+[<center><img src='https://lh3.googleusercontent.com/geBJNbC-9aZHcV1vKhLTiuMvhMGSr99Z7FTbUIo9yXiAORUxBrPFDrKe0V5rOXQpxbvzhEPE8C38RF27ddE=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEBMMfj5BS13dnkRhckTIcGcqGQgEKhAIACoHCAowwfehCTDkrpcCMLfevwM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Por qué hablar de "Guerra Fría" entre EE.UU. y China "es profundamente peligroso". BBC News Mundo Hace 7 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/JDFOyo903E9WGstK0YhI2ZFOKR3h4qDxBngX5M8XJVBZFKzOBoxLmk3OVlgNw9SOE-HfkNgb=w32' width=650></center>](https://news.google.com/articles/CAIiEBMMfj5BS13dnkRhckTIcGcqGQgEKhAIACoHCAowwfehCTDkrpcCMLfevwM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  China: "No esperamos que una reunión resuelva todos los asuntos con EE. UU.". swissinfo.ch Hace 5 horas.
+[<center><img src='https://lh3.googleusercontent.com/JDFOyo903E9WGstK0YhI2ZFOKR3h4qDxBngX5M8XJVBZFKzOBoxLmk3OVlgNw9SOE-HfkNgb=w32' width=650></center>](https://news.google.com/articles/CAIiEAGujGXp9iZEo4LN7Za_L_wqFwgEKg4IACoGCAowyPhzMO2BDDDCt60D?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  China: "No esperamos que una reunión resuelva todos los asuntos con EE. UU.". swissinfo.ch Hace 11 horas.
 
 [<center><img src='https://lh3.googleusercontent.com/proxy/zuOXm9wYh-TooqDtIpE5jq4P9UnKPxwy01dVf9MDTrDojV5cFxFprmDHcf8KBQwy-XL7V-zcPrLaAjl4vqO9H-D19WAR3crdpjwYnSz6Qh4YMCI09gGVUnfB7Yl3AQXgh4Tv6PuRfQoA9sSSawjhu0dyyffWQoE0neJIrtFw_Xf4BwKK631kHT3iIu_-hr3ytY2IkRtDBKsXFCd6IyN73Z4jTJ4=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LmJuYW1lcmljYXMuY29tL2VzL25vdGljaWFzL2NhZi1wYXJ0aWNpcGFyYS1lbi1maW5hbmNpYW1pZW50by1kZS1hcHAtdmlhbC1lbi11cnVndWF50gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Coronavirus: Uruguay anunció medidas ante el aumento de casos. Página 12 Hace 9 horas.
+  Coronavirus: Uruguay anunció medidas ante el aumento de casos. Página 12 Hace 16 horas.
 
 [<center><img src='https://lh4.googleusercontent.com/proxy/_IJLWCQG35OsUtV8FQ83Ae8quMeHM2AzRvEyLjV47PG-4PCrNsI1k8rY812sfSWhjJF5AwYPFNScxkg-gEz1aXDVDSfdUOO5-HXNlfeeo0_fBlRIWIdcoxCT=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMiyQFodHRwczovL2NoZXF1ZWFkby5jb20vaGlsYW5kby1maW5vL2xhZ28tcHVlbG8tbG9zLWF1dG9zLXNlbmFsYWRvcy1wZXJ0ZW5lY2VuLWEtbGEtcG9saWNpYS1wcm92aW5jaWFsLXBlcm8tbGEtcGFydGljaXBhY2lvbi1kZS1zdXMtb2N1cGFudGVzLWVuLWxhcy1hZ3Jlc2lvbmVzLWFsLXByZXNpZGVudGUtdG9kYXZpYS1zZS1lc3RhLWludmVzdGlnYW5kby_SAc0BaHR0cHM6Ly9jaGVxdWVhZG8uY29tL2hpbGFuZG8tZmluby9sYWdvLXB1ZWxvLWxvcy1hdXRvcy1zZW5hbGFkb3MtcGVydGVuZWNlbi1hLWxhLXBvbGljaWEtcHJvdmluY2lhbC1wZXJvLWxhLXBhcnRpY2lwYWNpb24tZGUtc3VzLW9jdXBhbnRlcy1lbi1sYXMtYWdyZXNpb25lcy1hbC1wcmVzaWRlbnRlLXRvZGF2aWEtc2UtZXN0YS1pbnZlc3RpZ2FuZG8vYW1wLw?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Lago Puelo: los autos señalados pertenecen a la policía provincial pero la participación de sus ocupantes en las agresiones al Presidente todavía se está investigando. Chequeado Hace 12 horas.
+  Lago Puelo: los autos señalados pertenecen a la policía provincial pero la participación de sus ocupantes en las agresiones al Presidente todavía se está investigando. Chequeado Hace 18 horas.
 
 [<center><img src='https://lh3.googleusercontent.com/proxy/mRuoOztHxTErZ9fiDaUqgkN8fFYeXMf4Q1zmirttEZdIc6fawdJs0evJBqMAgRietZ7IRmLLCv3vkrIPYj2Oy6CBfGuyHIsNIRJA1jwI869apn4t-7GKSDSqkdoGuMCA=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LmlzbGFiaXQuY29tLzExNDA2Ny9lbG9uLW11c2stdmVuZGUtdW5hLWNhbmNpb24tc29icmUtbmZ0cy1lbi1mb3JtYS1kZS1uZnQuaHRtbNIBAA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Elon Musk vende una canción sobre NFTs en forma de NFT. islaBit Hace 2 días.
 
-[<center><img src='https://lh3.googleusercontent.com/0USFSE96h-bHaD29kLqM0jJpD560qwDae5zuhYJbcEAYLyXFK_twbfC8BBLqaanqLDoNTY3Uh5xXXy1cHA=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LnZhdGljYW5uZXdzLnZhL2VzL3BhcGEvbmV3cy8yMDIxLTAzL3BhcGEtcGFyYWd1YXktdmlvbGVuY2lhLWF1dG9kZXN0cnVjdGl2YS1zb2x1Y2lvbmVzLWFkZWN1YWRhcy5odG1s0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  El presidente de Paraguay evita ser destituido ante la petición de un juicio político por el manejo de la pandemia. EL PAÍS Hace 2 horas.
+[<center><img src='https://lh3.googleusercontent.com/NOof8FTseyC8An1z-OlUMLkG8xuJI60EfGxmvBDJPdWIBmFGyA6H18A4niZbQXh2O5n7NdQCL0owvjv7Ug=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMieGh0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvaGlkcm92aWEtcGFyYW5hLXBhcmFndWF5LXNlLWxsZXZvLWNhYm8tbGEtc2VndW5kYS1qb3JuYWRhLWRlLWV4cG9zaWNpb25lcy1hbnRlLWxhc9IBAA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  El presidente de Paraguay evita ser destituido ante la petición de un juicio político por el manejo de la pandemia. EL PAÍS Hace 4 horas.
 
  &nbsp;
 
@@ -161,23 +147,23 @@ VIDEO  Operativo policial. Sergio Berni, sobre Maia: ''Es como la búsqueda del 
 <H3><center>La Plata</center></H3>
  &nbsp;
 
-[<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1616009572142.jpg?x=16&y=0&width=691&height=346&rotate=0&scaleX=1&scaleY=1&ow=735&oh=410&&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-17-16-50-0-asi-fue-el-fuerte-choque-entre-una-moto-y-una-camioneta-en-la-plata)
-VIDEO: Asi fue el fuerte choque entre una moto y una camioneta en La Plata.
+[<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1616077490106.jpg?x=5&y=114&width=1022&height=511&rotate=0&scaleX=1&scaleY=1&ow=1032&oh=774&&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-18-12-5-0-dos-supermercados-una-casa-de-comidas-y-una-cancha-de-futbol-5-todos-colgados-de-la-luz)
+EN SAN CARLOS: Dos supermercados, una casa de comidas y una cancha de fútbol 5, todos colgados de la luz.
 
-[<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1616009888283.jpg?x=9&y=141&width=1071&height=535&rotate=0&scaleX=1&scaleY=1&ow=1080&oh=849&&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-17-16-32-0-buscan-personal-para-cubrir-puestos-en-un-pizzeria-de-la-plata)
-LUCHINA: Buscan personal para cubrir puestos en una pizzería de La Plata.
+[<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1616064066237.jpg?x=4&y=180&width=1498&height=749&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=993&&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-18-7-35-0-el-abogado-preso-en-la-plata-por-estafa-nego-las-acusaciones-y-planto-su-coartada)
+DECLARÓ ANTE EL FISCAL: El abogado preso en La Plata por estafa negó las acusaciones y plantó su coartada.
 
-[<center><img src='https://pxb.cdn.0221.com.ar/0221/102020/1603205525228.jpeg?x=3&y=73&width=1273&height=637&rotate=0&scaleX=1&scaleY=1&ow=1280&oh=850&&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-17-15-42-0-hay-alerta-por-crecida-en-el-rio-de-la-plata-y-asi-va-a-seguir-el-clima-en-la-ciudad)
-PRONÓSTICO: Hay alerta por crecida en el río y así seguirá el clima.
+[<center><img src='https://pxb.cdn.0221.com.ar/0221/072020/1594118234857.jpeg?x=6&y=195&width=1181&height=591&rotate=0&scaleX=1&scaleY=1&ow=1193&oh=792&&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-18-7-51-0-el-jueves-amanecio-con-menos-de-10-c-y-empieza-a-llegar-el-frio-a-la-plata)
+PRONÓSTICO: El jueves amaneció con menos de 10°C y empieza a llegar el frío a La Plata.
 
-[<center><img src='https://lh3.googleusercontent.com/UFupoPPbrogeRO_sGPgL8ocC-sSbsE5964DL-NocMjxRKDarO1jCOVJgT_CSoFZHwSnUBe09epDxjuYWWw=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEIPUI4cFtqV4Q8ZGOvNY3ncqGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  El viento tuvo en alerta a la zona costera de la Región. Diario El Dia Hace 1 hora.
+[<center><img src='https://lh3.googleusercontent.com/GitlLdVZY2mFvgL36liRfqlTEi7hSDQcqaUHz1nTVrxr4IQdY_5vXjAIgYMjFYo_ObTEamW50SE-E-_1Zh3A=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEAxzG1yALx63Z0s2UTRELbYqGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Marcha en La Plata por la polución del arroyo Rodríguez: "Lo convirtieron en un riachuelo". Diario El Dia Hace 15 minutos.
 
-[<center><img src='https://lh3.googleusercontent.com/CqV3YxXfx-59LizF37Ldj10H_v1frX5lUT8A_EL_fvp_h2fXaX9uOZQOJ_vuZZnUqrrNwU4Qu8gQcOVooSzL=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEBdVaH7Cn0pjVnVVCf1x3k0qGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Crece el coronavirus en La Plata: 163 casos y 8 muertes en las últimas 24 horas. Diario El Dia Hace 7 horas.
+[<center><img src='https://lh3.googleusercontent.com/xB9yJff0-6RvL7oNnVU1s6nyXhm7BFLFEE56tSOaK3f4wcdltHQwFStSPclKOqrncwC-JVP1qqcpjzw4QA=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEIPUI4cFtqV4Q8ZGOvNY3ncqGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  El viento tuvo en alerta a la zona costera de la Región. Diario El Dia Hace 15 minutos.
 
-[<center><img src='https://lh3.googleusercontent.com/kN09NmV0AV8_ZqPGOHC4L9ZRHYxeX6_QnIdOXVF1KSaI4RS7ORN7BI57Bm6uzw0WLPuWiux2wC3C5VQ_ZQ=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEH9xZTPVsM0PyHipKPXfT3IqGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  "Inminente" vuelta de las grúas de acarreo en La Plata: ya comenzaron las pruebas. Diario El Dia Hace 7 horas.
+[<center><img src='https://lh3.googleusercontent.com/K7Ne3zv-0RgY03-epTlI97GAKMtUndD-0ZwLBC7uuX6PHlkVg4bH7MbWD8oXg_-ZknCJENSyZv6upM0QA-0=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEBdVaH7Cn0pjVnVVCf1x3k0qGQgEKhAIACoHCAow8q_1CjCQm9wCMJ2JuAM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Crece el coronavirus en La Plata: 163 casos y 8 muertes en las últimas 24 horas. Diario El Dia Hace 39 minutos.
 
  &nbsp;
 
