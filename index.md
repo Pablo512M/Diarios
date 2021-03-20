@@ -22,19 +22,17 @@
 <H3><center>Página_12</center></H3>
  &nbsp;
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/149289-duran-0.jpg?itok=PYbalncT' width=650></center>](https://www.pagina12.com.ar/330704-jaime-duran-barba-en-el-centro-del-escandalo-por-la-vacunaci)
-Ex asesor de Macri y actual asesor de Lasso 
- 
- Jaime Durán Barba en el centro del escándalo por la “vacunación gold” en Ecuador 
- 
- Su nombre apareció en una lista de vacunados irregulares y compromete el último tramo de la campaña presidencial del líder derechista, a la que se sumó como colaborador estrella. 
- 
- Por Marco Teruggi.
-
-
-
 [<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/149331-whatsapp-20image-202021-03-20-20at-2016-17-15-20-281-29.jpeg?itok=TOdy5m-R' width=650></center>](https://www.pagina12.com.ar/330749-coronavirus-en-argentina-se-registraron-42-muertes-y-6-826-c)
-Coronavirus: se registraron 42 muertes y 6.826 contagios Los números de la pandemia.
+Los números de la pandemia 
+ 
+ Coronavirus: se registraron 42 muertes y 6.826 contagios 
+ 
+ El Ministerio de Salud de la Nación confirmó que en las últimas 24 horas el número total de contagios desde el comienzo de la pandemia ascendió a 2.241.739, en tanto que los fallecimientos se ubican en 54.517..
+
+
+
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/149289-duran-0.jpg?itok=PYbalncT' width=650></center>](https://www.pagina12.com.ar/330704-jaime-duran-barba-en-el-centro-del-escandalo-por-la-vacunaci)
+Jaime Durán Barba en el centro del escándalo por la “vacunación gold” en Ecuador Ex asesor de Macri y actual asesor de Lasso. Por Marco Teruggi.
 
 
 
@@ -138,8 +136,8 @@ Covid. El tuit de Gollan sobre la vacunación del Indio Solari que generó polé
 [<center><img src='https://lh3.googleusercontent.com/GcnjfwL8j68cW8sxAtrA5NGoIScxsInUu086COB6Ed8AswUZ6F7vLZKiAWACzxFPziCE1_uRHbfM0C243HUK=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEJiMF7l1-RpLdUwWZgPeiaQqMwgEKioIACIQ99R-ypq-S9oaoqyM0Q1MwioUCAoiEPfUfsqavkvaGqKsjNENTMIwp9PHBg?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Las acusaciones cruzadas marcan el duro primer encuentro de EE. UU. y China en la era Biden. FRANCE 24 Español Hace 18 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/BLIattT-BhlXzpc0G6QIcr8uFm5DRkZVXVRmR8p3Y4dqYxit49cKpTyaV6zTqq90qt8e4eMqaGecjQrcGk4=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiECbhW8K1tM1vIj-M8FQny0QqFwgEKg4IACoGCAow1P5zML2BDDCAndED?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Uruguay destaca como un salto tecnológico la adquisición de los aviones Hercules a España - Noticias Infodefensa América. Infodefensa.com Hace 8 horas.
+[<center><img src='https://lh3.googleusercontent.com/__SQ5_FeP9qF9yPQBhPy1Jq_31A1ztdhhjn6ZplHNdGD_0yiPFvEVoSZ9h3G0kF1orzfcjv8bLicAOe5oE4=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiECbhW8K1tM1vIj-M8FQny0QqFwgEKg4IACoGCAow1P5zML2BDDCAndED?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Uruguay destaca como un salto tecnológico la adquisición de los aviones Hercules a España - Noticias Infodefensa América. Infodefensa.com Hace 9 horas.
 
 [<center><img src='https://lh4.googleusercontent.com/proxy/T6To4LE2n-ZcP6G2DINouRsGZfQiYHSmJeB0cghI8P8XJybcGEev2MZZTy3vRqomMCwRKyVxw1JkjQZ9pQaelkubnZuEOf1nINp_gFW_1MbkgQ_Rc4yK3Rw=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMiigFodHRwczovL2NoZXF1ZWFkby5jb20vZWwtZXhwbGljYWRvci9sYS1vbXMtY29uZmlybWEtcXVlLWxhLXZhY3VuYS1kZS1hc3RyYXplbmVjYS15LW94Zm9yZC1lcy1zZWd1cmEteS1zZS1yZWFudWRhLXN1LXV0aWxpemFjaW9uLWVuLWV1cm9wYS_SAY4BaHR0cHM6Ly9jaGVxdWVhZG8uY29tL2VsLWV4cGxpY2Fkb3IvbGEtb21zLWNvbmZpcm1hLXF1ZS1sYS12YWN1bmEtZGUtYXN0cmF6ZW5lY2EteS1veGZvcmQtZXMtc2VndXJhLXktc2UtcmVhbnVkYS1zdS11dGlsaXphY2lvbi1lbi1ldXJvcGEvYW1wLw?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   La OMS confirma que la vacuna de AstraZeneca y Oxford es segura y se reanuda su utilización en Europa. Chequeado Hace 3 horas.
@@ -152,32 +150,6 @@ Covid. El tuit de Gollan sobre la vacunación del Indio Solari que generó polé
 
 [<center><img src='https://lh3.googleusercontent.com/proxy/VpMhH5FUb68-p4KHtlnY74xhTBbBmZFHiTaPGGhssLcKjf47Pqxh4UDUlY5sewLf1QgtxkKmt7I14dBJEb59oNEr0lEpwAIi-SsgGX2GLknBqfF72wcC66dgt_ummHztQ5SzpHAAcrYc5S0bVXyWsM9RXxaq22IfyeF1Xx0FniOIOpJEWE1fAcVKFdQBZy9KZUSlA_N7OztvEBvyBKzcrfO7Wq734BEVr6cBSFP0QhePrgrXzavw2DFcJnCXzzyjgQd7nU2fPJ_42Ncmy_IzMAZsMDljgN9CSlas2sX4sA5LvfxyIcixs1lxmtQc9yb00wMnDcMSi0yl1t_BgARx9Q=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMilgFodHRwczovL2NubmVzcGFub2wuY25uLmNvbS92aWRlby9hbHZhcm8tZ2FyY2lhLWJvbGl2aWEtYW5lei1qZWFuaW5lLWNvbnRleHRvLXBvbGl0aWNvLXNvY2lhbC1wcmVzaWRlbnRlLWV4dmljZXByZXNpZGVudGUtZXZvLW1vcmFsZXMtYXJpc3RlZ3VpLW1leGljby_SAZoBaHR0cHM6Ly9jbm5lc3Bhbm9sLmNubi5jb20vdmlkZW8vYWx2YXJvLWdhcmNpYS1ib2xpdmlhLWFuZXotamVhbmluZS1jb250ZXh0by1wb2xpdGljby1zb2NpYWwtcHJlc2lkZW50ZS1leHZpY2VwcmVzaWRlbnRlLWV2by1tb3JhbGVzLWFyaXN0ZWd1aS1tZXhpY28vYW1wLw?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Álvaro García: Bolivia está viviendo un proceso de reconstrucción. CNN Hace 4 días.
-
- &nbsp;
-
-<a name='LaPlata'></a>
-
----------------------
-<H3><center>La Plata</center></H3>
- &nbsp;
-
-[<center><img src='https://pxb.cdn.0221.com.ar/0221/082020/1596547792274.jpg?x=15&y=44&width=1175&height=587&rotate=0&scaleX=1&scaleY=1&ow=1200&oh=675&&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-20-15-51-0-estafaron-a-una-platense-y-perdio-casi-un-millon-de-pesos-nos-vaciaron-la-cuenta)
-FRAUDE VIRTUAL: Estafaron a una platense y perdió casi un millón de pesos: "Nos vaciaron la cuenta".
-
-[<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615761153937.jpg?x=10&y=108&width=1481&height=740&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=957&&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-20-14-40-0-la-expo-mujer-saludable-fue-declarada-de-interes-legislativo-en-la-provincia)
-SEGUNDA EDICIÓN: La Expo Mujer Saludable fue declarada de interés legislativo en la Provincia.
-
-[<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1616256851175.jpg?x=0&y=13&width=1456&height=728&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=999&&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-20-13-9-0-la-caipo-el-espacio-cultural-fundado-por-un-artista-platense-que-vivio-10-anos-en-francia)
-9 entre 58 y 59: La Caipo, el espacio cultural fundado por un artista platense que vivió 10 años en Francia.
-
-[<center><img src='https://lh3.googleusercontent.com/Wwq4S9mzFHIjX9hlFOXo-EyaYPoBbM8q_nqyJ2XeemW9CrefV81Rr_mnnw_vUbhoAijoMMYc55DtGwnwr_k=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiENPJupvnB37LC4n9dnx6wf0qGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Autorizan a la Municipalidad a utilizar radares y cámaras para infracciones viales. Diario El Dia Hace 32 minutos.
-
-[<center><img src='https://lh3.googleusercontent.com/0eczTu_OMpn5JXOEHXzcylKwDT3bpacGX_m_bs7mNY21xLhImDPDguYTcIUtKnaM6Qc68uZJRNcURJsNLAU=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEGf7X4BEC1mOBrk1-AzqlNsqGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Sigue la "alerta amarilla" por lluvias y tormentas en La Plata: cuánta agua cayó hasta el momento. Diario El Dia Hace 32 minutos.
-
-[<center><img src='https://lh3.googleusercontent.com/olKk9yuxon4qAIG8zCfOeLwwGKFdEQV_zC_U9nZvYTWSI8HpGnxVGCrdz2t4SzVdhzIKT-CbqgbqT6iSIg=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEGi7w3fZ9ucxvSXTZua2iAoqGQgEKhAIACoHCAow8q_1CjCQm9wCMK2IuAM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Dos mujeres in fraganti mientras instalaban "pescadores" en cajeros del Bapro en La Plata. Diario El Dia Hace 32 minutos.
 
  &nbsp;
 
