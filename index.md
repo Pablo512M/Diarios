@@ -22,25 +22,26 @@
 <H3><center>Página_12</center></H3>
  &nbsp;
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/149331-whatsapp-20image-202021-03-20-20at-2016-17-15-20-281-29.jpeg?itok=TOdy5m-R' width=650></center>](https://www.pagina12.com.ar/330749-coronavirus-en-argentina-se-registraron-42-muertes-y-6-826-c)
-Los números de la pandemia 
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/2021-03/149298-1419615790141226113-20-281-29.jpg?itok=cdW7NIZl" src="https://www.pagina12.com.ar/assets/media/assets/transparent.gif?v=1.0.281' width=650></center>](https://www.pagina12.com.ar/330746-el-24-de-marzo-comenzo-la-mayor-tragedia-de-la-sociedad-arge)
+A 45 años de la última dictadura cívico militar 
  
- Coronavirus: se registraron 42 muertes y 6.826 contagios 
+ “El 24 de marzo comenzó la mayor tragedia de la sociedad argentina" 
  
- El Ministerio de Salud de la Nación confirmó que en las últimas 24 horas el número total de contagios desde el comienzo de la pandemia ascendió a 2.241.739, en tanto que los fallecimientos se ubican en 54.517..
+ Desde el Espacio para la Memoria y para la Promoción y Defensa de los Derechos Humanos (ex Esma), el mandatario resaltó la importancia de "no dejar de mirar para atrás" y cruzó a quienes piden que se deje de recordar el pasado..
 
 
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/149289-duran-0.jpg?itok=PYbalncT' width=650></center>](https://www.pagina12.com.ar/330704-jaime-duran-barba-en-el-centro-del-escandalo-por-la-vacunaci)
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/2021-03/149298-1419615790141226113-20-281-29.jpg?itok=cdW7NIZl" src="https://www.pagina12.com.ar/assets/media/assets/transparent.gif?v=1.0.281' width=650></center>](https://www.pagina12.com.ar/330749-coronavirus-en-argentina-se-registraron-42-muertes-y-6-826-c)
+Coronavirus: se registraron 42 muertes y 6.826 contagios Los números de la pandemia.
+
+
+
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/2021-03/149298-1419615790141226113-20-281-29.jpg?itok=cdW7NIZl" src="https://www.pagina12.com.ar/assets/media/assets/transparent.gif?v=1.0.281' width=650></center>](https://www.pagina12.com.ar/330704-jaime-duran-barba-en-el-centro-del-escandalo-por-la-vacunaci)
 Jaime Durán Barba en el centro del escándalo por la “vacunación gold” en Ecuador Ex asesor de Macri y actual asesor de Lasso. Por Marco Teruggi.
 
 
 
-Alberto Fernández homenajea a trabajadores desaparecidos A 45 años de la última dictadura cívico militar.
-
-
-
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/149320-149215-17a-20telam_0.jpg?itok=tvBHKTy7' width=650></center>](https://www.pagina12.com.ar/330740-el-hombre-que-se-llevo-a-m-se-nego-a-declarar)
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/2021-03/149298-1419615790141226113-20-281-29.jpg?itok=cdW7NIZl" src="https://www.pagina12.com.ar/assets/media/assets/transparent.gif?v=1.0.281' width=650></center>](https://www.pagina12.com.ar/330740-el-hombre-que-se-llevo-a-m-se-nego-a-declarar)
 El hombre que se llevó a M se negó a declarar Su abogado afirma que la madre de la niña "la entregó".
 
 
@@ -56,8 +57,8 @@ El hombre que se llevó a M se negó a declarar Su abogado afirma que la madre d
 [<center><img src='https://www.infobae.com/new-resizer/KmLdhfrBj4xQ0qBWdjSETDXXLhw=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/YSYBVA4KSRHBPINHAVW4EKO6A4.jpg' width=650></center>](https://www.infobae.com/economia/2021/03/20/se-acelero-la-suba-de-precios-en-los-alimentos-y-estiman-que-marzo-cerrara-con-una-inflacion-cercana-al-4/)
 Se aceleró la suba de precios en los alimentos y estiman que marzo cerrará con una inflación cercana al 4%El índice de alimentos y bebidas presentó una inflación mensual promedio de 3,7% en las últimas cuatro semanas y de 4,5% medida punta a punta en el mismo período, según la consultora LCG. Por Daniel Blanco Gómez.
 
-[<center><img src='https://www.infobae.com/new-resizer/hu3n6zeYS7Xb1qq-OcX8dyK6Vqo=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/B6BUU3KPOBCI7HD52J7ICXUGGQ' width=650></center>](https://www.infobae.com/politica/2021/03/20/cinco-diputados-del-frente-de-todos-anunciaron-que-tienen-coronavirus/)
-Internaron a un diputado del Frente de Todos por coronavirus y otros cinco dieron positivo .
+[<center><img src='https://www.infobae.com/new-resizer/HofmUsLrOY2EaAhf7xWQ0QehzEc=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/MR3W5V5KXRBJZFUFXXYWGTW4LI.jpg' width=650></center>](https://www.infobae.com/economia/2021/03/20/cambios-en-la-cedula-verde-de-los-autos-particulares-cuantos-anos-tendra-de-vigencia-a-partir-de-ahora/)
+Cambios en la cédula verde de los autos particulares: cuántos años tendrá de vigencia a partir de ahora.
 
 [<center><img src='https://www.infobae.com/new-resizer/M9cu0dtmDeOhoBMgVvcvWdpmkEw=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/6KJS7QRJS5BWBI5RMZZTSKVFPA.jpg' width=650></center>](https://www.infobae.com/sociedad/policiales/2021/03/20/amenazo-su-mama-con-un-cuchillo-tras-sufrir-un-brote-psicotico-los-medicos-lo-sedaron-y-mientras-dormia-ella-lo-prendio-fuego/)
 Amenazó a su mamá con un cuchillo tras sufrir un brote psicótico, los médicos lo sedaron y, mientras él dormía, ella lo prendió fuego. Por Miguel Prieto Toledo.
@@ -96,8 +97,8 @@ Mercosur, 30 años de manoseos del ideal integracionista – Por Aram Aharonian,
 [<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/6055a9ede9ff714ad34eab19.JPG' width=650></center>](https://actualidad.rt.com/actualidad/387008-piratas-siria-eeuu-saquea-petroleo)
  "Como piratas": Siria acusa a EE.UU. de apoderarse del 90 % de sus reservas de crudo en el noreste del país ..
 
-[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/6055f322e9ff714ac57baab4.JPG' width=650></center>](https://actualidad.rt.com/actualidad/387026-policia-amsterdam-canones-agua-protesta-coronavirus)
- La Policía de Ámsterdam usa cañones de agua para dispersar una protesta contra las restricciones del coronavirus (VIDEOS) ..
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/6056541c59bf5b237767dd0c.JPG' width=650></center>](https://actualidad.rt.com/actualidad/387047-enfrentamientos-policia-alemana-protesta-anticovid)
+ Choques entre la Policía alemana y manifestantes contrarios a las restricciones impuestas por la pandemia (VIDEOS, FOTOS) ..
 
 [<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/6055faf0e9ff714c5060894a.jpg' width=650></center>](https://actualidad.rt.com/actualidad/387027-comision-europea-amenaza-astrazeneca-exportar-vacuna-coronavirus)
  Comisión Europea amenaza a AstraZeneca con prohibir la exportación de su vacuna contra el covid-19 ..
@@ -131,16 +132,16 @@ Covid. El tuit de Gollan sobre la vacunación del Indio Solari que generó polé
  &nbsp;
 
 [<center><img src='https://lh3.googleusercontent.com/proxy/IrJrL6atkPv7HKhYpMquB2eoJle43nEnO27stZx8PHtx99rWXLSzevch-oayFtLe6vKYxlXerWXjHNfhdKIWhOryYi53XXFVvJCIIeZ9d1zPN8esgppW7kDPiyXKjEGc6lpEl0eCOwLr1uE4CXuEiDhV75zHtACjIXKnzFM-fNs4TYCLp3gZjsYvlSATs0QhZRasSzDG6rEJaWHsZ3FakRfc3m1n92VXaljLQW4YqhPojQ64_oHpIHPlvR0fRnGKumZgehXRR4jcr_6K04FEapvfXEl0hrEbL0Tuvw=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMiLGh0dHBzOi8vbmV3cy51bi5vcmcvZXMvc3RvcnkvMjAyMS8wMy8xNDg5NzQy0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Las lecciones de China para reducir la pobreza. Noticias ONU Hace 6 horas.
+  Las lecciones de China para reducir la pobreza. Noticias ONU Hace 7 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/GcnjfwL8j68cW8sxAtrA5NGoIScxsInUu086COB6Ed8AswUZ6F7vLZKiAWACzxFPziCE1_uRHbfM0C243HUK=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEJiMF7l1-RpLdUwWZgPeiaQqMwgEKioIACIQ99R-ypq-S9oaoqyM0Q1MwioUCAoiEPfUfsqavkvaGqKsjNENTMIwp9PHBg?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Las acusaciones cruzadas marcan el duro primer encuentro de EE. UU. y China en la era Biden. FRANCE 24 Español Hace 18 horas.
+[<center><img src='https://lh3.googleusercontent.com/JEJZk0RA_FmPz0SjeCsguyHFKedy8-xiKH8uwMbIrSG_JUYVLEVlmMWqopTwmDod8-UrgZltErxL_3yE7hwe=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEJiMF7l1-RpLdUwWZgPeiaQqMwgEKioIACIQ99R-ypq-S9oaoqyM0Q1MwioUCAoiEPfUfsqavkvaGqKsjNENTMIwp9PHBg?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Las acusaciones cruzadas marcan el duro primer encuentro de EE. UU. y China en la era Biden. FRANCE 24 Español Hace 19 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/__SQ5_FeP9qF9yPQBhPy1Jq_31A1ztdhhjn6ZplHNdGD_0yiPFvEVoSZ9h3G0kF1orzfcjv8bLicAOe5oE4=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiECbhW8K1tM1vIj-M8FQny0QqFwgEKg4IACoGCAow1P5zML2BDDCAndED?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Uruguay destaca como un salto tecnológico la adquisición de los aviones Hercules a España - Noticias Infodefensa América. Infodefensa.com Hace 9 horas.
+[<center><img src='https://lh3.googleusercontent.com/JHsBrNzGxMVO6yhX3D-IotDmQsXlmI7AalBsS70DfMh495R8yWc3d77lGpIongB3cvJqRwLVOzdKVa347Kc=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LmNsYXJpbi5jb20vbXVuZG8vYXJnZW50aW5vLW9yZ2FuaXpvLWZpZXN0YS1jbGFuZGVzdGluYS1jYXNhLXVydWd1YXktNTAwLXBlcnNvbmFzXzBfWE85U1JtZGdhLmh0bWzSAXFodHRwczovL3d3dy5jbGFyaW4uY29tL211bmRvL2FyZ2VudGluby1vcmdhbml6by1maWVzdGEtY2xhbmRlc3RpbmEtY2FzYS11cnVndWF5LTUwMC1wZXJzb25hc18wX1hPOVNSbWRnYS5hbXAuaHRtbA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Uruguay. Desarticulan una fiesta clandestina organizada por un argentino. LA NACION Hace 6 horas.
 
 [<center><img src='https://lh4.googleusercontent.com/proxy/T6To4LE2n-ZcP6G2DINouRsGZfQiYHSmJeB0cghI8P8XJybcGEev2MZZTy3vRqomMCwRKyVxw1JkjQZ9pQaelkubnZuEOf1nINp_gFW_1MbkgQ_Rc4yK3Rw=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMiigFodHRwczovL2NoZXF1ZWFkby5jb20vZWwtZXhwbGljYWRvci9sYS1vbXMtY29uZmlybWEtcXVlLWxhLXZhY3VuYS1kZS1hc3RyYXplbmVjYS15LW94Zm9yZC1lcy1zZWd1cmEteS1zZS1yZWFudWRhLXN1LXV0aWxpemFjaW9uLWVuLWV1cm9wYS_SAY4BaHR0cHM6Ly9jaGVxdWVhZG8uY29tL2VsLWV4cGxpY2Fkb3IvbGEtb21zLWNvbmZpcm1hLXF1ZS1sYS12YWN1bmEtZGUtYXN0cmF6ZW5lY2EteS1veGZvcmQtZXMtc2VndXJhLXktc2UtcmVhbnVkYS1zdS11dGlsaXphY2lvbi1lbi1ldXJvcGEvYW1wLw?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  La OMS confirma que la vacuna de AstraZeneca y Oxford es segura y se reanuda su utilización en Europa. Chequeado Hace 3 horas.
+  La OMS confirma que la vacuna de AstraZeneca y Oxford es segura y se reanuda su utilización en Europa. Chequeado Hace 4 horas.
 
 [<center><img src='https://lh6.googleusercontent.com/proxy/w3JB4b1DwtFT5Kk8zMxG0UQoowWMkXsUU1V1ltghrxKR6jzwimGzchGJX0jCyXIz6skrMkgsHvQSMpSbDIH9M6fdjwVXQYEQFPizrgMJXQEKIBOWAs4-gJlJF5ecFFGichHznDRJieLQw_zuTJQUwWvnulV3Yw=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMieGh0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvaGlkcm92aWEtcGFyYW5hLXBhcmFndWF5LXNlLWxsZXZvLWNhYm8tbGEtc2VndW5kYS1qb3JuYWRhLWRlLWV4cG9zaWNpb25lcy1hbnRlLWxhc9IBAA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Hidrovía Paraná - Paraguay: Se llevó a cabo la segunda jornada de exposiciones ante las comisiones para el proyecto. Argentina.gob.ar Presidencia de la Nación Hace 3 días.
