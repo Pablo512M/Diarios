@@ -22,19 +22,17 @@
 <H3><center>Página_12</center></H3>
  &nbsp;
 
-[<center><img src='https://www.pagina12.com.ar/assets/media/assets/video-icon.svg' width=650></center>](https://www.pagina12.com.ar/330552-vizzotti-no-estamos-pensando-en-medidas-de-confinamiento)
-Cómo sigue la vacunación 
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/149313-covid-0.jpg?itok=9rtBpO5O' width=650></center>](https://www.pagina12.com.ar/330736-coronavirus-cuanto-protege-una-sola-dosis-de-vacuna)
+Debate mundial ante la escasez de vacunas 
  
- Poner primera 
+ Coronavirus: ¿Cuánto protege una sola dosis de vacuna? 
  
- Con el acuerdo de los ministros de Salud de todo el país, Carla Vizzotti resaltó la prioridad de bajar la mortalidad de la pandemia de coronavirus. Con ese objetivo, cada jurisdicción analizará la posibilidad de promover la aplicación de la primera dosis, para avanzar en la inmunización del mayor número de personas posible antes de que impacte de lleno la segunda ola. 
- 
- Por Melisa Molina.
+ Qué dicen los estudios científicos que ya se realizaron sobre el tema. El debate entre la inmunización masiva y la "completa". El caso de Gran Bretaña y el estudio en la Argentina sobre el resultado de la Sputnik. .
 
 
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/149081-whatsapp-20image-202021-03-19-20at-2018-43-04.jpeg?itok=BlZRlucd' width=650></center>](https://www.pagina12.com.ar/330596-las-presiones-de-estados-unidos-a-america-latina-en-la-pande)
-Las presiones de Estados Unidos a América Latina en la pandemia  "Que se mueran los que tengan que morir". Por Luis Bruschtein.
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/149320-149215-17a-20telam_0.jpg?itok=tvBHKTy7' width=650></center>](https://www.pagina12.com.ar/330740-el-hombre-que-se-llevo-a-m-se-nego-a-declarar)
+El hombre que se llevó a M se negó a declarar Su abogado afirma que la madre de la niña "la entregó".
 
 
 
@@ -43,13 +41,13 @@ Sergio Berni y un incidente que generó malestar La reacción del ministro tras 
 
 
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/149033-97e8217c-c90b-4a55-9768-38c2e9581e9e_0.jpg?itok=RdG8JPS7' width=650></center>](https://www.pagina12.com.ar/330581-macri-le-pega-a-un-establishment-que-lo-ignora)
-Macri le pega a un establishment que lo ignora Indiferencia empresaria ante las críticas del expresidente. Por Leandro Renou.
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/149081-whatsapp-20image-202021-03-19-20at-2018-43-04.jpeg?itok=BlZRlucd' width=650></center>](https://www.pagina12.com.ar/330596-las-presiones-de-estados-unidos-a-america-latina-en-la-pande)
+Las presiones de Estados Unidos a América Latina en la pandemia  "Que se mueran los que tengan que morir". Por Luis Bruschtein.
 
 
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/149215-17a-20telam.jpg?itok=tWCVGAJX' width=650></center>](https://www.pagina12.com.ar/330632-con-los-peritajes-y-los-estudios-medicos-se-definira-la-impu)
-Con los peritajes médicos se definirá la imputación a Savanz Las etapas de la investigación en el caso M. Por Carlos Rodríguez.
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_470x264/public/2021-03/149300-148978-4a-20guadalupe_0.jpg?itok=jyhr5XnK' width=650></center>](https://www.pagina12.com.ar/330723-sabina-frederic-cuestiono-el-egocentrismo-de-berni)
+Frederic cuestionó el "egocentrismo" de Berni "Hay que correr la dimensión escandalosa, parece una telenovela".
 
 
 
@@ -61,20 +59,20 @@ Con los peritajes médicos se definirá la imputación a Savanz Las etapas de la
 <H3><center>Infobae</center></H3>
  &nbsp;
 
-[<center><img src='https://www.infobae.com/new-resizer/fTo46oC73Iccm1ydjUxzhn0FCYI=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/5RLNDFW7HBF5BH4SL7RVDLCNDQ.jpeg' width=650></center>](https://www.infobae.com/politica/2021/03/20/el-desafio-del-coronavirus-crece-en-medio-de-las-internas-del-oficialismo-y-un-llamativo-mensaje-presidencial/)
-El desafío del coronavirus crece en medio de las internas del oficialismo y un llamativo mensaje presidencialLa falta de vacunas y la perspectiva de mayores restricciones sociales son temas centrales. El Presidente advierte la situación pero busca diluir cargas. Por Eduardo Aulicino.
+[<center><img src='https://www.infobae.com/new-resizer/BTWmwyAoMe8TpJIx4OSdPmb-0HU=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/WSTPILR7C6P2ENWIXV4MPM6KVQ.jpg' width=650></center>](https://www.infobae.com/politica/2021/03/20/el-gobierno-de-biden-tiene-minimas-expectativas-por-la-visita-de-martin-guzman-a-washington-para-negociar-la-deuda-con-el-fmi/)
+El gobierno de Biden tiene mínimas expectativas en la visita de Guzmán a Washington para negociar con el FMIEl ministro de Economía se reunirá con Kristalina Georgieva, con su staff técnico y con funcionarios del Departamento del Tesoro y el Banco Mundial, tras una gira de dos días en New York. Por Román Lejtman.
 
-[<center><img src='https://www.infobae.com/new-resizer/lFCof_g2Wpr5j-Fn5e1aDISFsBM=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/PGS7RQEF4IGRVCMHDBJBI7S6ZI.jpg' width=650></center>](https://www.infobae.com/america/deportes/2021/03/20/oficial-no-habra-publico-extranjero-en-los-juegos-olimpicos-y-paralimpicos-de-tokio-debido-al-coronavirus/)
-Oficial: no habrá público extranjero en los Juegos Olímpicos de Tokio debido al coronavirus.
+[<center><img src='https://www.infobae.com/new-resizer/cSGh83huuZy-ts6uB081OfYSRQE=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/XN2ZT3KU2JADXGBBITAYO4URQY.jpg' width=650></center>](https://www.infobae.com/sociedad/policiales/2021/03/20/se-nego-a-declarar-carlos-savanz-el-detenido-por-el-secuestro-de-maia-beloso/)
+Se negó a declarar Carlos Savanz, el detenido por el secuestro de M., la nena de siete años.
 
-[<center><img src='https://www.infobae.com/new-resizer/gBvljMfTCcO2SMIr60nejjaZC9E=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/N57IYZYEAFDKRA3GCDCBSP4QZ4.jpg' width=650></center>](https://www.infobae.com/opinion/2021/03/20/hacer-lo-que-hay-que-hacer/)
-Sergio Berni: "Vemos funcionarios que se anotician de la realidad por TV porque se convirtieron en burócratas de escritorio". Por Sergio Berni .
+[<center><img src='https://www.infobae.com/new-resizer/D9WKq0pjmmOycC6teNyR8QYMgGs=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/YQ3MFONI7ZCUFKI3BNCUNLRLHE.jpg' width=650></center>](https://www.infobae.com/america/deportes/2021/03/20/el-ritual-que-intenta-facundo-campazzo-antes-de-cada-partido-y-que-genera-una-alocada-reaccion-de-sus-companeros/)
+El ritual que intenta Campazzo antes de cada partido y que genera una alocada reacción de sus compañerosVIDEO.
 
-[<center><img src='https://www.infobae.com/new-resizer/6ToAjRAR8BbNRI9CltXoI3ogphU=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/KIZX6IX4YVDALDU6RQBVA3WNMU.jpg' width=650></center>](https://www.infobae.com/deportes/2021/03/20/estallo-la-interna-de-la-doce-50-barras-armados-un-club-tomado-y-di-zeo-que-se-salvo-de-milagro/)
-Estalló la interna de La Doce: 50 barras armados, un club tomado y Di Zeo que se salvó de milagro. Por Gustavo Grabia.
+[<center><img src='https://www.infobae.com/new-resizer/WD1aPC5ic9wmGqOkLZnr55xXHN8=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/5LPMAULAGNHFRICN3BFZAAQ65Y.jpg' width=650></center>](https://www.infobae.com/politica/2021/03/20/el-gobierno-limito-la-aplicacion-de-la-ley-de-teletrabajo-desperto-elogios-en-el-empresariado-y-criticas-del-sindicalismo-k/)
+El Gobierno limitó la aplicación de la ley de teletrabajo: despertó elogios en el empresariado y críticas del sindicalismo K. Por Ricardo Carpena.
 
-[<center><img src='https://www.infobae.com/new-resizer/83geQYliHZykpxWt6UZkpejsC_A=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/D2CEIPA2DBCSXHZMPROTDVE2BE.jpg' width=650></center>](https://www.infobae.com/politica/2021/03/20/alfredo-leuco-cristina-kirchner-es-la-persona-que-mas-dano-le-ha-hecho-a-la-argentina/)
-Alfredo Leuco: "Cristina Kirchner es la persona que más daño le ha hecho a la Argentina". Por Mariana Dahbar.
+[<center><img src='https://www.infobae.com/new-resizer/MSB0czXsWPPmGxsx4E539BJQX4s=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/YUIWEF6DK5EBVJY5HNDVYXANAQ.jpg' width=650></center>](https://www.infobae.com/america/america-latina/2021/03/20/el-emotivo-video-que-muestra-la-ensenanza-para-la-pandemia-de-los-sobrevivientes-de-la-tragedia-de-los-andes/)
+El emotivo video que muestra la enseñanza para la pandemia de los sobrevivientes de la Tragedia de los Andes. Por Juan Martín Melo.
 
  &nbsp;
 
@@ -84,14 +82,14 @@ Alfredo Leuco: "Cristina Kirchner es la persona que más daño le ha hecho a la 
 <H3><center>Nodal</center></H3>
  &nbsp;
 
+[<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/bolsonaro-1-357x210.jpg' width=650></center>](https://www.nodal.am/2021/03/brasil-bolsonaro-busca-anular-medidas-dictadas-por-los-gobernadores-mi-ejercito-no-va-a-salir-a-la-calle-a-cumplir-decretos-de-cuarentena/)
+Brasil  Bolsonaro busca anular medidas dictadas por los gobernadores: “Mi Ejército no va a salir a la calle a cumplir decretos de cuarentena”.
+
+[<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/Porta-Fouz-750x430-1-357x210.jpg' width=650></center>](https://www.nodal.am/2021/03/nodal-pregunta-javier-porta-fouz-director-del-bafici-queremos-combatir-la-homogeneizacion-del-consumo-del-cine/)
+Nodal Pregunta  Javier Porta Fouz, director del BAFICI: “Queremos combatir la homogeneización del consumo del cine”.
+
 [<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/Farfan-Ecu-357x210.jpg' width=650></center>](https://www.nodal.am/2021/03/ecuador-renuncia-el-cuarto-ministro-de-salud-de-lenin-moreno-en-medio-de-un-escandalo-por-casos-de-vacunaciones-vip/)
 Ecuador  Renuncia el cuarto ministro de Salud de Lenín Moreno en medio de un escándalo por casos de vacunaciones VIP.
-
-[<center><img src='https://www.nodal.am/wp-content/uploads/2020/11/Vizcarra1-357x210.jpg' width=650></center>](https://www.nodal.am/2021/03/peru-jueza-rechaza-prision-preventiva-para-vizcarra-y-continua-en-campana-para-el-congreso/)
-Perú  Jueza rechaza prisión preventiva para Vizcarra y continúa en campaña para el Congreso.
-
-[<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/jeanine-anez-bolivia-1-357x210.jpg' width=650></center>](https://www.nodal.am/2021/03/bolivia-juez-autoriza-traslado-de-la-expresidenta-de-facto-anez-a-una-clinica-de-la-paz/)
-Bolivia  Juez autoriza traslado de la expresidenta de facto Áñez a una clínica de La Paz.
 
 [<center><img src='https://www.nodal.am/wp-content/uploads/2021/03/mercosur3-357x210.jpg' width=650></center>](https://www.nodal.am/2021/03/mercosur-30-anos-de-manoseos-del-ideal-integracionista-por-aram-aharonian-especial-para-nodal/)
 Mercosur, 30 años de manoseos del ideal integracionista – Por Aram Aharonian, especial para NODAL  el verso neoliberal de “una mayor integración al mundo" se va convirtiendo en pérdida de soberanía nacional y regional..
@@ -107,6 +105,36 @@ Mercosur, 30 años de manoseos del ideal integracionista – Por Aram Aharonian,
 <H3><center>RT</center></H3>
  &nbsp;
 
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/60564a3de9ff714c973193b9.JPG' width=650></center>](https://actualidad.rt.com/actualidad/387048-ivan-duque-asesino-maduro-respuesta-venezuela)
+ "El efecto espejo se viraliza": Iván Duque llama "asesino" a Nicolás Maduro y Venezuela reacciona ..
+
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/6055a9ede9ff714ad34eab19.JPG' width=650></center>](https://actualidad.rt.com/actualidad/387008-piratas-siria-eeuu-saquea-petroleo)
+ "Como piratas": Siria acusa a EE.UU. de apoderarse del 90 % de sus reservas de crudo en el noreste del país ..
+
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/6055f322e9ff714ac57baab4.JPG' width=650></center>](https://actualidad.rt.com/actualidad/387026-policia-amsterdam-canones-agua-protesta-coronavirus)
+ La Policía de Ámsterdam usa cañones de agua para dispersar una protesta contra las restricciones del coronavirus (VIDEOS) ..
+
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/6055faf0e9ff714c5060894a.jpg' width=650></center>](https://actualidad.rt.com/actualidad/387027-comision-europea-amenaza-astrazeneca-exportar-vacuna-coronavirus)
+ Comisión Europea amenaza a AstraZeneca con prohibir la exportación de su vacuna contra el covid-19 ..
+
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/605623e2e9ff714ce5027d60.JPG' width=650></center>](https://actualidad.rt.com/actualidad/387034-bolivia-trasladan-jeanine-a%C3%B1ez-carcel-miraflores)
+ Trasladan de manera sorpresiva a Jeanine Áñez a otra cárcel de La Paz ..
+
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/6056256559bf5b4c72207cfd.jpg' width=650></center>](https://actualidad.rt.com/actualidad/387033-ejercito-eeuu-muestra-misil-hipersonico)
+ El Ejército de EE.UU. muestra los primeros módulos de su nuevo misil hipersónico ..
+
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/6055da9f59bf5b4a040a8eb2.JPG' width=650></center>](https://actualidad.rt.com/actualidad/387020-investigadores-vacuna-astrazeneca-trombosis-cerebro)
+ Investigadores afirman que la vacuna de AstraZeneca puede causar trombosis en el cerebro en casos "raros" ..
+
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/60563b80e9ff714c50608974.jpg' width=650></center>](https://actualidad.rt.com/viral/387041-memes-caida-biden-escaleras-avion-presidencial)
+ Del clima ventoso a la interferencia rusa: Los mejores memes sobre la caída de Biden en las escaleras del avión presidencial ..
+
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/60561579e9ff714ca436b68e.jpg' width=650></center>](https://actualidad.rt.com/actualidad/387032-asteroide-mas-grande-del-ano-pasara-ma%C3%B1ana-tierra)
+ El asteroide más grande del año pasará este domingo cerca de la Tierra a 124.000 kilómetros por hora ..
+
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/6056033159bf5b4a040a8ed6.jpg' width=650></center>](https://actualidad.rt.com/actualidad/387029-ultimos-minutos-vida-joven-salto-paracaidas)
+ Muestran los últimos minutos con vida de un joven que murió tras saltar en paracaídas (y los responsables pagarán 40 millones de dólares a la familia) ..
+
  &nbsp;
 
 <a name='LaNación'></a>
@@ -115,20 +143,20 @@ Mercosur, 30 años de manoseos del ideal integracionista – Por Aram Aharonian,
 <H3><center>La Nación</center></H3>
  &nbsp;
 
-[<center><img src='https://bucket2.glanacion.com/anexos/fotos/74/3671474h373.jpg' width=650></center>](https://www.lanacion.com.ar/politica/la-presion-de-los-aliados-para-ir-contra-mercado-libre-nid20032021/)
-Tensión. La presión de los aliados del Gobierno para ir contra Mercado Libre       Hugo Moyano y Sergio Palazzo buscan la ayuda del Gobierno para meter un pie en los centros de logística y en las fintech; la disputa genera diferencias en el oficialismo      Por Nicolás Balinotti.
+[<center><img src='https://bucket1.glanacion.com/anexos/fotos/50/3672550h373.jpg' width=650></center>](https://www.lanacion.com.ar/seguridad/se-nego-a-declarar-el-detenido-acusado-por-el-secuestro-de-la-nina-de-siete-anos-nid20032021/)
+Caso M. Se negó a declarar el acusado por el secuestro de la niña de siete años       El delito que se le imputa está contemplado en el artículo 146 del Código Penal y prevé una pena de entre 5 y 15 años de prisión.
 
-[<center><img src='https://bucket3.glanacion.com/anexos/fotos/46/3672346h186.jpg' width=650></center>](https://www.lanacion.com.ar/deportes/no-habra-espectadores-llegados-del-extranjero-en-juegos-olimpicos-de-tokio-2020-debido-al-virus-nid20032021/)
-Pandemia. No habrá espectadores extranjeros en los Juegos Olímpicos de Tokio.
+[<center><img src='https://bucket1.glanacion.com/anexos/fotos/62/3672462h186.jpg' width=650></center>](https://www.lanacion.com.ar/politica/en-el-gobierno-reconocen-que-solo-tienen-vacunas-para-10-dias-y-que-no-saben-cuando-ingresaran-mas-nid20032021/)
+Preocupación. En el Gobierno reconocen que solo tienen vacunas para 10 días     Por Santiago Dapelo.
 
-[<center><img src='https://bucket1.glanacion.com/anexos/fotos/42/3671542h186.jpg' width=650></center>](https://www.lanacion.com.ar/politica/un-ano-de-cuarentena-fernandez-sobrellevo-doce-meses-con-altibajos-y-pronosticos-fallidos-nid20032021/)
-Un año de cuarentena. Los altibajos y pronósticos fallidos del Presidente     Por Maia Jastreblansky.
+[<center><img src='https://bucket3.glanacion.com/anexos/fotos/37/3672537h186.jpg' width=650></center>](https://www.lanacion.com.ar/seguridad/renuncie-cianuro-o-plomo-un-detenido-por-amenazar-en-instagram-al-embajador-de-alemania-nid20032021/)
+"Cianuro o plomo''. Un detenido por amenazar al embajador de Alemania.
 
-[<center><img src='https://bucket1.glanacion.com/anexos/fotos/71/3671571h186.jpg' width=650></center>](https://www.lanacion.com.ar/economia/alfonso-prat-gay-yo-jugue-11-minutos-del-primer-tiempo-de-mauricio-macri-nid20032021/)
-LN+         Alfonso Prat Gay. ''Yo jugué 11 minutos del ‘primer tiempo´ de Mauricio Macri''.
+[<center><img src='https://bucket3.glanacion.com/anexos/fotos/47/3672447h186.jpg' width=650></center>](https://www.lanacion.com.ar/politica/el-polemico-tuit-de-daniel-gollan-sobre-la-vacunacion-del-indio-solari-nid20032021/)
+Covid. El tuit de Gollan sobre la vacunación del Indio Solari que generó polémica.
 
-[<center><img src='https://bucket2.glanacion.com/anexos/fotos/35/3671635h186.jpg' width=650></center>](https://www.lanacion.com.ar/deportes/la-mosca-campazzo-volo-en-el-final-y-fue-determinante-para-el-triunfo-de-denver-nuggets-contra-nid20032021/)
-VIDEO  Campazzo. Dos robos decisivos y el salto de sus compañeros para una "volcada".
+[<center><img src='https://bucket2.glanacion.com/anexos/fotos/43/3672543h186.jpg' width=650></center>](https://www.lanacion.com.ar/el-mundo/colapso-en-brasil-por-primera-vez-falto-oxigeno-en-san-pablo-para-tratar-pacientes-con-coronavirus-nid20032021/)
+Colapso en Brasil. Por primera vez faltó oxígeno en San Pablo.
 
  &nbsp;
 
@@ -138,17 +166,17 @@ VIDEO  Campazzo. Dos robos decisivos y el salto de sus compañeros para una "vol
 <H3><center>Google News</center></H3>
  &nbsp;
 
-[<center><img src='https://lh3.googleusercontent.com/dPlHDP9Lija7Hsw-xbEpcfKmf4J-rc2bNVVgPag5GTfLTmoR003LGXjyzmi3iHumuPNJPr_B2xzlngkhKeQ=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiELmwXPyxet1VTSHVbe--FDAqGQgEKhAIACoHCAowwJn-CjCamooDMP3m4AU?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  China blinda sus sectores estratégicos al capital europeo. EL PAÍS Hace 7 horas.
+[<center><img src='https://lh3.googleusercontent.com/proxy/IrJrL6atkPv7HKhYpMquB2eoJle43nEnO27stZx8PHtx99rWXLSzevch-oayFtLe6vKYxlXerWXjHNfhdKIWhOryYi53XXFVvJCIIeZ9d1zPN8esgppW7kDPiyXKjEGc6lpEl0eCOwLr1uE4CXuEiDhV75zHtACjIXKnzFM-fNs4TYCLp3gZjsYvlSATs0QhZRasSzDG6rEJaWHsZ3FakRfc3m1n92VXaljLQW4YqhPojQ64_oHpIHPlvR0fRnGKumZgehXRR4jcr_6K04FEapvfXEl0hrEbL0Tuvw=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMiLGh0dHBzOi8vbmV3cy51bi5vcmcvZXMvc3RvcnkvMjAyMS8wMy8xNDg5NzQy0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Las lecciones de China para reducir la pobreza. Noticias ONU Hace 5 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/proxy/n2CEelQOguWpTkGC2QQVDBs3Ovctp02k3VeZtlqhSLHIqcrSFoaFhqtRKguY8WggMWkAF3oJ1KMDgvxEM0RkjIflBWBoSj6ktpylKSG9RLbmdSGHBUeSSMGOePn_1nqGxWPg8U9mliKzF0OBSV8=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3LmR3LmNvbS9lcy9wcmltZXJvLWVuY3VlbnRyby1lbnRyZS1jaGluYS15LWVldXUtc2UtdG9ybmEtZyVDMyVBOWxpZG8vYXYtNTY5MzU0MjbSAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Primero encuentro entre China y EEUU se torna gélido. Deutsche Welle Hace 14 horas.
+[<center><img src='https://lh3.googleusercontent.com/bKKbzdqhi19cKf9_soxWULt5nmOOVXLP69RKo6qumgir_6J_9HOWnB1l9NAzB1l2RnZziEhpgDCgXNdgNR8=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiELmwXPyxet1VTSHVbe--FDAqGQgEKhAIACoHCAowwJn-CjCamooDMP3m4AU?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  China blinda sus sectores estratégicos al capital europeo. EL PAÍS Hace 15 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/h2JkrjtKDTE9HJXj4jR037XQ8_IZc5SwOToQVLnNFu-rau8knloTMqse-zmV9l-XNpgdH9tPdqqr8YMo7Q=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEK1nCXtH4-7pj6qv7r9gZ3gqFwgEKg4IACoGCAowyPhzMO2BDDDCt60D?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Uruguay alcanzó un nuevo récord de casos diarios de COVID-19. infobae Hace 19 horas.
+[<center><img src='https://lh3.googleusercontent.com/7m9M4oztztLjrbUA9dcYedT_Kv8m2Ao6cz7MYGMryyhUdWj-lZ0yXbH5-BBIzExpDXr7Slft6rYg6NbyBS0=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiECbhW8K1tM1vIj-M8FQny0QqFwgEKg4IACoGCAow1P5zML2BDDCAndED?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Uruguay destaca como un salto tecnológico la adquisición de los aviones Hercules a España - Noticias Infodefensa América. Infodefensa.com Hace 7 horas.
 
-[<center><img src='https://lh4.googleusercontent.com/proxy/kNJcab68pM-WEgNEmWO6iBpla-cnaSAyshODfjyrYpD4VWzfUbrdghIBnPGwEElla_b9L1VyohmY6iqhopAUKawQ5BkQff3nJX31tUgzyDPhhFGv9JX385E=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMijwFodHRwczovL2NoZXF1ZWFkby5jb20vdWx0aW1hcy1ub3RpY2lhcy9hbGJlcnRvLWZlcm5hbmRlei1oYXN0YS1ob3ktbGxlZ2Fyb24tYWwtcGFpcy00LW1pbGxvbmVzLWRlLWRvc2lzLXVuLTYtZGUtbGFzLWRvc2lzLXF1ZS1oZW1vcy1jb250cmF0YWRvL9IBkwFodHRwczovL2NoZXF1ZWFkby5jb20vdWx0aW1hcy1ub3RpY2lhcy9hbGJlcnRvLWZlcm5hbmRlei1oYXN0YS1ob3ktbGxlZ2Fyb24tYWwtcGFpcy00LW1pbGxvbmVzLWRlLWRvc2lzLXVuLTYtZGUtbGFzLWRvc2lzLXF1ZS1oZW1vcy1jb250cmF0YWRvL2FtcC8?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Alberto Fernández: “Hasta hoy llegaron al país 4 millones de dosis, un 6% de las dosis que hemos contratado”. Chequeado Hace 15 horas.
+[<center><img src='https://lh4.googleusercontent.com/proxy/T6To4LE2n-ZcP6G2DINouRsGZfQiYHSmJeB0cghI8P8XJybcGEev2MZZTy3vRqomMCwRKyVxw1JkjQZ9pQaelkubnZuEOf1nINp_gFW_1MbkgQ_Rc4yK3Rw=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMiigFodHRwczovL2NoZXF1ZWFkby5jb20vZWwtZXhwbGljYWRvci9sYS1vbXMtY29uZmlybWEtcXVlLWxhLXZhY3VuYS1kZS1hc3RyYXplbmVjYS15LW94Zm9yZC1lcy1zZWd1cmEteS1zZS1yZWFudWRhLXN1LXV0aWxpemFjaW9uLWVuLWV1cm9wYS_SAY4BaHR0cHM6Ly9jaGVxdWVhZG8uY29tL2VsLWV4cGxpY2Fkb3IvbGEtb21zLWNvbmZpcm1hLXF1ZS1sYS12YWN1bmEtZGUtYXN0cmF6ZW5lY2EteS1veGZvcmQtZXMtc2VndXJhLXktc2UtcmVhbnVkYS1zdS11dGlsaXphY2lvbi1lbi1ldXJvcGEvYW1wLw?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  La OMS confirma que la vacuna de AstraZeneca y Oxford es segura y se reanuda su utilización en Europa. Chequeado Hace 2 horas.
 
 [<center><img src='https://lh6.googleusercontent.com/proxy/w3JB4b1DwtFT5Kk8zMxG0UQoowWMkXsUU1V1ltghrxKR6jzwimGzchGJX0jCyXIz6skrMkgsHvQSMpSbDIH9M6fdjwVXQYEQFPizrgMJXQEKIBOWAs4-gJlJF5ecFFGichHznDRJieLQw_zuTJQUwWvnulV3Yw=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMieGh0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvaGlkcm92aWEtcGFyYW5hLXBhcmFndWF5LXNlLWxsZXZvLWNhYm8tbGEtc2VndW5kYS1qb3JuYWRhLWRlLWV4cG9zaWNpb25lcy1hbnRlLWxhc9IBAA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Hidrovía Paraná - Paraguay: Se llevó a cabo la segunda jornada de exposiciones ante las comisiones para el proyecto. Argentina.gob.ar Presidencia de la Nación Hace 3 días.
@@ -167,23 +195,23 @@ VIDEO  Campazzo. Dos robos decisivos y el salto de sus compañeros para una "vol
 <H3><center>La Plata</center></H3>
  &nbsp;
 
-[<center><img src='https://pxb.cdn.0221.com.ar/0221/022021/1612189531006.jpeg?x=7&y=107&width=1263&height=631&rotate=0&scaleX=1&scaleY=1&ow=1280&oh=804&&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-20-7-52-0-llueve-en-la-plata-y-hay-alerta-amarillo-por-la-intensidad-de-la-tormenta)
-CLIMA: Llueve en La Plata y hay alerta amarillo por la intensidad de la tormenta.
+[<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1615761153937.jpg?x=10&y=108&width=1481&height=740&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=957&&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-20-14-40-0-la-expo-mujer-saludable-fue-declarada-de-interes-legislativo-en-la-provincia)
+SEGUNDA EDICIÓN: La Expo Mujer Saludable fue declarada de interés legislativo en la Provincia.
 
-[<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1616208480478/IMG_7910.jpg?&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-20-7-42-0-en-fotos-asi-se-vivieron-los-primeros-dias-de-la-cuarentena-decretada-hace-un-ano)
-Pandemia en La Plata: En fotos, así se vivieron los primeros días de la cuarentena decretada hace un año.
+[<center><img src='https://pxb.cdn.0221.com.ar/0221/032021/1616256851175.jpg?x=0&y=13&width=1456&height=728&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=999&&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-20-13-9-0-la-caipo-el-espacio-cultural-fundado-por-un-artista-platense-que-vivio-10-anos-en-francia)
+9 entre 58 y 59: La Caipo, el espacio cultural fundado por un artista platense que vivió 10 años en Francia.
 
-[<center><img src='https://pxb.cdn.0221.com.ar/0221/012021/1611779490143.jpg?x=10&y=93&width=1480&height=740&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=1000&&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-19-21-30-0-la-curva-del-covid-19-sigue-creciendo-en-la-plata-hubo-163-casos-nuevos)
-Sin fallecidos: La curva del COVID-19 sigue creciendo en La Plata: hubo 163 casos nuevos.
+[<center><img src='https://pxb.cdn.0221.com.ar/0221/022021/1613345838809.jpg?x=14&y=83&width=1479&height=740&rotate=0&scaleX=1&scaleY=1&ow=1500&oh=998&&cw=288&ch=199' width=650></center>](https://www.0221.com.ar/nota/2021-3-20-12-41-0-cuantos-milimetros-de-lluvia-cayeron-este-sabado-en-los-barrios-de-la-plata)
+CLIMA: Cuántos milímetros de lluvia cayeron este sábado en los barrios de La Plata.
 
-[<center><img src='https://lh3.googleusercontent.com/IANWjtBDyTDbRNQOy81Je3LpJ0LHqOz5_JaTZP62pTaSrgLy8PUX7UQ7ui2bjf5bjbdzHVILZsysNbAAhCgx=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEFdacriE1BDhHnIrI0jZ4LkqGQgEKhAIACoHCAow8q_1CjCQm9wCMK2IuAM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Dictan la preventiva a un acusado del robo a Piparo y al marido de la diputada. Diario El Dia Hace 4 horas.
+[<center><img src='https://lh3.googleusercontent.com/Uuk2ZhFVjU2t8u5nYT-7ywQcmkvk_zgU3g5uE7wEm2lurFCRB2j5s503JPDCEZv1JzrHR3KrFRjR_K8fyuA=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiENPJupvnB37LC4n9dnx6wf0qGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Autorizan a la Municipalidad a utilizar radares y cámaras para infracciones viales. Diario El Dia Hace 37 minutos.
 
-[<center><img src='https://lh3.googleusercontent.com/GoZ9joMJ165Fuf9oN_6ki67bsZlbFfs5WSEBTjinDUq6lSt2nh-SM5TpTXWUu31HhofqESfZK4r20_aJx1A=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEOMdakUVqfd7Dp6Kr6-REMgqGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Autorizan a La Plata a utilizar radares y cámaras para hacer multas: a dónde están ubicados. Diario El Dia Hace 3 horas.
+[<center><img src='https://lh3.googleusercontent.com/JrKTFo29HQvFgOGaTM2-z7yWEyySrHXq7qwnnRxmRI1-Cb6yJJ9JjdxGu0UEw59ztM-k5Dv90Ssm3Mi8Mq8=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEGf7X4BEC1mOBrk1-AzqlNsqGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Sigue la "alerta amarilla" por lluvias y tormentas en La Plata: cuánta agua cayó hasta el momento. Diario El Dia Hace 50 minutos.
 
-[<center><img src='https://lh3.googleusercontent.com/hnlHZksf96k-a8q1AfTptPvS7owfzUQglm6j-g1bdf5sFlL_vmXlqEdsLDoGBEFPAuAZUuG_9p87Bz8mjg=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEL7ZlqkbHMVRlgKEWFKGrfMqGQgEKhAIACoHCAow8q_1CjCQm9wCMImD1AM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  ¡Atención! Lanzan "alerta amarillo" en La Plata para el sábado por fuertes tormentas. Diario El Dia Hace 3 horas.
+[<center><img src='https://lh3.googleusercontent.com/MCOH_tWyHgZhjTb0E_cfMkhJHpax_jJuAdezZ1kExsbzUoye_vczkVCPIKoe6ImiyHsmfpUD4Ata0udRPg=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEGi7w3fZ9ucxvSXTZua2iAoqGQgEKhAIACoHCAow8q_1CjCQm9wCMK2IuAM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Dos mujeres in fraganti mientras instalaban "pescadores" en cajeros del Bapro en La Plata. Diario El Dia Hace 37 minutos.
 
  &nbsp;
 
