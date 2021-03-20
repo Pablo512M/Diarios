@@ -22,7 +22,7 @@
 <H3><center>Página_12</center></H3>
  &nbsp;
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/2021-03/149298-1419615790141226113-20-281-29.jpg?itok=cdW7NIZl" src="https://www.pagina12.com.ar/assets/media/assets/transparent.gif?v=1.0.281' width=650></center>](https://www.pagina12.com.ar/330746-el-24-de-marzo-comenzo-la-mayor-tragedia-de-la-sociedad-arge)
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/rest_images/whatsapp-image-2021-03-20-at-18-24-13.jpeg?itok=f19NJv_m' width=650></center>](https://www.pagina12.com.ar/330746-el-24-de-marzo-comenzo-la-mayor-tragedia-de-la-sociedad-arge)
 A 45 años de la última dictadura cívico militar 
  
  “El 24 de marzo comenzó la mayor tragedia de la sociedad argentina" 
@@ -31,17 +31,17 @@ A 45 años de la última dictadura cívico militar
 
 
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/2021-03/149298-1419615790141226113-20-281-29.jpg?itok=cdW7NIZl" src="https://www.pagina12.com.ar/assets/media/assets/transparent.gif?v=1.0.281' width=650></center>](https://www.pagina12.com.ar/330749-coronavirus-en-argentina-se-registraron-42-muertes-y-6-826-c)
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/2021-03/149331-whatsapp-20image-202021-03-20-20at-2016-17-15-20-281-29.jpeg?itok=zsc6kL01' width=650></center>](https://www.pagina12.com.ar/330749-coronavirus-en-argentina-se-registraron-42-muertes-y-6-826-c)
 Coronavirus: se registraron 42 muertes y 6.826 contagios Los números de la pandemia.
 
 
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/2021-03/149298-1419615790141226113-20-281-29.jpg?itok=cdW7NIZl" src="https://www.pagina12.com.ar/assets/media/assets/transparent.gif?v=1.0.281' width=650></center>](https://www.pagina12.com.ar/330704-jaime-duran-barba-en-el-centro-del-escandalo-por-la-vacunaci)
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/2021-03/149289-duran-0.jpg?itok=HncA4zQX' width=650></center>](https://www.pagina12.com.ar/330704-jaime-duran-barba-en-el-centro-del-escandalo-por-la-vacunaci)
 Jaime Durán Barba en el centro del escándalo por la “vacunación gold” en Ecuador Ex asesor de Macri y actual asesor de Lasso. Por Marco Teruggi.
 
 
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/2021-03/149298-1419615790141226113-20-281-29.jpg?itok=cdW7NIZl" src="https://www.pagina12.com.ar/assets/media/assets/transparent.gif?v=1.0.281' width=650></center>](https://www.pagina12.com.ar/330740-el-hombre-que-se-llevo-a-m-se-nego-a-declarar)
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/2021-03/149320-149215-17a-20telam_0.jpg?itok=rP1s-KY8' width=650></center>](https://www.pagina12.com.ar/330740-el-hombre-que-se-llevo-a-m-se-nego-a-declarar)
 El hombre que se llevó a M se negó a declarar Su abogado afirma que la madre de la niña "la entregó".
 
 
