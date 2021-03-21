@@ -16,33 +16,43 @@
 
  &nbsp;
 
+<a name='ElCohetealaLuna'></a>
+
+---------------------
+<H3><center>El Cohete a la Luna</center></H3>
+ &nbsp;
+
+ &nbsp;
+
 <a name='Página_12'></a>
 
 ---------------------
 <H3><center>Página_12</center></H3>
  &nbsp;
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/rest_images/whatsapp-image-2021-03-20-at-18-24-13.jpeg?itok=f19NJv_m' width=650></center>](https://www.pagina12.com.ar/330746-el-24-de-marzo-comenzo-la-mayor-tragedia-de-la-sociedad-arge)
-A 45 años de la última dictadura cívico militar 
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/rest_images/whatsapp-image-2021-03-20-at-20-46-36.jpeg?itok=_EUKqe4L' width=650></center>](https://www.pagina12.com.ar/330758-exclusivo-los-audios-de-mariano-macri-sobre-el-negocio-de-lo)
+La cruda verdad 
  
- “El 24 de marzo comenzó la mayor tragedia de la sociedad argentina" 
+ Exclusivo: los audios de Mariano Macri sobre el negocio de los parques eólicos 
  
- Desde el Espacio para la Memoria y para la Promoción y Defensa de los Derechos Humanos (ex Esma), el mandatario resaltó la importancia de "no dejar de mirar para atrás" y cruzó a quienes piden que se deje de recordar el pasado..
+ Lo que dijo el hermano de Mauricio Macri a la justicia y lo que dejó grabado en la entrevista que sirvió de base al libro "Hermano". El relato completo sobre el rol que le adjudica a su otro hermano, Gianfranco, como testaferro del ex presidente, y sobre las presiones del Gobierno de Cambiemos a favor de las empresas del Grupo Macri. 
+ 
+ Por Santiago O'Donnell.
 
 
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/2021-03/149331-whatsapp-20image-202021-03-20-20at-2016-17-15-20-281-29.jpeg?itok=zsc6kL01' width=650></center>](https://www.pagina12.com.ar/330749-coronavirus-en-argentina-se-registraron-42-muertes-y-6-826-c)
-Coronavirus: se registraron 42 muertes y 6.826 contagios Los números de la pandemia.
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/2021-03/149398-aasput_0.jpeg?itok=2TLxB1IW' width=650></center>](https://www.pagina12.com.ar/330804-un-nuevo-vuelo-a-moscu-a-buscar-vacunas)
+Un nuevo vuelo a Moscú a buscar vacunas En la madrugada del domingo. Por Raúl Kollmann.
 
 
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/2021-03/149289-duran-0.jpg?itok=HncA4zQX' width=650></center>](https://www.pagina12.com.ar/330704-jaime-duran-barba-en-el-centro-del-escandalo-por-la-vacunaci)
-Jaime Durán Barba en el centro del escándalo por la “vacunación gold” en Ecuador Ex asesor de Macri y actual asesor de Lasso. Por Marco Teruggi.
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/2021-03/149313-covid-0.jpg?itok=Eo2j_Epb' width=650></center>](https://www.pagina12.com.ar/330736-coronavirus-cuanto-protege-una-sola-dosis-de-vacuna)
+Coronavirus: ¿Cuánto protege una sola dosis de vacuna? Debate mundial ante la escasez de vacunas.
 
 
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/2021-03/149320-149215-17a-20telam_0.jpg?itok=rP1s-KY8' width=650></center>](https://www.pagina12.com.ar/330740-el-hombre-que-se-llevo-a-m-se-nego-a-declarar)
-El hombre que se llevó a M se negó a declarar Su abogado afirma que la madre de la niña "la entregó".
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/2021-03/149081-whatsapp-20image-202021-03-19-20at-2018-43-04.jpeg?itok=dV14NPRj' width=650></center>](https://www.pagina12.com.ar/330596-las-presiones-de-estados-unidos-a-america-latina-en-la-pande)
+Las presiones de Estados Unidos a América Latina en la pandemia  "Que se mueran los que tengan que morir". Por Luis Bruschtein.
 
 
 
@@ -54,14 +64,17 @@ El hombre que se llevó a M se negó a declarar Su abogado afirma que la madre d
 <H3><center>Infobae</center></H3>
  &nbsp;
 
-[<center><img src='https://www.infobae.com/new-resizer/KmLdhfrBj4xQ0qBWdjSETDXXLhw=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/YSYBVA4KSRHBPINHAVW4EKO6A4.jpg' width=650></center>](https://www.infobae.com/economia/2021/03/20/se-acelero-la-suba-de-precios-en-los-alimentos-y-estiman-que-marzo-cerrara-con-una-inflacion-cercana-al-4/)
-Se aceleró la suba de precios en los alimentos y estiman que marzo cerrará con una inflación cercana al 4%El índice de alimentos y bebidas presentó una inflación mensual promedio de 3,7% en las últimas cuatro semanas y de 4,5% medida punta a punta en el mismo período, según la consultora LCG. Por Daniel Blanco Gómez.
+[<center><img src='https://www.infobae.com/new-resizer/UBBDpTsv5LQFFgcFgSzQC50oP_Y=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/PJ3PRVDKTFFNDHC4VHIX3UVFJQ.jpg' width=650></center>](https://www.infobae.com/politica/2021/03/21/esta-madrugada-partira-otro-avion-rumbo-a-rusia-para-traer-mas-dosis-de-la-vacuna-sputnik-v/)
+Esta madrugada partirá otro avión rumbo a Rusia para traer más dosis de la Sputnik VFuentes de la Casa Rosada le confirmaron a Infobae que sería otro cargamento de 300 mil dosis. El vuelo se hará con un Airbus 330-200 especialmente preparado para el transporte de carga y arribará al Aeropuerto de Sheremétievo. Por Facundo Cottet.
 
-[<center><img src='https://www.infobae.com/new-resizer/HofmUsLrOY2EaAhf7xWQ0QehzEc=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/MR3W5V5KXRBJZFUFXXYWGTW4LI.jpg' width=650></center>](https://www.infobae.com/economia/2021/03/20/cambios-en-la-cedula-verde-de-los-autos-particulares-cuantos-anos-tendra-de-vigencia-a-partir-de-ahora/)
-Cambios en la cédula verde de los autos particulares: cuántos años tendrá de vigencia a partir de ahora.
+[<center><img src='https://www.infobae.com/new-resizer/KuJ0Y2swrPpYbSYLuMU1AEyIHdU=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/3ZXQWNZUXJBG5NYG3A7AAY6W2A.jpg' width=650></center>](https://www.infobae.com/deportes/2021/03/20/con-varias-bajas-en-defensa-river-buscara-volver-al-triunfo-ante-godoy-cruz-en-mendoza-hora-tv-y-formaciones/)
+ESPNRiver aplastó a Godoy Cruz en Mendoza con una actuación brillante de Rafael Santos BorréVIDEO.
 
-[<center><img src='https://www.infobae.com/new-resizer/M9cu0dtmDeOhoBMgVvcvWdpmkEw=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/6KJS7QRJS5BWBI5RMZZTSKVFPA.jpg' width=650></center>](https://www.infobae.com/sociedad/policiales/2021/03/20/amenazo-su-mama-con-un-cuchillo-tras-sufrir-un-brote-psicotico-los-medicos-lo-sedaron-y-mientras-dormia-ella-lo-prendio-fuego/)
-Amenazó a su mamá con un cuchillo tras sufrir un brote psicótico, los médicos lo sedaron y, mientras él dormía, ella lo prendió fuego. Por Miguel Prieto Toledo.
+[<center><img src='https://www.infobae.com/new-resizer/2wzn4jsB1Bs5Eu59VpbbEnVdOn0=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/NFJXYB53FJBSDOT6IK6KJGLMIA.jpg' width=650></center>](https://www.infobae.com/deportes/2021/03/21/la-noche-sonada-de-rafael-santos-borre-en-medio-de-los-rumores-de-su-salida-al-celta-de-vigo/)
+ESPNLa noche soñada de Rafael Santos Borré en medio de los rumores de su salida al Celta de Vigo. Por Román Lejtman.
+
+[<center><img src='https://www.infobae.com/new-resizer/xokQms1Er20R2zlYKzZEPH0F7e0=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/7BKMTWY5OND6DNQYGTM73GO4W4.jpg' width=650></center>](https://www.infobae.com/america/deportes/espn/2021/03/21/el-pase-de-agustin-palavecino-en-el-gol-de-river-que-lo-convirtio-en-tendencia/)
+El pase de Agustín Palavecino en el gol de River que lo convirtió en tendenciaVIDEO.
 
  &nbsp;
 
@@ -94,14 +107,14 @@ Mercosur, 30 años de manoseos del ideal integracionista – Por Aram Aharonian,
 [<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/60564a3de9ff714c973193b9.JPG' width=650></center>](https://actualidad.rt.com/actualidad/387048-ivan-duque-asesino-maduro-respuesta-venezuela)
  "El efecto espejo se viraliza": Iván Duque llama "asesino" a Nicolás Maduro y Venezuela reacciona ..
 
-[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/6055a9ede9ff714ad34eab19.JPG' width=650></center>](https://actualidad.rt.com/actualidad/387008-piratas-siria-eeuu-saquea-petroleo)
- "Como piratas": Siria acusa a EE.UU. de apoderarse del 90 % de sus reservas de crudo en el noreste del país ..
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/6055faf0e9ff714c5060894a.jpg' width=650></center>](https://actualidad.rt.com/actualidad/387027-comision-europea-amenaza-astrazeneca-exportar-vacuna-coronavirus)
+ Comisión Europea amenaza a AstraZeneca con prohibir la exportación de su vacuna contra el covid-19 ..
 
 [<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/6056541c59bf5b237767dd0c.JPG' width=650></center>](https://actualidad.rt.com/actualidad/387047-enfrentamientos-policia-alemana-protesta-anticovid)
  Choques entre la Policía alemana y manifestantes contrarios a las restricciones impuestas por la pandemia (VIDEOS, FOTOS) ..
 
-[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/6055faf0e9ff714c5060894a.jpg' width=650></center>](https://actualidad.rt.com/actualidad/387027-comision-europea-amenaza-astrazeneca-exportar-vacuna-coronavirus)
- Comisión Europea amenaza a AstraZeneca con prohibir la exportación de su vacuna contra el covid-19 ..
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/605696e259bf5b459c30f820.JPG' width=650></center>](https://actualidad.rt.com/actualidad/387067-ampliar-detencion-preventiva-anez-exministros)
+ La Justicia boliviana amplía de cuatro a seis meses la detención preventiva para Jeanine Áñez y sus dos exministros ..
 
  &nbsp;
 
@@ -111,17 +124,16 @@ Mercosur, 30 años de manoseos del ideal integracionista – Por Aram Aharonian,
 <H3><center>La Nación</center></H3>
  &nbsp;
 
-[<center><img src='https://bucket3.glanacion.com/anexos/fotos/77/3672577h373.jpg' width=650></center>](https://www.lanacion.com.ar/sociedad/coronavirus-baja-el-ritmo-de-vacunacion-y-dos-provincias-se-quedaron-sin-dosis-nid20032021/)
-Coronavirus. Baja el ritmo de vacunación y dos provincias se quedaron sin dosis       La demora en la llegada de las vacunas compradas por el gobierno de Alberto Fernández es el principal escollo para contener la segunda ola de la pandemia          Por José María Costa.
+[<center><img src='https://bucket3.glanacion.com/anexos/fotos/68/3672768h373.jpg' width=650></center>](https://www.lanacion.com.ar/politica/maximo-kirchner-en-busca-de-consolidar-su-proyecto-de-poder-mas-alla-de-la-campora-nid21032021/)
+Máximo Kirchner. En busca de consolidar su proyecto más allá de La Cámpora       El jefe de la bancada oficialista asume como cacique del PJ bonaerense y da otro paso de la periferia al centro; sus relaciones y su vocación de conducción política a largo plazo          Por Maia Jastreblansky y Candela Ini.
 
-[<center><img src='https://bucket1.glanacion.com/anexos/fotos/62/3672462h186.jpg' width=650></center>](https://www.lanacion.com.ar/politica/en-el-gobierno-reconocen-que-solo-tienen-vacunas-para-10-dias-y-que-no-saben-cuando-ingresaran-mas-nid20032021/)
-Preocupación. En el Gobierno reconocen que solo tienen vacunas para 10 días     Por Santiago Dapelo.
+[<center><img src='https://bucket3.glanacion.com/anexos/fotos/19/3672719h186.jpg' width=650></center>](https://www.lanacion.com.ar/politica/coronavirus-un-nuevo-vuelo-partira-esta-madrugada-hacia-rusia-para-buscar-vacunas-nid21032021/)
+Coronavirus. Un vuelo partirá esta madrugada hacia Rusia para buscar nuevas dosis.
 
-[<center><img src='https://bucket2.glanacion.com/anexos/fotos/84/3672584h186.jpg' width=650></center>](https://www.lanacion.com.ar/sociedad/coronavirus-en-la-argentina-reportan-6826-casos-y-el-promedio-semanal-subio-mas-del-15-nid20032021/)
-Coronavirus. Reportan 6826 nuevos casos y el promedio semanal subió más de 15%.
+[<center><img src='https://bucket3.glanacion.com/anexos/fotos/26/3672726h186.jpg' width=650></center>](https://www.lanacion.com.ar/deportes/godoy-cruz-river-por-la-copa-de-la-liga-nid20032021/)
+Fiesta en Mendoza. River goleó otra vez en el estadio donde mejor le va.
 
-[<center><img src='https://bucket3.glanacion.com/anexos/fotos/47/3672447h186.jpg' width=650></center>](https://www.lanacion.com.ar/politica/el-polemico-tuit-de-daniel-gollan-sobre-la-vacunacion-del-indio-solari-nid20032021/)
-Covid. El tuit de Gollan sobre la vacunación del Indio Solari que generó polémica.
+Vacunas. La buena noticia para chicos, embarazadas y mayores de 65 años     Por The Washington Post.
 
  &nbsp;
 
@@ -132,25 +144,19 @@ Covid. El tuit de Gollan sobre la vacunación del Indio Solari que generó polé
  &nbsp;
 
 [<center><img src='https://lh3.googleusercontent.com/proxy/IrJrL6atkPv7HKhYpMquB2eoJle43nEnO27stZx8PHtx99rWXLSzevch-oayFtLe6vKYxlXerWXjHNfhdKIWhOryYi53XXFVvJCIIeZ9d1zPN8esgppW7kDPiyXKjEGc6lpEl0eCOwLr1uE4CXuEiDhV75zHtACjIXKnzFM-fNs4TYCLp3gZjsYvlSATs0QhZRasSzDG6rEJaWHsZ3FakRfc3m1n92VXaljLQW4YqhPojQ64_oHpIHPlvR0fRnGKumZgehXRR4jcr_6K04FEapvfXEl0hrEbL0Tuvw=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMiLGh0dHBzOi8vbmV3cy51bi5vcmcvZXMvc3RvcnkvMjAyMS8wMy8xNDg5NzQy0gEA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Las lecciones de China para reducir la pobreza. Noticias ONU Hace 7 horas.
+  Las lecciones de China para reducir la pobreza. Noticias ONU Hace 13 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/JEJZk0RA_FmPz0SjeCsguyHFKedy8-xiKH8uwMbIrSG_JUYVLEVlmMWqopTwmDod8-UrgZltErxL_3yE7hwe=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEJiMF7l1-RpLdUwWZgPeiaQqMwgEKioIACIQ99R-ypq-S9oaoqyM0Q1MwioUCAoiEPfUfsqavkvaGqKsjNENTMIwp9PHBg?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Las acusaciones cruzadas marcan el duro primer encuentro de EE. UU. y China en la era Biden. FRANCE 24 Español Hace 19 horas.
+[<center><img src='https://lh3.googleusercontent.com/8jsxc-AP84GIMW0JIBzemYKb8dYI050BhJ7juQYB6nwC4jBbZRmwI-sWrgA_rVDu66Z6gj-Mm_d2MgytVR4=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiELmwXPyxet1VTSHVbe--FDAqGQgEKhAIACoHCAowwJn-CjCamooDMP3m4AU?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  China blinda sus sectores estratégicos al capital europeo. EL PAÍS Hace 22 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/JHsBrNzGxMVO6yhX3D-IotDmQsXlmI7AalBsS70DfMh495R8yWc3d77lGpIongB3cvJqRwLVOzdKVa347Kc=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LmNsYXJpbi5jb20vbXVuZG8vYXJnZW50aW5vLW9yZ2FuaXpvLWZpZXN0YS1jbGFuZGVzdGluYS1jYXNhLXVydWd1YXktNTAwLXBlcnNvbmFzXzBfWE85U1JtZGdhLmh0bWzSAXFodHRwczovL3d3dy5jbGFyaW4uY29tL211bmRvL2FyZ2VudGluby1vcmdhbml6by1maWVzdGEtY2xhbmRlc3RpbmEtY2FzYS11cnVndWF5LTUwMC1wZXJzb25hc18wX1hPOVNSbWRnYS5hbXAuaHRtbA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Uruguay. Desarticulan una fiesta clandestina organizada por un argentino. LA NACION Hace 6 horas.
+[<center><img src='https://lh6.googleusercontent.com/proxy/PRLSc1MExuwAlwwxRjRMUXMpWiaknggPlpNKb77tYZnvouA4d4pPVD9Rg0yRJpeKeQxMfVEpRnmgr8Bq-PCJJ9RbbCE3splTVDITBymfxG0QieXvMft9lbSsqHbo5fQLLMT3tiJEcEF4Vnu-AZY9XEaGeTMaEY5Etw=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LmNsYXJpbi5jb20vbXVuZG8vYXJnZW50aW5vLW9yZ2FuaXpvLWZpZXN0YS1jbGFuZGVzdGluYS1jYXNhLXVydWd1YXktNTAwLXBlcnNvbmFzXzBfWE85U1JtZGdhLmh0bWzSAXFodHRwczovL3d3dy5jbGFyaW4uY29tL211bmRvL2FyZ2VudGluby1vcmdhbml6by1maWVzdGEtY2xhbmRlc3RpbmEtY2FzYS11cnVndWF5LTUwMC1wZXJzb25hc18wX1hPOVNSbWRnYS5hbXAuaHRtbA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Uruguay destaca como un salto tecnológico la adquisición de los aviones Hercules a España - Noticias Infodefensa América. Infodefensa.com Hace 8 horas.
 
 [<center><img src='https://lh4.googleusercontent.com/proxy/T6To4LE2n-ZcP6G2DINouRsGZfQiYHSmJeB0cghI8P8XJybcGEev2MZZTy3vRqomMCwRKyVxw1JkjQZ9pQaelkubnZuEOf1nINp_gFW_1MbkgQ_Rc4yK3Rw=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMiigFodHRwczovL2NoZXF1ZWFkby5jb20vZWwtZXhwbGljYWRvci9sYS1vbXMtY29uZmlybWEtcXVlLWxhLXZhY3VuYS1kZS1hc3RyYXplbmVjYS15LW94Zm9yZC1lcy1zZWd1cmEteS1zZS1yZWFudWRhLXN1LXV0aWxpemFjaW9uLWVuLWV1cm9wYS_SAY4BaHR0cHM6Ly9jaGVxdWVhZG8uY29tL2VsLWV4cGxpY2Fkb3IvbGEtb21zLWNvbmZpcm1hLXF1ZS1sYS12YWN1bmEtZGUtYXN0cmF6ZW5lY2EteS1veGZvcmQtZXMtc2VndXJhLXktc2UtcmVhbnVkYS1zdS11dGlsaXphY2lvbi1lbi1ldXJvcGEvYW1wLw?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  La OMS confirma que la vacuna de AstraZeneca y Oxford es segura y se reanuda su utilización en Europa. Chequeado Hace 4 horas.
+  La OMS confirma que la vacuna de AstraZeneca y Oxford es segura y se reanuda su utilización en Europa. Chequeado Hace 9 horas.
 
-[<center><img src='https://lh6.googleusercontent.com/proxy/w3JB4b1DwtFT5Kk8zMxG0UQoowWMkXsUU1V1ltghrxKR6jzwimGzchGJX0jCyXIz6skrMkgsHvQSMpSbDIH9M6fdjwVXQYEQFPizrgMJXQEKIBOWAs4-gJlJF5ecFFGichHznDRJieLQw_zuTJQUwWvnulV3Yw=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMieGh0dHBzOi8vd3d3LmFyZ2VudGluYS5nb2IuYXIvbm90aWNpYXMvaGlkcm92aWEtcGFyYW5hLXBhcmFndWF5LXNlLWxsZXZvLWNhYm8tbGEtc2VndW5kYS1qb3JuYWRhLWRlLWV4cG9zaWNpb25lcy1hbnRlLWxhc9IBAA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Hidrovía Paraná - Paraguay: Se llevó a cabo la segunda jornada de exposiciones ante las comisiones para el proyecto. Argentina.gob.ar Presidencia de la Nación Hace 3 días.
-
-[<center><img src='https://lh6.googleusercontent.com/proxy/HiuHpPKL2MesD7F-qHC4gOsi61i9sV4rzy9PYVUCcUiomUDPMsmrEtUFtiDgP3PpwPwwZHssU-7EyPBsmdETnFyluBi3GEn9r_Z0ZDzqQDk_XNTlrX218dsi=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMiV2h0dHBzOi8vd3d3Lm5vcnRlY29ycmllbnRlcy5jb20vMTY3Mzg2LXBsYW50ZWFuLXJlZHVjaXItdGFyaWZhcy15LW9icmFzLWVuLWxhLWhpZHJvdmlhLdIBAA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Plantean reducir tarifas y obras en la Hidrovía. Norte Corrientes Hace 2 días.
-
-[<center><img src='https://lh3.googleusercontent.com/proxy/VpMhH5FUb68-p4KHtlnY74xhTBbBmZFHiTaPGGhssLcKjf47Pqxh4UDUlY5sewLf1QgtxkKmt7I14dBJEb59oNEr0lEpwAIi-SsgGX2GLknBqfF72wcC66dgt_ummHztQ5SzpHAAcrYc5S0bVXyWsM9RXxaq22IfyeF1Xx0FniOIOpJEWE1fAcVKFdQBZy9KZUSlA_N7OztvEBvyBKzcrfO7Wq734BEVr6cBSFP0QhePrgrXzavw2DFcJnCXzzyjgQd7nU2fPJ_42Ncmy_IzMAZsMDljgN9CSlas2sX4sA5LvfxyIcixs1lxmtQc9yb00wMnDcMSi0yl1t_BgARx9Q=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMilgFodHRwczovL2NubmVzcGFub2wuY25uLmNvbS92aWRlby9hbHZhcm8tZ2FyY2lhLWJvbGl2aWEtYW5lei1qZWFuaW5lLWNvbnRleHRvLXBvbGl0aWNvLXNvY2lhbC1wcmVzaWRlbnRlLWV4dmljZXByZXNpZGVudGUtZXZvLW1vcmFsZXMtYXJpc3RlZ3VpLW1leGljby_SAZoBaHR0cHM6Ly9jbm5lc3Bhbm9sLmNubi5jb20vdmlkZW8vYWx2YXJvLWdhcmNpYS1ib2xpdmlhLWFuZXotamVhbmluZS1jb250ZXh0by1wb2xpdGljby1zb2NpYWwtcHJlc2lkZW50ZS1leHZpY2VwcmVzaWRlbnRlLWV2by1tb3JhbGVzLWFyaXN0ZWd1aS1tZXhpY28vYW1wLw?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Álvaro García: Bolivia está viviendo un proceso de reconstrucción. CNN Hace 4 días.
+[<center><img src='https://lh3.googleusercontent.com/5hIEflMHmkAVYIw8YQhN7GJ4Z1s0e7PokGRtC_qpPA5lIJWd92c50-9poTUE_ekrcQgZz2DDbJrEU6ekiGc=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMiNWh0dHBzOi8vaGlwZXJ0ZXh0dWFsLmNvbS8yMDIxLzAzL21hcnRlLW5pdGlub2wtc3BhY2V40gE1aHR0cHM6Ly9oaXBlcnRleHR1YWwuY29tLzIwMjEvMDMvbWFydGUtbml0aW5vbC1zcGFjZXg?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  SpaceX y la NASA firman un acuerdo de seguridad: los satélites Starlink se coordinarán para evitar chocar con.... Xataka Hace 2 días.
 
  &nbsp;
 
