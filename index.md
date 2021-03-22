@@ -22,12 +22,12 @@
 <H3><center>Página_12</center></H3>
  &nbsp;
 
-[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/2021-03/149683-vacunaci-c3-b3n-20porte-c3-b1a-20na-0.jpeg?itok=qRU9ZLmT' width=650></center>](https://www.pagina12.com.ar/331023-la-ciudad-de-buenos-aires-empieza-a-inscribir-para-vacunar-a)
-A partir de este jueves empezaría a anotar a mayores de 70 
+[<center><img src='https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/2021-03/149691-nuevo-20vuelo-20a-20mosc-c3-ba.jpeg?itok=MLsCyfwM' width=650></center>](https://www.pagina12.com.ar/331032-sale-otro-vuelo-para-traer-vacunas-de-moscu)
+Esta misma semana 
  
- El gobierno porteño modifica el sistema de turnos para vacunarse 
+ Sale otro vuelo para traer vacunas de Moscú 
  
- Las autoridades de la ciudad avanzan en la definición de un esquema similar al de la provincia de Buenos Aires. La idea es abrir un empadronamiento de todos los que quieran vacunarse y tengan entre 70 y 79 años. Primero se inoculará a la franja de 75 a 79 y luego, a la de 70 a 74 años. Recibirán la citación vía mail o mensaje de texto. 
+ Se suma al que arriba esta tarde con 500.000 dosis. En la Casa Rosada afirman que también partirán tres aviones a China para ir a buscar los tres millones de vacunas de Sinopharm que figuran en el contrato firmado por Alberto Fernández la semana pasada. 
  
  Por Raúl Kollmann.
 
@@ -56,17 +56,17 @@ Patricia Bullrich no quiere flan, lo quiere a Alfredo Casero La invitación que
 <H3><center>Infobae</center></H3>
  &nbsp;
 
-[<center><img src='https://www.infobae.com/new-resizer/m9Sj8lb2QgCtuYXHp4vySa2njTg=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/MKUPRJVH5RGNRDI5ZTFWYG4JLA.jpg' width=650></center>](https://www.infobae.com/economia/2021/03/22/la-justicia-le-ordeno-a-la-afip-no-cobrarle-el-impuesto-a-la-riqueza-a-un-empresario/)
-La Justicia le ordenó a la AFIP no cobrarle el impuesto a la riqueza a un empresarioSe trata de Alejandro Scannapieco, ejecutivo de Globant, que presentó un amparo para que no le cobren el aporte solidario por la pandemia. Por Martín Angulo.
+[<center><img src='https://www.infobae.com/new-resizer/qQ-BKBDlYKYvUiWI8X92TfdsxeE=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/TWYGOIIB65EDBBMBGMIH4XZUYA.jpg' width=650></center>](https://www.infobae.com/politica/2021/03/22/ara-san-juan-el-consejo-de-guerra-destituyo-al-capitan-villamide-y-dispuso-el-arresto-por-45-dias-del-ex-jefe-de-la-armada/)
+ARA San Juan: el Consejo de Guerra destituyó al capitán Villamide y dispuso el arresto por 45 días del ex jefe de la ArmadaLas resoluciones fueron adoptadas en el marco de la investigación por el hundimiento del submarino en noviembre de 2017. Por Martín Angulo.
 
-[<center><img src='https://www.infobae.com/new-resizer/zUa6YVuxKSIQc6ejfjzfRT1agKA=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/ZZQT3FXLQBAHXJHBR73GYZNJDA.jpg' width=650></center>](https://www.infobae.com/sociedad/policiales/2021/03/22/conocio-a-un-joven-por-redes-sociales-tomo-un-tren-y-desaparecio-desesperada-busqueda-de-una-chica-de-15/)
-Conoció a un joven por las redes, se fue en tren y no volvió: desesperada búsqueda de una chica de 15 años. Por Martín Candalaft.
+[<center><img src='https://www.infobae.com/new-resizer/l5WJ8_YkcW2vn-2xIBqc0zY5NTs=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/RJE7SLJPDFHWJMOCXOEZQK4KSE.jpg' width=650></center>](https://www.infobae.com/america/america-latina/2021/03/22/como-es-el-sistema-que-aplica-uruguay-para-avanzar-en-la-efectiva-campana-de-vacunacion-contra-el-covid-19/)
+Cómo es el sistema que aplica Uruguay para avanzar en su efectiva campaña de vacunación. Por Román Lejtman.
 
-[<center><img src='https://www.infobae.com/new-resizer/IRv984F55GQr4vgBellC-Qh2xZQ=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/EFBLXIQSWRABXMYLXRU5WV3JGY.jpg' width=650></center>](https://www.infobae.com/america/deportes/2021/03/22/la-increible-vida-de-garrincha-el-gambeteador-endiablado-la-maquina-sexual-y-un-final-ahogado-en-alcohol/)
-La vida de Garrincha: gambeteador endiablado, máquina sexual y un final ahogado en alcohol. Por Sergio Levinsky.
+[<center><img src='https://www.infobae.com/new-resizer/leL36qpKZxWzzV5W2Fl0I3dJW9s=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/SRMP6WQLCREAPKBUNE5EEC52FE.jpg' width=650></center>](https://www.infobae.com/entrevistas/como-llegue-hasta-aqui/2021/03/22/como-llegue-hasta-aqui-miguel-galuccio-y-sus-secretos-para-ser-un-lider-que-juega-en-un-escenario-mundial/)
+Cómo llegué hasta aquí: Galuccio y sus secretos para ser "un líder que juega en un escenario mundial"VIDEO.
 
-[<center><img src='https://www.infobae.com/new-resizer/ZkCwKbHsutuH4rrXb_MxNM8l2ds=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/2JD24KU3EVADFNF2LBU5MODM7A.jpg' width=650></center>](https://www.infobae.com/sociedad/policiales/2021/03/22/una-mujer-murio-despues-de-ser-asaltada-por-un-motochorro-en-pleno-centro-de-ramos-mejia/)
-Una mujer murió después de ser asaltada por un motochorro en pleno centro de Ramos MejíaVIDEO.
+[<center><img src='https://www.infobae.com/new-resizer/MlefRLXgH_73grq304z0TNg1V3g=/420x236/filters:format(jpg):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/636KKDJIXBGL3NQHEQDGFHQ5MQ.jpg' width=650></center>](https://www.infobae.com/politica/2021/03/22/mauricio-macri-participo-de-una-reunion-con-sus-aliados-de-juntos-por-el-cambio-desde-la-cama-con-juliana-awada/)
+Macri participó de una reunión con sus aliados de Juntos por el Cambio desde la cama con Juliana Awada. Por Marianela Insua Escalante.
 
  &nbsp;
 
@@ -100,13 +100,13 @@ Chile cerró una semana récord de contagios pese a liderar la vacunación en la
  Dos militares venezolanos muertos y varios heridos en un enfrentamiento armado en la frontera con Colombia ..
 
 [<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/60589af3e9ff710a506ffa42.jpg' width=650></center>](https://actualidad.rt.com/actualidad/387164-china-amenazar-ue-sanciones-duras)
- China amenaza con castigar a la UE con sanciones más duras si le sigue "sermoneando" sobre DD.HH. ..
+ China sanciona a 10 personas y 4 entidades europeas como represalia por las medidas punitivas impuestas por la UE ..
+
+[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/60589390e9ff7109963b522c.JPG' width=650></center>](https://actualidad.rt.com/actualidad/387156-gran-yacimiento-encontrado-mexico-gas-crudo)
+ El gran yacimiento encontrado en México aportará grandes cantidades de gas (y no de crudo) ..
 
 [<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/60589259e9ff7109963b5226.jpg' width=650></center>](https://actualidad.rt.com/actualidad/387157-rusia-tener-disponibles-primeros-lotes-vacuna-covivac)
  Rusia ya dispone de los primeros lotes de CoviVac, su tercera vacuna contra el coronavirus ..
-
-[<center><img src='https://cdni.rt.com/actualidad/public_images/2021.03/article/605774bb59bf5b0ec16e1601.JPG' width=650></center>](https://actualidad.rt.com/actualidad/387098-filipinas-pekin-militarizar-mar-china-meridional)
- Filipinas acusa a Pekín de "militarizar" el mar de la China Meridional con la presencia "provocadora" de 220 buques de guerra ..
 
  &nbsp;
 
@@ -116,17 +116,17 @@ Chile cerró una semana récord de contagios pese a liderar la vacunación en la
 <H3><center>La Nación</center></H3>
  &nbsp;
 
-[<center><img src='https://bucket1.glanacion.com/anexos/fotos/52/3674952h373.jpg' width=650></center>](https://www.lanacion.com.ar/sociedad/colegios-los-tres-cambios-en-los-protocolos-que-planea-implementar-la-ciudad-nid22032021/)
-Covid. Los tres cambios en el protocolo de clases que planea la Ciudad.
+[<center><img src='https://bucket3.glanacion.com/anexos/fotos/69/3675069h373.jpg' width=650></center>](https://www.lanacion.com.ar/politica/ara-san-juan-el-consejo-de-guerra-sanciono-con-45-dias-de-arresto-riguroso-al-exjefe-de-la-armada-nid22032021/)
+ARA San Juan. El Consejo de Guerra sancionó con 45 días de ''arresto riguroso''.
 
-[<center><img src='https://bucket3.glanacion.com/anexos/fotos/28/3674328h186.jpg' width=650></center>](https://www.lanacion.com.ar/politica/maximo-kirchner-enfrenta-la-primera-rebelion-en-su-tropa-de-diputados-nid22032021/)
-Diputados. Máximo Kirchner enfrenta la primera ''rebelión'' en su tropa     Por Laura Serra.
+[<center><img src='https://bucket1.glanacion.com/anexos/fotos/22/3675022h186.jpg' width=650></center>](https://www.lanacion.com.ar/economia/la-justicia-federal-resolvio-que-un-empresario-no-pague-el-aporte-a-las-grandes-fortunas-nid22032021/)
+Fallo. La Justicia ordenó que un empresario no pague el impuesto a la riqueza.
 
-[<center><img src='https://bucket2.glanacion.com/anexos/fotos/23/3674923h186.jpg' width=650></center>](https://www.lanacion.com.ar/politica/segun-financial-times-no-hay-dudas-de-que-cristina-kirchner-tiene-el-control-y-lidera-la-campana-en-nid22032021/)
-Vacunatorio vip. Fuerte crítica del Financial Times a Alberto Fernández.
+[<center><img src='https://bucket1.glanacion.com/anexos/fotos/21/3675021h186.jpg' width=650></center>](https://www.lanacion.com.ar/politica/el-blooper-de-mauricio-macri-con-juliana-awada-durante-el-zoom-de-juntos-por-el-cambio-nid22032021/)
+Viral. El blooper de Macri con Awada durante el Zoom de Juntos por el Cambio.
 
-[<center><img src='https://bucket1.glanacion.com/anexos/fotos/01/3674901h186.jpg' width=650></center>](https://www.lanacion.com.ar/seguridad/ramos-mejia-la-asalto-un-motochorro-y-murio-de-un-infarto-nid22032021/)
-VIDEO  Ramos Mejía. La asaltó un motochorro y murió de un infarto.
+[<center><img src='https://bucket1.glanacion.com/anexos/fotos/12/3675012h186.jpg' width=650></center>](https://www.lanacion.com.ar/politica/contra-marcos-galperin-juan-grabois-hablo-de-ricachones-que-cruzaron-el-charco-nid22032021/)
+Twitter. El mensaje de Grabois por el que Galperin lo bloqueó.
 
  &nbsp;
 
@@ -136,23 +136,23 @@ VIDEO  Ramos Mejía. La asaltó un motochorro y murió de un infarto.
 <H3><center>Google News</center></H3>
  &nbsp;
 
-[<center><img src='https://lh3.googleusercontent.com/KG47Mq1Bs3SmQcREdWWetjLgSc2LR-X2HcPTFkFhkifJpIKgh6EJEIlUm70hNhi45TtFCk7gcHX03lOVUV0=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiELSgO96SG1YT2IfRgQoGcZAqGQgEKhAIACoHCAowwJn-CjCamooDMK2c-QU?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  El mapa hacia el futuro de la economía china. EL PAÍS Hace 1 hora.
+[<center><img src='https://lh3.googleusercontent.com/jdDU7szbD0UJ_ECn9e58MoRkECSH39EApzpJljkNt7DePvxG9pZzHX8py6oXPxL89swq5AsLMZfBOYJ4Zrg=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiELSgO96SG1YT2IfRgQoGcZAqGQgEKhAIACoHCAowwJn-CjCamooDMK2c-QU?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  El mapa hacia el futuro de la economía china. EL PAÍS Hace 3 horas.
 
-[<center><img src='https://lh3.googleusercontent.com/iCaRrOMKtPcFTB8Yqjf6Ujs6hWkmAT_1bnnE5GX8twe-3b2HrgOS6jgg94mkYdwSn5fnBBX9SvdWFpKG5w=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEE_k6ikrE01-FBp1RoBKivcqGQgEKhAIACoHCAowwfehCTDkrpcCMJKcvwM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Comienza juicio del segundo canadiense detenido en China. DW (Español) Hace 12 horas.
+[<center><img src='https://lh3.googleusercontent.com/IRzxnADtOrTjFzF-8CqaU7sFjVvUId522ItbYqOdr5tLl5B5Cze83l3JZGC6q33QLKfVSYqxGf1KoalyUA=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEE_k6ikrE01-FBp1RoBKivcqGQgEKhAIACoHCAowwfehCTDkrpcCMJKcvwM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Comienza juicio del segundo canadiense detenido en China. DW (Español) Hace 14 horas.
 
 [<center><img src='https://lh5.googleusercontent.com/proxy/r0_MGig0E6y9u1g38qTE7FTGUgzQHF3UZOJJEDe8u7FZk2jpmYXqXMV2iT9W9a7uQy61XO5g1uTOU030hFZGVmN-25v22JqVbS2qodIZc98ry_R1u0RW_Tw3nwFRXKNt7vpMYhKw-gNXtplIM0-8Ftc=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMiQGh0dHBzOi8vd2VicGlja2luZy5jb20vd29ybGQtbG9naXN0aWNzLXBhc3Nwb3J0LWxsZWdhLWEtdXJ1Z3VheS_SAQA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  World Logistics Passport llega a Uruguay. Webpicking.com Hace 9 horas.
+  World Logistics Passport llega a Uruguay. Webpicking.com Hace 11 horas.
 
-[<center><img src='https://lh4.googleusercontent.com/proxy/Zw1m0TMGx0ZzJ9t5AJ04694RN3l3PF-AdUzJW1NBddiFhhmQ-jmE6T0rVbi8B-wZxdqL3bVJgNWNVpt85zAWZKBx-rayNMKNO6sqGKL2Ex-WvrrgF6dfsTA=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMib2h0dHBzOi8vY2hlcXVlYWRvLmNvbS9lbC1leHBsaWNhZG9yL3Nvbi1mYWxzYXMtZXN0YXMtYWZpcm1hY2lvbmVzLWRlLXVuLW51ZXZvLXZpZGVvLWRlLW1lZGljb3MtcG9yLWxhLXZlcmRhZC1pL9IBc2h0dHBzOi8vY2hlcXVlYWRvLmNvbS9lbC1leHBsaWNhZG9yL3Nvbi1mYWxzYXMtZXN0YXMtYWZpcm1hY2lvbmVzLWRlLXVuLW51ZXZvLXZpZGVvLWRlLW1lZGljb3MtcG9yLWxhLXZlcmRhZC1pL2FtcC8?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  Son falsas estas afirmaciones de un nuevo video de “Médicos por la Verdad” (I). Chequeado Hace 19 horas.
+[<center><img src='https://lh4.googleusercontent.com/proxy/Zw1m0TMGx0ZzJ9t5AJ04694RN3l3PF-AdUzJW1NBddiFhhmQ-jmE6T0rVbi8B-wZxdqL3bVJgNWNVpt85zAWZKBx-rayNMKNO6sqGKL2Ex-WvrrgF6dfsTA=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMicGh0dHBzOi8vY2hlcXVlYWRvLmNvbS9lbC1leHBsaWNhZG9yL3Nvbi1mYWxzYXMtZXN0YXMtYWZpcm1hY2lvbmVzLWRlLXVuLW51ZXZvLXZpZGVvLWRlLW1lZGljb3MtcG9yLWxhLXZlcmRhZC1paS_SAXRodHRwczovL2NoZXF1ZWFkby5jb20vZWwtZXhwbGljYWRvci9zb24tZmFsc2FzLWVzdGFzLWFmaXJtYWNpb25lcy1kZS11bi1udWV2by12aWRlby1kZS1tZWRpY29zLXBvci1sYS12ZXJkYWQtaWkvYW1wLw?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Son falsas estas afirmaciones de un nuevo video de “Médicos por la Verdad” (II). Chequeado Hace 57 minutos.
 
 [<center><img src='https://lh3.googleusercontent.com/proxy/aJazi2MHh8w6SzmgKo8jCw3KEDAgP3rTN1eyz-DYbuE_M6Q3UXW5fnX6kSZDPyt6vGVdTQoD9A_n7Rjda498i_0Lq-HCPoVYAZfmn0mURaB0gCeRwE18sXBfbe3jjdFgk_3ol_jDIXj8Uh9MCPc1YvSR-c-F3APFj8S1CCw5hryGeESNb6GcYggSneWhHdh8Cvc9s_-mDKuK=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CBMieWh0dHBzOi8vd3d3LmVsZXNwYW5vbC5jb20vYmxvZ19kZWxfc3VzY3JpcHRvci9vcGluaW9uLzIwMjEwMzE2L2FwcmVuZGl6YWplLXByb2Z1bmRvLWNvbXB1dGFjaW9uLWN1YW50aWNhLzU2NjUxMzM0NF83Lmh0bWzSAX1odHRwczovL3d3dy5lbGVzcGFub2wuY29tL2Jsb2dfZGVsX3N1c2NyaXB0b3Ivb3Bpbmlvbi8yMDIxMDMxNi9hcHJlbmRpemFqZS1wcm9mdW5kby1jb21wdXRhY2lvbi1jdWFudGljYS81NjY1MTMzNDRfNy5hbXAuaHRtbA?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
   Aprendizaje profundo y computación cuántica. El Español Hace 6 días.
 
-[<center><img src='https://lh3.googleusercontent.com/4hLElFlKwB61KeVIm8wyWrl6nMyk4DtspFabKQSwmRcB6rr4mCnb9jyOuURJC31tWIGWtvU2hHGWIk4B_00=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEKCxJI2LJdX4VdajPcB5_XsqGQgEKhAIACoHCAowm6KiCzDerLoDMOuX_wY?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
-  La ciudad con más miedo de México. EL PAÍS México Hace 11 horas.
+[<center><img src='https://lh3.googleusercontent.com/FoRz2hb_GNtuS3R-rJgoHJ3bY3rcw0s4GRRie4FlqwphaXB0ZU9KIJm0wSCluR_6BnchHUMPkah_SwPAoQ=-p-df-h800-w800' width=650></center>](https://news.google.com/articles/CAIiEDOX67GfYRvkS2KdRNzPvTQqGQgEKhAIACoHCAow0bzvCjDc5LYCMMq8gwM?hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419)
+  Tiendanube recibe 89 millones de dólares para expandir su negocio en México. El Economista Hace 2 horas.
 
  &nbsp;
 
